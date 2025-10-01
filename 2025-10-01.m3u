@@ -1649,6 +1649,8 @@ http://de.seetv.cc/play/8798/972FD16FEA741EF/video.m3u8
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282422
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="2plus2"  tvg-logo="https://af-play.com/storage/images/pack_logos/6dfaf513312a5f964f7051cff10e1b0a.png"   tvg-rec="1" catchup_days="7",2+2 HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/2-plus-2-ua-hd/video.m3u8
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.imgur.com/v6KBgqk.png" ,2+2 Марафон
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282434
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="inter-ua"  tvg-logo="https://af-play.com/storage/images/pack_logos/8ecde299d0c2862e37ea7fd7e7688ad1.png"   tvg-rec="1" catchup_days="7",Интер HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/inter-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="inter-plus-ua" ,Iнтер+ HD
@@ -1693,9 +1695,13 @@ https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
 http://31.43.48.248:7000/ch7/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="mega-ua"  tvg-logo="http://stb.y666tv.cc/images/logo_chanel/Мега HD UA.png"   CUID="96" number="221" tvg-name="epg1:Мега HD" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7",Мега HD [UA]
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282477
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="mega-ua"  tvg-logo="https://i.imgur.com/Hsr0EvO.png" ,Мега HD [UA]
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282477
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="1auto"  tvg-logo="https://i.imgur.com/ul93Lse.png" ,Перший Автомобільний
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282430
-#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="unian-tv"  tvg-logo="https://af-play.com/storage/images/channel_logos/23b40117bec53e44bfc906c24a2f688b.png"   tvg-rec="1" catchup_days="7",УНИАН HD
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="zoom-ua	"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Zoom_%282025_HD_Logo%29.png" ,Zoom HD
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282536
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="unian-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.jpg"   tvg-rec="1" catchup_days="7",УНИАН Серіал HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/unian-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="bigudi"  tvg-logo="https://af-play.com/storage/images/channel_logos/7e476a7376e0805fd2a0ce348c5aa255.png"   tvg-rec="1" catchup_days="7",Бигуди HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/bigudi-ua-hd/video.m3u8
@@ -1723,6 +1729,12 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/espresso-ua-hd/video.m3u8
 https://m3u8.ott.blue/watch/7572/index.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="oboz-tv"  tvg-logo="https://af-play.com/storage/images/pack_logos/e47158bfc78b284925b60717ee687714.png"   tvg-rec="1" catchup_days="7",OBOZ TV HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/oboz-ua-hd/video.m3u8
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ostwest24"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqOMV3VWRorLhIGk_4Egk7HBMKEu6AmjOTA&s" ,Ost-West 24
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282489
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ostwest"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/OstWest_Logo_%282022%29.svg" ,Ost-West
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282490
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQARE0vOYw1hps1hv3SUtR8aCOjgR1s_lrrg&s" ,Гордон Live
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282464
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="svarozhichi"  tvg-logo="https://i.imgur.com/VnAgQA4.png" ,Сварожичи HD
 http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="priamyj"  tvg-logo="https://af-play.com/storage/images/pack_logos/3721bc2f5356b1023f5fc7a10aba9dbf.png"   tvg-rec="1" catchup_days="7",Прямий HD
@@ -1829,6 +1841,8 @@ https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" ,Орбiта (Покровськ) [UA]
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.imgur.com/NHjg1Jm.png" ,Місто + (Полтава)
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282474
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="PTV.ua"  tvg-logo="https://i.imgur.com/WDHoSVz.png" ,Полтавське ТВ
 https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="nadia"  tvg-logo="https://i.imgur.com/mUx2P29.png" ,ТРК Надія - Новий Канал (Первомайский)
@@ -1857,6 +1871,8 @@ http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5qAunGSotSBEBwggB_h5G7yQ51MDOedV_Q&s" ,Перший XTV MEDIA (Ужгород)
 http://91.226.35.134:8081/PK
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="TUSO.ua"  tvg-logo="https://i.imgur.com/kb4B9wN.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",Тюсо
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="travel-xp-hd" ,TRAVELXP HD
 http://cdnua05.hls.tv/944/hls/8743361621b245838bee193c9ec28322/4806/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="one-planet" ,ONE PLANET HD
@@ -1895,8 +1911,6 @@ http://185.236.229.62:9981/play/a08l
 http://185.236.229.62:9981/play/a08i
 #EXTINF:-1  group-title="Україна 🇺🇦" ,Nataly
 http://185.236.229.62:9981/play/a08j
-#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="TUSO.ua"  tvg-logo="https://i.imgur.com/kb4B9wN.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",Тюсо (720p)
-https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="pervy-info-by"  tvg-logo="https://iptvx.one/picons/pervy-info-by.png" ,Первый информационный HD
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D
 #EXTINF:-1  group-title="Беларусь 🇧🇾" ,Первый информационный (1080p)
@@ -1993,7 +2007,7 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/m2-ua-hd/video.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="megogo-live" ,Megogo Live HD [UA]
 https://tva.in.ua/live/megogo_life.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzwar" ,МУЗВАР [UA]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzwar"  tvg-logo="https://i.imgur.com/Klu5k9U.png" ,МУЗВАР [UA]
 http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4804/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶" ,Happy Radio TV [UA]
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
