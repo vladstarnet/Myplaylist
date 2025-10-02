@@ -1247,12 +1247,18 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/rossija-hd/video.m3u8
 http://stream.skaz.tv/stream/ch002/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Россия 1 HD orig"  tvg-logo="http://skaz.tv/tvicon/853.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Россия 1 HD orig
 http://stream.skaz.tv/stream/ch853/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://i.imgur.com/DTtK0z7.png" ,Россия РТР
-https://streaming.skynetconnect.online/live/211.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="РТР Планета"  tvg-logo="https://i.imgur.com/DTtK0z7.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Россия РТР
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-ua"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" ,РТР Планета СНГ
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-azia"  tvg-logo="https://i.imgur.com/DTtK0z7.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",РТР Планета Азия
 http://stream.skaz.tv/stream/ch337/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-eu"  tvg-logo="http://skaz.tv/tvicon/337.png" ,РТР-Планета Европа
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-azia"  tvg-logo="https://i.imgur.com/DTtK0z7.png" ,РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-eu"  tvg-logo="http://skaz.tv/tvicon/337.png" ,RTR PLANETA Europe
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-eu"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,RTR PLANETA Europe
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-amerika"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,RTR PLANETA USA
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id=" Pоссия 24"  tvg-logo="http://skaz.tv/tvicon/7.png" , Pоссия 24 HD
 http://stream.skaz.tv/stream/ch007/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia-24" ,Россия 24 HD
@@ -1593,8 +1599,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy-yaroslavsky" ,Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ostwest24" ,OstWest 24
-http://95.67.12.82:9077
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="pervy-krymsky" ,Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="krym24" ,Крым 24 HD
@@ -1823,10 +1827,10 @@ http://cdnua05.hls.tv/635/hls/f62d71219200da4130d13b21d23fb23c/4901/stream.m3u8
 http://193.27.209.122/timemachine/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="one-planet"  tvg-logo="https://i.imgur.com/N7FBNjV.png" ,ONE PLANET HD
 http://cdnua05.hls.tv/916/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
-#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="eko-tv"  tvg-logo="https://i.imgur.com/WovATGb.png" ,ECO TV HD
-https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="eko-tv"  tvg-logo="https://i.imgur.com/WovATGb.png" ,ECO TV
 http://185.236.229.62:9981/play/a08h
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="eko-tv"  tvg-logo="https://i.imgur.com/WovATGb.png" ,ECO TV HD
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="karavan-tv"  tvg-logo="https://i.imgur.com/nxEDdB0.png" ,Karavan TV
 http://185.236.229.62:9981/play/a08l
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="milady-television"  tvg-logo="https://i.imgur.com/k6FE1Sn.png" ,Milady
@@ -1923,8 +1927,6 @@ http://cdnua05.hls.tv/6135/hls/f62d71219200da4130d13b21d23fb23c/4890/stream.m3u8
 http://cdnua05.hls.tv/0538/hls/8743361621b245838bee193c9ec28322/4886/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://static.sweet.tv/images/cache/channel_icons/BDJBIIBC/2642-zateryannyy-mir-hd.png" ,Загублений Світ+
 http://cdnua05.hls.tv/620/hls/f62d71219200da4130d13b21d23fb23c/4894/stream.m3u8
-#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="travel-xp-hd" ,TRAVELXP HD
-http://cdnua05.hls.tv/944/hls/8743361621b245838bee193c9ec28322/4806/stream.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="pervy-info-by"  tvg-logo="https://i.imgur.com/eIiXRAI.png" ,Первый информационный FHD
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="pervy-info-by"  tvg-logo="https://iptvx.one/picons/pervy-info-by.png" ,Первый информационный FHD
@@ -1937,7 +1939,7 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/belarus1-by-hd/video.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/belarus2-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus3"  tvg-logo="https://af-play.com/storage/images/pack_logos/5d0303afbac3b0fd8d603e240567a53f.png"   tvg-rec="1" catchup_days="7",Беларусь 3 HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/belarus3-by-hd/video.m3u8
-#EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus4-vitebsk"  tvg-logo="https://i.ibb.co/Scqmd6G/resize-2024-10-13-T121509-955.png"   tvg-name="Беларусь 4",Беларусь 4 Витебск
+#EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus4-vitebsk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmUBJAvvqR1oYSgrD5XlHely6BTeqAMA4lw&s"   tvg-name="Беларусь 4",Беларусь 4 Витебск
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/23572/hls/pl.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus4-mogilev"  tvg-logo="https://i.ibb.co/Scqmd6G/resize-2024-10-13-T121509-955.png"   tvg-name="Беларусь 4",Беларусь 4 Могилев
 http://82.209.197.187:8080/udp/239.0.100.125:1234
