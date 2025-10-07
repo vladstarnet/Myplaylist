@@ -7,9 +7,9 @@ http://stream.skaz.tv/stream/ch070/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch464/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="312-kino"  tvg-logo="https://cdn-1.aki.kg/cdn-st-0/qdQ/A/2053732.9fd61a65625617876e30b6bf1d1d0d11.jpg" ,312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="4ever Drama HD"  tvg-logo="http://skaz.tv/tvicon/384.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4ever Drama HD
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="4ever-drama"  tvg-logo="http://skaz.tv/tvicon/384.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4ever Drama HD
 http://stream.skaz.tv/stream/ch384/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="4ever Theater HD"  tvg-logo="http://skaz.tv/tvicon/385.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4ever Theater HD
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="4ever-theater"  tvg-logo="http://skaz.tv/tvicon/385.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4ever Theater HD
 http://stream.skaz.tv/stream/ch385/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="enter-film"  tvg-logo="https://af-play.com/storage/images/channel_logos/59f90b6fd2719ef638fee21fa7840831.png"   tvg-rec="1" catchup_days="7",Enter-фильм HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/enter-film-ua-hd/video.m3u8
@@ -4639,20 +4639,22 @@ https://str.yodacdn.net/aztv/index.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/aztv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="baku-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/e0f2c5e2fc81f2dd0280b9243a3574eb.png"   tvg-rec="1" catchup_days="7",Baku HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/baku-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="BakuTV.az"  tvg-logo="https://i.imgur.com/r4FzxSg.png" ,Baku TV (720p)
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-az.png"   tvg-rec="1" catchup_days="7",CBC HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/cbc-hd-az/video.m3u8
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-sport-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-sport-az.png" ,CBC Sport HD
+http://bethoven.af-stream.com:1600/s/yokrgdit/cbc-sport-hd-az/video.m3u8
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="dunya-tv-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/dunya-tv-az.png" ,Dunya TV
+http://bethoven.af-stream.com:1600/s/yokrgdit/dunya-tv-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ELTV.az"  tvg-logo="https://i.imgur.com/tTlokZ2.png" ,EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ictimai-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/ictimai-tv-az.png"   tvg-rec="1" catchup_days="7",Ictimai TV HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/ictimai-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="idman-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/1b2eaf4b86b5a30cb74316f1a55c9954.png"   tvg-rec="1" catchup_days="7",Idman Azerbaycan HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/idman-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="muz-tv-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/06be073ccc2ad012557f71eb0c3c73c6.png"   tvg-rec="0",MTV Azerbaycan
-http://bethoven.af-stream.com:1600/s/yokrgdit/muz-tv-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="medeniyyet-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/88af544c45d59341690bd227d7615df8.png"   tvg-rec="1" catchup_days="7",Medeniyyet TV HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/medeniyyet-az-hd/video.m3u8
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="muz-tv-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/06be073ccc2ad012557f71eb0c3c73c6.png"   tvg-rec="0",MTV Azerbaycan
+http://bethoven.af-stream.com:1600/s/yokrgdit/muz-tv-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="real-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/real-az.png"   tvg-rec="1" catchup_days="7",Real TV HD AZ
 http://bethoven.af-stream.com:1600/s/yokrgdit/real-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="space-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/space-tv-az.png"   tvg-rec="1" catchup_days="7",Space TV HD
