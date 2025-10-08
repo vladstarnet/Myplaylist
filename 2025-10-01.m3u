@@ -43,8 +43,6 @@ http://stream.skaz.tv/stream/ch681/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch501/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="FilmBox ArtHouse"  tvg-logo="http://skaz.tv/tvicon/684.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",FilmBox ArtHouse
 http://stream.skaz.tv/stream/ch684/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️" , FilmUADrama HD [UA]
-http://cdn.admuspeh.my/8314/video.m3u8?token=GRCvQ2PaQqGrU5bb
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="FlixSnip HD"  tvg-logo="http://skaz.tv/tvicon/709.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",FlixSnip HD
 http://stream.skaz.tv/stream/ch709/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Fox HD"  tvg-logo="http://skaz.tv/tvicon/103.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fox HD
@@ -61,12 +59,12 @@ http://stream01.vnet.am/ParamountChannel/mono.m3u8
 http://stream.skaz.tv/stream/ch382/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Kinoliving"  tvg-logo="http://skaz.tv/tvicon/2069.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Kinoliving
 http://stream.skaz.tv/stream/ch2069/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-action-ua-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/9c0dbd640b1957be52c2f35ffc47c1f8.png"   tvg-rec="7" catchup-days="7",Kino Action HD [UA]
+http://bethoven.af-stream.com:1600/s/yokrgdit/kino-action-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-comedy-ua"  tvg-logo="https://af-play.com/storage/images/channel_logos/ba0facb1f6d314d8ec31ccfcb24b2c8a.png"   tvg-rec="7" catchup-days="7",Kino Comedy HD [UA]
 http://bethoven.af-stream.com:1600/s/yokrgdit/kino-comedy-ua/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-premiere-ua-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/79e28805cf8f20aa307ecc17fefcbe05.png"   tvg-rec="7" catchup-days="7",Kino Premiere HD [UA]
 http://bethoven.af-stream.com:1600/s/yokrgdit/kino-premiere-ua-hd/video.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-action-ua-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/9c0dbd640b1957be52c2f35ffc47c1f8.png"   tvg-rec="7" catchup-days="7",Kino Action HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/kino-action-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinosweet"  tvg-logo="https://static.sweet.tv/images/icons/channels/1766.png" ,KINOSWEET HD [UA]
 http://193.27.209.122/kinosweet/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinowood"  tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6f83e2b1-d8c3-4a94-880a-2337894050e8.png" ,Kinowood [UA]
@@ -99,10 +97,10 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/super-plus-ua-hd/video.m3u8
 http://193.27.209.122/super_plus/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="suspense"  tvg-logo="http://s.skaz.tv/tvicon/3310.png" ,Suspense HD
 http://stream.skaz.tv/stream/ch3310/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Trash HD"  tvg-logo="http://skaz.tv/tvicon/730.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Trash HD
-http://stream.skaz.tv/stream/ch730/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvxxi"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLkrByTRchUypvv8rF6lJafkjUKkD1WLAnt14azXYmlcAQfrC7U7m9ZYTLTpIHADoYFE&usqp=CAU" ,TV XXI Век
 http://stream.skaz.tv/stream/ch469/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Trash HD"  tvg-logo="http://skaz.tv/tvicon/730.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Trash HD
+http://stream.skaz.tv/stream/ch730/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="VHS-ка HD"  tvg-logo="http://skaz.tv/tvicon/383.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VHS-ка HD
 http://stream.skaz.tv/stream/ch383/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Viasat Kino HD"  tvg-logo="http://s.skaz.tv/tvicon/3081.png"   catchup="fs" tvg-rec="3" timeshift="6", Viasat Kino HD
@@ -121,10 +119,10 @@ http://stream.skaz.tv/stream/ch651/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch017/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tv1000-action"  tvg-logo="http://skaz.tv/tvicon/18.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Viju TV 1000 Action HD
 http://stream.skaz.tv/stream/ch018/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Viju TV1000 Romantica HD"  tvg-logo="http://s.skaz.tv/tvicon/3074.png"   catchup="fs" tvg-rec="3" timeshift="5", Viju TV1000 Romantica HD
-http://stream.skaz.tv/stream/ch3074/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Viju TV1000 Новелла HD"  tvg-logo="http://s.skaz.tv/tvicon/3075.png"   catchup="fs" tvg-rec="3" timeshift="6", Viju TV1000 Новелла HD
 http://stream.skaz.tv/stream/ch3075/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Viju TV1000 Romantica HD"  tvg-logo="http://s.skaz.tv/tvicon/3074.png"   catchup="fs" tvg-rec="3" timeshift="5", Viju TV1000 Romantica HD
+http://stream.skaz.tv/stream/ch3074/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tv1000-russkoe-kino"  tvg-logo="http://skaz.tv/tvicon/13.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Viju TV 1000 Русское HD
 http://stream.skaz.tv/stream/ch013/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Viju+ Comedy HD"  tvg-logo="http://skaz.tv/tvicon/58.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Viju+ Comedy HD
@@ -149,8 +147,6 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://stream.skaz.tv/stream/ch078/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Дом Кино Премиум HD"  tvg-logo="http://skaz.tv/tvicon/80.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Дом Кино Премиум HD
 http://stream.skaz.tv/stream/ch080/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="DomkinoPremium.ru"  tvg-logo="https://i.imgur.com/rJpQtvK.png" ,Дом Кино Премиум HD
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Домашний"  tvg-logo="http://skaz.tv/tvicon/110.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Домашний
 http://stream.skaz.tv/stream/ch110/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Дорама HD"  tvg-logo="http://skaz.tv/tvicon/535.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Дорама HD
@@ -167,7 +163,7 @@ http://stream.skaz.tv/stream/ch114/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch560/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Камеди HD"  tvg-logo="http://skaz.tv/tvicon/692.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Камеди HD
 http://stream.skaz.tv/stream/ch692/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Кино24"  tvg-logo="http://s.skaz.tv/tvicon/3311.png" ,Кино24
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-24"  tvg-logo="http://s.skaz.tv/tvicon/3311.png" ,Кино24
 http://stream.skaz.tv/stream/ch3311/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Киноджем 1 HD"  tvg-logo="http://s.skaz.tv/tvicon/542.png"   catchup="fs" tvg-rec="3" timeshift="3", Киноджем 1 HD
 http://stream.skaz.tv/stream/ch542/fde215a0/mono.m3u8
@@ -179,7 +175,7 @@ http://stream.skaz.tv/stream/ch2079/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch077/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="КиноКульт HD"  tvg-logo="http://s.skaz.tv/tvicon/3355.png" ,КиноКульт HD
 http://stream.skaz.tv/stream/ch3355/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Киноман"  tvg-logo="https://contact-agency.ru/wp-content/uploads/2018/07/%D0%BA%D0%B8%D0%BD%D0%BE%D0%BC%D0%B0%D0%BD_%D1%82%D0%B5%D1%81%D1%82.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Киноман
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinosat"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuKy4EiYo_mBCejcPO4I9uQumyDZPLGXjEUFjCUYzXzKXggE-WU6GSjFjOdJzYej7D3Q&usqp=CAU"   tvg-rec="1" catchup-type="auto" catchup_days="3",КиноСат
 http://stream.skaz.tv/stream/ch619/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Кинопоказ"  tvg-logo="http://skaz.tv/tvicon/466.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Кинопоказ
 http://stream.skaz.tv/stream/ch466/fde215a0/mono.m3u8
@@ -225,20 +221,24 @@ http://cdnua05.hls.tv/8211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
 http://stream.skaz.tv/stream/ch636/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="mosfilm"  tvg-logo="http://skaz.tv/tvicon/336.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Мосфильм HD Золотая коллекция
 http://stream.skaz.tv/stream/ch336/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="НСТ"  tvg-logo="http://skaz.tv/tvicon/117.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",НСТ
-http://stream.skaz.tv/stream/ch117/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ntv-serial"  tvg-logo="http://skaz.tv/tvicon/620.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",НTВ Cериал
-http://stream.skaz.tv/stream/ch620/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ntv-xit"  tvg-logo="http://skaz.tv/tvicon/568.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",НTВ Xит
-http://stream.skaz.tv/stream/ch568/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Наш Кинопоказ HD"  tvg-logo="http://skaz.tv/tvicon/714.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Наш Кинопоказ HD
 http://stream.skaz.tv/stream/ch714/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Наше HD"  tvg-logo="http://skaz.tv/tvicon/131.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Наше HD
 http://stream.skaz.tv/stream/ch131/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Наше любимое HD"  tvg-logo="http://skaz.tv/tvicon/139.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Наше Любимое HD
+http://stream.skaz.tv/stream/ch139/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Наше Мужское HD"  tvg-logo="http://skaz.tv/tvicon/589.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Наше Мужское HD
 http://stream.skaz.tv/stream/ch589/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Наше любимое HD"  tvg-logo="http://skaz.tv/tvicon/139.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Наше любимое HD
-http://stream.skaz.tv/stream/ch139/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="НСТ"  tvg-logo="http://skaz.tv/tvicon/117.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",НСТ
+http://stream.skaz.tv/stream/ch117/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ntv-serial"   tvg-rec="1" catchup-type="auto" catchup_days="3",НTВ Cериал HD
+http://stream.skaz.tv/stream/ch620/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ntv-serial" ,НТВ Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ntv-xit"   tvg-rec="1" catchup-type="auto" catchup_days="3",НTВ Xит HD
+http://stream.skaz.tv/stream/ch568/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ntv-xit" ,НТВ Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Остросюжетное HD"  tvg-logo="http://skaz.tv/tvicon/72.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Остросюжетное HD
 http://stream.skaz.tv/stream/ch072/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Патриот HD"  tvg-logo="http://s.skaz.tv/tvicon/2615.png"   catchup="fs" tvg-rec="3" timeshift="6", Патриот HD
@@ -251,15 +251,15 @@ http://stream.skaz.tv/stream/ch690/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch508/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Романтичное HD"  tvg-logo="http://skaz.tv/tvicon/98.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Романтичное HD
 http://stream.skaz.tv/stream/ch098/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский бестселлер"  tvg-logo="http://skaz.tv/tvicon/115.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский Бестселлер
+http://stream.skaz.tv/stream/ch115/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский Детектив"  tvg-logo="http://skaz.tv/tvicon/462.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский Детектив
 http://stream.skaz.tv/stream/ch462/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский Иллюзион"  tvg-logo="http://skaz.tv/tvicon/101.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский Иллюзион
 http://stream.skaz.tv/stream/ch101/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русская комедия"  tvg-logo="http://s.skaz.tv/tvicon/105.png" ,Русская комедия
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русская комедия"  tvg-logo="http://s.skaz.tv/tvicon/105.png" ,Русская  Комедия
 http://stream.skaz.tv/stream/ch105/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский бестселлер"  tvg-logo="http://skaz.tv/tvicon/115.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский бестселлер
-http://stream.skaz.tv/stream/ch115/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский роман"  tvg-logo="http://skaz.tv/tvicon/132.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский роман
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский роман"  tvg-logo="http://skaz.tv/tvicon/132.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский Роман
 http://stream.skaz.tv/stream/ch132/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Сапфир HD"  tvg-logo="http://skaz.tv/tvicon/2077.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Сапфир HD
 http://stream.skaz.tv/stream/ch2077/fde215a0/mono.m3u8
@@ -277,12 +277,12 @@ http://stream.skaz.tv/stream/ch468/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch543/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ТВ3"  tvg-logo="http://skaz.tv/tvicon/24.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",ТВ3
 http://stream.skaz.tv/stream/ch024/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-action"  tvg-logo="https://af-play.com/storage/images/channel_logos/a63fe2c6c2ddc0d01c6764a991697023.png"   tvg-rec="7" catchup-days="7",Твоє кіно. Action HD [UA]
+http://bethoven.af-stream.com:1600/s/yokrgdit/tvoe-kino-action-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-action" ,Твоє кіно. Action HD [UA]
 http://193.27.209.122/tvoje_kino_action/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvij-serial"  tvg-logo="https://af-play.com/storage/images/channel_logos/32617d5d78aa3b2c2c90850f1dbc8249.png"   tvg-rec="7" catchup-days="7",Твій Серіал HD [UA]
 http://bethoven.af-stream.com:1600/s/yokrgdit/tviy-serial-ua-hd/video.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-action"  tvg-logo="https://af-play.com/storage/images/channel_logos/a63fe2c6c2ddc0d01c6764a991697023.png"   tvg-rec="7" catchup-days="7",Твоє кіно. Action HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/tvoe-kino-action-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-xit"  tvg-logo="https://af-play.com/storage/images/channel_logos/5b3b1a4069909ffb3b07679513da29d5.png"   tvg-rec="7" catchup-days="7",Твоє кіно. Хіт HD [UA]
 http://bethoven.af-stream.com:1600/s/yokrgdit/tvoe-kino-hit-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-xit" ,Твоє кіно. Хіт HD [UA]
@@ -1317,12 +1317,8 @@ http://stream.skaz.tv/stream/ch003/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch392/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ntv-pravo"  tvg-logo="https://tvprogviewer.ru/images/thumbs/0000165_ntv-pravo_220.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",НTВ Правo
 http://stream.skaz.tv/stream/ch612/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ntv-serial" ,НТВ Сериал
-http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ntv-style"  tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1705582044.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",HТB Cтиль
 http://stream.skaz.tv/stream/ch120/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ntv-xit" ,НТВ Хит
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="doverie"  tvg-logo="http://skaz.tv/tvicon/534.png"   catchup="fs" tvg-rec="3" timeshift="0",Доверие
 http://stream.skaz.tv/stream/ch534/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="domashnij-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/7bc33d68f1a03e4c22e08dd077a58fd7.png"   tvg-rec="1" catchup_days="7",Домашний HD
