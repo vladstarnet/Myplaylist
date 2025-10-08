@@ -1289,9 +1289,9 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/tvc-hd/video.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/tnt-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ТНТ HD"  tvg-logo="http://skaz.tv/tvicon/5.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",ТНТ HD
 http://stream.skaz.tv/stream/ch005/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt-int-eu"  tvg-logo="https://i.ibb.co/sFGNF8f/resize.png" ,ТНТ International (Европа)
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt-int-eu"  tvg-logo="https://i.imgur.com/l0RGbRI.png" ,ТНТ International (Европа)
 http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/15230/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://i.ibb.co/bRsR1tg/resize-5.png" ,ТНТ Baltic
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt-int-cis"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRc9ioiwBZLfmNxAyc4DQ1jTkGrgLcY--qJ_LvYNVAVwzuGmV5bxxAsaX4kmVdlxtwt8&usqp=CAU" ,ТНТ Baltic
 https://wowza1.leisertv.com/live/tnt.stream/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt4-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/5905abb2cda45f739c79ce1bc94092ee.png"   tvg-rec="1" catchup_days="7",ТНТ4 HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/tnt4-hd/video.m3u8
