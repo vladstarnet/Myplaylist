@@ -375,17 +375,17 @@ http://stream.skaz.tv/stream/ch2297/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2299/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Remast+ 4K"  tvg-logo="http://skaz.tv/tvicon/2707.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Remast+ 4K
 http://stream.skaz.tv/stream/ch2707/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Russian 4K"  tvg-logo="http://skaz.tv/tvicon/1949.png" , BOX Russian 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Russian 4K"  tvg-logo="http://skaz.tv/tvicon/1949.png" ,BOX Russian 4K
 http://stream.skaz.tv/stream/ch1949/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Serial 4K"  tvg-logo="http://skaz.tv/tvicon/2300.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Serial 4K
 http://stream.skaz.tv/stream/ch2300/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id=" BOX UltraStars 4K"  tvg-logo="http://skaz.tv/tvicon/2931.png" , BOX UltraStars 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX UltraStars 4K"  tvg-logo="http://skaz.tv/tvicon/2931.png" ,BOX UltraStars 4K
 http://stream.skaz.tv/stream/ch2931/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX СССР 4K"  tvg-logo="http://skaz.tv/tvicon/2926.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX СССР 4K
 http://stream.skaz.tv/stream/ch2926/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Cinema UHD"  tvg-logo="http://skaz.tv/tvicon/558.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Cinema UHD
 http://stream.skaz.tv/stream/ch558/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Cineman OLD 4K"  tvg-logo="http://skaz.tv/tvicon/2310.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Cineman OLD 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Cineman OLD 4K"  tvg-logo="http://skaz.tv/tvicon/2310.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan OLD 4K
 http://stream.skaz.tv/stream/ch2310/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="CineMan CCCP 4K"  tvg-logo="http://skaz.tv/tvicon/2922.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan CCCP 4K
 http://stream.skaz.tv/stream/ch2922/fde215a0/mono.m3u8
@@ -397,7 +397,7 @@ http://stream.skaz.tv/stream/ch545/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1427/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k Galaxy Films"  tvg-logo="http://skaz.tv/tvicon/1272.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k Galaxy Films
 http://stream.skaz.tv/stream/ch1272/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Gamefilm"  tvg-logo="http://skaz.tv/tvicon/2893.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Game Film
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="clarity4k-gamefilm"  tvg-logo="http://skaz.tv/tvicon/2893.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Game Film
 http://stream.skaz.tv/stream/ch2893/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K HBO Series"  tvg-logo="http://skaz.tv/tvicon/2507.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K HBO Series
 http://stream.skaz.tv/stream/ch2507/fde215a0/mono.m3u8
@@ -411,7 +411,7 @@ http://stream.skaz.tv/stream/ch2883/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2493/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Боевик VHS"  tvg-logo="http://skaz.tv/tvicon/451.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Боевик VHS
 http://stream.skaz.tv/stream/ch451/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k Боевик"  tvg-logo="http://skaz.tv/tvicon/1179.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k Боевик
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k Боевик"  tvg-logo="http://skaz.tv/tvicon/1179.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Боевик
 http://stream.skaz.tv/stream/ch1179/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k Драмы"  tvg-logo="http://skaz.tv/tvicon/2886.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k Драмы
 http://stream.skaz.tv/stream/ch2886/fde215a0/mono.m3u8
@@ -421,7 +421,7 @@ http://stream.skaz.tv/stream/ch2601/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2506/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K КиноНовинки"  tvg-logo="http://skaz.tv/tvicon/2509.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K КиноНовинки
 http://stream.skaz.tv/stream/ch2509/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id=" Clarity4k КиноФраншизы"  tvg-logo="http://skaz.tv/tvicon/2890.png" , Clarity4k КиноФраншизы
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k КиноФраншизы"  tvg-logo="http://skaz.tv/tvicon/2890.png" ,Clarity4k КиноФраншизы
 http://stream.skaz.tv/stream/ch2890/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Киношарм"  tvg-logo="http://skaz.tv/tvicon/2602.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Киношарм
 http://stream.skaz.tv/stream/ch2602/fde215a0/mono.m3u8
@@ -441,9 +441,9 @@ http://stream.skaz.tv/stream/ch2891/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2885/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Приключения"  tvg-logo="http://skaz.tv/tvicon/1437.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Приключения
 http://stream.skaz.tv/stream/ch1437/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Ретро-Сказка 1"  tvg-logo="http://s.skaz.tv/tvicon/3172.png"   catchup="fs" tvg-rec="3" timeshift="3", Clarity4K Ретро-Сказка 1
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Ретро-Сказка 1"  tvg-logo="http://s.skaz.tv/tvicon/3172.png"   catchup="fs" tvg-rec="3" timeshift="3",Clarity4K Ретро-Сказка 1
 http://stream.skaz.tv/stream/ch3172/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Ретро-Сказка 2"  tvg-logo="http://s.skaz.tv/tvicon/3173.png"   catchup="fs" tvg-rec="3" timeshift="3", Clarity4K Ретро-Сказка 2
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Ретро-Сказка 2"  tvg-logo="http://s.skaz.tv/tvicon/3173.png"   catchup="fs" tvg-rec="3" timeshift="3",Clarity4K Ретро-Сказка 2
 http://stream.skaz.tv/stream/ch3173/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k Русские сериалы"  tvg-logo="http://skaz.tv/tvicon/2505.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k Русские сериалы
 http://stream.skaz.tv/stream/ch2505/fde215a0/mono.m3u8
@@ -463,36 +463,36 @@ http://stream.skaz.tv/stream/ch1187/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1439/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Фэнтези"  tvg-logo="http://skaz.tv/tvicon/1196.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Фэнтези
 http://stream.skaz.tv/stream/ch1196/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Insight UHD"  tvg-logo="http://skaz.tv/tvicon/512.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Insight UHD
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Insight UHD"  tvg-logo="https://epg.iptvx.one/picons/insight-ultra-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Insight UHD
 http://stream.skaz.tv/stream/ch512/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Criminal 4K"  tvg-logo="http://skaz.tv/tvicon/2342.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Criminal 4K
-http://stream.skaz.tv/stream/ch2342/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id=" Liberty Dreamworks 4K"  tvg-logo="http://skaz.tv/tvicon/2788.png" , Liberty Dreamworks 4K
-http://stream.skaz.tv/stream/ch2788/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Medval 4K"  tvg-logo="http://s.skaz.tv/tvicon/3151.png"   catchup="fs" tvg-rec="3" timeshift="3", Liberty Medval 4K
-http://stream.skaz.tv/stream/ch3151/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Netflix 4K"  tvg-logo="http://skaz.tv/tvicon/1773.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Netflix 4K
-http://stream.skaz.tv/stream/ch1773/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Serialy 4K"  tvg-logo="http://skaz.tv/tvicon/2787.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Serialy 4K
-http://stream.skaz.tv/stream/ch2787/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty XX Век 4K"  tvg-logo="http://skaz.tv/tvicon/2458.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty XX Век 4K
 http://stream.skaz.tv/stream/ch2458/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Аванпост 4K"  tvg-logo="http://skaz.tv/tvicon/2590.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Аванпост 4K
 http://stream.skaz.tv/stream/ch2590/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Dreamworks 4K"  tvg-logo="http://skaz.tv/tvicon/2788.png" ,Liberty Дрим Воркс 4K
+http://stream.skaz.tv/stream/ch2788/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Индия 4K"  tvg-logo="http://skaz.tv/tvicon/1772.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Индия 4K
 http://stream.skaz.tv/stream/ch1772/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Кино Микс 4K"  tvg-logo="http://skaz.tv/tvicon/1770.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Кино Микс 4K
 http://stream.skaz.tv/stream/ch1770/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="liberty-kinoeng"  tvg-logo="http://skaz.tv/tvicon/1763.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty КиноENG 4K
 http://stream.skaz.tv/stream/ch1763/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="liberty-kriminal"  tvg-logo="http://skaz.tv/tvicon/2342.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Криминал 4K
+http://stream.skaz.tv/stream/ch2342/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Легенда 4K"  tvg-logo="http://skaz.tv/tvicon/1765.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Легенда 4K
 http://stream.skaz.tv/stream/ch1765/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="liberty-medival-4k"  tvg-logo="http://s.skaz.tv/tvicon/3151.png"   catchup="fs" tvg-rec="3" timeshift="3",Liberty Медиал 4K
+http://stream.skaz.tv/stream/ch3151/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Мюзикл 4K"  tvg-logo="http://skaz.tv/tvicon/2789.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Мюзикл 4K
 http://stream.skaz.tv/stream/ch2789/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Netflix 4K"  tvg-logo="http://skaz.tv/tvicon/1773.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Нетфликс 4K
+http://stream.skaz.tv/stream/ch1773/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Русфильм 4K"  tvg-logo="http://skaz.tv/tvicon/1769.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Русфильм 4K
 http://stream.skaz.tv/stream/ch1769/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Семейный 4K"  tvg-logo="http://skaz.tv/tvicon/1775.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Семейный 4K
 http://stream.skaz.tv/stream/ch1775/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="liberty-serialy"  tvg-logo="http://skaz.tv/tvicon/2787.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Сериалы 4K
+http://stream.skaz.tv/stream/ch2787/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Союз 4K"  tvg-logo="http://skaz.tv/tvicon/1780.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Союз 4K
 http://stream.skaz.tv/stream/ch1780/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Триллеры 4K"  tvg-logo="http://skaz.tv/tvicon/1743.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Триллеры 4K
@@ -503,7 +503,7 @@ http://stream.skaz.tv/stream/ch1776/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1742/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="MM Flip UHD"  tvg-logo="http://skaz.tv/tvicon/1262.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MM Flip UHD
 http://stream.skaz.tv/stream/ch1262/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Velilla TV Cinema 4K"  tvg-logo="http://s.skaz.tv/tvicon/3135.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Cinema 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Velilla TV Cinema 4K"  tvg-logo="http://s.skaz.tv/tvicon/3135.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Cinema 4K
 http://stream.skaz.tv/stream/ch3135/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Yosso 4K"  tvg-logo="http://skaz.tv/tvicon/1316.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso 4K
 http://stream.skaz.tv/stream/ch1316/fde215a0/mono.m3u8
