@@ -203,7 +203,7 @@ http://stream.skaz.tv/stream/ch008/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch668/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Киноужас HD"  tvg-logo="http://skaz.tv/tvicon/652.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Киноужас HD
 http://stream.skaz.tv/stream/ch652/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Кинохит HD"  tvg-logo="http://skaz.tv/tvicon/9.png" , Кинохит HD
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Кинохит HD"  tvg-logo="http://skaz.tv/tvicon/9.png" ,Кинохит HD
 http://stream.skaz.tv/stream/ch009/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Мужское кино HD"  tvg-logo="http://skaz.tv/tvicon/112.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Мужское кино HD
 http://stream.skaz.tv/stream/ch112/fde215a0/mono.m3u8
@@ -241,7 +241,7 @@ http://stream.skaz.tv/stream/ch568/fde215a0/mono.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Остросюжетное HD"  tvg-logo="http://skaz.tv/tvicon/72.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Остросюжетное HD
 http://stream.skaz.tv/stream/ch072/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Патриот HD"  tvg-logo="http://s.skaz.tv/tvicon/2615.png"   catchup="fs" tvg-rec="3" timeshift="6", Патриот HD
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Патриот HD"  tvg-logo="http://s.skaz.tv/tvicon/2615.png"   catchup="fs" tvg-rec="3" timeshift="6",Патриот HD
 http://stream.skaz.tv/stream/ch2615/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Премиальное HD"  tvg-logo="http://skaz.tv/tvicon/84.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Премиальное HD
 http://stream.skaz.tv/stream/ch084/fde215a0/mono.m3u8
@@ -381,7 +381,7 @@ http://stream.skaz.tv/stream/ch496/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1977/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="sky-high-space-4k-hdr"  tvg-logo="https://epg.iptvx.one/picons/sky-high-space-4k-hdr.png"   catchup="fs" tvg-rec="3" timeshift="3",Sky High Space 4K HDR
 http://stream.skaz.tv/stream/ch1968/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="True Motion 60Hz 💎✨"  tvg-id="BCU TruMotion HD"  tvg-logo="http://skaz.tv/tvicon/1429.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU TruMotion HD 60 Hz
+#EXTINF:-1  group-title="True Motion 60Hz 💎✨"  tvg-id="bcu-trumotion"  tvg-logo="http://skaz.tv/tvicon/1429.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU TruMotion HD 60 Hz
 http://stream.skaz.tv/stream/ch1429/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="True Motion 60Hz 💎✨"  tvg-id="VeleS 60FPS"  tvg-logo="http://skaz.tv/tvicon/2591.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS 60FPS
 http://stream.skaz.tv/stream/ch2591/fde215a0/mono.m3u8
@@ -637,7 +637,7 @@ http://stream.skaz.tv/stream/ch2925/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1074/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Комедия"  tvg-logo="http://skaz.tv/tvicon/1037.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Комедия
 http://stream.skaz.tv/stream/ch1037/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id=" CineMan Комедийные сериалы"  tvg-logo="http://skaz.tv/tvicon/2925.png" , CineMan Комедийные сериалы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id=" CineMan Комедийные сериалы"  tvg-logo="http://skaz.tv/tvicon/2925.png" ,CineMan Комедийные сериалы
 http://stream.skaz.tv/stream/ch2925/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Криминальные Сериалы"  tvg-logo="http://skaz.tv/tvicon/2748.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Криминальные Сериалы
 http://stream.skaz.tv/stream/ch2748/fde215a0/mono.m3u8
@@ -657,8 +657,6 @@ http://stream.skaz.tv/stream/ch1622/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2866/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Ужасы"  tvg-logo="http://skaz.tv/tvicon/1036.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Ужасы
 http://stream.skaz.tv/stream/ch1036/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Cobra Comedy HD"  tvg-logo="http://skaz.tv/tvicon/2854.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Cobra Comedy HD
-http://stream.skaz.tv/stream/ch2854/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Adventure"  tvg-logo="http://skaz.tv/tvicon/1721.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Adventure
 http://stream.skaz.tv/stream/ch1721/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Cinema"  tvg-logo="http://skaz.tv/tvicon/1722.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Cinema
@@ -1061,7 +1059,7 @@ http://stream.skaz.tv/stream/ch1965/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1967/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-case-vhs-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-case-vhs-fhd.png"   tvg-name="Sky High Case VHS HD" catchup="fs" tvg-rec="3" timeshift="3",Sky High Case VHS HD
 http://stream.skaz.tv/stream/ch3710/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch1975"   tvg-rec="1" catchup-type="auto" catchup_days="3",Sky High Civil S HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch1975"  tvg-logo="https://epg.iptvx.one/picons/sky-high-civil-s-fhd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Sky High Civil S HD
 http://stream.skaz.tv/stream/ch1975/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-dragon-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-dragon-fhd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Sky High Dragon HD
 http://stream.skaz.tv/stream/ch1073/fde215a0/mono.m3u8
@@ -1159,8 +1157,6 @@ http://stream.skaz.tv/stream/ch3152/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2874/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Русские Мелодрамы HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-rusmylo.png"   catchup="fs" tvg-rec="3" timeshift="1",Velilla TV Русские Мелодрамы HD
 http://stream.skaz.tv/stream/ch2854/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="velilla-rusmylo"  tvg-logo="https://epg.iptvx.one/picons/velilla-rusmylo.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Русские Мелодрамы HD
-http://stream.skaz.tv/stream/ch2852/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Русский Сериал HD"  tvg-logo="http://s.skaz.tv/tvicon/3137.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Русский Сериал HD
 http://stream.skaz.tv/stream/ch3137/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="velilla-sw"  tvg-logo="https://epg.iptvx.one/picons/velilla-sw.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Счастливы Bместе HD
@@ -1413,7 +1409,7 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/ren-tv-hd/video.m3u8
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="5kanal-ru"  tvg-logo="http://skaz.tv/tvicon/68.png" ,Пятый Канал
 http://stream.skaz.tv/stream/ch068/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="5kanal"  tvg-logo="https://af-play.com/storage/images/channel_logos/5kanal.png"   tvg-rec="7" catchup-days="7",5 канал
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="5kanal-ru"  tvg-logo="https://af-play.com/storage/images/channel_logos/5kanal.png"   tvg-rec="7" catchup-days="7",5 канал
 http://bethoven.af-stream.com:1600/s/yokrgdit/5kanal/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="8-kanal"  tvg-logo="https://af-play.com/storage/images/channel_logos/8-kanal.png"   tvg-rec="7" catchup-days="7",8 канал
 http://bethoven.af-stream.com:1600/s/yokrgdit/8-kanal/video.m3u8
@@ -1603,7 +1599,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="neizvestnaya-rosia"  tvg-logo="https://www.ntv.ru/home/news/2023/20230511/ntvrussia.png" ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="neizvestnaya-rosia"  tvg-logo="http://s.skaz.tv/tvicon/3356.png" ,Неизвестная Россия HD
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="neizvestnaya-rosia"  tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-rosia.png" ,Неизвестная Россия HD
 http://stream.skaz.tv/stream/ch3356/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="prosveschenie"  tvg-logo="https://i.imgur.com/uppFhhq.png" ,Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
@@ -1807,11 +1803,11 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="express11"  tvg-logo="https://i.ibb.co/1sjjyv0/resize-22.png" ,11 канал экспресс (Пенза) [1080p]
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="express"  tvg-logo="https://tv-express.ru/images/logo.svg"   tvg-name="Экспресс HD (Пенза)",Экспресс (Пенза) [1080p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="express"  tvg-logo="https://epg.iptvx.one/picons/express.png"   tvg-name="Экспресс HD (Пенза)",Экспресс (Пенза) [1080p]
 https://fhtrc6b9861.a.trbcdn.net/livemaster/zolwjjzp0b_testtrk/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="vetta24" ,Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy-pskovsky"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcyioiYU-znnqm8Jgx3j_5VP6D1gub0A8eA&s"   tvg-name="Первый Псковский",Первый Псковский (Псков) [1080p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy-pskovsky"  tvg-logo="https://epg.iptvx.one/picons/pervy-pskovsky.png"   tvg-name="Первый Псковский",Первый Псковский (Псков) [1080p]
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ramenskoe-tv"  tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png"   tvg-name="Раменской ТВ", Раменское ТВ (Раменское) [720p]
 https://e10-ll.facecast.net/rtv/0.m3u8
@@ -1843,7 +1839,7 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="s1-surgut"  tvg-logo="https://i.imgur.com/chNBF5t.png" ,С1 (Сургут) [1080p]
 https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="86-surgut"  tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-86-surgut_1.jpg?itok=Q3ldqD8J" ,86 (Сургут) [1080p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="86-surgut"  tvg-logo="https://epg.iptvx.one/picons/86-surgut.png" ,86 (Сургут) [1080p]
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://i.imgur.com/7Jo7UAf.png" ,АБАЗА-ТВ (Сухум Абхазия) [1080p]
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
@@ -1859,15 +1855,15 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://glazovlife.ru/wp-content/uploads/2023/12/logon.png"   tvg-name="Глазов 24",Жизнь Глазова (Глазов, Удмуртская респ.) [720p]
 https://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ulianovskaya-pravda"  tvg-logo="https://i.okcdn.ru/i?r=BDFSTM1h2o92P_v-s8DgGlgYBon7A5IcrVwjCNW6t6FmRZVVKpD-IUY451O8RnyCbmY&fn=external_8"   tvg-name="УлПравда ТВ",УлПравда ТВ (Ульяновск) [1080p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ulianovskaya-pravda"  tvg-logo="https://epg.iptvx.one/picons/ulianovskaya-pravda.png"   tvg-name="УлПравда ТВ",УлПравда ТВ (Ульяновск) [1080p]
 http://live-3.otcnet.ru/ulpravdatv/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJdmUSrEaj8ubx3k3L_nTknFpUzql3wolFPB2XnkcCPr7kUlOs8PAhpj0OGeSDPAGsg&usqp=CAU"   tvg-name="Димград 24 HD",Димград 24 (Димитровград Ульяновская обл.) [720p]
 https://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tv7-abakan"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG-y74HuuCQt7B5r_HdQGBQbPOkeS_NVNVg4aSZi-0av2y7Ur-zR2FAPMxP0h-ie8KcdI&usqp=CAU"   tvg-name="ТВ7 (Абакан)",тв7 (Абакан респ. Хакасия)
 https://ctv7.ru/live/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="megapolis"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8fMs9upl-_-OcnmHeCGVk-utbyreAUNosuhDRf8VM1mMUxUqHqEgGVkNGWeb6reKIyQ&usqp=CAU"   tvg-name="Мегаполис ТВ (Нижневартовск)",Мегаполис (Нижневартовск ХМАО-Югра) [1080p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="megapolis"  tvg-logo="https://epg.iptvx.one/picons/megapolis.png"   tvg-name="Мегаполис ТВ (Нижневартовск)",Мегаполис (Нижневартовск ХМАО-Югра) [1080p]
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="utv-cheboxary"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRHY0x12HfdLH1WsxRftywU3o6VxFTL84yF9dh2TsBfRec-cmfb6HRyuYTApkY6nyuVk&usqp=CAU"   tvg-name="ЮТВ (Чебоксары)", ЮТВ (Чебоксары)
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="utv-cheboxary"  tvg-logo="https://epg.iptvx.one/picons/utv-cheboxary.png"   tvg-name="ЮТВ (Чебоксары)", ЮТВ (Чебоксары)
 http://utv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ural24"  tvg-logo="https://i.imgur.com/eoI4KuB.png" ,Урал 24 (Челябинск) [1080p]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
@@ -1907,19 +1903,19 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="krym24" ,Крым 24 HD
 http://iptv.crimea.net:8787
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="krym24"  tvg-logo="https://i.ibb.co/Nj6PnSD/resize-2024-10-02-T201802-087.png"   tvg-name="Крым 24",Крым 24
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="krym24"   tvg-name="Крым 24",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="krym24" ,Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="simfer24"  tvg-logo="https://i.ibb.co/k5gg6B0/image-2024-10-02-T202407-992.png"   tvg-name="симферополь 24",Симферополь 24
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="simfer24"  tvg-logo="https://epg.iptvx.one/picons/simfer24.png"   tvg-name="симферополь 24",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24sd.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="simfer24"  tvg-logo="https://i.ibb.co/k5gg6B0/image-2024-10-02-T202407-992.png"   tvg-name="Симферополь 24",Симферополь 24
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="simfer24"  tvg-logo="https://epg.iptvx.one/picons/simfer24.png"   tvg-name="Симферополь 24",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24sd.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="legendarny24"  tvg-logo="https://i.imgur.com/z9t6x8B.png" ,Легендарный 24 FHD (Севастополь)
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="legendarny24"  tvg-logo="https://i.imgur.com/z9t6x8B.png" ,Легендарный 24 HD (Севастополь)
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="ewpatorya24"  tvg-logo="https://i.ibb.co/h2LhLpk/image.png" ,Евпатория 24
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="ewpatorya24"  tvg-logo="https://epg.iptvx.one/picons/ewpatorya24.png" ,Евпатория 24
 http://195.26.83.96:7021/play/52/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="nts-sevastopol"  tvg-logo="https://i.imgur.com/skkDR7q.png" ,НТС (Севастополь) (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
@@ -1929,9 +1925,9 @@ http://live.trkmillet.ru/millet/index.m3u8
 http://195.26.83.96:7029/play/a001
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://tvtvtv.ru/icons/trk_555.png" ,ТРК 555 (Алушта)
 http://trk555.tv:8888/live
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.ibb.co/q5Lr5bL/image-82.png"   tvg-name="ялта тв",Ялта ТВ
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOfzQjlLB0-DFEReOjGGxaqTP9eZki5a1jOwg_MqLYMybkTfBZucCwtR2rgxrUHO89mk&usqp=CAU"   tvg-name="ялта тв",Ялта ТВ
 http://195.26.83.96:7029/play/a006
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.ibb.co/K01y4Zb/resize-2024-10-02-T201023-114.png"   tvg-name="Первый Республиканский", Первый Республиканский
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AzYw8ZJi1S43fw1ZzsPI7pq8QGRXI5WUpEMrkr0ffq0REh04fN1V80laF95o3Ssk9Ww&usqp=CAU"   tvg-name="Первый Республиканский", Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cb/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA_24_%28%D1%81_2024%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/160?cb=20240121085828&path-prefix=ru" ,Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
@@ -1939,9 +1935,9 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.ibb.co/VSyN9rN/image-58.png" ,Россия 1 (Донецк)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.ibb.co/n7b4p4m/resize-31.png"   tvg-name="Оплот HD", Оплот HD
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/85/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_%D0%A2%D0%92_%28%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%2C_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20220423062235&path-prefix=ru"   tvg-name="Оплот HD", Оплот HD
 http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.ibb.co/bdQhzY0/resize-30.png"   tvg-name="Оплот 2", Оплот 2
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0b/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_2_%28%D0%94%D0%9D%D0%A0%2C_%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0%29.png/revision/latest?cb=20210301170910&path-prefix=ru"   tvg-name="Оплот 2", Оплот 2
 http://92.53.64.197:5050/oplot_2/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.imgur.com/pVPTl8J.png" ,За! TV (Мелитополь)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
