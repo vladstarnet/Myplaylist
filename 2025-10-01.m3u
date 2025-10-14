@@ -1889,7 +1889,7 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="vestnik-nadyma"  tvg-logo="https://i.imgur.com/nXDP9Uf.png"   tvg-name="Вестник Надыма",Вестник Надыма (Надым Ямало-Ненецкий АО) [1080p]
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://static.tildacdn.com/tild3932-6339-4366-b866-623334326365/photo.png"   tvg-name="СИ ТВ (Новый Уренгой)",СИ ТВ (Новый Уренгой Ямало-Ненецкий АО) [720p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ca/Nclogo1579073415125.png/revision/latest/scale-to-width-down/220?cb=20210709114354&path-prefix=ru"   tvg-name="СИ ТВ (Новый Уренгой)",СИ ТВ (Новый Уренгой Ямало-Ненецкий АО) [720p]
 https://lifecam.sigma-ktv.ru/ctv/tracks-v2a1/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="yamal-region"  tvg-logo="https://i.imgur.com/O9PJHUy.png"   tvg-name="Ямал ТВ HD",Ямал ТВ (Салехард Ямало-Ненецкий автономный округ) [1080p]
 https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
