@@ -1151,7 +1151,7 @@ http://stream.skaz.tv/stream/ch3287/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3288/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Мосгаз HD"  tvg-logo="http://s.skaz.tv/tvicon/3139.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Мосгаз HD
 http://stream.skaz.tv/stream/ch3139/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Морские дьяволы HD"  tvg-logo="http://s.skaz.tv/tvicon/3152.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Морские дьяволы HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Морские дьяволы HD"  tvg-logo="http://s.skaz.tv/tvicon/3152.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Морские дьяволы HD
 http://stream.skaz.tv/stream/ch3152/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2874"  tvg-logo="https://epg.iptvx.one/picons/velilla-mordiav2.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Морские Дьяволы 2 HD
 http://stream.skaz.tv/stream/ch2874/fde215a0/mono.m3u8
@@ -1477,7 +1477,7 @@ http://stream.skaz.tv/stream/ch3326/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch066/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="TVM Channel"  tvg-logo="https://i.imgur.com/ZX6crqH.png"   catchup="fs" tvg-rec="3" timeshift="3",TVM Channel
 http://stream.skaz.tv/stream/ch3327/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tochka-tv"  tvg-logo="https://i.imgur.com/yyNR5jG.png"   catchup="fs" tvg-rec="3" timeshift="0", Точка ТВ
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tochka-tv"  tvg-logo="https://i.imgur.com/yyNR5jG.png"   catchup="fs" tvg-rec="3" timeshift="0",Точка ТВ
 http://stream.skaz.tv/stream/ch507/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Че"  tvg-logo="https://i.imgur.com/ZOcDGpB.png"   catchup="fs" tvg-rec="3" timeshift="2",Че!
 http://stream.skaz.tv/stream/ch109/fde215a0/mono.m3u8
@@ -1487,7 +1487,7 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/4e/video.m3u8
 http://stream.skaz.tv/stream/ch420/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="yu-tv"  tvg-logo="https://af-play.com/storage/images/channel_logos/01c342d4dfc48445ac363aaed3e6a2ab.png" ,Ю ТВ
 http://bethoven.af-stream.com:1600/s/yokrgdit/yu-tv/video.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id=" Москва 24"  tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" , Москва 24
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id=" Москва 24"  tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" ,Москва 24
 http://stream.skaz.tv/stream/ch006/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="moskva-24"  tvg-logo="https://epg.iptvx.one/picons/moskva-24.png"   tvg-rec="0",Москва 24
 http://bethoven.af-stream.com:1600/s/yokrgdit/moskva-24/video.m3u8
@@ -1543,7 +1543,7 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/nastoyaschee-vremya-hd/video.m3u8
 http://stream.skaz.tv/stream/ch528/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="osn"  tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" ,ОСН [1080p]
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="otr"  tvg-logo="https://i.imgur.com/VaWlnjZ.png"   catchup="fs" tvg-rec="3" timeshift="0", ОТР HD
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="otr"  tvg-logo="https://i.imgur.com/VaWlnjZ.png"   catchup="fs" tvg-rec="3" timeshift="0",ОТР HD
 http://stream.skaz.tv/stream/ch405/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="otr"  tvg-logo="https://af-play.com/storage/images/channel_logos/0408a26d4e6e86f3ac76614db3fde6ba.png"   tvg-rec="1" catchup_days="7",ОТР HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/otr-hd/video.m3u8
@@ -1571,7 +1571,7 @@ https://dumatv.iptv2022.com/index.m3u8
 http://stream.skaz.tv/stream/ch540/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="krasnaya-linia"  tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" ,Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ЛДПР ТВ"  tvg-logo="https://i.imgur.com/gCmCRfe.png"   catchup="fs" tvg-rec="3" timeshift="0", ЛДПР ТВ
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ЛДПР ТВ"  tvg-logo="https://i.imgur.com/gCmCRfe.png"   catchup="fs" tvg-rec="3" timeshift="0",ЛДПР ТВ
 http://stream.skaz.tv/stream/ch541/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ldpr-tv"  tvg-logo="https://i.imgur.com/gCmCRfe.png" ,ЛДПР ТВ (1080p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
@@ -1581,15 +1581,15 @@ http://stream.skaz.tv/stream/ch122/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch016/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Авто плюс HD"  tvg-logo="https://i.imgur.com/sVc8cFt.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Авто плюс HD
 http://stream.skaz.tv/stream/ch456/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Драйв"  tvg-logo="https://i.imgur.com/FnuwfSC.png"   catchup="fs" tvg-rec="3" timeshift="0", Драйв
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Драйв"  tvg-logo="https://i.imgur.com/FnuwfSC.png"   catchup="fs" tvg-rec="3" timeshift="0",Драйв
 http://stream.skaz.tv/stream/ch536/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="zootv"  tvg-logo="https://i.imgur.com/p7WzqGS.png" ,Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Лапки LIVE HD"  tvg-logo="https://epg.iptvx.one/picons/lapki-live.png"   catchup="fs" tvg-rec="3" timeshift="3", Лапки LIVE HD
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Лапки LIVE HD"  tvg-logo="https://epg.iptvx.one/picons/lapki-live.png"   catchup="fs" tvg-rec="3" timeshift="3",Лапки LIVE HD
 http://stream.skaz.tv/stream/ch3302/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="istoria"  tvg-logo="https://i.imgur.com/eEjPail.png" ,История
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="История"  tvg-logo="https://i.imgur.com/eEjPail.png"   catchup="fs" tvg-rec="3" timeshift="2", История
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="История"  tvg-logo="https://i.imgur.com/eEjPail.png"   catchup="fs" tvg-rec="3" timeshift="2",История
 http://stream.skaz.tv/stream/ch442/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="zhivaya-planeta"  tvg-logo="https://i.imgur.com/onNv1tM.png" ,Живая Планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
@@ -1637,7 +1637,7 @@ https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="bashkortostan24"  tvg-logo="https://iptvx.one/picons/bashkortostan24.png" ,Башкортостан 24 (Уфа респ. Башкортостан) [1080p]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkH_IME8or3hOwKY0stCFsA1k2vZuI2fvgH8AhJMYdcIZhDql3062o_ylxQVBnwbsAqc&usqp=CAU"   tvg-name="Сибай ТВ", Сибай ТВ (Сибай, респ. Башкортостан) [720]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkH_IME8or3hOwKY0stCFsA1k2vZuI2fvgH8AhJMYdcIZhDql3062o_ylxQVBnwbsAqc&usqp=CAU"   tvg-name="Сибай ТВ", Сибай ТВ (Сибай респ. Башкортостан) [720]
 http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="kuraj"  tvg-logo="https://epg.iptvx.one/picons/kuraj.png" ,Курай (Уфа респ. Башкортостан)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
@@ -1701,7 +1701,7 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 https://vd.obltv.ru/watch/air_sd.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="SGDF24RU.ru@SD"  tvg-logo="https://i.imgur.com/73XseJs.png" ,SGDF24.RU (Екатеринбург)
 https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="echotv24"  tvg-logo="https://epg.iptvx.one/picons/echotv24.png"   tvg-name="Эхо 24 (Новоуральск)",Эхо 24 (Новоуральск, Свердловская обл.)
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="echotv24"  tvg-logo="https://epg.iptvx.one/picons/echotv24.png"   tvg-name="Эхо 24 (Новоуральск)",Эхо 24 (Новоуральск Свердловская обл.)
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="krik-tv"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdtSm1tdvSJd3HNt4QOVp_LdCNWXtOKdroQ&s" ,Ингушетия ТВ (Магас респ. Ингушетия) [108op]
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
@@ -1717,7 +1717,7 @@ http://bst.bratsk.ru/hls/bst2/index.m3u8
 http://171.22.212.250/NTK/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tst-cheremchovo"  tvg-logo="https://epg.iptvx.one/picons/tst-cheremchovo.png" ,ТСТ (Черемхово Иркутская обл.)
 http://5.183.155.8:88/stream.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://smotret.tv/images/mitv.jpg"   tvg-name="МИТВ (Усть-Илимск)", МИТВ (Усть-Илимск Иркутская обл.) [720p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://smotret.tv/images/mitv.jpg"   tvg-name="МИТВ (Усть-Илимск)",МИТВ (Усть-Илимск Иркутская обл.) [720p]
 http://193.33.233.109:9000/tv
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ТНВ Планета"  tvg-logo="http://s.skaz.tv/tvicon/3322.png"   catchup="fs" tvg-rec="3" timeshift="3",ТНВ Планета (Казань)
 http://stream.skaz.tv/stream/ch3322/fde215a0/mono.m3u8
@@ -1733,11 +1733,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="nika-tv"  tvg-logo="https://i.imgur.com/dccsFAu.png" ,Ника ТВ (Калуга) [720p]
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="prodvizhenie-pl4"  tvg-logo="https://i.imgur.com/KlsnfG9.png"   tvg-name="Продвижение", Продвижение (Ленинск Кемеровская обл.)
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="prodvizhenie-pl4"  tvg-logo="https://i.imgur.com/KlsnfG9.png"   tvg-name="Продвижение",Продвижение (Ленинск Кемеровская обл.)
 http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="prodvizhenie-pl4"  tvg-logo="https://i.imgur.com/KlsnfG9.png"   tvg-name="Продвижение",Продвижение (Новокузнецк Кемеровская обл)
 https://tvn-tv.ru:81/hls/stream.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://i.imgur.com/AqJSzL7.png"   tvg-name="КРТВ (Красногорск)", КРТВ (Красногорск) [720p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://i.imgur.com/AqJSzL7.png"   tvg-name="КРТВ (Красногорск)",КРТВ (Красногорск) [720p]
 http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="krasnodar"  tvg-logo="https://iptvx.one/picons/krasnodar.png" ,Краснодар (1080p)
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
@@ -1781,7 +1781,7 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 https://camcity.redcom.ru/Redcams/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1sqPlumdvwpgg6vMafduhs36sAobGR21aLA23mjCneutyqGM0qMU2yKJbeNtdBjhK7o&usqp=CAU" ,TV Аист (Ликино-Дулево Москвская обл)
 http://141.101.205.134:8080/hls/tvaist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="sever"  tvg-logo="https://i.imgur.com/sTOQLYl.png" ,Север (Нарьян-Мар, Ненецкий АО) [1080p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="sever"  tvg-logo="https://i.imgur.com/sTOQLYl.png" ,Север (Нарьян-Мар Ненецкий АО) [1080p]
 https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="nn-24"  tvg-logo="https://i.imgur.com/ZWgPVIC.png" ,Нижний Новгород 24  [720p]
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
@@ -1809,7 +1809,7 @@ https://fhtrc6b9861.a.trbcdn.net/livemaster/zolwjjzp0b_testtrk/playlist.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy-pskovsky"  tvg-logo="https://epg.iptvx.one/picons/pervy-pskovsky.png"   tvg-name="Первый Псковский",Первый Псковский (Псков) [1080p]
 http://live-3.otcnet.ru/pskov/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ramenskoe-tv"  tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png"   tvg-name="Раменской ТВ", Раменское ТВ (Раменское) [720p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ramenskoe-tv"  tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png"   tvg-name="Раменской ТВ",Раменское ТВ (Раменское) [720p]
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tkr-ryazan"  tvg-logo="https://i.imgur.com/VqtPB7L.png" ,ТКР (Рязань) [720p]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
@@ -1853,7 +1853,7 @@ https://tvtogliatti24.ru/hls2/live1080/index.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tumenskoe-vremia"  tvg-logo="https://i.imgur.com/kgNEVIr.png" ,Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://glazovlife.ru/wp-content/uploads/2023/12/logon.png"   tvg-name="Глазов 24",Жизнь Глазова (Глазов, Удмуртская респ.) [720p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://glazovlife.ru/wp-content/uploads/2023/12/logon.png"   tvg-name="Глазов 24",Жизнь Глазова (Глазов Удмуртская респ.) [720p]
 https://yellow.garant.tv/glazov24/stream.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ulianovskaya-pravda"  tvg-logo="https://epg.iptvx.one/picons/ulianovskaya-pravda.png"   tvg-name="УлПравда ТВ",УлПравда ТВ (Ульяновск) [1080p]
 http://live-3.otcnet.ru/ulpravdatv/index.m3u8
@@ -1863,7 +1863,7 @@ https://live-3.otcnet.ru/dimgrad/index.m3u8
 https://ctv7.ru/live/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="megapolis"  tvg-logo="https://epg.iptvx.one/picons/megapolis.png"   tvg-name="Мегаполис ТВ (Нижневартовск)",Мегаполис (Нижневартовск ХМАО-Югра) [1080p]
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="utv-cheboxary"  tvg-logo="https://epg.iptvx.one/picons/utv-cheboxary.png"   tvg-name="ЮТВ (Чебоксары)", ЮТВ (Чебоксары)
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="utv-cheboxary"  tvg-logo="https://epg.iptvx.one/picons/utv-cheboxary.png"   tvg-name="ЮТВ (Чебоксары)",ЮТВ (Чебоксары)
 http://utv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ural24"  tvg-logo="https://i.imgur.com/eoI4KuB.png" ,Урал 24 (Челябинск) [1080p]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
@@ -1927,7 +1927,7 @@ http://195.26.83.96:7029/play/a001
 http://trk555.tv:8888/live
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ea/%D0%AF%D0%BB%D1%82%D0%B0-%D0%A2%D0%92.png/revision/latest/scale-to-width-down/250?cb=20210320130431&path-prefix=ru"   tvg-name="ялта тв",Ялта ТВ
 http://195.26.83.96:7029/play/a006
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AzYw8ZJi1S43fw1ZzsPI7pq8QGRXI5WUpEMrkr0ffq0REh04fN1V80laF95o3Ssk9Ww&usqp=CAU"   tvg-name="Первый Республиканский", Первый Республиканский
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AzYw8ZJi1S43fw1ZzsPI7pq8QGRXI5WUpEMrkr0ffq0REh04fN1V80laF95o3Ssk9Ww&usqp=CAU"   tvg-name="Первый Республиканский",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cb/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA_24_%28%D1%81_2024%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/160?cb=20240121085828&path-prefix=ru" ,Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
@@ -1935,13 +1935,13 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.ibb.co/VSyN9rN/image-58.png" ,Россия 1 (Донецк)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/85/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_%D0%A2%D0%92_%28%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%2C_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20220423062235&path-prefix=ru"   tvg-name="Оплот HD", Оплот HD
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/85/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_%D0%A2%D0%92_%28%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%2C_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20220423062235&path-prefix=ru"   tvg-name="Оплот HD",Оплот HD
 http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0b/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_2_%28%D0%94%D0%9D%D0%A0%2C_%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0%29.png/revision/latest?cb=20210301170910&path-prefix=ru"   tvg-name="Оплот 2", Оплот 2
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0b/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_2_%28%D0%94%D0%9D%D0%A0%2C_%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0%29.png/revision/latest?cb=20210301170910&path-prefix=ru"   tvg-name="Оплот 2",Оплот 2
 http://92.53.64.197:5050/oplot_2/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.imgur.com/pVPTl8J.png" ,За! TV (Мелитополь)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="tavria"  tvg-logo="https://i.imgur.com/gqung6i.png"   tvg-name="Таврия (Херсон)", Таврия
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="tavria"  tvg-logo="https://i.imgur.com/gqung6i.png"   tvg-name="Таврия (Херсон)",Таврия
 http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="tavria"  tvg-logo="https://i.imgur.com/gqung6i.png" ,Таврия
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
@@ -2325,9 +2325,9 @@ http://stream.skaz.tv/stream/ch631/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch661/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="aiva-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/5eab5143f5fa96d8d2346c1e4e2485d0.png"   tvg-rec="0",AIVA HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/aiva-hd/video.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="eu-music-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/eu-music-hd.png"   tvg-rec="0",EU Music HD
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="eu-music-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/eu-music-hd.png"   tvg-rec="0",EU Music HD [UA]
 http://bethoven.af-stream.com:1600/s/yokrgdit/eu-music-hd/video.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EU Music HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/eu-music-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",EU Music HD
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EU Music HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/eu-music-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",EU Music HD [UA]
 http://stream.skaz.tv/stream/ch653/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA music HD [UA]
 http://cdnua05.hls.tv/909/hls/8743361621b245838bee193c9ec28322/4831/stream.m3u8
@@ -2345,13 +2345,13 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/m2-ua-hd/video.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="megogo-live"  tvg-logo="https://epg.iptvx.one/picons/megogolive.png" ,Megogo Live HD [UA]
 https://tva.in.ua/live/megogo_life.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzwar"  tvg-logo="https://i.imgur.com/Klu5k9U.png" ,МУЗВАР [UA]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzwar"  tvg-logo="https://epg.iptvx.one/picons/muzwar.png" ,МУЗВАР [UA]
 http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4804/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/46/39/9d4639bd-3177-0a6f-7aa0-15edabacfcb8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/512x512bb.jpg" ,Happy Radio TV [UA]
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="music-box-gold"  tvg-logo="https://af-play.com/storage/images/pack_logos/c27b8e923e8be5901d7baae7f3b9a0b3.png"   tvg-rec="0",Music Box Gold
 http://bethoven.af-stream.com:1600/s/yokrgdit/music-box-gold/video.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Music Box Gold"  tvg-logo="http://skaz.tv/tvicon/650.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Music Box Gold
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Music Box Gold"  tvg-logo="https://af-play.com/storage/images/pack_logos/c27b8e923e8be5901d7baae7f3b9a0b3.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Music Box Gold
 http://stream.skaz.tv/stream/ch650/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Russian MusicBox HD"  tvg-logo="https://af-play.com/storage/images/pack_logos/f9b8c79f4b61674bae69678ab7a5f0ae.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Russian MusicBox HD
 http://stream.skaz.tv/stream/ch555/fde215a0/mono.m3u8
@@ -2365,23 +2365,23 @@ http://stream.skaz.tv/stream/ch027/fde215a0/mono.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/zhara-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Жара HD"  tvg-logo="http://skaz.tv/tvicon/529.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Жара HD
 http://stream.skaz.tv/stream/ch529/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VIVA Russia"  tvg-logo="http://s.skaz.tv/tvicon/3721.png"   catchup="fs" tvg-rec="3" timeshift="0", VIVA Russia
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VIVA Russia"  tvg-logo="http://s.skaz.tv/tvicon/3721.png"   catchup="fs" tvg-rec="3" timeshift="0",VIVA Russia
 http://stream.skaz.tv/stream/ch3721/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="viva-rus"  tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" ,VIVA Russia
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Ля-минор"  tvg-logo="http://skaz.tv/tvicon/523.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Музыка Live
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Ля-минор"  tvg-logo="https://epg.iptvx.one/picons/la-minor.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Музыка Live
 http://stream.skaz.tv/stream/ch523/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muztv"  tvg-logo="https://iptvx.one/picons/muztv.png" ,МУЗ-ТВ HD
 http://178.124.179.122:8088/MuzTV/index.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="МУЗ"  tvg-logo="http://skaz.tv/tvicon/20.png"   catchup="fs" tvg-rec="3" timeshift="0", МУЗ-ТВ
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="МУЗ"  tvg-logo="http://skaz.tv/tvicon/20.png"   catchup="fs" tvg-rec="3" timeshift="0",МУЗ-ТВ
 http://stream.skaz.tv/stream/ch020/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzyka-pervogo"  tvg-logo="https://af-play.com/storage/images/channel_logos/muzyka-pervogo.png"   tvg-rec="0",Музыка Первого
 http://bethoven.af-stream.com:1600/s/yokrgdit/muzyka-pervogo/video.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Музыка Первого"  tvg-logo="http://skaz.tv/tvicon/615.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Музыка Первого
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Музыка Первого"  tvg-logo="https://epg.iptvx.one/picons/muzyka-pervogo.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Музыка Первого
 http://stream.skaz.tv/stream/ch615/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="o2tv-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/66887c8d6f3f501ee6d4bb530d7ff2ba.png"   tvg-rec="0",O!2 HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/o2tv-hd/video.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="O2TV HD"  tvg-logo="http://skaz.tv/tvicon/554.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",O!2 HD
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="O2TV HD"  tvg-logo="https://epg.iptvx.one/picons/o2tv.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",O!2 HD
 http://stream.skaz.tv/stream/ch554/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="radio-strana-fm-tv"  tvg-logo="https://i.imgur.com/WsPlKJJ.png" ,Страна ФМ
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
@@ -2399,10 +2399,10 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 http://stream.skaz.tv/stream/ch531/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ZharPtitsa.ru"  tvg-logo="https://i.imgur.com/19R470V.png" ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="song-tv"  tvg-logo="https://epg.iptvx.one/picons/song-tv-arm.png"   tvg-name="SONGTV Armenia [am]",SONGTV Armenia [AM]
+http://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="song-tv-ru"  tvg-logo="https://epg.iptvx.one/picons/song-tv-ru.png" ,SONGTV Russia [AM]
 http://songtv.hls.iptvdc.com/web-russia/tracks-v3a1/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="song-tv"  tvg-logo="https://epg.iptvx.one/picons/song-tv-arm.png"   tvg-name="SONGTV Armenia [am]", SONGTV Armenia [AM]
-http://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv"  tvg-logo="https://af-play.com/storage/images/pack_logos/eacb7d4e2960e78191976888a3e0df31.png"   tvg-rec="0",Bridge TV
 http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV"  tvg-logo="http://skaz.tv/tvicon/490.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV
@@ -2435,7 +2435,7 @@ http://stream.skaz.tv/stream/ch494/fde215a0/mono.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv-shlager/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Шлягер"  tvg-logo="http://skaz.tv/tvicon/548.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV Шлягер
 http://stream.skaz.tv/stream/ch548/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="NM Television"  tvg-logo="https://i.ibb.co/5TJ9Mtc/resize-2024-09-29-T162757-577.png"   tvg-name="NM Television", NM Television [RU]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="NM Television"  tvg-logo="https://i.ibb.co/5TJ9Mtc/resize-2024-09-29-T162757-577.png"   tvg-name="NM Television",NM Television [RU]
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Melody"  tvg-logo="http://s.skaz.tv/tvicon/2756.png"   catchup="fs" tvg-rec="3" timeshift="0",Melody
 http://stream.skaz.tv/stream/ch2756/fde215a0/mono.m3u8
