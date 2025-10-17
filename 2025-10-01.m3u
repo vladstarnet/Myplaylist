@@ -1499,8 +1499,6 @@ http://stream.skaz.tv/stream/ch3301/fde215a0/mono.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/sankt-peterburg-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="360-news"  tvg-logo="https://af-play.com/storage/images/channel_logos/24a20a4198e4a44619eff15a1485591e.png"   tvg-rec="1" catchup_days="7",360 Новости HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/360-novosti-hd/video.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="360-news" ,360 Новости HD
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="360-podmoskovie"  tvg-logo="https://af-play.com/storage/images/pack_logos/9358fc9d16cbb434631cb5542083bf14.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",360 HD
 http://stream.skaz.tv/stream/ch516/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="360-podmoskovie"  tvg-logo="https://af-play.com/storage/images/pack_logos/9358fc9d16cbb434631cb5542083bf14.png"   tvg-rec="1" catchup_days="7",360 HD
@@ -1593,8 +1591,6 @@ http://31.148.48.15/Istoriya/index.m3u8
 http://stream.skaz.tv/stream/ch442/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="zhivaya-planeta"  tvg-logo="https://i.imgur.com/onNv1tM.png" ,Живая Планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="muzsoyuz"  tvg-logo="https://i.imgur.com/Puk1Bhx.png" ,Муз союз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="poexali"  tvg-logo="https://i.imgur.com/ZNCpbII.png" ,Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="neizvestnaya-rosia"  tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-rosia.png" ,Неизвестная Россия
@@ -1615,6 +1611,8 @@ https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 http://stream.skaz.tv/stream/ch517/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="soyuz"  tvg-logo="https://i.imgur.com/w3OewHc.png"   catchup="fs" tvg-rec="3" timeshift="0",Союз
 http://stream.skaz.tv/stream/ch518/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="muzsoyuz"  tvg-logo="https://i.imgur.com/Puk1Bhx.png" ,Муз союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="2na2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6m9wTmK2Nh1dUaOjs8YeYE0MEx65osykSA&s"   tvg-rec="1" catchup-type="auto" catchup_days="3",2X2
 http://stream.skaz.tv/stream/ch076/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ani"  tvg-logo="https://i.imgur.com/i2AP0hp.png" ,Ani
@@ -2307,9 +2305,9 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/1hd/video.m3u8
 http://stream.skaz.tv/stream/ch328/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="one-by-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png"   tvg-rec="0",One BY HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/one-by-hd/video.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="onemuz"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png" ,One BY HD
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="one-by-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png" ,One BY HD
 http://rtmp.one.by:1300
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="onemuz"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png" ,One BY
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="one-by-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png" ,One BY
 http://rtmp.one.by:1200
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="onemuz"  tvg-logo="https://af-play.com/storage/images/pack_logos/df7d252bf9b14d3b7b07e88b28ddbf2a.png"   tvg-rec="0",One BY Russia HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/one-by-russia-hd/video.m3u8
@@ -2375,9 +2373,9 @@ http://stream.skaz.tv/stream/ch027/fde215a0/mono.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/zhara-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Жара HD"  tvg-logo="http://skaz.tv/tvicon/529.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Жара HD
 http://stream.skaz.tv/stream/ch529/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="o2tv-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/66887c8d6f3f501ee6d4bb530d7ff2ba.png"   tvg-rec="0",O!2 HD
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="o2tv"  tvg-logo="https://af-play.com/storage/images/pack_logos/66887c8d6f3f501ee6d4bb530d7ff2ba.png"   tvg-rec="0",O!2 HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/o2tv-hd/video.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="O2TV HD"  tvg-logo="https://epg.iptvx.one/picons/o2tv.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",O!2 HD
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="o2tv"  tvg-logo="https://epg.iptvx.one/picons/o2tv.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",O!2 HD
 http://stream.skaz.tv/stream/ch554/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/2023-01-17_21-45-17.png" ,MIXM TB [1080p]
 http://89.179.247.144/hls/mixm.m3u8
@@ -2511,9 +2509,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://af-play.com/storage/images/pack_logos/3cb72b2e59336e9fd69673dd5bef930b.png" ,Kronehit HD [AT] [1080p]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/u0d5j0C.png" ,Afrobeats TV [1080p]
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="KissTV.ro"  tvg-logo="https://i.imgur.com/NKfVymH.png" ,Kiss TV [RO] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="kiss-tv-ro"  tvg-logo="https://i.imgur.com/NKfVymH.png" ,Kiss TV [RO] [1080p]
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mcm-pop"  tvg-logo="https://af-play.com/storage/images/channel_logos/97bddb422bf2be756e273d0a65985935.png"   tvg-rec="0",MCM TOP HD [FR] [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/mcm-top-hd/video.m3u8
@@ -2521,12 +2517,14 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/mcm-top-hd/video.m3u8
 http://stream.skaz.tv/stream/ch497/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ocko-cz"  tvg-logo="https://epg.iptvx.one/picons/ocko-cz.png" ,Óčko [CZ]
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ocko-star-cz"  tvg-logo="https://epg.iptvx.one/picons/ocko-star-cz.png"   tvg-name="Óčko Gold",Óčko Star [CZ]
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ocko-expres-cz"  tvg-logo="https://epg.iptvx.one/picons/ocko-expres-cz.png"   tvg-name="Ocko Expres",Óčko Expres TV [CZ]
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ocko-star-cz"  tvg-logo="https://epg.iptvx.one/picons/ocko-star-cz.png"   tvg-name="Óčko Gold",Óčko Star [CZ]
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="retro-music-cz"  tvg-logo="https://i.imgur.com/pyOjdZs.png" ,Retro Music Television [CZ]
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/u0d5j0C.png" ,Afrobeats TV [1080p]
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="trace-brasil"  tvg-logo="https://epg.iptvx.one/picons/trace-brasil.png"   tvg-name="Trace Brazuca [fr]",Trace Brasil [FR] [1080p]
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="trace-urban-fr"  tvg-logo="https://epg.iptvx.one/picons/trace-urban.png" ,Trace Urban HD [FR] [1080p]
@@ -2565,8 +2563,6 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MuzangalaTV.ao"  tvg-logo="https://i.imgur.com/fBeaJoS.png"   tvg-name="Muzangala TV [ao]",Muzangala TV [AO]
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="BblackClassik.fr"  tvg-logo="https://i.imgur.com/zkNUO5p.png"   tvg-name="Bblack! Caribbean [fr]" tvg-name="Bblack! Classik [fr]" tvg-name="Beats Radio",Bblack! Caribbean [AR]
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PowerMaxRadioTV.ar"  tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" ,Power Max Radio TV [AR]
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="BelRTL.be"  tvg-logo="https://i.imgur.com/0DUprIW.png"   tvg-name="Bel RTL [be]",Bel RTL [BE]
@@ -2617,11 +2613,11 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/1Zl1OJ5.png" ,NRG 91 [GR] [720p]
 https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w2043948915.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PanikTV.gr"  tvg-logo="https://i.imgur.com/13C3CPr.png" ,Panik TV [GR]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PanikTV.gr"  tvg-logo="https://i.imgur.com/13C3CPr.png" ,Panik TV [GR] [1080p]
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PlayTV.gr"  tvg-logo="https://i.imgur.com/JWFOYuD.png" ,Play TV [GR]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="playtv"  tvg-logo="https://i.imgur.com/JWFOYuD.png" ,Play TV [GR]
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EcuaStereoRadioTV.ec"  tvg-logo="https://i.imgur.com/tnFZY5O.png"   tvg-name="Ecua Stereo Radio TV [ec]",Ecua Stereo Radio TV [EC]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EcuaStereoRadioTV.ec"  tvg-logo="https://i.imgur.com/tnFZY5O.png"   tvg-name="Ecua Stereo Radio TV [ec]",Ecua Stereo Radio TV [EC] [1080p]
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ActivaTV.es"  tvg-logo="https://i.imgur.com/S69lDu4.png" ,Activa TV [ES]
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
@@ -2641,6 +2637,8 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="NavahangTV.fi"  tvg-logo="https://i.imgur.com/YteKXJy.png"   tvg-name="Navahang TV [fi]",Navahang TV [FI]
 https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="BblackClassik.fr"  tvg-logo="https://i.imgur.com/zkNUO5p.png"   tvg-name="Bblack! Caribbean [fr]" tvg-name="Bblack! Classik [fr]" tvg-name="Beats Radio",Beats 100.5 [FR]
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="DBMTV.fr"  tvg-logo="https://i.imgur.com/ab6p2SW.png"   tvg-name="DBM TV [fr]",DBM TV [FR]
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="QwestTV.fr"  tvg-logo="https://i.imgur.com/DjgNNHK.png" ,QwestTV [FR] [1080p]
@@ -2685,7 +2683,7 @@ https://sonhls.persiana.live/hls/stream.m3u8
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/ccdwsWj.png"   tvg-name="Company Tv",Company TV [IT] [720p]
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="DeejayTV.it"  tvg-logo="https://i.imgur.com/YV27Chs.png" ,Deejay TV [IT] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="deejaytv-it"  tvg-logo="https://i.imgur.com/YV27Chs.png" ,Deejay TV [IT] [1080p]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EuroIndieMusicChartTV.it"  tvg-logo="https://i.imgur.com/lF0iofX.png" ,Euro Indie Music Chart TV [IT]
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
@@ -2723,7 +2721,7 @@ https://w1.mediastreaming.it/deltainternational/livestream/playlist.m3u8
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RadioIbizaTV.it"  tvg-logo="https://i.imgur.com/KfFqYQi.png" ,Radio Ibiza TV [IT] [720p]
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/XqNhQp6.png"   tvg-name="Radio Italia",Radio Italia  [IT]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="radio-italia-tv-it"  tvg-logo="https://i.imgur.com/XqNhQp6.png"   tvg-name="Radio Italia",Radio Italia  [IT]
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="FMITALIA.it"  tvg-logo="https://i.imgur.com/54CO2u9.png" ,FM ITALIA [IT] [1080p]
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
@@ -2835,17 +2833,17 @@ https://testcam.go.ro:8080/hls/hd365.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ImpactTVManele.ro"  tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Manele [RO] [1080p]
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MagicTV.ro"  tvg-logo="https://i.imgur.com/9izrr4d.png"   tvg-name="Magic TV [ro]",Magic TV [RO] [720p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="magic-tv-ro"  tvg-logo="https://i.imgur.com/9izrr4d.png"   tvg-name="Magic TV [ro]",Magic TV [RO] [720p]
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MoozDance.ro"  tvg-logo="https://i.imgur.com/aX70RD2.png"   tvg-rec="0",Mooz Dance HD [RO]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mooz-dance-ro"  tvg-logo="https://i.imgur.com/aX70RD2.png"   tvg-rec="0",Mooz Dance HD [RO]
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MoozHits.ro"  tvg-logo="https://i.imgur.com/GwATd3Y.png" ,MoozHits [RO]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mooz-hits-ro"  tvg-logo="https://i.imgur.com/GwATd3Y.png" ,MoozHits [RO]
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MoozRo.ro"  tvg-logo="https://i.imgur.com/Ft24x5T.png" ,MoozRo! [RO]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mooz-ro"  tvg-logo="https://i.imgur.com/Ft24x5T.png" ,MoozRo! [RO]
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RapsodiaTV.ro"  tvg-logo="https://i.imgur.com/mwMG7BB.png" ,Rapsodia TV [RO]
 http://92.86.248.141:8080/ram/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RockTV.ro"  tvg-logo="https://i.imgur.com/VB88A5V.png" ,Rock TV [RO] [720p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="rock-tv-ro"  tvg-logo="https://i.imgur.com/VB88A5V.png" ,Rock TV [RO] [720p]
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SuperTV.ro"  tvg-logo="https://i.imgur.com/pzxUE0O.png" ,Super TV [RO] [1080p]
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
@@ -2857,6 +2855,8 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w656246624.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MUZZIK.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/54/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,MUZZIK [SRB]
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SENSE.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/72/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik ADRA [SRB]
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ELECTRO.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/409/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik ELECTRO [SRB]
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="FLASHBACK.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/73/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik FLASHBACK [SRB]
@@ -2865,23 +2865,21 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MTS.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/69/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640"   tvg-name="MTS [rs]",Muzzik MIX HD [SRB]
 http://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MOBA.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/71/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik Restart [SRB]
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="POPSTAR.rs"  tvg-logo="https://i.imgur.com/E9ha9Or.png" ,Muzzik POP STAR [SRB]
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MOBA.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/71/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik Restart [SRB]
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RockRoll.rs"  tvg-logo="https://i.imgur.com/sy1BDNK.png" ,Muzzik Rock&Roll [SRB]
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SENSE.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/72/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik ADRA [SRB]
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TIKTAK.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/65/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik TIKTAK [SRB]
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ZZTV.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/67/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik ZZ TV [SRB]
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="WORLDWIDEMUZZIK.rs"  tvg-logo="https://i.imgur.com/tEzppGC.png" ,Muzzik Worldwide [SRB]
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ZZTV.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/67/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik ZZ TV [SRB]
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RadioLolaTV.rs"  tvg-logo="https://i.imgur.com/41eE8fl.png" ,Radio Lola [SRB] [720p]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="DreamTurk.tr"  tvg-logo="https://i.imgur.com/vJ8VaZi.png" ,Dream Türk [TR] [720p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="dream-turk-tr"  tvg-logo="https://i.imgur.com/vJ8VaZi.png" ,Dream Türk [TR] [720p]
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="KralPopTV.tr"  tvg-logo="https://i.imgur.com/ch365lh.png" ,KRAL Pop TV [TR] [720p]
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
@@ -6717,7 +6715,7 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 https://fs3.kabelko.sk/9011/index.m3u8?token=btv
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="CSRTV.sk"  tvg-logo="https://i.imgur.com/V2FufrD.png" ,ČSRTV (360p) [Not 24/7]
 https://ythls.armelin.one/channel/UCUy__zD6aeuZKUXX8kUc4ZQ.m3u8
-#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="FashionTVCzechSlovak.fr"  tvg-logo="https://i.imgur.com/7Bigo7u.png" ,FashionTV Czech&Slovak (450p) [Not 24/7]
+#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="FashionTVCzechSlovak.fr"  tvg-logo="https://i.imgur.com/7Bigo7u.png" ,FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="LifeTv.sk"  tvg-logo="https://i.imgur.com/jO8kAY2.png" ,LifeTv (1080p)
 https://lifetv.mpks.sk/s.m3u8
