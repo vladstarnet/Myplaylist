@@ -2973,11 +2973,9 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RadioMaster.pe"  tvg-logo="https://i.imgur.com/AUoxyzP.png" ,Radio Master [PE] [720p]
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RadioTropical.pe"  tvg-logo="https://i.imgur.com/TBPVOBI.png" ,Radio Tropical Tarapoto [PE] [720p]
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RadioTVTendencias.pe"  tvg-logo="https://i.imgur.com/tsdrrV9.png"   tvg-name="Radio TV Tendencias [pe]",Radio TV Tendencias [PE] [720p]
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TurboMixRadioTV.pe"  tvg-logo="https://i.imgur.com/AsdBQa3.png" ,Turbo Mix Radio TV [PE]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TurboMixRadioTV.pe"  tvg-logo="https://i.imgur.com/AsdBQa3.png" ,Turbo Mix Radio TV [PE] [1080p]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TVUNO.pe"  tvg-logo="https://i.imgur.com/dht94P4.png"   tvg-name="TVUNO [pe]",TVUNO [PE]
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -2991,13 +2989,13 @@ https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SAYHi.pl"  tvg-logo="https://i.imgur.com/xR151dE.png" ,SAYHi [PL] [1080i]
 https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="vox-music-pl"  tvg-logo="https://i.imgur.com/uWLsiOq.png" ,Vox w Rytmie Hitow [PL] [1080i]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="vox-music-pl"  tvg-logo="https://www.grupazpr.pl/pub/marki/RADIO/VOX_FM/vox2024_200x200_v1.png" ,Vox w Rytmie Hitow [PL] [1080i]
 https://s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TheRetroChannel.pr"  tvg-logo="https://i.imgur.com/t3i1HtE.jpg"   tvg-name="The Retro Channel [pr]",The Retro Channel [PR] [1080p]
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="FalastiniTV.ps"  tvg-logo="https://i.imgur.com/6B3Cims.png" ,Falastini TV [PS] [1080p]
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="KuriakosMusic.pt"  tvg-logo="https://i.imgur.com/Zl40NYi.jpg" ,Kuriakos Music [PT] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="KuriakosMusic.pt"  tvg-logo="https://kuriakos.com/wp-content/uploads/2023/09/263x196_v1.png" ,Kuriakos Music [PT] [1080p]
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ONFM.pt"  tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" ,ON FM [PT] [720p]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
@@ -3005,9 +3003,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="AtomicAcademyTV.ro"  tvg-logo="https://i.imgur.com/ZbrDIbZ.png" ,Atomic Academy TV [RO]
 https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="HD365TV.ro"  tvg-logo="https://i.imgur.com/2cLx4ja.png" ,HD365 TV [RO]
-https://testcam.go.ro:8080/hls/hd365.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ImpactTVDance.ro"  tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Dance [RO] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ImpactTVDance.ro"  tvg-logo="https://www.tvonline123.com/uploads/logos/c3cccad5d67295ac.webp" ,Impact TV Dance [RO] [1080p]
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ImpactTVManele.ro"  tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Manele [RO] [1080p]
 https://online.tvimpact.live/hls/impact_tv.m3u8
@@ -3033,7 +3029,7 @@ http://83.103.149.75:8085/udp/239.30.0.9:4000
 http://78.96.33.89:8080
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Tele7music.ro"  tvg-logo="https://i.imgur.com/11b5W8u.png" ,Tele7music [RO] [720p]
 https://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Clubbing TV HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/81/Logo_Clubbing_TV.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clubbing TV HD [RUS]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Clubbing TV HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/81/Logo_Clubbing_TV.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clubbing TV [RU] [1080p] 
 http://stream.skaz.tv/stream/ch524/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ClubbingTV.us@France"  tvg-logo="https://i.imgur.com/MyiA92q.png" ,Clubbing TV France [1080p]
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
@@ -3087,7 +3083,7 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="KralPopTV.tr"  tvg-logo="https://i.imgur.com/ch365lh.png" ,KRAL Pop TV [TR] [720p]
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MedMuzik.tr"  tvg-logo="https://i.postimg.cc/05d9mzJZ/medmuzik.png" ,Med Muzik [TR] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MedMuzik.tr"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6YAq0YfweYbTFfkc60vvLBUyRGMmQx2jDA&s" ,Med Muzik [TR] [1080p]
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="nr1-turk-tr"  tvg-logo="https://i.imgur.com/02cDIBi.png" ,Number 1 [TR] [720p]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8?md5=fj_z59I71Ub6DdcJno_QHA&expires=1706738165
@@ -3115,8 +3111,6 @@ https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PowerTurkTaptaze.tr"  tvg-logo="https://i.imgur.com/a5nW3HU.png"   tvg-name="PowerTürk Taptaze",Power Türk Taptaze [TR] [1080p]
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TMB.tr"  tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo.png" ,TMB [TR] [1080p]
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="30AMusic.us"  tvg-logo="https://i.imgur.com/gNWg9tl.png"   tvg-name="30A Music [us]",30A Music [US] [720p]
 https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="CaliforniaMusicChannel.us"  tvg-logo="https://i.imgur.com/L38mC6H.png"   tvg-name="California Music Channel [us]",California Music Channe [US] [1080p]
@@ -3133,16 +3127,14 @@ https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="NEWKPOP.us"  tvg-logo="https://i.imgur.com/B7ILXMc.png" ,NEW K-POP [US] [1080p]
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VallenatoInternacional.us"  tvg-logo="https://i.imgur.com/rVKroNW.png" ,Vallenato Internacional [US] [720p]
-https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="KMBYLD5.us"  tvg-logo="https://i.imgur.com/GlpYAKt.png"   tvg-name="Blues Television Network",KMBY-LD5 [US] [720p]
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SKY HIGH Spirit"  tvg-logo="https://i.imgur.com/yCp6vXz.png"   tvg-name="Spirit TV",Spirit TV [US]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SKY HIGH Spirit"  tvg-logo="https://i.imgur.com/yCp6vXz.png"   tvg-name="Spirit TV",Spirit TV [US] [720p]
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SpiritTV.us"  tvg-logo="https://i.imgur.com/yCp6vXz.png" ,Spirit TV (720p) [Not 24/7]
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TropicalMusicTV.us"  tvg-logo="https://i.imgur.com/h48pwLn.png" ,Tropical Music TV [US] [720p]
 https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VallenatoInternacional.us"  tvg-logo="https://i.imgur.com/rVKroNW.png" ,Vallenato Internacional [US] [720p]
+https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="box-metall"  tvg-logo="https://epg.iptvx.one/picons/box-metall.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Metall HD
 http://stream.skaz.tv/stream/ch2491/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="box-ru-rap"  tvg-logo="https://epg.iptvx.one/picons/box-ru-rap.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX RU.RAP HD
@@ -3237,26 +3229,26 @@ http://stream.skaz.tv/stream/ch1957/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1959/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Sky High Music HD"  tvg-logo="http://s.skaz.tv/tvicon/3178.png"   catchup="fs" tvg-rec="3" timeshift="0", Sky High Music HD
 http://stream.skaz.tv/stream/ch3178/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayClassica.ca"  tvg-logo="https://i.imgur.com/nh1k5RC.png" ,Stingray Classica [CA] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="stingray-classica"  tvg-logo="https://i.imgur.com/nh1k5RC.png" ,Stingray Classica [CA] [1080p]
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayClassicRock.ca"  tvg-logo="https://i.imgur.com/FBgu8yB.png" ,Stingray Classic Rock [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="c-music-tv"  tvg-logo="https://epg.iptvx.one/picons/c-music-tv.png"   catchup="fs" tvg-rec="3" timeshift="0",Stingray CMusic [CA]
 http://stream.skaz.tv/stream/ch660/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Stingray CMusic HD"  tvg-logo="http://skaz.tv/tvicon/660.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Stingray CMusic HD
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="c-music-tv"  tvg-logo="http://skaz.tv/tvicon/660.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Stingray CMusic [CA]
 http://stream.skaz.tv/stream/ch660/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayEasyListening.ca"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" ,Stingray Easy Listening [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayFlashback70s.ca"  tvg-logo="https://i.imgur.com/jf5C9QF.png" ,Stingray Flashback 70s [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayGreatestHits.ca@Poland" ,Stingray Greatest Hits [CA] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayGreatestHits.ca@Poland"  tvg-logo="https://i.imgur.com/4xVVKH8.png" ,Stingray Greatest Hits [CA] [1080p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayHolidayHits.ca"  tvg-logo="https://i.imgur.com/4xVVKH8.png" ,Stingray Greatest Hits [CA] [1080p]
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayHitList.ca"  tvg-logo="https://i.imgur.com/lgpIwId.png" ,Stingray Hit List [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayHitList.ca@Poland"  tvg-logo="https://i.imgur.com/lgpIwId.png" ,Stingray Hitlist [CA] [1080p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayHolidayHits.ca"  tvg-logo="https://i.imgur.com/4xVVKH8.png" ,Stingray Holiday Hits [CA] [1080p]
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶" ,Stingray HolidayScapes
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="HMIPROMZNEWS.us"  tvg-logo="https://i.ibb.co/DwhwZgX/resize-52.png"   tvg-name="HolidayScapes",Stingray HolidayScapes
@@ -3273,9 +3265,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayPopAdult.ca"  tvg-logo="https://i.imgur.com/H2ugC9L.png" ,Stingray Pop Adult [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="QelloConcertsbyStingray.ca@Poland"  tvg-logo="https://i.imgur.com/IRyFTWq.png" ,Stingray Qello Concerts by Stingray [CA] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="stingray-qello"  tvg-logo="https://i.imgur.com/IRyFTWq.png" ,Stingray Qello Concerts by Stingray [CA] [1080p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayEverything80s.ca"  tvg-logo="https://i.imgur.com/6E3wYrb.png" ,Stingray Remember the 80s [CA] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayEverything80s.ca"  tvg-logo="https://i.imgur.com/duwc8E8.png" ,Stingray Remember the 80s [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayRememberthe80s.ca@Poland"  tvg-logo="https://i.imgur.com/duwc8E8.png" ,Stingray Remember the 80s [CA] [1080p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
@@ -3295,28 +3287,24 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayUrbanBeat.ca"  tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Urban Beat [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Eurodance 90s"  tvg-logo="http://s.skaz.tv/tvicon/2765.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Eurodance 90s
-http://stream.skaz.tv/stream/ch2765/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="velilla-hardheavyconc"  tvg-logo="https://epg.iptvx.one/picons/velilla-hardheavyconc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Vellilla TV Hard and Heavy Concerts HD
-http://stream.skaz.tv/stream/ch2871/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Pop And Rock Concerts HD"  tvg-logo="http://s.skaz.tv/tvicon/2767.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Pop And Rock Concerts HD
-http://stream.skaz.tv/stream/ch2767/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Russiandance 90s"  tvg-logo="http://s.skaz.tv/tvicon/2749.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Russiandance 90s
-http://stream.skaz.tv/stream/ch2749/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VeleS Dj Set"  tvg-logo="http://skaz.tv/tvicon/2593.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Dj Set
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VeleS Dj Set"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS DJ Set [1080p]
 http://stream.skaz.tv/stream/ch2593/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV Music Hits"  tvg-logo="http://skaz.tv/tvicon/1305.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Music Hits
-http://stream.skaz.tv/stream/ch1305/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VeleS Магнитофон"  tvg-logo="http://skaz.tv/tvicon/2599.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Магнитофон
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VeleS Магнитофон"  tvg-logo="https://epg.iptvx.one/picons/veles-mafon.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Магнитофон [1080p]
 http://stream.skaz.tv/stream/ch2599/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV C-Live"  tvg-logo="https://epg.iptvx.one/picons/c-live.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Live
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Eurodance 90s"  tvg-logo="https://epg.iptvx.one/picons/velilla-eurodance90s.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Eurodance 90s [720p]
+http://stream.skaz.tv/stream/ch2765/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Russiandance 90s"  tvg-logo="https://epg.iptvx.one/picons/velilla-rusdance.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Russiandance 90s
+http://stream.skaz.tv/stream/ch2749/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="velilla-hardheavyconc"  tvg-logo="https://epg.iptvx.one/picons/velilla-hardheavyconc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Vellilla TV Hard and Heavy Concerts [1080p]
+http://stream.skaz.tv/stream/ch2871/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Pop And Rock Concerts HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-poprockconc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Pop And Rock Concerts [1080p]
+http://stream.skaz.tv/stream/ch2767/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV C-Live"  tvg-logo="https://epg.iptvx.one/picons/c-live.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Live [1080p]
 http://stream.skaz.tv/stream/ch2064/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV Шансон"  tvg-logo="https://epg.iptvx.one/picons/yosso-shanson.png"   catchup="fs" tvg-rec="3" timeshift="0",Yosso TV Шансон
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV Music Hits"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Music Hits [1080p]
+http://stream.skaz.tv/stream/ch1305/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV Шансон"  tvg-logo="https://epg.iptvx.one/picons/yosso-shanson.png"   catchup="fs" tvg-rec="3" timeshift="0",Yosso TV Шансон [1080p]
 http://stream.skaz.tv/stream/ch3705/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SomosTopoPointTV.do"  tvg-logo="https://i.imgur.com/7Jx45yQ.png" ,Somos Topo Point TV (1080p) [Not 24/7]
-https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TeleCaribe.do"  tvg-logo="https://i.imgur.com/zDL8mGu.png" ,TeleCaribe TV
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR=
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="BOX Music 4K"  tvg-logo="http://skaz.tv/tvicon/2295.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Music 4K
 http://stream.skaz.tv/stream/ch2295/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K BluesString"  tvg-logo="http://skaz.tv/tvicon/1294.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K BluesString
@@ -7231,6 +7219,8 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TV1KG.kg"  tvg-logo="https://i.imgur.com/Mti9t9C.png" ,TV1 KG (1080p)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TMB.tr"  tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo.png" ,TMB [TR] [1080p]
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="360.tr"  tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV (720p) [Not 24/7]
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AHaber.tr"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" ,A Haber
