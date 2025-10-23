@@ -6755,7 +6755,7 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 #EXTINF:-1  group-title="لبنان‎ 🇱🇧"  tvg-id="VoiceofLebanon.lb"  tvg-logo="https://i.imgur.com/f8WcqRY.png" ,Voice of Lebanon (1080p)
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/mqfZW8R/image-2024-10-03-T071509-592.png"   tvg-name="Uzbekistan 24",Ozbekiston24 HD
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/mqfZW8R/image-2024-10-03-T071509-592.png"   tvg-name="Uzbekistan 24",Ozbekiston24 HD.uz
 https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/SVPwkhL/image-2024-10-03-T064923-042.png"   tvg-name="Uzbekiston HD",Ozbekiston.uz
 http://31.148.197.2:5001/
@@ -6763,7 +6763,7 @@ http://31.148.197.2:5001/
 https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/zH4DjYW/resize-2024-10-03-T071309-316.png"   tvg-name="Ozbekiston Tarixi HD UZ", Ozbekiston Tarixi HD UZ
 https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/5cgBTyy/resize-2024-10-03-T065029-321.png"   tvg-name="Toshkent",Toshkent
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/5cgBTyy/resize-2024-10-03-T065029-321.png"   tvg-name="Toshkent",Toshkent.uz
 https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/MNfnL5m/resize-2024-10-03-T080514-911.png"   tvg-name="Aqlvoy TV UZ", Aqlvoy TV UZ
 https://stream2.cinerama.uz/1205/tracks-v1a1/mono.m3u8
