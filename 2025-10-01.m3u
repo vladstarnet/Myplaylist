@@ -1375,15 +1375,15 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/rossija-hd/video.m3u8
 http://stream.skaz.tv/stream/ch002/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia1"  tvg-logo="http://skaz.tv/tvicon/853.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Россия 1 HD orig
 http://stream.skaz.tv/stream/ch853/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-ua"  tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png" ,Россия РТР СНГ
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-ua"  tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png" ,Россия РТР СНГ [720p]
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-azia"  tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Россия РТР Азия
 http://stream.skaz.tv/stream/ch337/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-eu"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,PLANETA RTR Europe
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-eu"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,PLANETA RTR Europe [720p]
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-eu"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,PLANETA RTR Europe
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-eu"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,PLANETA RTR Europe [720p]
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-amerika"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,PLANETA RTR USA
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtr-planeta-amerika"  tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg" ,PLANETA RTR USA [720p]
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia-24"  tvg-logo="http://skaz.tv/tvicon/7.png" ,Pоссия 24 HD
 http://stream.skaz.tv/stream/ch007/fde215a0/mono.m3u8
@@ -1561,7 +1561,7 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/rtvi/video.m3u8
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://i.imgur.com/v0OYe1d.png" ,Соловьев.Live [1080p]
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="VmesteRF.ru"  tvg-logo="https://i.imgur.com/KI1qZNc.png" ,Вместе РФ
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="vmeste-rf	"  tvg-logo="https://i.imgur.com/KI1qZNc.png" ,Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="dumatv"  tvg-logo="https://i.imgur.com/JvlO3PU.png" ,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
@@ -1791,7 +1791,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="12-omsk"  tvg-logo="https://epg.iptvx.one/picons/12-omsk.png" ,12 канал (Омск) [1080p]
 https://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="12-omsk	"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZLMOJIMHr1R2UGSQwG_HQ9FA0xtX2NxMMQst4gLCVXe-T-jUhM76RlMRWhzvsuoJnes&usqp=CAU" ,12 канал (Омск) [1080p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="12-omsk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZLMOJIMHr1R2UGSQwG_HQ9FA0xtX2NxMMQst4gLCVXe-T-jUhM76RlMRWhzvsuoJnes&usqp=CAU" ,12 канал (Омск) [1080p]
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="obkom"  tvg-logo="https://obkom-tv.ru/images/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%20%D0%9E%D0%91%D0%9A%D0%9E%D0%9C%20%D0%A2%D0%92.png"   tvg-name="Обком ТВ (Омск)",Обком ТВ (Омск)
 https://www.omsk-kprf.ru/hls/stream.m3u8
@@ -1809,7 +1809,7 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ramenskoe-tv"  tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png"   tvg-name="Раменской ТВ",Раменское ТВ (Раменское) [720p]
 https://e10-ll.facecast.net/rtv/0.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tkr-ryazan"  tvg-logo="https://i.imgur.com/VqtPB7L.png" ,ТКР (Рязань) [720p]
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="trk-ryazan"  tvg-logo="https://i.imgur.com/VqtPB7L.png" ,ТКР (Рязань) [720p]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="echotv"  tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо TV (Рязань)
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -2077,7 +2077,7 @@ http://cdnua05.hls.tv/646/hls/f62d71219200da4130d13b21d23fb23c/4796/stream.m3u8
 http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4797/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-sumy"  tvg-logo="https://i.imgur.com/U5GQiUz.png" ,Суспільне Суми
 http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
-#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.imgur.com/rxXyCY7.png" ,Суспільне Тернопiль
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-ternopil"  tvg-logo="https://i.imgur.com/rxXyCY7.png" ,Суспільне Тернопiль
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-xarkiv"  tvg-logo="https://i.imgur.com/D00PIKE.png" ,Суспільне Харків
 http://cdnua05.hls.tv/631/hls/f62d71219200da4130d13b21d23fb23c/4799/stream.m3u8
@@ -2349,7 +2349,7 @@ http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4804/stream.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/music-box-gold/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Music Box Gold"  tvg-logo="https://af-play.com/storage/images/pack_logos/c27b8e923e8be5901d7baae7f3b9a0b3.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Music Box Gold
 http://stream.skaz.tv/stream/ch650/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Russian MusicBox HD"  tvg-logo="https://af-play.com/storage/images/pack_logos/f9b8c79f4b61674bae69678ab7a5f0ae.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MusicBox Russia [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="russian-musicbox-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/f9b8c79f4b61674bae69678ab7a5f0ae.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MusicBox Russia [1080p]
 http://stream.skaz.tv/stream/ch555/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="russian-musicbox-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/f9b8c79f4b61674bae69678ab7a5f0ae.png"   tvg-rec="0",MusicBox Russia [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/russian-musicbox-hd/video.m3u8
@@ -3081,7 +3081,7 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="dream-turk-tr"  tvg-logo="https://i.imgur.com/vJ8VaZi.png" ,Dream Türk [TR] [720p]
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="KralPopTV.tr"  tvg-logo="https://i.imgur.com/ch365lh.png" ,KRAL Pop TV [TR] [720p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/ch365lh.png" ,KRAL Pop TV [TR] [720p]
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MedMuzik.tr"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6YAq0YfweYbTFfkc60vvLBUyRGMmQx2jDA&s" ,Med Muzik [TR] [1080p]
 http://54.36.110.140/live3/live3.m3u8
