@@ -6759,22 +6759,22 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/SVPwkhL/image-2024-10-03-T064923-042.png"   tvg-name="Uzbekiston HD",Ozbekiston.uz
 http://31.148.197.2:5001/
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/SVPwkhL/image-2024-10-03-T064923-042.png"   tvg-name="Uzbekiston", Uzbekiston
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/SVPwkhL/image-2024-10-03-T064923-042.png"   tvg-name="Uzbekiston",Ozbekiston.uz
 https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/zH4DjYW/resize-2024-10-03-T071309-316.png"   tvg-name="Ozbekiston Tarixi HD UZ", Ozbekiston Tarixi HD UZ
 https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/5cgBTyy/resize-2024-10-03-T065029-321.png"   tvg-name="Toshkent",Toshkent.uz
 https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/MNfnL5m/resize-2024-10-03-T080514-911.png"   tvg-name="Aqlvoy TV UZ", Aqlvoy TV UZ
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/MNfnL5m/resize-2024-10-03-T080514-911.png"   tvg-name="Aqlvoy TV UZ",Aqlvoy
 https://stream2.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/sWMMC7f/resize-2024-10-03-T075830-050.png"   tvg-name="Bolajon",Bolajon
+https://stream1.cinerama.uz/1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/wWt12Sj/resize-2024-10-03-T075610-330.png"   tvg-name="Dunyo bo`ylab UZ",Dunyo bo`ylab HD.uz
+https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/3s5FRRN/resize-2024-10-03-T080202-267.png"   tvg-name="Biz Cinema UZ", Biz Cinema UZ
 https://stream2.cinerama.uz/1213/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/HzDprBB/resize-2024-10-03-T080432-031.png"   tvg-name="BizTV HD UZ", BizTV HD UZ
 https://stream1.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/sWMMC7f/resize-2024-10-03-T075830-050.png"   tvg-name="Bolajon", Bolajon
-https://stream1.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/wWt12Sj/resize-2024-10-03-T075610-330.png"   tvg-name="Dunyo bo`ylab UZ", Dunyo bo`ylab UZ
-https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/tz84ZTY/image-2024-10-03-T075300-943.png"   tvg-name="Foreign Languages UZ", Foreign Languages UZ
 https://stream1.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/HnmxPkh/resize-2024-10-03-T075033-603.png"   tvg-name="Istiqlol TV", Istiqlol TV
