@@ -3261,6 +3261,8 @@ http://stream.skaz.tv/stream/ch324/fde215a0/mono.m3u8
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayNaturescape.ca@Poland"  tvg-logo="https://i.imgur.com/882kd90.png" ,Stingray Naturescape [CA] [1080p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/882kd90.png" ,Stingray Naturescape [CA] [1080p]
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayNothinBut90s.ca"  tvg-logo="https://i.imgur.com/Tq3I0po.png" ,Stingray Nothin' But 90s [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayPopAdult.ca"  tvg-logo="https://i.imgur.com/H2ugC9L.png" ,Stingray Pop Adult [CA] [1080p]
@@ -3281,12 +3283,16 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayTheSpa.ca"  tvg-logo="https://i.imgur.com/ywAN923.png" ,Stingray The Spa [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="c-music-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" ,Stingray The Spa [CA] [1080p]
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayTodaysKPop.ca"  tvg-logo="https://i.imgur.com/mMbntB5.png" ,Stingray Today's KPOP [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayTodaysLatinPop.ca"  tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Today's Latin Pop [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayUrbanBeat.ca"  tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Urban Beat [CA] [1080p]
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingrayzenlifeus/logos/3p-logo._CB561106635_.png" ,Stingray Zen LIFE by Sringray [CA] [1080p]
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VeleS Dj Set"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS DJ Set [1080p]
 http://stream.skaz.tv/stream/ch2593/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VeleS Магнитофон"  tvg-logo="https://epg.iptvx.one/picons/veles-mafon.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Магнитофон [1080p]
@@ -3333,10 +3339,10 @@ http://stream.skaz.tv/stream/ch1549/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2504/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K World Music"  tvg-logo="http://skaz.tv/tvicon/1435.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K World Music
 http://stream.skaz.tv/stream/ch1435/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="clarity4k-relaxkamin"  tvg-logo="http://s.skaz.tv/tvicon/1440.png"   catchup="fs" tvg-rec="3" timeshift="0",Clarity 4K Города
-http://stream.skaz.tv/stream/ch1440/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="box-relax"  tvg-logo="http://skaz.tv/tvicon/2298.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Relax 4K
 http://stream.skaz.tv/stream/ch2298/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="clarity4k-relaxkamin"  tvg-logo="http://s.skaz.tv/tvicon/1440.png"   catchup="fs" tvg-rec="3" timeshift="0",Clarity 4K Города
+http://stream.skaz.tv/stream/ch1440/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="CineMan Relax 4K"  tvg-logo="http://skaz.tv/tvicon/2311.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Relax 4K
 http://stream.skaz.tv/stream/ch2311/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝" ,Cozy Vibes 4K
@@ -3355,109 +3361,103 @@ https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://stream.skaz.tv/stream/ch1041/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5B906B36-29CB-441B-ADCD-921E22A67BDD/3-1x1.png/200?webp=1" ,Drone TV [1080p]
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="MM Relax HD"  tvg-logo="http://skaz.tv/tvicon/1235.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MM Relax HD
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="MM Relax HD"  tvg-logo="http://skaz.tv/tvicon/1235.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MM Relax [1080p]
 http://stream.skaz.tv/stream/ch1235/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://images.squarespace-cdn.com/content/v1/63c3258c581d890cfed21010/6e3f94da-cb34-4558-9808-4d1c767ee875/Icon-background-transparency.png" ,NatureStreamTV
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://images.squarespace-cdn.com/content/v1/63c3258c581d890cfed21010/6e3f94da-cb34-4558-9808-4d1c767ee875/Icon-background-transparency.png" ,NatureStreamTV [720p]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/72JmyjM.png" ,Nature Time [1080p]
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" ,Relaxon
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" ,Relaxon [1080p]
 http://176.122.99.7:7000/ch317/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" ,Relaxon
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" ,Relaxon [1080p]
 http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="ch3281"  tvg-logo="http://s.skaz.tv/tvicon/3281.png" ,SkyCam Relax
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="ch3281"  tvg-logo="http://s.skaz.tv/tvicon/3281.png" ,SkyCam Relax [720p]
 http://stream.skaz.tv/stream/ch3281/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="c-music-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" ,Stingray Music
-https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/882kd90.png" ,Stingray Nature Scape
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="ThisisBulgariaHD.bg"  tvg-logo="https://i.imgur.com/062jkXw.png" ,This is Bulgaria HD (1080p)
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="ThisisBulgariaHD.bg"  tvg-logo="https://i.imgur.com/062jkXw.png" ,This is Bulgaria HD [1080p]
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝" ,Zen LIFE by Sringray
-https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="SuperyachtTV.mc"  tvg-logo="https://i.imgur.com/cgjgjE1.png" ,Superyacht TV [MC]
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="SuperyachtTV.mc"  tvg-logo="https://i.imgur.com/cgjgjE1.png" ,Superyacht TV [MC] [1080p]
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="travel-guide-tv"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZJZyARXCa9EsSNjzAbsG6kr0y0RdY4PLoX8MBE-b9BzJw-ScrB5uM9tg5XPsLlboaA&usqp=CAU" ,Travel Guide TV [720p]
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="AccuWeatherNOW.us"  tvg-logo="https://i.imgur.com/M8wbVYK.png" ,AccuWeather Now (1080p)
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="AccuWeatherNOW.us"  tvg-logo="https://i.imgur.com/M8wbVYK.png" ,AccuWeather Now [720p]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/tHopHL9.png" ,Beach TV (Pawleys Island) (720p)
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/tHopHL9.png" ,Beach TV [Pawleys Island] [720p]
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" ,Avia Stream
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" ,Avia Stream [1080p]
 http://iptv.prosto.tv:7000/ch306/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" ,Аквариум
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" ,Аквариум [1080p]
 http://iptv.prosto.tv:7000/ch325/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.ibb.co/CzYhfdh/resize-2024-10-03-T144422-466.png"   tvg-name="Аквариум", Аквариум
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.ibb.co/CzYhfdh/resize-2024-10-03-T144422-466.png"   tvg-name="Аквариум",Аквариум [720p]
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg" ,Горная долина
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg" ,Полонина [1080p]
 http://iptv.prosto.tv:7000/ch302/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" ,Дожди
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" ,Дощ [1080p]
 http://iptv.prosto.tv:7000/ch304/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" ,Железная дорога
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" ,Железная дорога [1080p]
 http://iptv.prosto.tv:7000/ch348/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" ,Зоо
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" ,Зоо [1080p]
 http://iptv.prosto.tv:7000/ch319/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" ,Камин
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" ,Камин [1080p]
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" ,Катастрофы
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" ,Катастрофы [1080p]
 http://iptv.prosto.tv:7000/ch312/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" ,Пейзаж
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" ,Краєвид [1080p]
 http://iptv.prosto.tv:7000/ch343/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" ,Подводный мир
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" ,Підводний Світ [1080p]
 http://iptv.prosto.tv:7000/ch305/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" ,Про Факт
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" ,Про Факт [1080p]
 http://iptv.prosto.tv:7000/ch315/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg" ,Просто Бассейн
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg" ,Просто Басейн [1080p]
 http://iptv.prosto.tv:7000/ch345/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg" ,Просто Водопад
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg" ,Просто Водопад [1080p]
 http://iptv.prosto.tv:7000/ch329/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" ,Просто Горы
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" ,Просто Горы [1080p]
 http://iptv.prosto.tv:7000/ch340/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" ,Просто Джунгли
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" ,Просто Джунгли [1080p]
 http://iptv.prosto.tv:7000/ch339/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="zima"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" ,Просто Зима
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="zima"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" ,Просто Зима [1080p]
 https://iptv.prosto.tv/ch327/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" ,Просто Комната релакс
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" ,Просто Комната релакс [1080p]
 http://iptv.prosto.tv:7000/ch328/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg" ,Просто Ночь
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg" ,Просто Ночь [1080p]
 http://iptv.prosto.tv:7000/ch349/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg" ,Просто Огонь
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg" ,Просто Огонь [1080p]
 http://iptv.prosto.tv:7000/ch331/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg" ,Просто Озеро
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg" ,Просто Озеро [1080p]
 http://iptv.prosto.tv:7000/ch341/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝" ,Просто Парк
+#EXTINF:-1  group-title="Relax & Style 🏝" ,Просто Парк [1080p]
 http://iptv.prosto.tv:7000/ch350/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg" ,Просто Пляж
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg" ,Просто Пляж [1080p]
 http://iptv.prosto.tv:7000/ch332/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" ,Просто Река
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" ,Просто Река [1080p]
 http://iptv.prosto.tv:7000/ch338/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="rybalka"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" ,Просто Рыбалка
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="rybalka"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" ,Просто Рыбалка [1080p]
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg" ,Просто Сад
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg" ,Просто Сад [1080p]
 http://iptv.prosto.tv:7000/ch347/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" ,Просто Терраса
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" ,Просто Терраса [1080p]
 https://iptv.prosto.tv/ch336/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" ,Просто Украина
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" ,Просто Украина [1080p]
 http://iptv.prosto.tv:7000/ch303/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg" ,Свет вокруг
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg" ,Свет вокруг [1080p]
 http://iptv.prosto.tv:7000/ch351/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png" ,Space Stream
 http://iptv.prosto.tv:7000/ch314/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" ,Stream City
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" ,Stream City [1080p]
 http://iptv.prosto.tv:7000/ch321/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg" ,Тропики
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg" ,Тропики [1080p]
 http://iptv.prosto.tv:7000/ch335/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg" ,Флора
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg" ,Флора [1080p]
 http://iptv.prosto.tv:7000/ch346/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.ibb.co/p3TRMbx/image-2024-10-03-T144321-407.png"   tvg-name="Шум моря", Шум моря
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/698be388-6e91-46d9-b2dc-d617aaa8bd75/1.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" ,ЭКО система
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" ,ЭКО система [1080p]
 http://iptv.prosto.tv:7000/ch316/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/mVc2g64.png"   tvg-name="Code Fashion", Code Fashion
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v3a1/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long%2Blogo_kaloopy.jpg"   tvg-name="Fashion TV Bikini Live",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/8f00dd6b-9a8e-4614-8537-dd95d5fd7707/0.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp" ,Kaloopy HD
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp" ,Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="Fashion TV HD"  tvg-logo="https://i.imgur.com/Bk7W39G.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fashion TV HD
 http://stream.skaz.tv/stream/ch550/fde215a0/mono.m3u8
