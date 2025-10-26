@@ -1933,8 +1933,6 @@ http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/oplot_2/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://i.imgur.com/pVPTl8J.png" ,За! TV (Мелитополь)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="tavria"  tvg-logo="https://i.imgur.com/gqung6i.png"   tvg-name="Таврия (Херсон)",Таврия
-http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="tavria"  tvg-logo="https://i.imgur.com/gqung6i.png" ,Таврия
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-pershy"  tvg-logo="https://af-play.com/storage/images/pack_logos/e5e8b41181342129a7a8ce1f0b4c34d6.png" ,Перший Національний HD
