@@ -1587,6 +1587,8 @@ http://stream.skaz.tv/stream/ch536/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch522/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Оружие"  tvg-logo="https://epg.iptvx.one/picons/oruzhie.png"   catchup="fs" tvg-rec="3" timeshift="0",Оружие
 http://stream.skaz.tv/stream/ch327/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="365 дней ТВ"  tvg-logo="https://epg.iptvx.one/picons/365-dnej.png"   catchup="fs" tvg-rec="3" timeshift="2", 365 дней ТВ
+http://stream.skaz.tv/stream/ch443/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="БОБЁР"  tvg-logo="https://epg.iptvx.one/picons/bobior.png"   catchup="fs" tvg-rec="3" timeshift="0",БОБЁР
 http://stream.skaz.tv/stream/ch075/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Здоровое ТВ"  tvg-logo="https://epg.iptvx.one/picons/zdorovoe-tv.png"   catchup="fs" tvg-rec="3" timeshift="0",Здоровое ТВ
@@ -3497,39 +3499,37 @@ http://stream.skaz.tv/stream/ch1980/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch566/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Глазами туриста HD"  tvg-logo="https://epg.iptvx.one/picons/glazami-turista.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Глазами туриста HD
 http://stream.skaz.tv/stream/ch632/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="365 дней ТВ"  tvg-logo="http://skaz.tv/tvicon/443.png"   catchup="fs" tvg-rec="3" timeshift="2", 365 дней ТВ
-http://stream.skaz.tv/stream/ch443/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Animal Planet HD"  tvg-logo="http://skaz.tv/tvicon/124.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Animal Planet HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Animal Planet HD"  tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Animal Planet HD
 http://stream.skaz.tv/stream/ch124/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Big Planet"  tvg-logo="http://skaz.tv/tvicon/1916.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Big Planet
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Big Planet"  tvg-logo="https://epg.iptvx.one/picons/big-planet.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Big Planet
 http://stream.skaz.tv/stream/ch1916/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Docu. HD"  tvg-logo="http://skaz.tv/tvicon/2286.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Docu. HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Docu. HD"  tvg-logo="https://epg.iptvx.one/picons/box-docu.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Docu. HD
 http://stream.skaz.tv/stream/ch2286/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Memory HD"  tvg-logo="http://skaz.tv/tvicon/2294.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Memory HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Memory HD"  tvg-logo="https://epg.iptvx.one/picons/box-memory.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Memory HD
 http://stream.skaz.tv/stream/ch2294/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Stories HD"  tvg-logo="http://skaz.tv/tvicon/2303.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Stories HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Stories HD"  tvg-logo="https://epg.iptvx.one/picons/box-stories.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Stories HD
 http://stream.skaz.tv/stream/ch2303/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Travel HD"  tvg-logo="http://skaz.tv/tvicon/2304.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Travel HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Travel HD"  tvg-logo="https://epg.iptvx.one/picons/box-travel.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Travel HD
 http://stream.skaz.tv/stream/ch2304/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Travel Premiere HD"  tvg-logo="http://skaz.tv/tvicon/2490.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Travel Premiere HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="BOX Travel Premiere HD"  tvg-logo="https://epg.iptvx.one/picons/box-travel.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Travel Premiere HD
 http://stream.skaz.tv/stream/ch2490/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍"  tvg-id="DocuBox HD"  tvg-logo="https://epg.iptvx.one/picons/docubox-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",DocuBox HD
 http://stream.skaz.tv/stream/ch656/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍"  tvg-id="discovery-channel"   tvg-rec="1" catchup-type="auto" catchup_days="3",Discovery Channel HD
 http://stream.skaz.tv/stream/ch123/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Discovery Science HD"  tvg-logo="http://skaz.tv/tvicon/722.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Discovery Science HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Discovery Science HD"  tvg-logo="https://epg.iptvx.one/picons/discovery-science-pl.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Discovery Science HD [PL]
 http://stream.skaz.tv/stream/ch722/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Investigation Discovery CEE HD"  tvg-logo="http://skaz.tv/tvicon/434.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Investigation Discovery HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Investigation Discovery CEE HD"  tvg-logo="https://epg.iptvx.one/picons/idxtra.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Investigation Discovery HD
 http://stream.skaz.tv/stream/ch434/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Epic HD"  tvg-logo="http://s.skaz.tv/tvicon/3328.png"   catchup="fs" tvg-rec="3" timeshift="3",Epic HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Epic HD"  tvg-logo="https://epg.iptvx.one/picons/epic.png"   catchup="fs" tvg-rec="3" timeshift="3",Epic HD
 http://stream.skaz.tv/stream/ch3328/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="HGTV HD"  tvg-logo="http://skaz.tv/tvicon/723.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",HGTV HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="HGTV HD"  tvg-logo="https://epg.iptvx.one/picons/hgtv.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",HGTV HD
 http://stream.skaz.tv/stream/ch723/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍"  tvg-id="Infinity:Подводная одиссея команды Кусто"  tvg-logo="http://s.skaz.tv/tvicon/3593.png"   catchup="fs" tvg-rec="3" timeshift="3", Infinity Nature
 http://stream.skaz.tv/stream/ch3593/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="History HD"  tvg-logo="http://skaz.tv/tvicon/432.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",History HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="History HD"  tvg-logo="https://epg.iptvx.one/picons/history.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",History HD
 http://stream.skaz.tv/stream/ch432/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="History2 HD"  tvg-logo="http://skaz.tv/tvicon/433.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",History2 HD
+#EXTINF:-1  group-title="Discover World 🌍"  tvg-id="History2 HD"  tvg-logo="https://epg.iptvx.one/picons/h2.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",History2 HD
 http://stream.skaz.tv/stream/ch433/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍"  tvg-id="KBC-Animals HD"  tvg-logo="http://skaz.tv/tvicon/2847.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Animals HD
 http://stream.skaz.tv/stream/ch2847/fde215a0/mono.m3u8
