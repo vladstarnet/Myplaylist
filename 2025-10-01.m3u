@@ -137,7 +137,7 @@ http://stream.skaz.tv/stream/ch614/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch689/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="bolt-ru"  tvg-logo="https://epg.iptvx.one/picons/bolt.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Болт
 http://stream.skaz.tv/stream/ch604/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="День Победы HD"  tvg-logo="https://epg.iptvx.one/picons/bolt.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",День Победы HD
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="День Победы HD"  tvg-logo="https://epg.iptvx.one/picons/denpobedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",День Победы HD
 http://stream.skaz.tv/stream/ch703/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="detkinoint-tviksel"  tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" ,Детское кино International 
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -173,10 +173,10 @@ http://stream.skaz.tv/stream/ch2079/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch077/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="КиноКульт HD"  tvg-logo="https://epg.iptvx.one/picons/kinokult.png" ,КиноКульт HD
 http://stream.skaz.tv/stream/ch3355/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinosat"  tvg-logo="https://epg.iptvx.one/picons/kinosat.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",КиноСат
-http://stream.skaz.tv/stream/ch619/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Кинопоказ"  tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Кинопоказ
 http://stream.skaz.tv/stream/ch466/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinosat"  tvg-logo="https://epg.iptvx.one/picons/kinosat.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",КиноСат
+http://stream.skaz.tv/stream/ch619/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kluch"  tvg-logo="https://epg.iptvx.one/picons/kluch.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Ключ ТВ
 http://stream.skaz.tv/stream/ch2307/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Комедийное HD"  tvg-logo="https://epg.iptvx.one/picons/komedijnoe-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Комедийное HD
@@ -253,7 +253,7 @@ http://stream.skaz.tv/stream/ch115/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch462/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский Иллюзион"  tvg-logo="https://epg.iptvx.one/picons/russky-illuzion.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский Иллюзион
 http://stream.skaz.tv/stream/ch101/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русская комедия"  tvg-logo="https://epg.iptvx.one/picons/russkaya-komedia.png" ,Русская  Комедия
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русская комедия"  tvg-logo="https://epg.iptvx.one/picons/russkaya-komedia.png" ,Русская Комедия
 http://stream.skaz.tv/stream/ch105/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Русский роман"  tvg-logo="https://epg.iptvx.one/picons/russky-roman.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Русский Роман
 http://stream.skaz.tv/stream/ch132/fde215a0/mono.m3u8
@@ -271,10 +271,10 @@ http://stream.skaz.tv/stream/ch3354/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch468/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Тайна"  tvg-logo="https://epg.iptvx.one/picons/tayna.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Тайна
 http://stream.skaz.tv/stream/ch543/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Техно 24"  tvg-logo="https://epg.iptvx.one/picons/texno-24.png"   catchup="fs" tvg-rec="3" timeshift="0", Техно 24
-http://stream.skaz.tv/stream/ch438/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="ТВ3"  tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",ТВ3
 http://stream.skaz.tv/stream/ch024/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Техно 24"  tvg-logo="https://epg.iptvx.one/picons/texno-24.png"   catchup="fs" tvg-rec="3" timeshift="0", Техно 24
+http://stream.skaz.tv/stream/ch438/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-action"  tvg-logo="https://af-play.com/storage/images/channel_logos/a63fe2c6c2ddc0d01c6764a991697023.png"   tvg-rec="7" catchup-days="7",Твоє кіно. Action HD [UA]
 http://bethoven.af-stream.com:1600/s/yokrgdit/tvoe-kino-action-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-action" ,Твоє кіно. Action HD [UA]
