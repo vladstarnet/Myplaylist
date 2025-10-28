@@ -399,7 +399,7 @@ http://stream.skaz.tv/stream/ch2707/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2033/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Russian 4K"  tvg-logo="https://epg.iptvx.one/picons/box-russian-4k.png" ,BOX Russian 4K
 http://stream.skaz.tv/stream/ch1949/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Serial 4K"  tvg-logo="https://epg.iptvx.one/picons/box-serial.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Serial 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Serial 4K"  tvg-logo="https://epg.iptvx.one/picons/box-serial-premiere-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Serial 4K
 http://stream.skaz.tv/stream/ch2300/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX UltraStars 4K"  tvg-logo="https://epg.iptvx.one/picons/box-ultrastars-4k.png" ,BOX UltraStars 4K
 http://stream.skaz.tv/stream/ch2931/fde215a0/mono.m3u8
@@ -515,17 +515,17 @@ http://stream.skaz.tv/stream/ch1743/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1776/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Liberty Ужасы 4K"  tvg-logo="http://skaz.tv/tvicon/1742.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Ужасы 4K
 http://stream.skaz.tv/stream/ch1742/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="MS Magic HD"  tvg-logo="http://s.skaz.tv/tvicon/3038.png"   catchup="fs" tvg-rec="3" timeshift="3",MS Magic UHD
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="MS Magic HD"  tvg-logo="https://epg.iptvx.one/picons/minimax-ms-magic-4k.png"   catchup="fs" tvg-rec="3" timeshift="3",MS Magic UHD
 http://stream.skaz.tv/stream/ch3038/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="MM Flip UHD"  tvg-logo="http://skaz.tv/tvicon/1262.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MM Flip UHD
 http://stream.skaz.tv/stream/ch1262/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Velilla TV Cinema 4K"  tvg-logo="http://s.skaz.tv/tvicon/3135.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Cinema 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Velilla TV Cinema 4K"  tvg-logo="https://epg.iptvx.one/picons/velilla-cinema4k.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Cinema 4K
 http://stream.skaz.tv/stream/ch3135/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Yosso 4K"  tvg-logo="http://skaz.tv/tvicon/1316.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Yosso 4K"  tvg-logo="https://epg.iptvx.one/picons/yosso-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso 4K
 http://stream.skaz.tv/stream/ch1316/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Yosso TV Советские фильмы 4K"  tvg-logo="http://skaz.tv/tvicon/2063.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Советские фильмы 4K
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Yosso TV Советские фильмы 4K"  tvg-logo="https://epg.iptvx.one/picons/yosso-sovfilm4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Советские фильмы 4K
 http://stream.skaz.tv/stream/ch2063/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Кино UHD"  tvg-logo="http://skaz.tv/tvicon/511.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Кино UHD
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Кино UHD"  tvg-logo="https://epg.iptvx.one/picons/kino-ultra-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Кино UHD
 http://stream.skaz.tv/stream/ch511/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Catastrophe HD"  tvg-logo="http://skaz.tv/tvicon/770.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Catastrophe HD
 http://stream.skaz.tv/stream/ch770/fde215a0/mono.m3u8
