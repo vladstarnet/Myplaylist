@@ -543,7 +543,7 @@ http://stream.skaz.tv/stream/ch773/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch775/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="bcu-kinorating"  tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Kinorating HD
 http://stream.skaz.tv/stream/ch776/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Reality HD"  tvg-logo="http://skaz.tv/https://epg.iptvx.one/picons/bcu-reality.png/785.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Reality HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Reality HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-reality.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Reality HD
 http://stream.skaz.tv/stream/ch785/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Reality HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-reality.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Reality OLD HD
 http://stream.skaz.tv/stream/ch2743/fde215a0/mono.m3u8
@@ -559,10 +559,6 @@ http://stream.skaz.tv/stream/ch1545/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch788/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Stars HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Stars HD
 http://stream.skaz.tv/stream/ch835/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="bcu-stars"  tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Stars HD
-http://stream.skaz.tv/stream/ch590/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="bcu-stars"  tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Stars HD
-http://stream.skaz.tv/stream/ch790/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Survival HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-survival.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Survival HD
 http://stream.skaz.tv/stream/ch1444/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Survival HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-survival.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Survival OLD
@@ -589,17 +585,21 @@ http://stream.skaz.tv/stream/ch2290/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2291/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Hybrid HD"  tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Hybrid HD
 http://stream.skaz.tv/stream/ch2292/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Hybrid HD"  tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Hybrid HD 2
+http://stream.skaz.tv/stream/ch590/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Hybrid HD"  tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Hybrid HD 2
+http://stream.skaz.tv/stream/ch790/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Oscar HD"  tvg-logo="https://epg.iptvx.one/picons/box-oscar.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Oscar HD
 http://stream.skaz.tv/stream/ch2296/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Serial HD"  tvg-logo="http://skaz.tv/tvicon/2301.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Serial HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Serial HD"  tvg-logo="https://epg.iptvx.one/picons/box-serial.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Serial HD
 http://stream.skaz.tv/stream/ch2301/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Sitcom HD"  tvg-logo="http://skaz.tv/tvicon/401.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Sitcom HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Sitcom HD"  tvg-logo="https://epg.iptvx.one/picons/box-sitcom.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Sitcom HD
 http://stream.skaz.tv/stream/ch401/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Spy HD"  tvg-logo="http://skaz.tv/tvicon/2302.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Spy HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Spy HD"  tvg-logo="https://epg.iptvx.one/picons/box-spy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Spy HD
 http://stream.skaz.tv/stream/ch2302/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Western HD"  tvg-logo="http://skaz.tv/tvicon/2305.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Western HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Western HD"  tvg-logo="https://epg.iptvx.one/picons/box-western.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Western HD
 http://stream.skaz.tv/stream/ch2305/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Zombie HD"  tvg-logo="http://skaz.tv/tvicon/2306.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Zombie HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Zombie HD"  tvg-logo="https://epg.iptvx.one/picons/box-zombie.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Zombie HD
 http://stream.skaz.tv/stream/ch2306/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan"  tvg-logo="http://skaz.tv/tvicon/1030.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan
 http://stream.skaz.tv/stream/ch1030/fde215a0/mono.m3u8
