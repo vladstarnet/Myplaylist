@@ -293,35 +293,35 @@ http://stream.skaz.tv/stream/ch505/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch691/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Шокирующее HD"  tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Шокирующее HD
 http://stream.skaz.tv/stream/ch134/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Action HD"  tvg-logo="http://skaz.tv/tvicon/769.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Action HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Action HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-action-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Action HDR
 http://stream.skaz.tv/stream/ch769/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-comedy"  tvg-logo="http://skaz.tv/tvicon/772.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Comedy HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-comedy"  tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Comedy HDR
 http://stream.skaz.tv/stream/ch772/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Comedy HD"  tvg-logo="http://skaz.tv/tvicon/1000.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Comedy HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Comedy HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Comedy HDR
 http://stream.skaz.tv/stream/ch1000/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-cosmo-hdr"  tvg-logo="http://skaz.tv/tvicon/1003.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Cosmo HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-cosmo-hdr"  tvg-logo="https://epg.iptvx.one/picons/bcu-cosmo-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Cosmo HDR
 http://stream.skaz.tv/stream/ch1003/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-fantastic"  tvg-logo="http://skaz.tv/tvicon/2705.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Fantastic HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-fantastic"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-fantstic-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Fantastic HDR
 http://stream.skaz.tv/stream/ch2705/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Filmystic HD"  tvg-logo="http://skaz.tv/tvicon/774.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Filmystic HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Filmystic HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Filmystic HDR
 http://stream.skaz.tv/stream/ch774/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Marvel HD"  tvg-logo="http://skaz.tv/tvicon/311.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Marvel HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Marvel HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-marvel.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Marvel HDR
 http://stream.skaz.tv/stream/ch311/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-premiere"  tvg-logo="http://skaz.tv/tvicon/2706.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-premiere"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere HDR
 http://stream.skaz.tv/stream/ch2706/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere HD"  tvg-logo="http://skaz.tv/tvicon/778.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere HDR
 http://stream.skaz.tv/stream/ch778/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-kinozal-prem-1"  tvg-logo="http://skaz.tv/tvicon/2745.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 1 HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-kinozal-prem-1"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 1 HDR
 http://stream.skaz.tv/stream/ch2745/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere 1 HD"  tvg-logo="http://skaz.tv/tvicon/782.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 1 HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere 1 HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 1 HDR
 http://stream.skaz.tv/stream/ch782/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-kinozal-prem-2"  tvg-logo="http://skaz.tv/tvicon/2746.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 2 HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-kinozal-prem-2"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 2 HDR
 http://stream.skaz.tv/stream/ch2746/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere 2 HD"  tvg-logo="http://skaz.tv/tvicon/783.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 2 HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere 2 HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 2 HDR
 http://stream.skaz.tv/stream/ch783/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-kinozal-prem-3"  tvg-logo="http://skaz.tv/tvicon/2747.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 3 HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="bcu-kinozal-prem-3"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 3 HDR
 http://stream.skaz.tv/stream/ch2747/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere 3 HD"  tvg-logo="http://skaz.tv/tvicon/784.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 3 HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="BCU Premiere 3 HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-premium-premiere-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere 3 HDR
 http://stream.skaz.tv/stream/ch784/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="box-franchise-hdr"  tvg-logo="https://epg.iptvx.one/picons/box-franchise-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Franchise HDR
 http://stream.skaz.tv/stream/ch2288/fde215a0/mono.m3u8
@@ -329,8 +329,6 @@ http://stream.skaz.tv/stream/ch2288/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2929/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="box-kosmo-4k"  tvg-logo="https://epg.iptvx.one/picons/box-kosmo-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Kosmo 4K HDR
 http://stream.skaz.tv/stream/ch2312/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="box-serial-premiere-4k"  tvg-logo="https://epg.iptvx.one/picons/box-serial-premiere-4k.png" ,BOX Serial Premiere 4K HDR
-http://stream.skaz.tv/stream/ch2033/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="clarity4k-cinema001-hdr"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-cinema001-hdr.png"   tvg-name="Clarity4K Cinema MIX 1 HDR" catchup="fs" tvg-rec="3" timeshift="3",Clarity4K Cinema MIX 1 HDR
 http://stream.skaz.tv/stream/ch3340/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="clarity4k-cinema002-hdr"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-cinema002-hdr.png"   tvg-name="Clarity4K Cinema MIX 2 HDR" catchup="fs" tvg-rec="3" timeshift="3",Clarity4K Cinema MIX 2 HDR
@@ -375,7 +373,7 @@ http://stream.skaz.tv/stream/ch3439/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1977/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="sky-high-space-4k-hdr"  tvg-logo="https://epg.iptvx.one/picons/sky-high-space-4k-hdr.png"   catchup="fs" tvg-rec="3" timeshift="3",Sky High Space 4K HDR
 http://stream.skaz.tv/stream/ch1968/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="Yosso TV 4K HDR"  tvg-logo="http://skaz.tv/tvicon/496.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV 4K HDR
+#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="Yosso TV 4K HDR"  tvg-logo="https://epg.iptvx.one/picons/yosso-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV 4K HDR
 http://stream.skaz.tv/stream/ch496/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="True Motion 60Hz 💎✨"  tvg-id="bcu-trumotion"  tvg-logo="http://skaz.tv/tvicon/1429.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU TruMotion HD 60 Hz
 http://stream.skaz.tv/stream/ch1429/fde215a0/mono.m3u8
@@ -385,6 +383,8 @@ http://stream.skaz.tv/stream/ch2591/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2457/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="True Motion 60Hz 💎✨"  tvg-id="Yosso TV Best Box 60fps"  tvg-logo="http://s.skaz.tv/tvicon/3182.png"   catchup="fs" tvg-rec="3" timeshift="3",Yosso TV Best Box 60fps
 http://stream.skaz.tv/stream/ch3182/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="box-serial-premiere-4k"  tvg-logo="https://epg.iptvx.one/picons/box-serial-premiere-4k.png" ,BOX Serial Premiere 4K
+http://stream.skaz.tv/stream/ch2033/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="bcu-premiere-4k"  tvg-logo="http://skaz.tv/tvicon/553.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere Ultra 4K
 http://stream.skaz.tv/stream/ch553/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BCU Ultra 4K"  tvg-logo="http://skaz.tv/tvicon/849.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Ultra 4K
