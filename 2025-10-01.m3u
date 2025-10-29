@@ -601,107 +601,105 @@ http://stream.skaz.tv/stream/ch2302/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2305/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Zombie HD"  tvg-logo="https://epg.iptvx.one/picons/box-zombie.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Zombie HD
 http://stream.skaz.tv/stream/ch2306/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan"  tvg-logo="http://skaz.tv/tvicon/1030.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan"  tvg-logo="https://epg.iptvx.one/picons/cineman.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan
 http://stream.skaz.tv/stream/ch1030/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Action"  tvg-logo="http://skaz.tv/tvicon/1032.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Action
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Action"  tvg-logo="https://epg.iptvx.one/picons/cineman-action.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Action
 http://stream.skaz.tv/stream/ch1032/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Marvel"  tvg-logo="http://skaz.tv/tvicon/1035.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Marvel
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Marvel"  tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Marvel
 http://stream.skaz.tv/stream/ch1035/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Melodrama"  tvg-logo="http://skaz.tv/tvicon/1034.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Melodrama
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Melodrama"  tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Melodrama
 http://stream.skaz.tv/stream/ch1034/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Miniseries"  tvg-logo="http://skaz.tv/tvicon/2067.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Miniseries
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Miniseries"  tvg-logo="https://epg.iptvx.one/picons/cineman-miniseries.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Miniseries
 http://stream.skaz.tv/stream/ch2067/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Premium"  tvg-logo="http://skaz.tv/tvicon/2142.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Premium
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Premium"  tvg-logo="https://epg.iptvx.one/picons/cineman-premium.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Premium
 http://stream.skaz.tv/stream/ch2142/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Thriller"  tvg-logo="http://skaz.tv/tvicon/1033.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Thriller
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Thriller"  tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Thriller
 http://stream.skaz.tv/stream/ch1033/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Top"  tvg-logo="http://skaz.tv/tvicon/1031.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Top
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Top"  tvg-logo="https://epg.iptvx.one/picons/cineman-top.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Top
 http://stream.skaz.tv/stream/ch1031/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan VHS"  tvg-logo="http://skaz.tv/tvicon/1038.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan VHS
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan VHS"  tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan VHS
 http://stream.skaz.tv/stream/ch1038/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Военные Сериалы"  tvg-logo="http://s.skaz.tv/tvicon/3131.png"   catchup="fs" tvg-rec="3" timeshift="3",CineMan Военные Сериалы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Военные Сериалы"  tvg-logo="https://epg.iptvx.one/picons/cineman-vovserials.png"   catchup="fs" tvg-rec="3" timeshift="3",CineMan Военные Сериалы
 http://stream.skaz.tv/stream/ch3131/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Интерны"  tvg-logo="http://skaz.tv/tvicon/2925.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Интерны
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Интерны"  tvg-logo="https://epg.iptvx.one/picons/cineman.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Интерны
 http://stream.skaz.tv/stream/ch2925/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Катастрофы"  tvg-logo="http://skaz.tv/tvicon/1074.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Катастрофы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Катастрофы"  tvg-logo="https://epg.iptvx.one/picons/cineman-katastrofy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Катастрофы
 http://stream.skaz.tv/stream/ch1074/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Комедия"  tvg-logo="http://skaz.tv/tvicon/1037.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Комедия
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Комедия"  tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Комедия
 http://stream.skaz.tv/stream/ch1037/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id=" CineMan Комедийные сериалы"  tvg-logo="http://skaz.tv/tvicon/2925.png" ,CineMan Комедийные сериалы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id=" CineMan Комедийные сериалы"  tvg-logo="https://epg.iptvx.one/picons/cineman-komseri.png" ,CineMan Комедийные сериалы
 http://stream.skaz.tv/stream/ch2925/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Криминальные Сериалы"  tvg-logo="http://skaz.tv/tvicon/2748.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Криминальные Сериалы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Криминальные Сериалы"  tvg-logo="https://epg.iptvx.one/picons/cineman-gluhar.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Криминальные Сериалы
 http://stream.skaz.tv/stream/ch2748/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Лесник"  tvg-logo="http://skaz.tv/tvicon/1327.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Лесник
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Лесник"  tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Лесник
 http://stream.skaz.tv/stream/ch1327/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Ментовские войны"  tvg-logo="http://skaz.tv/tvicon/1325.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Ментовские войны
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Ментовские войны"  tvg-logo="https://epg.iptvx.one/picons/cineman-musw.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Ментовские войны
 http://stream.skaz.tv/stream/ch1325/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan ПёС"  tvg-logo="http://skaz.tv/tvicon/1326.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan ПёС
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan ПёС"  tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan ПёС
 http://stream.skaz.tv/stream/ch1326/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan РуКино"  tvg-logo="http://skaz.tv/tvicon/1039.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan РуКино
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan РуКино"  tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan РуКино
 http://stream.skaz.tv/stream/ch1039/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Сваты"  tvg-logo="http://skaz.tv/tvicon/1040.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Сваты
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Сваты"  tvg-logo="https://epg.iptvx.one/picons/cineman-svaty.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Сваты
 http://stream.skaz.tv/stream/ch1040/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Скорая помощь"  tvg-logo="http://skaz.tv/tvicon/1622.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Скорая помощь
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Скорая помощь"  tvg-logo="https://epg.iptvx.one/picons/cineman-skorpom.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Скорая помощь
 http://stream.skaz.tv/stream/ch1622/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2866"  tvg-logo="http://s.skaz.tv/tvicon/2866.png" ,CineMan СССР
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2866"  tvg-logo="https://epg.iptvx.one/picons/cineman-sssr-fhd.png" ,CineMan СССР
 http://stream.skaz.tv/stream/ch2866/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Ужасы"  tvg-logo="http://skaz.tv/tvicon/1036.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Ужасы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Ужасы"  tvg-logo="https://epg.iptvx.one/picons/cineman-uzhasy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Ужасы
 http://stream.skaz.tv/stream/ch1036/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Adventure"  tvg-logo="http://skaz.tv/tvicon/1721.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Adventure
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Adventure"  tvg-logo="https://epg.iptvx.one/picons/fresh-adventure.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Adventure
 http://stream.skaz.tv/stream/ch1721/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Cinema"  tvg-logo="http://skaz.tv/tvicon/1722.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Cinema
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Cinema"  tvg-logo="https://epg.iptvx.one/picons/fresh-cinema.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Cinema
 http://stream.skaz.tv/stream/ch1722/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Comedy"  tvg-logo="http://skaz.tv/tvicon/1723.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Comedy
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Comedy"  tvg-logo="https://epg.iptvx.one/picons/fresh-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Comedy
 http://stream.skaz.tv/stream/ch1723/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Family"  tvg-logo="http://skaz.tv/tvicon/1724.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Family
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Family"  tvg-logo="https://epg.iptvx.one/picons/fresh-family.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Family
 http://stream.skaz.tv/stream/ch1724/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Fantastic"  tvg-logo="http://skaz.tv/tvicon/1725.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Fantastic
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Fantastic"  tvg-logo="https://epg.iptvx.one/picons/fresh-fantastic.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Fantastic
 http://stream.skaz.tv/stream/ch1725/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Horror"  tvg-logo="http://skaz.tv/tvicon/1726.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Horror
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Horror"  tvg-logo="https://epg.iptvx.one/picons/fresh-horror.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Horror
 http://stream.skaz.tv/stream/ch1726/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Premiere"  tvg-logo="http://skaz.tv/tvicon/1727.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Premiere
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Premiere"  tvg-logo="https://epg.iptvx.one/picons/fresh-premiere.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Premiere
 http://stream.skaz.tv/stream/ch1727/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Rating"  tvg-logo="http://skaz.tv/tvicon/1728.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Rating
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Rating"  tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Rating
 http://stream.skaz.tv/stream/ch1728/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Romantic"  tvg-logo="http://skaz.tv/tvicon/1729.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Romantic
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Romantic"  tvg-logo="https://epg.iptvx.one/picons/fresh-romantic.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Romantic
 http://stream.skaz.tv/stream/ch1729/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Russian"  tvg-logo="http://skaz.tv/tvicon/1730.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Russian
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Russian"  tvg-logo="https://epg.iptvx.one/picons/fresh-russian.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Russian
 http://stream.skaz.tv/stream/ch1730/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Series"  tvg-logo="http://skaz.tv/tvicon/1731.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Series
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Series"  tvg-logo="https://epg.iptvx.one/picons/fresh-series.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Series
 http://stream.skaz.tv/stream/ch1731/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Soviet"  tvg-logo="http://skaz.tv/tvicon/1732.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Soviet
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Soviet"  tvg-logo="https://epg.iptvx.one/picons/fresh-soviet.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Soviet
 http://stream.skaz.tv/stream/ch1732/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Thriller"  tvg-logo="http://skaz.tv/tvicon/1733.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Thriller
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Thriller"  tvg-logo="https://epg.iptvx.one/picons/fresh-thriller.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh Thriller
 http://stream.skaz.tv/stream/ch1733/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Vhs"  tvg-logo="http://skaz.tv/tvicon/1734.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh VHS
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Fresh Vhs"  tvg-logo="https://epg.iptvx.one/picons/fresh-vhs.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fresh VHS
 http://stream.skaz.tv/stream/ch1734/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Brief HD"  tvg-logo="http://s.skaz.tv/tvicon/3121.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Brief HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Brief HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-brief.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Brief HD
 http://stream.skaz.tv/stream/ch3121/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2862"  tvg-logo="http://skaz.tv/tvicon/2862.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Gold Line Chef HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2862"  tvg-logo="https://epg.iptvx.one/picons/goldline-chef.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Gold Line Chef HD
 http://stream.skaz.tv/stream/ch2862/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line  Evidence HD"  tvg-logo="http://s.skaz.tv/tvicon/3122.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line  Evidence HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line  Evidence HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-evidence.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line  Evidence HD
 http://stream.skaz.tv/stream/ch3122/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Exist HD"  tvg-logo="http://s.skaz.tv/tvicon/3123.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Exist HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Exist HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-exist.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Exist HD
 http://stream.skaz.tv/stream/ch3123/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2880"  tvg-logo="http://skaz.tv/tvicon/2880.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Gold Line Girlfight HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2880"  tvg-logo="https://epg.iptvx.one/picons/goldline-girlf.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Gold Line Girlfight HD
 http://stream.skaz.tv/stream/ch2880/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="goldline-hostage"  tvg-logo="https://epg.iptvx.one/picons/goldline-hostage.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Gold Line Hostage HD
 http://stream.skaz.tv/stream/ch2876/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Island HD"  tvg-logo="http://s.skaz.tv/tvicon/3124.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Island HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Island HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-island.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Island HD
 http://stream.skaz.tv/stream/ch3124/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="goldline-motivation"  tvg-logo="https://epg.iptvx.one/picons/goldline-motivation.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Gold Line Motivation HD
 http://stream.skaz.tv/stream/ch2857/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Naked and Funny HD"  tvg-logo="http://s.skaz.tv/tvicon/3125.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Naked and Funny HD
-http://stream.skaz.tv/stream/ch3125/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Psycho HD"  tvg-logo="http://s.skaz.tv/tvicon/3126.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Psycho HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Psycho HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-psy.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Psycho HD
 http://stream.skaz.tv/stream/ch3126/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Series HD"  tvg-logo="http://s.skaz.tv/tvicon/3127.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Series HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Series HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-series.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Series HD
 http://stream.skaz.tv/stream/ch3127/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Survival HD"  tvg-logo="http://s.skaz.tv/tvicon/3128.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Survival HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Survival HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-survival.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Survival HD
 http://stream.skaz.tv/stream/ch3128/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Детектив HD"  tvg-logo="http://s.skaz.tv/tvicon/3129.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Детектив HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Детектив HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-detektiv.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Детектив HD
 http://stream.skaz.tv/stream/ch3129/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Невский HD"  tvg-logo="http://s.skaz.tv/tvicon/3130.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Невский HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Невский HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-nevski.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Невский HD
 http://stream.skaz.tv/stream/ch3130/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3595"  tvg-logo="http://s.skaz.tv/tvicon/3595.png"   tvg-name="Infinity:Номинация на оскар. 1930_60 гг" catchup="fs" tvg-rec="3" timeshift="3",Infinity:Номинация на оскар. 1930_60 гг
 http://stream.skaz.tv/stream/ch3595/fde215a0/mono.m3u8
@@ -3701,6 +3699,8 @@ http://stream.skaz.tv/stream/ch1524/fde215a0/mono.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/gagsnetwork-hd/video.m3u8
 #EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="gags-network"  tvg-logo="https://i.imgur.com/ENj5GIp.png" ,Gags Network HD [UA]
 http://95.67.12.82:9069
+#EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="Gold Line Naked and Funny HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-naked.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Naked and Funny HD
+http://stream.skaz.tv/stream/ch3125/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="КВН ТВ"  tvg-logo="https://i.imgur.com/Vw3LFLX.png"   catchup="fs" tvg-rec="3" timeshift="2",КВН ТВ
 http://stream.skaz.tv/stream/ch106/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="KBC +100500"  tvg-logo="http://skaz.tv/tvicon/2830.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC +100500
@@ -3899,7 +3899,7 @@ http://stream.skaz.tv/stream/ch1634/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2293/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="BCU Мультсериал HD"  tvg-logo="http://skaz.tv/tvicon/787.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Мультсериал HD
 http://stream.skaz.tv/stream/ch787/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id=" CineMan Kids 4K"  tvg-logo="http://skaz.tv/tvicon/3049.png" , CineMan Kids 4K
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id=" CineMan Kids 4K"  tvg-logo="https://epg.iptvx.one/picons/cineman-kids4k.png" , CineMan Kids 4K
 http://stream.skaz.tv/stream/ch3049/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Clarity4K Мультляндия"  tvg-logo="http://skaz.tv/tvicon/519.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Мультляндия
 http://stream.skaz.tv/stream/ch519/fde215a0/mono.m3u8
