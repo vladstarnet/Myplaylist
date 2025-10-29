@@ -1099,7 +1099,7 @@ http://stream.skaz.tv/stream/ch1072/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch777/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-zippy-s-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png"   tvg-name="Sky High Zippy S HD" catchup="fs" tvg-rec="3" timeshift="3",Sky High Zippy S HD
 http://stream.skaz.tv/stream/ch3718/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Movie Hits"  tvg-logo="https://epg.iptvx.one/picons/veles-mh.pngtvicon/2598.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Movie Hits
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Movie Hits"  tvg-logo="https://epg.iptvx.one/picons/veles-mh.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Movie Hits
 http://stream.skaz.tv/stream/ch2598/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Premiere"  tvg-logo="https://epg.iptvx.one/picons/veles-prem.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Premiere
 http://stream.skaz.tv/stream/ch2595/fde215a0/mono.m3u8
