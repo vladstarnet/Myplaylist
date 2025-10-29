@@ -1027,7 +1027,7 @@ http://stream.skaz.tv/stream/ch3149/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3150/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="SkyCam Horrors"  tvg-logo="https://epg.iptvx.one/picons/skycam-horrors.png"   catchup="fs" tvg-rec="3" timeshift="3",SkyCam Horrors
 http://stream.skaz.tv/stream/ch3280/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="SkyCam Romantic"  tvg-logo="https://epg.iptvx.one/picons/skycam-romantic.png://s.skaz.tv/tvicon/3282.png"   catchup="fs" tvg-rec="3" timeshift="3",SkyCam Romantic
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="SkyCam Romantic"  tvg-logo="https://epg.iptvx.one/picons/skycam-romantic.png"   catchup="fs" tvg-rec="3" timeshift="3",SkyCam Romantic
 http://stream.skaz.tv/stream/ch3282/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="SkyCam RuKino"  tvg-logo="https://epg.iptvx.one/picons/skycam-rukino.png"   catchup="fs" tvg-rec="3" timeshift="3",SkyCam RusFilms
 http://stream.skaz.tv/stream/ch3283/fde215a0/mono.m3u8
@@ -1099,53 +1099,53 @@ http://stream.skaz.tv/stream/ch1072/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch777/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-zippy-s-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png"   tvg-name="Sky High Zippy S HD" catchup="fs" tvg-rec="3" timeshift="3",Sky High Zippy S HD
 http://stream.skaz.tv/stream/ch3718/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Movie Hits"  tvg-logo="http://skaz.tv/tvicon/2598.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Movie Hits
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Movie Hits"  tvg-logo="http://skaz.tvhttps://epg.iptvx.one/picons/veles-mh.pngtvicon/2598.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Movie Hits
 http://stream.skaz.tv/stream/ch2598/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Premiere"  tvg-logo="http://skaz.tv/tvicon/2595.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Premiere
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Premiere"  tvg-logo="https://epg.iptvx.one/picons/veles-prem.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Premiere
 http://stream.skaz.tv/stream/ch2595/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Аниме"  tvg-logo="http://skaz.tv/tvicon/2612.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Аниме
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Аниме"  tvg-logo="https://epg.iptvx.one/picons/veles-anime.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Аниме
 http://stream.skaz.tv/stream/ch2612/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Вестерн"  tvg-logo="http://skaz.tv/tvicon/2801.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Вестерн
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Вестерн"  tvg-logo="https://epg.iptvx.one/picons/veles-western.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Вестерн
 http://stream.skaz.tv/stream/ch2801/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Гоблин"  tvg-logo="http://s.skaz.tv/tvicon/3176.png"   catchup="fs" tvg-rec="3" timeshift="3",VeleS Гоблин
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Гоблин"  tvg-logo="https://epg.iptvx.one/picons/veles-gobln.png"   catchup="fs" tvg-rec="3" timeshift="3",VeleS Гоблин
 http://stream.skaz.tv/stream/ch3176/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Кинопленка"  tvg-logo="http://skaz.tv/tvicon/2592.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Кинопленка
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Кинопленка"  tvg-logo="https://epg.iptvx.one/picons/veles-kinoplonk.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Кинопленка
 http://stream.skaz.tv/stream/ch2592/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Киносерия"  tvg-logo="http://skaz.tv/tvicon/2594.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Киносерия
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Киносерия"  tvg-logo="https://epg.iptvx.one/picons/veles-kinoser.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Киносерия
 http://stream.skaz.tv/stream/ch2594/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Комедия"  tvg-logo="http://skaz.tv/tvicon/2314.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Комедия
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Комедия"  tvg-logo="https://epg.iptvx.one/picons/veles-komed.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Комедия
 http://stream.skaz.tv/stream/ch2314/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Veles Криминальный"  tvg-logo="http://skaz.tv/tvicon/2696.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Veles Криминальный
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Veles Криминальный"  tvg-logo="https://epg.iptvx.one/picons/veles-krim.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Veles Криминальный
 http://stream.skaz.tv/stream/ch2696/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Наше Кино"  tvg-logo="http://skaz.tv/tvicon/2802.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Наше Кино
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Наше Кино"  tvg-logo="https://epg.iptvx.one/picons/veles-nashek.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Наше Кино
 http://stream.skaz.tv/stream/ch2802/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Veles Новогодний"  tvg-logo="http://s.skaz.tv/tvicon/3078.png"   catchup="fs" tvg-rec="3" timeshift="3",Veles С Новым Годом!
 http://stream.skaz.tv/stream/ch3078/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Семейный"  tvg-logo="http://skaz.tv/tvicon/2800.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Семейный
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Семейный"  tvg-logo="https://epg.iptvx.one/picons/veles-semej.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Семейный
 http://stream.skaz.tv/stream/ch2800/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS СССР"  tvg-logo="http://skaz.tv/tvicon/2597.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS СССР
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS СССР"  tvg-logo="https://epg.iptvx.one/picons/veles-sssr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS СССР
 http://stream.skaz.tv/stream/ch2597/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Страшное"  tvg-logo="http://skaz.tv/tvicon/2596.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Страшное
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Страшное"  tvg-logo="https://epg.iptvx.one/picons/veles-strash.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Страшное
 http://stream.skaz.tv/stream/ch2596/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Триллер"  tvg-logo="http://skaz.tv/tvicon/2799.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Триллер
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Триллер"  tvg-logo="https://epg.iptvx.one/picons/veles-trill.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Триллер
 http://stream.skaz.tv/stream/ch2799/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Action War Films HD"  tvg-logo="http://s.skaz.tv/tvicon/3136.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Action War Films HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Action War Films HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-actionwar.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Action War Films HD
 http://stream.skaz.tv/stream/ch3136/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Домашний HD"  tvg-logo="http://s.skaz.tv/tvicon/3138.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Домашний HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Домашний HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-domashny.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Домашний HD
 http://stream.skaz.tv/stream/ch3138/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV ИП Пирогова HD"  tvg-logo="http://s.skaz.tv/tvicon/3287.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV ИП Пирогова HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV ИП Пирогова HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-pirog.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV ИП Пирогова HD
 http://stream.skaz.tv/stream/ch3287/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Кухня + Отель Элеон HD"  tvg-logo="http://s.skaz.tv/tvicon/3288.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Кухня + Отель Элеон HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Кухня + Отель Элеон HDhttps://epg.iptvx.one/picons/velilla-kuxnia.png"  tvg-logo="https://epg.iptvx.one/picons/velilla-kuxnia.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Кухня + Отель Элеон HD
 http://stream.skaz.tv/stream/ch3288/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Мосгаз HD"  tvg-logo="http://s.skaz.tv/tvicon/3139.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Мосгаз HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Мосгаз HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-mosgaz.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Мосгаз HD
 http://stream.skaz.tv/stream/ch3139/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Морские дьяволы HD"  tvg-logo="http://s.skaz.tv/tvicon/3152.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Морские дьяволы HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Морские дьяволы HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-mordiav.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Морские дьяволы HD
 http://stream.skaz.tv/stream/ch3152/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2874"  tvg-logo="https://epg.iptvx.one/picons/velilla-mordiav2.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Морские Дьяволы 2 HD
 http://stream.skaz.tv/stream/ch2874/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Русские Мелодрамы HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-rusmylo.png"   catchup="fs" tvg-rec="3" timeshift="1",Velilla TV Русские Мелодрамы HD
 http://stream.skaz.tv/stream/ch2854/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Русский Сериал HD"  tvg-logo="http://s.skaz.tv/tvicon/3137.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Русский Сериал HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Русский Сериал HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-ruserial.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Русский Сериал HD
 http://stream.skaz.tv/stream/ch3137/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="velilla-sw"  tvg-logo="https://epg.iptvx.one/picons/velilla-sw.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Счастливы Bместе HD
 http://stream.skaz.tv/stream/ch2872/fde215a0/mono.m3u8
@@ -3303,7 +3303,7 @@ http://stream.skaz.tv/stream/ch2599/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2765/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Russiandance 90s"  tvg-logo="https://epg.iptvx.one/picons/velilla-rusdance.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Russiandance 90s
 http://stream.skaz.tv/stream/ch2749/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="velilla-hardheavyconc"  tvg-logo="https://epg.iptvx.one/picons/velilla-hardheavyconc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Vellilla TV Hard and Heavy Concerts [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="velilla-hardheavyconc"  tvg-logo="https://epg.iptvx.one/picons/velilla-hardheavyconc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Hard and Heavy Concerts [1080p]
 http://stream.skaz.tv/stream/ch2871/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Velilla TV Pop And Rock Concerts HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-poprockconc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Pop And Rock Concerts [1080p]
 http://stream.skaz.tv/stream/ch2767/fde215a0/mono.m3u8
@@ -3823,7 +3823,7 @@ http://stream.skaz.tv/stream/ch1248/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2658/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Oasis Tom And Jerry"  tvg-logo="http://skaz.tv/tvicon/2693.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Oasis Tom And Jerry
 http://stream.skaz.tv/stream/ch2693/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Velilla TV Том и Джерри HD"  tvg-logo="http://s.skaz.tv/tvicon/3154.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Том и Джерри HD
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Velilla TV Том и Джерри HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-tij.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Том и Джерри HD
 http://stream.skaz.tv/stream/ch3154/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Disney"  tvg-logo="http://skaz.tv/tvicon/2456.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Disney
 http://stream.skaz.tv/stream/ch2456/fde215a0/mono.m3u8
@@ -4069,11 +4069,11 @@ http://stream.skaz.tv/stream/ch3187/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2265/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Sky High Jetix HD"  tvg-logo="http://s.skaz.tv/tvicon/3096.png"   catchup="fs" tvg-rec="3" timeshift="3", Sky High Jetix HD
 http://stream.skaz.tv/stream/ch3096/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="VeleS Kids"  tvg-logo="http://skaz.tv/tvicon/2600.png"   catchup="fs" tvg-rec="3" timeshift="3", VeleS Kids
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="VeleS Kids"  tvg-logo="https://epg.iptvx.one/picons/veles-kids.png"   catchup="fs" tvg-rec="3" timeshift="3", VeleS Kids
 http://stream.skaz.tv/stream/ch2600/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3153"  tvg-logo="http://s.skaz.tv/tvicon/3153.png" ,Velilla TV Cartoons Disney HD
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3153"  tvg-logo="https://epg.iptvx.one/picons/velilla-cartoondisney.png" ,Velilla TV Cartoons Disney HD
 http://stream.skaz.tv/stream/ch3153/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Velilla TV Детский HD"  tvg-logo="http://s.skaz.tv/tvicon/3296.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Детский HD
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Velilla TV Детский HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-detsky.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Детский HD
 http://stream.skaz.tv/stream/ch3296/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Velilla TV Мультфильмы HD"  tvg-logo="http://s.skaz.tv/tvicon/3153.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Мультфильмы HD
 http://stream.skaz.tv/stream/ch3153/fde215a0/mono.m3u8
