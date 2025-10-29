@@ -733,7 +733,7 @@ http://stream.skaz.tv/stream/ch2838/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2834/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-Вестерн HD"  tvg-logo="https://epg.iptvx.one/picons/kbc-western.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Вестерн HD
 http://stream.skaz.tv/stream/ch2844/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-Видак HD"  tvg-logo="http://https://epg.iptvx.one/picons/kbc-vidak.png.tv/tvicon/2827.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Видак HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-Видак HD"  tvg-logo="https://epg.iptvx.one/picons/kbc-vidak.png.tv/tvicon/2827.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Видак HD
 http://stream.skaz.tv/stream/ch2827/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-ГАЙ Ritchie and Tarantino HD"  tvg-logo="https://epg.iptvx.one/picons/kbc-ritchie-tarantino.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-ГАЙ Ritchie and Tarantino HD
 http://stream.skaz.tv/stream/ch2841/fde215a0/mono.m3u8
@@ -811,7 +811,7 @@ http://stream.skaz.tv/stream/ch1753/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1556/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Magic Adventure"  tvg-logo="https://epg.iptvx.one/picons/magic-adventure.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Magic Adventure
 http://stream.skaz.tv/stream/ch2203/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Magic Comedy"  tvg-logo="https://epg.iptvx.one/picons/magic-comedy.png://skaz.tv/tvicon/1557.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Magic Comedy
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Magic Comedy"  tvg-logo="https://epg.iptvx.one/picons/magic-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Magic Comedy
 http://stream.skaz.tv/stream/ch1557/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Magic Family"  tvg-logo="https://epg.iptvx.one/picons/magic-disney.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Magic Family
 http://stream.skaz.tv/stream/ch1582/fde215a0/mono.m3u8
@@ -1099,7 +1099,7 @@ http://stream.skaz.tv/stream/ch1072/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch777/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-zippy-s-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png"   tvg-name="Sky High Zippy S HD" catchup="fs" tvg-rec="3" timeshift="3",Sky High Zippy S HD
 http://stream.skaz.tv/stream/ch3718/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Movie Hits"  tvg-logo="http://skaz.tvhttps://epg.iptvx.one/picons/veles-mh.pngtvicon/2598.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Movie Hits
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Movie Hits"  tvg-logo="https://epg.iptvx.one/picons/veles-mh.pngtvicon/2598.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Movie Hits
 http://stream.skaz.tv/stream/ch2598/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Premiere"  tvg-logo="https://epg.iptvx.one/picons/veles-prem.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Premiere
 http://stream.skaz.tv/stream/ch2595/fde215a0/mono.m3u8
@@ -1149,45 +1149,45 @@ http://stream.skaz.tv/stream/ch2854/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3137/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="velilla-sw"  tvg-logo="https://epg.iptvx.one/picons/velilla-sw.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Velilla TV Счастливы Bместе HD
 http://stream.skaz.tv/stream/ch2872/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Adrenaline"  tvg-logo="http://skaz.tv/tvicon/1310.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Adrenaline
-http://stream.skaz.tv/stream/ch1310/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Adventure"  tvg-logo="http://skaz.tv/tvicon/1312.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Adventure
-http://stream.skaz.tv/stream/ch1312/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Best"  tvg-logo="http://skaz.tv/tvicon/1308.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Best
-http://stream.skaz.tv/stream/ch1308/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-Comedy"  tvg-logo="http://skaz.tv/tvicon/1002.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Comedy
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-Comedy"  tvg-logo="https://epg.iptvx.one/picons/c-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Comedy
 http://stream.skaz.tv/stream/ch1002/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-History HD"  tvg-logo="http://skaz.tv/tvicon/1575.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-History HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-History HD"  tvg-logo="https://epg.iptvx.one/picons/c-history.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-History HD
 http://stream.skaz.tv/stream/ch1575/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id=" Yosso TV C-Holiday"  tvg-logo="http://skaz.tv/tvicon/394.png" ,Yosso TV C-Holiday
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id=" Yosso TV C-Holiday"  tvg-logo="https://epg.iptvx.one/picons/c-holiday.png" ,Yosso TV C-Holiday
 http://stream.skaz.tv/stream/ch394/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-Inquest"  tvg-logo="http://skaz.tv/tvicon/1001.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Inquest
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-Inquest"  tvg-logo="https://epg.iptvx.one/picons/c-inquest.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Inquest
 http://stream.skaz.tv/stream/ch1001/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-Marvel"  tvg-logo="http://skaz.tv/tvicon/1315.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Marvel
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV C-Marvel"  tvg-logo="https://epg.iptvx.one/picons/c-marvel.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV C-Marvel
 http://stream.skaz.tv/stream/ch1315/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Grand"  tvg-logo="http://skaz.tv/tvicon/1297.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Grand
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Adrenaline"  tvg-logo="https://epg.iptvx.one/picons/yosso-adrenalin.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Adrenaline
+http://stream.skaz.tv/stream/ch1310/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Adventure"  tvg-logo="https://epg.iptvx.one/picons/yosso-adventure.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Adventure
+http://stream.skaz.tv/stream/ch1312/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Best"  tvg-logo="https://epg.iptvx.one/picons/yosso-best.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Best
+http://stream.skaz.tv/stream/ch1308/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Grand"  tvg-logo="https://epg.iptvx.one/picons/yosso-grand.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Grand
 http://stream.skaz.tv/stream/ch1297/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Netflix"  tvg-logo="http://skaz.tv/tvicon/2455.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Netflix
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Netflix"  tvg-logo="https://epg.iptvx.one/picons/yosso-netflix.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Netflix
 http://stream.skaz.tv/stream/ch2455/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV New Кино"  tvg-logo="http://skaz.tv/tvicon/1303.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV New Кино
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV New Кино"  tvg-logo="https://epg.iptvx.one/picons/yosso-newkino.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV New Кино
 http://stream.skaz.tv/stream/ch1303/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Oblivion"  tvg-logo="http://skaz.tv/tvicon/1311.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Oblivion
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Oblivion"  tvg-logo="https://epg.iptvx.one/picons/yosso-oblivion.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Oblivion
 http://stream.skaz.tv/stream/ch1311/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Thriller"  tvg-logo="http://skaz.tv/tvicon/1313.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Thriller
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Thriller"  tvg-logo="https://epg.iptvx.one/picons/yosso-thriller.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Thriller
 http://stream.skaz.tv/stream/ch1313/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV VHS"  tvg-logo="http://skaz.tv/tvicon/1298.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV VHS
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV VHS"  tvg-logo="https://epg.iptvx.one/picons/yosso-vhs.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV VHS
 http://stream.skaz.tv/stream/ch1298/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Забавное"  tvg-logo="http://skaz.tv/tvicon/1307.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Забавное
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Забавное"  tvg-logo="https://epg.iptvx.one/picons/yosso-zabavno.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Забавное
 http://stream.skaz.tv/stream/ch1307/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Ковбойское"  tvg-logo="http://skaz.tv/tvicon/1309.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Ковбойское
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Ковбойское"  tvg-logo="https://epg.iptvx.one/picons/yosso-cowboy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Ковбойское
 http://stream.skaz.tv/stream/ch1309/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Мелодрама"  tvg-logo="http://skaz.tv/tvicon/2062.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Мелодрама
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Мелодрама"  tvg-logo="https://epg.iptvx.one/picons/yosso-melodrama.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Мелодрама
 http://stream.skaz.tv/stream/ch2062/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Русские Фильмы"  tvg-logo="http://skaz.tv/tvicon/1300.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Русские Фильмы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Русские Фильмы"  tvg-logo="https://epg.iptvx.one/picons/yosso-rusfilm.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Русские Фильмы
 http://stream.skaz.tv/stream/ch1300/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Советские Фильмы"  tvg-logo="http://skaz.tv/tvicon/1301.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Советские Фильмы
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Советские Фильмы"  tvg-logo="https://epg.iptvx.one/picons/yosso-sovfilm.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Советские Фильмы
 http://stream.skaz.tv/stream/ch1301/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Трагичное"  tvg-logo="http://skaz.tv/tvicon/1306.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Трагичное
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Трагичное"  tvg-logo="https://epg.iptvx.one/picons/yosso-tragic.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Трагичное
 http://stream.skaz.tv/stream/ch1306/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2276"   tvg-name="Play-x Cinema 90-х HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Cinema 90-х HD
 http://stream.skaz.tv/stream/ch2276/fde215a0/mono.m3u8
@@ -3723,7 +3723,7 @@ http://stream.skaz.tv/stream/ch3055/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch503/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="MM OldSchool HD"  tvg-logo="http://skaz.tv/tvicon/1953.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MM OldSchool HD
 http://stream.skaz.tv/stream/ch1953/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="Yosso TV Food"  tvg-logo="http://skaz.tv/tvicon/2603.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Food
+#EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="Yosso TV Food"  tvg-logo="https://epg.iptvx.one/picons/yosso-food.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Food
 http://stream.skaz.tv/stream/ch2603/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🍔🛍️"  tvg-id="TvoyeTVYumor.ru"  tvg-logo="https://epgx.site/p/tvoetv-humor.png" ,Твое ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
@@ -3825,7 +3825,7 @@ http://stream.skaz.tv/stream/ch2658/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2693/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Velilla TV Том и Джерри HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-tij.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Том и Джерри HD
 http://stream.skaz.tv/stream/ch3154/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Disney"  tvg-logo="http://skaz.tv/tvicon/2456.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Disney
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Disney"  tvg-logo="https://epg.iptvx.one/picons/yosso-disney.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Disney
 http://stream.skaz.tv/stream/ch2456/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -4077,13 +4077,13 @@ http://stream.skaz.tv/stream/ch3153/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3296/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Velilla TV Мультфильмы HD"  tvg-logo="http://s.skaz.tv/tvicon/3153.png"   catchup="fs" tvg-rec="3" timeshift="3", Velilla TV Мультфильмы HD
 http://stream.skaz.tv/stream/ch3153/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Kids"  tvg-logo="http://skaz.tv/tvicon/1299.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Kids
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Kids"  tvg-logo="https://epg.iptvx.one/picons/yosso-kids.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Kids
 http://stream.skaz.tv/stream/ch1299/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Наше Детское"  tvg-logo="http://skaz.tv/tvicon/2061.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Наше Детское
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Наше Детское"  tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Наше Детское
 http://stream.skaz.tv/stream/ch2061/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Союзмульт"  tvg-logo="http://skaz.tv/tvicon/1304.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Союзмульт
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Союзмульт"  tvg-logo="https://epg.iptvx.one/picons/yosso-soyuzmult.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Союзмульт
 http://stream.skaz.tv/stream/ch1304/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Cartoon"  tvg-logo="http://skaz.tv/tvicon/1314.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Cartoon
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Cartoon"  tvg-logo="https://epg.iptvx.one/picons/c-cartoon.png"   catchup="fs" tvg-rec="3" timeshift="6",Yosso TV Cartoon
 http://stream.skaz.tv/stream/ch1314/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3419"  tvg-logo="http://s.skaz.tv/tvicon/3419.png"   tvg-name="Play-x Альф HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Альф HD
 http://stream.skaz.tv/stream/ch3419/fde215a0/mono.m3u8
