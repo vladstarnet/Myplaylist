@@ -3777,7 +3777,7 @@ http://stream.skaz.tv/stream/ch538/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch046/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍔🛍️"  tvg-id="Food Network HD"  tvg-logo="https://epg.iptvx.one/picons/food-network.png"   catchup="fs" tvg-rec="3" timeshift="2", Food Network HD
 http://stream.skaz.tv/stream/ch455/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍔🛍️"  tvg-id="Foodtime HD"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/82/FoodTime_%282022%2C_2%29.svg/revision/latest?cb=20230111164621&path-prefix=ru"   tvg-rec="1" catchup-type="auto" catchup_days="3",Foodtime HD
+#EXTINF:-1  group-title="Entertainment 🎭🍔🛍️"  tvg-id="Foodtime HD"  tvg-logo="https://epg.iptvx.one/picons/eda-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Foodtime HD
 http://stream.skaz.tv/stream/ch454/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍔🛍️"  tvg-id="Yosso TV Food"  tvg-logo="https://epg.iptvx.one/picons/yosso-food.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Food
 http://stream.skaz.tv/stream/ch2603/fde215a0/mono.m3u8
