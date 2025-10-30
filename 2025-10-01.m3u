@@ -1185,6 +1185,8 @@ http://stream.skaz.tv/stream/ch1307/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1309/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Мелодрама"  tvg-logo="https://epg.iptvx.one/picons/yosso-melodrama.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Мелодрама
 http://stream.skaz.tv/stream/ch2062/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Наше Детское"  tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Наше Детское
+http://stream.skaz.tv/stream/ch2061/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Русские Фильмы"  tvg-logo="https://epg.iptvx.one/picons/yosso-rusfilm.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Русские Фильмы
 http://stream.skaz.tv/stream/ch1300/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Советские Фильмы"  tvg-logo="https://epg.iptvx.one/picons/yosso-sovfilm.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Советские Фильмы
@@ -3913,7 +3915,7 @@ http://stream.skaz.tv/stream/ch1670/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch519/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Clarity4K Мультимир"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-multimir.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Мультимир
 http://stream.skaz.tv/stream/ch1180/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Fresh Kids"  tvg-logo="http://s.skaz.tv/tvicon/1735.png"   catchup="fs" tvg-rec="3" timeshift="3", Fresh Kids
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Fresh Kids"  tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png"   catchup="fs" tvg-rec="3" timeshift="3",Fresh Kids
 http://stream.skaz.tv/stream/ch1735/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Аладдин"  tvg-logo="http://s.skaz.tv/tvicon/3225.png"   catchup="fs" tvg-rec="3" timeshift="3", Kernel TV Аладдин
 http://stream.skaz.tv/stream/ch3225/fde215a0/mono.m3u8
@@ -4067,8 +4069,6 @@ http://stream.skaz.tv/stream/ch3296/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3153/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Kids"  tvg-logo="https://epg.iptvx.one/picons/yosso-kids.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Kids
 http://stream.skaz.tv/stream/ch1299/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Наше Детское"  tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Наше Детское
-http://stream.skaz.tv/stream/ch2061/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Союзмульт"  tvg-logo="https://epg.iptvx.one/picons/yosso-soyuzmult.png"   catchup="fs" tvg-rec="3" timeshift="6", Yosso TV Союзмульт
 http://stream.skaz.tv/stream/ch1304/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Cartoon"  tvg-logo="https://epg.iptvx.one/picons/c-cartoon.png"   catchup="fs" tvg-rec="3" timeshift="6",Yosso TV Cartoon
