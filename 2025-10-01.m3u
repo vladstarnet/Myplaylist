@@ -5319,154 +5319,102 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1  group-title="Arabic 🇴🇲🇮🇶🇪🇬🇧🇭🇶🇦"  tvg-id="YemenTodayTV.ye"  tvg-logo="https://i.imgur.com/8TzcJu5.png" ,Yemen Today TV [YE]
 https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="News24.al"  tvg-logo="https://i.imgur.com/eG33jue.png" ,News 24 Albania (392p)
+#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="News24.al"  tvg-logo="https://i.imgur.com/eG33jue.png" ,News 24 Albania [1080p]
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="OraNews.al"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" ,Ora News (720p)
+#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="OraNews.al"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" ,Ora News [720p]
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="ReportTV.al"  tvg-logo="https://i.imgur.com/C9lM1KP.png" ,Report TV (720p)
+#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="ReportTV.al"  tvg-logo="https://i.imgur.com/C9lM1KP.png" ,Report TV [720p]
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="TropojaTelevizion.al"  tvg-logo="https://i.imgur.com/D3hNOVS.png" ,Tropoja TV (1080p)
+#EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="TropojaTelevizion.al"  tvg-logo="https://i.imgur.com/D3hNOVS.png" ,Tropoja TV [1080p]
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="5TV.am"  tvg-logo="https://i.imgur.com/jOGZZDo.png"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",5 ԹԻՎԻ (480p) [Not 24/7]
-http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",5 ԹԻՎԻ ՊԼՅՈՒՍ (480p) [Not 24/7]
-http://ott-cdn.ucom.am/s9/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ATVKinoman.am"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512" ,ATV Kinoman HD
-http://stream02.vnet.am/Kinoman/mono.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ATV.am"  tvg-logo="https://i.imgur.com/xrqFEou.png"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",АTV ԱԹԻՎԻ (480p) [Not 24/7]
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ArmeniaHayKino.am"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ (480p) [Not 24/7]
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="YerkirMedia.am"  tvg-logo="https://i.imgur.com/KqkOz6H.png"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ԵՐԿԻՐ ՄԵԴԻԱ
-http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ATVTavaTV.am"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ԹԱՎԱ ԹԻՎԻ
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ԼԱՎՖՀԱՔ
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ArmeniaPremium.am"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="NorHayastanTV.am"  tvg-logo="https://i.imgur.com/QH7VytI.png"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ՆՈՐ ՀԱՅԱՍՏԱՆ (480p) 
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ShoghakatTV.am"  tvg-logo="https://i.imgur.com/U6Bs4wt.png"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ՇՈՂԱԿԱԹ (480p) [Not 24/7]
-http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ArmeniaJanTV.am"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ՋԱՆ ԹԻՎԻ
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ArmeniaSinemaks.am"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ՍԻՆԵՄԱՆ
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="ArmeniaTownTownik.am"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ՏՈՒՆՏՈՒՆԻԿ
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"   user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",like Gecko) Mobile/15E148",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ (480p) [Not 24/7]
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="AgroTVAzerbaijan.az"  tvg-logo="https://i.imgur.com/hPC48jL.png" ,Agro TV Azerbaijan (1080p) [Not 24/7]
-https://yayin30.haber100.com/live/agrotv2/playlist.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="AlvinChannelTV.az"  tvg-logo="https://i.imgur.com/m6CM7VU.png" ,Alvin Channel TV (360p) [Not 24/7]
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="AlvinChannelTV.az"  tvg-logo="https://i.imgur.com/m6CM7VU.png" ,Alvin Channel TV [804p] [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="APATv.az"  tvg-logo="https://i.imgur.com/2CSW4V4.png" ,APA TV (720p)
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="APATv.az"  tvg-logo="https://i.imgur.com/2CSW4V4.png" ,APA TV [720p]
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="arb24-hd-az"  tvg-logo="https://af-play.com/storage/images/pack_logos/03a652f97cc077628c745063c0519c0b.png"   tvg-rec="1" catchup_days="7",ARB24 HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="arb24-hd-az"  tvg-logo="https://af-play.com/storage/images/pack_logos/03a652f97cc077628c745063c0519c0b.png"   tvg-rec="1" catchup_days="7",ARB24 [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/arb24-hd-az/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="arb-az-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/7a5505ad2da61a13471c976e9bb74957.png"   tvg-rec="1" catchup_days="7",ARB HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="arb-az-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/7a5505ad2da61a13471c976e9bb74957.png"   tvg-rec="1" catchup_days="7",ARB [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/arb-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="azad-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/azad-tv-az.png"   tvg-rec="1" catchup_days="7",ATV HD AZ
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="azad-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/azad-tv-az.png"   tvg-rec="1" catchup_days="7",ATV HD [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/azad-tv-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="AzTV.az"  tvg-logo="https://i.imgur.com/snBMMeH.png" ,ATV HD AZ
-https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="aztv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/aztv-az.png"   tvg-rec="1" catchup_days="7",AzTV HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="aztv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/aztv-az.png"   tvg-rec="1" catchup_days="7",AzTV [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/aztv-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="baku-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/e0f2c5e2fc81f2dd0280b9243a3574eb.png"   tvg-rec="1" catchup_days="7",Baku HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="baku-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/e0f2c5e2fc81f2dd0280b9243a3574eb.png"   tvg-rec="1" catchup_days="7",Baku [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/baku-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-az.png"   tvg-rec="1" catchup_days="7",CBC HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-az.png"   tvg-rec="1" catchup_days="7",CBC [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/cbc-hd-az/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-sport-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-sport-az.png" ,CBC Sport HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-sport-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-sport-az.png" ,CBC Sport [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/cbc-sport-hd-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="dunya-tv-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/dunya-tv-az.png" ,Dunya TV
 http://bethoven.af-stream.com:1600/s/yokrgdit/dunya-tv-az/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ELTV.az"  tvg-logo="https://i.imgur.com/tTlokZ2.png" ,EL TV (260p) [Not 24/7]
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ELTV.az"  tvg-logo="https://i.imgur.com/tTlokZ2.png" ,EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ictimai-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/ictimai-tv-az.png"   tvg-rec="1" catchup_days="7",Ictimai TV HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ictimai-tv-az-hd"  tvg-logo="https://epg.iptvx.one/picons/ictimai-tv.png"   tvg-rec="1" catchup_days="7",Ictimai TV HD [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/ictimai-tv-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="idman-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/1b2eaf4b86b5a30cb74316f1a55c9954.png"   tvg-rec="1" catchup_days="7",Idman Azerbaycan HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="idman-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/1b2eaf4b86b5a30cb74316f1a55c9954.png"   tvg-rec="1" catchup_days="7",Idman Azerbaycan [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/idman-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="medeniyyet-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/88af544c45d59341690bd227d7615df8.png"   tvg-rec="1" catchup_days="7",Medeniyyet TV HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="medeniyyet-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/88af544c45d59341690bd227d7615df8.png"   tvg-rec="1" catchup_days="7",Medeniyyet TV [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/medeniyyet-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="muz-tv-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/06be073ccc2ad012557f71eb0c3c73c6.png"   tvg-rec="0",MTV Azerbaycan
 http://bethoven.af-stream.com:1600/s/yokrgdit/muz-tv-az/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="real-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/real-az.png"   tvg-rec="1" catchup_days="7",Real TV HD AZ
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="real-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/real-az.png"   tvg-rec="1" catchup_days="7",Real TV [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/real-tv-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="space-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/space-tv-az.png"   tvg-rec="1" catchup_days="7",Space TV HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="space-tv-az-hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Space_TV_%282025-h.h.%29.png"   tvg-rec="1" catchup_days="7",Space TV [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/space-tv-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="start-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/d0f0809d3420935a9bc7b6192d7c9779.png"   tvg-rec="1" catchup_days="7",Start TV HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/start-tv-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿" ,STAR TV
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-logo="https://azstartv.com/images/logo.png" ,STAR TV [1080p]
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="start-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/d0f0809d3420935a9bc7b6192d7c9779.png"   tvg-rec="1" catchup_days="7",Start TV [1080p]
+http://bethoven.af-stream.com:1600/s/yokrgdit/start-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="tmb-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/06b40beaef0a45eb33fda8547e06e67a.png"   tvg-rec="0",TMB HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/tmb-az-hd/video.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="xazar-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/xazar-tv-az.png"   tvg-rec="1" catchup_days="7",Xazar TV HD
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="xazar-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/xazar-tv-az.png"   tvg-rec="1" catchup_days="7",Xazar TV [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/xazar-tv-az-hd/video.m3u8
-#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="AlJazeeraBalkans.ba"  tvg-logo="https://i.imgur.com/vMzCr8O.png" ,Al Jazeera Balkans (1080p)
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="BloombergAdria.rs"  tvg-logo="https://i.imgur.com/A5ui53C.png" ,Bloomberg Adria (1080p)
-https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
-#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="BNTV.ba"  tvg-logo="https://i.imgur.com/DUBvfWb.png" ,BN TV (480p)
-https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="MariaPlusVisionMedjugorje.ba"  tvg-logo="https://i.imgur.com/xUOspBx.png" ,María+Visión Medjugorje
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="RTVHB.ba"  tvg-logo="https://i.imgur.com/6FNL8Iv.png" ,RTV Herceg-Bosne (576p) [Not 24/7]
+#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="RTVHB.ba"  tvg-logo="https://i.imgur.com/6FNL8Iv.png" ,RTV Herceg-Bosne (576p)
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="RTVZenica.ba"  tvg-logo="https://i.imgur.com/TKUaflB.png" ,RTV Zenica (720p)
 https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="Televizija5.ba"  tvg-logo="https://i.imgur.com/znpvJys.png" ,Televizija 5 (576p)
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="TelevizijaM.ba"  tvg-logo="https://i.imgur.com/jT95ZEI.png" ,Televizija M (1080p)
+#EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="TelevizijaM.ba"  tvg-logo="https://i.imgur.com/jT95ZEI.png" ,Televizija M [1080p]
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="100AutoMotoTV.bg"  tvg-logo="https://i.imgur.com/SZtJfOG.png" ,100% Auto Moto TV (406p) [Not 24/7]
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="AgroTV.bg"  tvg-logo="https://i.imgur.com/tPMNDtD.png" ,Agro TV (480p)
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="AgroTV.bg"  tvg-logo="https://i.imgur.com/tPMNDtD.png" ,Agro TV [1080p]
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="CityTV.bg"  tvg-logo="https://i.imgur.com/mFL452f.png" ,City TV (576p) [Not 24/7]
-https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="Eurocom.bg"  tvg-logo="https://i.imgur.com/taVIK11.png" ,Evrokom (360p)
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="Eurocom.bg"  tvg-logo="https://d1hbpr09pwz0sk.cloudfront.net/logo_url/eurocom-tv-televiziia-evrokom-3b7c68ec" ,Evrokom
 https://live.ecomservice.bg/hls/stream.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="HopeChannelBulgaria.bg"  tvg-logo="https://i.imgur.com/bxzeEML.png" ,Hope Channel Bulgaria
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="HopeChannelBulgaria.bg"  tvg-logo="https://i.imgur.com/bxzeEML.png" ,Hope Channel Bulgaria [720p]
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="Kanal0.bg"  tvg-logo="https://i.imgur.com/mycxET5.jpg" ,Kanal 0
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="Kanal0.bg"  tvg-logo="https://i.imgur.com/mycxET5.jpg" ,Kanal 0 [720p]
 https://old2.rn-tv.com/k0/stream.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="LightChannel.bg"  tvg-logo="https://i.imgur.com/S3Fbf8T.png" ,Light Channel (480p) [Not 24/7]
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="LightChannel.bg"  tvg-logo="https://i.imgur.com/S3Fbf8T.png" ,Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="PlovdivOrthodoxTV.bg"  tvg-logo="https://i.imgur.com/O4564aX.png" ,Plovdivska Pravoslavna TV (1080p)
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="PlovdivOrthodoxTV.bg"  tvg-logo="https://static.wikia.nocookie.net/telepedia/images/d/d0/Pptv.png/revision/latest/thumbnail/width/360/height/450?cb=20180205202524&path-prefix=bg" ,Plovdivska Pravoslavna TV [1080p]
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="RMTV.bg"  tvg-logo="https://rmtv.bg/img/logo.png" ,RMTV (288p)
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="RMTV.bg"  tvg-logo="https://rmtv.bg/img/logo.png" ,RMTV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="ThisisBulgariaHD.bg"  tvg-logo="https://i.imgur.com/062jkXw.png" ,This is Bulgaria HD (1080p)
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="ThisisBulgariaHD.bg"  tvg-logo="https://i.imgur.com/062jkXw.png" ,This is Bulgaria HD [1080p]
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-id="TravelTV.bg" ,Travel TV (576p)
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-id="TV1.bg"  tvg-logo="https://i.imgur.com/YLDp5u3.png" ,TV 1 (720p)
 https://tv1.cloudcdn.bg:8081/stream.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="TVart.bg"  tvg-logo="https://i.imgur.com/YNmrCF7.png" ,TVart (1080p)
-https://stream.osc.bg/tvart/Stream3/playlist.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="TVNBulgaria.bg"  tvg-logo="https://i.imgur.com/kkNtmAW.png" ,TVN-Bulgaria (1080p)
-https://obs.friendshipchurch.eu/tvn/mystream.m3u8
-#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="ANT1Cyprus.cy"  tvg-logo="https://i.imgur.com/2KAObBt.png" ,ANT1 Cyprus (1080p)
+#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="ANT1Cyprus.cy"  tvg-logo="https://i.imgur.com/2KAObBt.png" ,ANT1 Cyprus [CY] [1080p]
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="RIKSat.cy"  tvg-logo="https://i.imgur.com/BIKwFhD.png" ,RΙΚ Sat [CY] [720p]
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="SigmaTV.cy"  tvg-logo="https://i.imgur.com/DXKx102.png" ,Sigma TV [CY]
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="VouliTV.cy"  tvg-logo="https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png" ,Vouli TV [CY] [1080p]
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="BRT1.cy"  tvg-logo="https://i.imgur.com/gOPAi2c.png" ,BRT 1 [KKTC]
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="BRT2.cy"  tvg-logo="https://i.imgur.com/t5kbIuj.png" ,BRT 2 [KKTC]
 http://bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8
-#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="CityChannel.cy"  tvg-logo="https://i.imgur.com/oo2fxta.png" ,City Channel (720p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="RIKSat.cy"  tvg-logo="https://i.imgur.com/BIKwFhD.png" ,RΙΚ Sat (CYBC S) (720p) [Not 24/7]
-https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="SigmaTV.cy"  tvg-logo="https://i.imgur.com/DXKx102.png" ,Sigma TV (576p) [Not 24/7]
-https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="VouliTV.cy"  tvg-logo="https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png" ,Vouli TV (1080p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="TVGunes.cy"  tvg-logo="https://i.imgur.com/XmlXofJ.png" ,GÜNEŞ TV [KKTC]
 https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8
-#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="KanalSim.cy"  tvg-logo="https://i.imgur.com/UHYJURw.png" ,Kanal Sim [KKTC]
-https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="KibrisGencTV.cy"  tvg-logo="https://i.imgur.com/eBdQn9h.png" ,Kibris Genç TV [KKTC]
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="KanalSim.cy"  tvg-logo="https://i.imgur.com/UHYJURw.png" ,Kanal Sim [KKTC]
+https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="KibrisKanalT.cy"  tvg-logo="https://i.imgur.com/4bA4pXT.png" ,Kibris Kanal T [KKTC]
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="KibrisTV.cy"  tvg-logo="https://i.imgur.com/5MJZPTo.png" ,Kibris TV [KKTC]
