@@ -5185,6 +5185,8 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TV5MondeEurope.fr"  tvg-logo="https://i.imgur.com/rPAbMSu.png" ,TV5Monde Europe [1080p]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RTDE.de"  tvg-logo="https://i.imgur.com/v1PIbB2.png" ,RT DE [RU] [1080p]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RTFrance.fr"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" ,RT France [RU] [1080p]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RTDocumentaryEnglish.ru"  tvg-logo="https://i.imgur.com/aeu5zIC.png" ,RT Documentary English [RU] [1080p]
@@ -5433,10 +5435,10 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 http://stream.skaz.tv/stream/ch3307/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="PalitraNews.ge"  tvg-logo="https://i.imgur.com/BW95PMF.png" ,Palitra News
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="DeutschesMusikFernsehen.de"  tvg-logo="https://i.ibb.co/vcD8nB4/resize-32.png"   tvg-name="Deutsches Musik Fernsehen [de]", Deutsches Musik Fernsehen [DE]
-https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="123tv.de"  tvg-logo="https://i.imgur.com/slSUDNX.png" ,1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="DeutschesMusikFernsehen.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png"   tvg-name="Deutsches Musik Fernsehen [de]",Deutsches Musik Fernsehen [DE]
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="AllgauTV.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" ,Allgäu TV (1080p)
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="AltenburgTV.de"  tvg-logo="https://i.imgur.com/3JriZGR.png" ,Altenburg TV (1080p)
@@ -5449,20 +5451,12 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="AristoTV.de"  tvg-logo="https://i.imgur.com/DLVjeno.png" ,Aristo TV (360p)
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="AstroTV.de"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_TV_%282021%29.svg/revision/latest/scale-to-width-down/512" ,AstroTV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="AugsburgTV.de"  tvg-logo="https://i.imgur.com/27AKMUL.png" ,Augsburg TV (1080p)
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="BadenTV.de"  tvg-logo="https://i.imgur.com/L6vE9Bz.png" ,Baden TV (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="BadenTV.de"  tvg-logo="https://i.imgur.com/L6vE9Bz.png" ,Baden TV (1080p)
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="BadenTVSud.de"  tvg-logo="https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png" ,Baden TV Süd (480p)
 https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪" ,Billiard TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6a5c7ba-51fa-40bf-ba59-05a9daef6fd5
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="BRFernsehenNord.de"  tvg-logo="https://i.imgur.com/26s6V64.png" ,BR Fernsehen Nord (720p)
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="BRFernsehenSud.de"  tvg-logo="https://i.imgur.com/26s6V64.png" ,BR Fernsehen Süd (720p)
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SachsenFernsehenChemnitz.de"  tvg-logo="https://i.imgur.com/4SEAbVf.png" ,Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="DasErste.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" ,Das Erste (1080p)
@@ -5471,25 +5465,19 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="DieNeueZeitTV.ch"  tvg-logo="https://i.imgur.com/K3lvrog.png" ,Die Neue Zeit (576p)
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SachsenFernsehenDresden.de"  tvg-logo="https://i.imgur.com/rnvprGj.png" ,Dresden Fernsehen (1080p) [Not 24/7]
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="earthTV.de"  tvg-logo="https://i.imgur.com/xIc5vKl.png" ,earthTV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="emsTVLingen.de"  tvg-logo="https://i.imgur.com/Yo1GMku.png" ,ems TV Lingen (720p)
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="EWTN.de"  tvg-logo="https://i.imgur.com/NXeygNk.png" ,EWTN Germany (720p)
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="FrankenFernsehen.de"  tvg-logo="https://i.imgur.com/3pGGLLD.png" ,Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="Kanal9Erzgebirge.de"  tvg-logo="https://i.ibb.co/sys7Vvq/Kanal9-Header-Webseite-oga.png" ,Kanal 9 Erzgebirge (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCtd99m_W5wsyd4YFyQMb7ig.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="Kanal12SprembergTV.de"  tvg-logo="https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg" ,Kanal12 Spremberg TV (404p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="Kanal12SprembergTV.de"  tvg-logo="https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg" ,Kanal12 Spremberg TV (404p)
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="Lausitzwelle.de"  tvg-logo="https://i.imgur.com/4kYF4bK.png" ,Lausitzwelle (1080p)
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SachsenFernsehenLeipzig.de"  tvg-logo="https://i.imgur.com/easmJUw.png" ,Leipzig Fernsehen (1080p)
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="LightChannel.de"  tvg-logo="https://i.imgur.com/0OmBlfE.png" ,Light Channel (576p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="LightChannel.de"  tvg-logo="https://i.imgur.com/0OmBlfE.png" ,Light Channel (576p)
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="MDF1.de"  tvg-logo="https://i.imgur.com/IFGXK6u.png" ,MDF.1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
@@ -5497,8 +5485,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 https://stream.meietv.de/live/meietv.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="MunchenTV.de"  tvg-logo="https://i.imgur.com/lt7xNWW.png" ,München TV (1080p) [Not 24/7]
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="MyTVplus.de"  tvg-logo="https://i.imgur.com/zA22TQH.png" ,MyTVplus (Dresden) (576p)
-https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="NDRFernsehenHamburg.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" ,NDR Hamburg (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="NDRFernsehenMecklenburgVorpommern.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" ,NDR Mecklenburg-Vorpommern (720p)
@@ -5523,26 +5509,20 @@ https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="OFTVOffenbach.de"  tvg-logo="https://i.imgur.com/WAcxCJr.png" ,OF-TV Offenbach (720p)
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="OKSalzwedel.de"  tvg-logo="https://i.imgur.com/jDmiTOS.png" ,OK Salzwedel (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="OKSalzwedel.de"  tvg-logo="https://i.imgur.com/jDmiTOS.png" ,OK Salzwedel (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="OKWernigerode.de"  tvg-logo="https://i.imgur.com/3gQvhSy.png" ,OK Wernigerode (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪" ,Pensacola Flügel aus Stahl
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca4b94261ca00080b38d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5265-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=304ed6dd-b782-4fee-9de3-30ab786437a1
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="RBW.de"  tvg-logo="https://i.imgur.com/A0UKdix.png" ,RBW (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="RegioTVSchwaben.de"  tvg-logo="https://i.imgur.com/3koyLef.png" ,Regio TV Schwaben (1080p)
 https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="RegioTVStuttgart.de"  tvg-logo="https://i.imgur.com/3koyLef.png" ,Regio TV Stuttgart (1080p)
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="RTDE.de"  tvg-logo="https://i.imgur.com/v1PIbB2.png" ,RT DE (1080p) [Not 24/7]
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SaarlandFernsehen1.de"  tvg-logo="https://i.imgur.com/OodehFV.png" ,Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SaarlandFernsehen2.de"  tvg-logo="https://i.imgur.com/Yv7j4ia.png" ,Saarland Fernsehen 2 (720p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SaarlandFernsehen2.de"  tvg-logo="https://i.imgur.com/Yv7j4ia.png" ,Saarland Fernsehen 2 (720p)
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SachsenFernsehenVogtland.de"  tvg-logo="https://i.imgur.com/s6LluNe.png" ,Sachsen Fernsehen Vogtland (1080p)
-https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="SalveTV.de"  tvg-logo="https://i.imgur.com/GhKjHMG.png" ,Salve TV (720p)
 https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="Seenluft24.de"  tvg-logo="https://i.imgur.com/3TgBg9v.jpg" ,Seenluft24 (1080p)
@@ -5557,11 +5537,11 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="TVIngolstadt.de"  tvg-logo="https://i.imgur.com/Ymh11VV.png" ,TV Ingolstadt (1080p)
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="TVMainfranken.de"  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" ,TV Mainfranken (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="TVMainfranken.de"  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" ,TV Mainfranken (1080p)
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="TVOberfranken.de"  tvg-logo="https://i.imgur.com/tjD9fX2.png" ,TV Oberfranken (TVO) (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="TVOberfranken.de"  tvg-logo="https://i.imgur.com/tjD9fX2.png" ,TV Oberfranken (TVO) (1080p)
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="TVA.de"  tvg-logo="https://i.imgur.com/Gg6d4Jb.png" ,TVA (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="TVA.de"  tvg-logo="https://i.imgur.com/Gg6d4Jb.png" ,TVA (1080p)
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="WDR1Live.de"  tvg-logo="https://i.imgur.com/RbqDMYx.png" ,WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
