@@ -5327,7 +5327,7 @@ https://live1.mediadesk.al/oranews.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="TropojaTelevizion.al"  tvg-logo="https://i.imgur.com/D3hNOVS.png" ,Tropoja TV [1080p]
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="AlvinChannelTV.az"  tvg-logo="https://i.imgur.com/m6CM7VU.png" ,Alvin Channel TV [804p] [Not 24/7]
+#EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="AlvinChannelTV.az"  tvg-logo="https://i.imgur.com/m6CM7VU.png" ,Alvin Channel TV [804p]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="APATv.az"  tvg-logo="https://i.imgur.com/2CSW4V4.png" ,APA TV [720p]
 http://rtmp.apa.tv/@pagroup!23.m3u8
@@ -5421,20 +5421,18 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="TV2020.cy"  tvg-logo="https://i.imgur.com/rtfsNdd.png" ,TV 2020 [KKTC]
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
-#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="1TV.ge"  tvg-logo="https://i.imgur.com/FSkYLPK.png" ,1TV (720p)
+#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="1TV.ge"  tvg-logo="https://i.imgur.com/FSkYLPK.png" ,1TV [720p]
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="2TV.ge"  tvg-logo="https://i.imgur.com/FJBL6zI.png" ,2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="Formula.ge"  tvg-logo="https://i.imgur.com/fsqBn8G.png" ,Formula (1080p)
+#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="Formula.ge"  tvg-logo="https://i.imgur.com/fsqBn8G.png" ,Formula [1080p]
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="ImediTV.ge"  tvg-logo="https://i.imgur.com/94hNyxZ.png" ,Imedi TV (1080p)
+#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="ImediTV.ge"  tvg-logo="https://i.imgur.com/94hNyxZ.png" ,Imedi TV [1080p]
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="Maestro TV HD"  tvg-logo="http://s.skaz.tv/tvicon/3307.png"   catchup="fs" tvg-rec="3" timeshift="0", Maestro TV HD
+#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="Maestro TV HD"  tvg-logo="http://s.skaz.tv/tvicon/3307.png"   catchup="fs" tvg-rec="3" timeshift="0", Maestro TV [1080p]
 http://stream.skaz.tv/stream/ch3307/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="PalitraNews.ge"  tvg-logo="https://i.imgur.com/BW95PMF.png" ,Palitra News (480p) [Not 24/7]
+#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="PalitraNews.ge"  tvg-logo="https://i.imgur.com/BW95PMF.png" ,Palitra News
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1  group-title="საქართველო 🇬🇪"  tvg-id="TVC.ge"  tvg-logo="https://sul.ge/images/televizia/tvc.png" ,TVC (1080p)
-http://31.146.5.178:8087/play/a009/index.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="DeutschesMusikFernsehen.de"  tvg-logo="https://i.ibb.co/vcD8nB4/resize-32.png"   tvg-name="Deutsches Musik Fernsehen [de]", Deutsches Musik Fernsehen [DE]
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1  group-title="Deutschland 🇩🇪"  tvg-id="123tv.de"  tvg-logo="https://i.imgur.com/slSUDNX.png" ,1-2-3 TV (270p)
