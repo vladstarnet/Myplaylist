@@ -2761,6 +2761,22 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4KurdHD.fr"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_T93Gx94ad3zusy6SWMFeFPHgFhfMKYnrQ&s"   tvg-name="4Kurd HD [fr]",4Kurd HD [IR TR] [1080p]
 https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaSonnati.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png" ,Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaMusic.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" ,Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4KurdHD.fr"  tvg-logo="https://i.imgur.com/xy7W0wD.png" ,Persiana 4Kurd [IR]
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaMusic.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png"   tvg-name="Persiana Music [fr]",Persiana Music [IR TR FR] [720p]
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaNostalgia.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-nostalgia-fr.png"   tvg-name="Persiana Nostalgia [fr]",Persiana Nostalgia [FR IR TR] [1080p]
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaRap.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-rap-fr.png"   tvg-name="Persiana Rap [fr]",Persiana Rap [IR TR FR] [720p]
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaRap.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png" ,Persiana Vibe
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaSonnati.fr"  tvg-logo="https://i.imgur.com/yqq5PlP.png"   tvg-name="Persiana Sonnati [fr]",Persiana Sonnati [IR TR] [720p]
+https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="AvangTV.us"  tvg-logo="https://i.imgur.com/3I1n7fO.png" ,Avang TV [IR] [1080p]
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="GEMMifaPlus.tr"  tvg-logo="https://i.imgur.com/8FIAqR5.png" ,GEM Mifa Plus [IR]
@@ -2773,14 +2789,6 @@ https://hls.pmchd.live/hls/stream.m3u8
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RJTV.us"  tvg-logo="https://i.imgur.com/a1zuW2C.png" ,Radio Javan TV [IR US] [1080p]
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaMusic.fr"  tvg-logo="https://i.imgur.com/SHxxi5I.png"   tvg-name="Persiana Music [fr]",Persiana Music [IR TR FR] [720p]
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaNostalgia.fr"  tvg-logo="https://i.imgur.com/SWO9CKA.png"   tvg-name="Persiana Nostalgia [fr]",Persiana Nostalgia [FR IR TR] [1080p]
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaRap.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-rap-fr.png"   tvg-name="Persiana Rap [fr]",Persiana Rap [IR TR FR] [720p]
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaSonnati.fr"  tvg-logo="https://i.imgur.com/yqq5PlP.png"   tvg-name="Persiana Sonnati [fr]",Persiana Sonnati [IR TR] [720p]
-https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="T2TV.ir"  tvg-logo="https://i.imgur.com/Wu8MBb7.png" ,T2 Tapesh [IR] [720p]
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="7080TV.it"  tvg-logo="https://i.imgur.com/y4kNV3Q.png" ,70-80 TV [IT] [1080p]
@@ -5717,7 +5725,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="OndaAlgeciras.es"  tvg-logo="https://i.imgur.com/kUhFkVF.png" ,Onda Algeciras TV (576p)
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="PopularTVCantabria.es"  tvg-logo="https://i.imgur.com/amgBFmH.png" ,Popular TV Cantabria (576p) [Not 24/7]
+#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="PopularTVCantabria.es"  tvg-logo="https://i.imgur.com/amgBFmH.png" ,Popular TV Cantabria (576p)
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="Punt3.es"  tvg-logo="https://i.imgur.com/i9tsnhD.png" ,Punt 3 Vall Uixó (1080p)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
@@ -5761,15 +5769,11 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AbalfadhlTV.ir"  tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" ,Abalfadhl TV (720p)
 https://t.northtelecom.org/ABALFADHLTV.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AlAlam.ir"  tvg-logo="https://i.imgur.com/Zdi31dy.png" ,Al Alam (360p) [Not 24/7]
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AlAlam.ir"  tvg-logo="https://i.imgur.com/Zdi31dy.png" ,Al Alam (360p)
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AlHayatTV.us"  tvg-logo="https://i.imgur.com/M8ZuzeB.png" ,Al Hayat TV (720p)
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AlForatTV.iq"  tvg-logo="https://i.imgur.com/f6PQzKd.png" ,Alforat TV (1080p)
 http://95.216.180.111:1935/live/10/playlist.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AssiratTV.ir"  tvg-logo="https://i.imgur.com/ps4Gtj0.png" ,Assirat TV (700p)
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AVAFamily.ir"  tvg-logo="https://i.imgur.com/QwBGLzK.png" ,AVA Family (720p) [Not 24/7]
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AVAFamily.ir"  tvg-logo="https://i.imgur.com/QwBGLzK.png" ,AVA Family (720p)
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="AVASeries.ir"  tvg-logo="https://i.imgur.com/8AfAfZE.png" ,AVA Series (720p)
 https://avaserieshls.wns.live/hls/stream.m3u8
@@ -5779,19 +5783,17 @@ https://cafetradehls.wns.live/hls/stream.m3u8
 https://hls.erfanhalgheh.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="FX1.ir"  tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" ,FX1 Farsi (720p)
 https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷" ,Hasti TV (1080p) [Not 24/7]
-https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷" ,High Vision
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="IranInternational.uk"  tvg-logo="https://i.imgur.com/55RpaF3.png" ,Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="IranJewishTV.ir"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwdSjfPN5mmdN_f8zB2HesppxL_MwwsPGmA&usqp=CAU" ,Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="TVITN.ir"  tvg-logo="https://i.imgur.com/U4sKHWy.png" ,ITN (720p) [Not 24/7]
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="TVITN.ir"  tvg-logo="https://i.imgur.com/U4sKHWy.png" ,ITN (720p)
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="KanalJadid.uk"  tvg-logo="https://i.imgur.com/7oGGgfD.png" ,Kanal Jadid (720p)
 https://kjhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="MaahTV.my"  tvg-logo="https://i.imgur.com/FkyueH6.png" ,Maah TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="MaahTV.my"  tvg-logo="https://i.imgur.com/FkyueH6.png" ,Maah TV (720p)
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="MetaFilmTV.ir"  tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png" ,Meta Film TV (1080p)
 https://metafilmhls.wns.live/hls/stream.m3u8
@@ -5799,9 +5801,7 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="MohabatTV.ir"  tvg-logo="https://i.imgur.com/Ig0SPev.png" ,Mohabat TV [IR]
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="NegahTV.ir"  tvg-logo="https://i.imgur.com/NFsBd4D.png" ,Negah TV (720p)
-https://iptv.negahtv.com/negahtv/playlist.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="OmideIranTV.ir"  tvg-logo="https://i.imgur.com/CeMf68L.png" ,Omide Iran (720p) [Not 24/7]
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="OmideIranTV.ir"  tvg-logo="https://i.imgur.com/CeMf68L.png" ,Omide Iran (720p)
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="OXIRTV.ir"  tvg-logo="https://i.imgur.com/MGMhUDx.png" ,OXIR TV (720p)
 https://hls.oxir.live/hls/stream.m3u8
@@ -5809,39 +5809,31 @@ https://hls.oxir.live/hls/stream.m3u8
 https://live2.parnian.tv/hls/.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="ParsTV.ir"  tvg-logo="https://i.imgur.com/RQ5DzEE.png" ,Pars
 https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="4UTV.tr"  tvg-logo="https://i.imgur.com/PexhKwp.png" ,4U TV (720p)
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="4UTV.tr"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Unnamed4u.png/revision/latest?cb=20220428184143" ,4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="BravoFarsiTV.ir"  tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" ,4U+
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="BravoFarsiTV.ir"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIxaMdry0YLNNGgYm0zlu47QaI6X3sx7qxg&s" ,4U+
 https://bravoohls.wns.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaHD.fr"  tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" ,Persiana HD
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaHD.fr"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9Mrv_sADZonKE9UUX2rgLqzHIuHt5-ipznXKjm2qCp3u8NwAA1c_19CdqGt4-WbDbw&usqp=CAU" ,Persiana+ HD
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaCinema.fr"  tvg-logo="https://i.imgur.com/hgIro9r.png" ,Persiana Cinema
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaCinema.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-cinema-fr.png" ,Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaComedy.fr"  tvg-logo="https://i.imgur.com/DBZ3Pi5.png" ,Persiana Comedy
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaComedy.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-comedy-fr.png" ,Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaFamily.fr"  tvg-logo="https://i.imgur.com/lMZsuWi.png" ,Persiana Family
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaFamily.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-family-fr.png" ,Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaIranian.fr"  tvg-logo="https://i.imgur.com/vqrrpBi.png" ,Persiana Iranian
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaIranian.fr"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3faM9oH00CGYDQyaaX8qbs7EVIkgd2aYshIHqGClV6ESc-RFwNfE73r9viCRQPxxnw&usqp=CAU" ,Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaJunior.fr"  tvg-logo="https://i.imgur.com/zeKHZYG.png" ,Persiana Junior
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaJunior.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-junior-fr.png" ,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaLatino.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" ,Persiana Latino (720p)
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaLatino.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" ,Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="Persiana1.fr"  tvg-logo="https://i.imgur.com/X1Dv6st.png" ,Persiana Series
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="Persiana1.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png" ,Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaScience.fr"  tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" ,Persiana Science
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaScience.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png" ,Persiana Science
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="4KurdHD.fr"  tvg-logo="https://i.imgur.com/xy7W0wD.png" ,Persiana 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaKorea.fr"  tvg-logo="https://i.imgur.com/si2ZnIA.png" ,Persiana Korea
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaKorea.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-korea-fr.png" ,Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaMusic.fr"  tvg-logo="https://i.imgur.com/SHxxi5I.png" ,Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaRap.fr"  tvg-logo="https://i.ibb.co/ThGc7d5/Persiana-Rap.png" ,Persiana Rap
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaSonnati.fr"  tvg-logo="https://i.imgur.com/yqq5PlP.png" ,Persiana Sonnati
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaTwo.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" ,Persiana Reality
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaTwo.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png" ,Persiana Reality
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="SimayeAzadi.uk"  tvg-logo="https://i.imgur.com/yXcczMq.png" ,Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
