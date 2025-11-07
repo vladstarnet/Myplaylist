@@ -2759,26 +2759,18 @@ https://galaxyott.live/hls/sanaplus.m3u8
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="VaanavilTV.in"  tvg-logo="https://i.imgur.com/etr1k08.png"   tvg-name="Vaanavil TV [in]",Vaanavil TV [IN]
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4KurdHD.fr"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_T93Gx94ad3zusy6SWMFeFPHgFhfMKYnrQ&s"   tvg-name="4Kurd HD [fr]",4Kurd HD [IR TR] [1080p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4KurdHD.fr"  tvg-logo="https://i.imgur.com/xy7W0wD.png" ,4Kurd HD [IR TR] [1080p]
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaSonnati.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png" ,Persiana Folk
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaSonnati.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png" ,Persiana Folk [IR, FR] [720p]
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaMusic.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" ,Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4KurdHD.fr"  tvg-logo="https://i.imgur.com/xy7W0wD.png" ,Persiana 4Kurd [IR]
-https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaMusic.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png"   tvg-name="Persiana Music [fr]",Persiana Music [IR TR FR] [720p]
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaNostalgia.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-nostalgia-fr.png"   tvg-name="Persiana Nostalgia [fr]",Persiana Nostalgia [FR IR TR] [1080p]
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaRap.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-rap-fr.png"   tvg-name="Persiana Rap [fr]",Persiana Rap [IR TR FR] [720p]
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaTwo.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png" ,Persiana Reality
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaTwo.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png" ,Persiana Reality [IR, FR] [720p]
 https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaRap.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png" ,Persiana Vibe
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaRap.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png" ,Persiana Vibe [IR TR FR] [720p]
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="PersianaSonnati.fr"  tvg-logo="https://i.imgur.com/yqq5PlP.png"   tvg-name="Persiana Sonnati [fr]",Persiana Sonnati [IR TR] [720p]
-https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="AvangTV.us"  tvg-logo="https://i.imgur.com/3I1n7fO.png" ,Avang TV [IR] [1080p]
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="GEMMifaPlus.tr"  tvg-logo="https://i.imgur.com/8FIAqR5.png" ,GEM Mifa Plus [IR]
@@ -5835,8 +5827,6 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="PersianaKorea.fr"  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-korea-fr.png" ,Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="SimayeAzadi.uk"  tvg-logo="https://i.imgur.com/yXcczMq.png" ,Simaye Azadi (1080p)
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="SL1.ir"  tvg-logo="https://i.imgur.com/n9cuM2W.jpg" ,SL 1 (720p)
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="SL2.ir"  tvg-logo="https://i.imgur.com/BVuUx5R.jpg" ,SL 2 (720p)
@@ -5845,9 +5835,7 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
 #EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="TBNNejatTV.ir"  tvg-logo="https://i.imgur.com/e4WffQA.png" ,TBN Nejat TV (720p)
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="TVEInternacionalEuropeAsia.es"  tvg-logo="https://i.imgur.com/ow1HArj.png" ,TVE Internacional Europe-Asia [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
-#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="YourTimeTV.ir"  tvg-logo="https://i.imgur.com/X38vWJ1.png" ,YourTime TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="ایران 🇮🇷"  tvg-id="YourTimeTV.ir"  tvg-logo="https://i.imgur.com/X38vWJ1.png" ,YourTime TV (720p)
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlAyyamTV.iq"  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ayam-tv.png" ,Al Ayyam TV
 http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
@@ -5869,21 +5857,15 @@ http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
 http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlNujabaTV.iq"  tvg-logo="https://i.imgur.com/XWXehZL.png" ,Al Nujaba
 http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlRasheedTV.iq"  tvg-logo="https://i.imgur.com/ltyRjPK.png" ,Al Rasheed (1080p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlRasheedTV.iq"  tvg-logo="https://i.imgur.com/ltyRjPK.png" ,Al Rasheed (1080p)
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlJawadainTV.iq"  tvg-logo="https://i.imgur.com/Eo3UYCK.png" ,Al-Jawadain TV (1080p) [Not 24/7]
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlNaeemTV.iq"  tvg-logo="https://i.imgur.com/JyWjfIB.png" ,Al-Naeem TV (576p)
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlSharqiya.iq"  tvg-logo="https://i.imgur.com/mJIG5IV.png" ,Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlSharqiyaNews.iq"  tvg-logo="https://i.imgur.com/PeAcXB9.png" ,Al-Sharqiya News [IQ]
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlawlaTV.iq"  tvg-logo="https://i.imgur.com/3Kv0t3X.png" ,Alawla TV (720p)
-https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlYaumTV.ae"  tvg-logo="https://i.imgur.com/rBixF3P.png" ,Al Yaum TV [IQ]
-https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlZahraTVTurkic.tr"  tvg-logo="https://i.imgur.com/QEHKGnG.png" ,Al-Zahra TV Turkic (720p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="AlZahraTVTurkic.tr"  tvg-logo="https://i.imgur.com/QEHKGnG.png" ,Al-Zahra TV Turkic (720p)
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="Alhurra.us"  tvg-logo="https://i.imgur.com/tiQp2sR.png" ,Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
@@ -5899,14 +5881,8 @@ http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="BeitolAbbasTVChannel.iq"  tvg-logo="https://i.imgur.com/s8PfUQy.png" ,BeitolAbbas TV Channel (720p)
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="BeladiSatelliteTV.iq"  tvg-logo="https://i.imgur.com/xpBwbma.png" ,Beladi Satellite TV (540p)
-http://95.216.180.111:1935/live/68/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="Channel8.iq"  tvg-logo="https://static.wikia.nocookie.net/haribosky/images/b/bd/Channel_8_Logo_PNG.png/revision/latest?cb=20211023173015" ,Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶" ,Dua Channel (720p)
-https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="GaliKurdistan.iq"  tvg-logo="https://i.imgur.com/Jd9DywP.png" ,Gali Kurdistan (720p) [Not 24/7]
-https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="HadiTV3.iq"  tvg-logo="https://i.imgur.com/TXzEtF8.png" ,Hadi TV Azeri and Russian (720p)
 https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="HadiTV1.iq"  tvg-logo="https://i.imgur.com/TXzEtF8.png" ,Hadi TV English and Urdu (720p)
@@ -5919,47 +5895,35 @@ https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
 https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶" ,Hudhud TV
 http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamAsrTV.iq"  tvg-logo="https://i.imgur.com/SLoSBTh.png" ,Imam Asr TV (720p)
-https://iptv.imamasrtv.com/asrfa/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV1.iq"  tvg-logo="https://i.imgur.com/pDdUvz7.png" ,Imam Hussein TV 1 (1080p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV1.iq"  tvg-logo="https://i.imgur.com/pDdUvz7.png" ,Imam Hussein TV 1 (1080p)
 https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV2.iq"  tvg-logo="https://i.imgur.com/IXVSPdJ.png" ,Imam Hussein TV 2 (1080p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV2.iq"  tvg-logo="https://i.imgur.com/IXVSPdJ.png" ,Imam Hussein TV 2 (1080p)
 https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV3.iq"  tvg-logo="https://i.imgur.com/emQRHQZ.png" ,Imam Hussein TV 3 (1080p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV3.iq"  tvg-logo="https://i.imgur.com/emQRHQZ.png" ,Imam Hussein TV 3 (1080p)
 https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV4.iq"  tvg-logo="https://i.imgur.com/0UYcylY.png" ,Imam Hussein TV 4 (1080p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ImamHusseinTV4.iq"  tvg-logo="https://i.imgur.com/0UYcylY.png" ,Imam Hussein TV 4 (1080p)
 https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="INews.iq"  tvg-logo="https://i.imgur.com/9lOuzHQ.png" ,iNEWS TV (1080p)
 https://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="IshtarTV.iq"  tvg-logo="https://i.imgur.com/qzApokm.png" ,Ishtar TV (1080p)
-http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="KarbalaTV.iq"  tvg-logo="https://i.imgur.com/jPykyMf.png" ,Karbala TV (1080p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="KarbalaTV.iq"  tvg-logo="https://i.imgur.com/jPykyMf.png" ,Karbala TV (1080p)
 https://ythls.armelin.one/channel/UCI4gZRGRdfnfPajdxs8QtPQ.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="KurdChannel.iq"  tvg-logo="https://i.imgur.com/xPwzad9.png" ,Kurd Channel (480p)
-https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="Kurdistan24.iq"  tvg-logo="https://i.imgur.com/9QWs2ms.png" ,Kurdistan 24 (720p)
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="KurdistanTV.iq"  tvg-logo="https://i.imgur.com/mjQptpc.png" ,Kurdistan TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="KurdistanTV.iq"  tvg-logo="https://i.imgur.com/mjQptpc.png" ,Kurdistan TV (720p)
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="Kurdsat.iq"  tvg-logo="https://i.imgur.com/UAbSwYA.png" ,Kurdsat HD
-https://kurdsat.akamaized.net/hls/stream_0.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="MarjaeyatTVArabic.iq"  tvg-logo="https://i.imgur.com/LsYYkUI.png" ,Marjaeyat TV Arabic (1080p)
 https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="MarjaeyatTVEnglish.iq"  tvg-logo="https://i.imgur.com/Dvf61Jp.png" ,Marjaeyat TV English (1080p)
 https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="NRTTV.iq"  tvg-logo="https://i.imgur.com/uGKGtbW.png" ,NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="NUBARPlusPlus.iq"  tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" ,NUBAR Plus TV (720p)
-http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="RudawTV.iq"  tvg-logo="https://i.imgur.com/Zo3IWOn.png" ,Rudaw TV (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶" ,Safeer TV (1080p)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="UTV.iq"  tvg-logo="https://i.imgur.com/9qFHjnu.png" ,UTV (1080p)
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="WaarTV.iq"  tvg-logo="https://i.imgur.com/rK0y02d.png" ,Waar TV
-https://ca-rt.onetv.app/Waar/index-0.m3u8
-#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ZagrosTV.iq"  tvg-logo="https://i.imgur.com/9Mspf32.png" ,Zagros (720p) [Not 24/7]
+#EXTINF:-1  group-title="العِرَاق‎[ 🇮🇶"  tvg-id="ZagrosTV.iq"  tvg-logo="https://i.imgur.com/9Mspf32.png" ,Zagros (720p)
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="AlMamlakaTV.jo"  tvg-logo="https://i.imgur.com/UeTseMV.png" ,Al Mamlaka TV (1080p)
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
@@ -5967,37 +5931,23 @@ https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/64
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="AmmanTV.jo"  tvg-logo="https://i.imgur.com/5l7kw0b.png" ,Amman TV (720p)
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="Hala.jo"  tvg-logo="https://i.imgur.com/uKXgZjN.png" ,Hala (720p)
-https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8
 #EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="JordanTV.jo"  tvg-logo="https://i.imgur.com/0XozB5N.png" ,Jordan Satellite Channel (1080p)
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="KaifaTV.jo"  tvg-logo="https://i.imgur.com/zGGeSQg.png" ,Kaifa TV (576p)
-http://82.212.74.2:8000/live/7311.m3u8
-#EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="RotanaRadioJordanStudio.jo"  tvg-logo="https://i.imgur.com/xGDjlp5.png" ,Rotana Radio Jordan: Studio (180p) [Not 24/7]
-http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
-#EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="RotanaTarabJordanCityView.jo"  tvg-logo="https://i.imgur.com/NjgOBts.png" ,Rotana Tarab Jordan: City View (180p) [Not 24/7]
-http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
-#EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="RoyaTV.jo"  tvg-logo="https://i.imgur.com/WX80rty.png" ,Roya TV (1080p) [Not 24/7]
+#EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="RoyaTV.jo"  tvg-logo="https://i.imgur.com/WX80rty.png" ,Roya TV (1080p)
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="ToyorAlJannah.jo"  tvg-logo="https://i.imgur.com/5j8z6cc.png" ,Toyor Al-Jannah (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="9kanal-israel"  tvg-logo="https://af-play.com/storage/images/pack_logos/685aa2c9ce8f9c4460afa56f2e86d30d.png"   tvg-name="9 канал", 9 канал
-rtmp://92.119.88.58//2374
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="9-kanal"  tvg-logo="https://af-play.com/storage/images/pack_logos/685aa2c9ce8f9c4460afa56f2e86d30d.png"   tvg-rec="1" catchup_days="7",9 Канал
 http://bethoven.af-stream.com:1600/s/yokrgdit/9-kanal/video.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Hidabroot.il"  tvg-logo="https://i.imgur.com/CTH4Hu2.png" ,Hidabroot (1080p)
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Hidabroot.il"  tvg-logo="https://i.imgur.com/CTH4Hu2.png" ,Hidabroot (720p)
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.ibb.co/b273jZw/image-24.png"   tvg-name="Hidabroot TV", Hidabroot TV
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/he/7/7a/Hidabroot_logo.png"   tvg-name="Hidabroot TV",Hidabroot TV (720p)
 https://edge-fs-20.cybercdn.live/HidabrootIL/Live97/HidabrootIL/Live97_720p/chunks.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="KabbalahforthePeopleIsrael.il"  tvg-logo="https://i.imgur.com/VxAHOgr.png" ,Kabbalah for the People
-https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/VxAHOgr.png"   tvg-name="Kabbalah TV", Kabbalah TV
-https://edge1.uk.kab.tv/live/tv66-heb-medium/chunks.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png"   tvg-name="KHAN 11", KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_1.2k/chunklist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Kan11.il"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" ,KAN 11 Israel (1080p)
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.ibb.co/X2nBrhd/image-18.png"   tvg-name="Kan Educational", Kan Educational
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Keshet12.svg/revision/latest/scale-to-width-down/250?cb=20200604124839" ,Keshet 12 HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2329/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2560px-KanHinuchit.svg.png"   tvg-name="Kan Educational", Kan Educational
 https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_1.2k/chunklist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="KanEducational.il"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" ,Kan Kids (720p)
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
