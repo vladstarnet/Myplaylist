@@ -5935,14 +5935,16 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="RoyaTV.jo"  tvg-logo="https://i.imgur.com/WX80rty.png" ,Roya TV (1080p)
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" ,i24 IL
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" ,i24NEWS [1080p]
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2386/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSArabic.il@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" ,I24 News Arabic (720p)
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSFrench.il@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" ,I24 News French (720p)
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSHebrew.il@SD"  tvg-logo="https://www.i24news.tv/images/favicon.png" ,i24NEWS Hebrew
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSHebrew.il@SD"  tvg-logo="https://www.i24news.tv/images/favicon.png" ,i24NEWS [1080p]
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSArabic.il@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" ,i24 News Arabic [720p]
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSFrench.il@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" ,i24 News French [720p]
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Arutz_24_logo.png"   tvg-rec="0",Channel 24 HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12237/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/QXB1jv8.png"   tvg-rec="0",Knesset Channel IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12269/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Hidabroot.il"  tvg-logo="https://i.imgur.com/CTH4Hu2.png" ,Hidabroot (720p)
@@ -5961,44 +5963,26 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2329/index.m3u8
 https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_1.2k/chunklist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="KanEducational.il"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" ,Kan Kids (720p)
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Kan Educational IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2380/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/eFM3bTq.png" ,Reshet 13 (1080p)
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2330/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/Iq2Kb69.png"   tvg-name="Channel 14 ",Channel 14 
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12239/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Channel 20 IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2335/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Channel 24 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12237/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Channel 98 IL
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-98-il.png"   tvg-rec="3",Channel 98 IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2369/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",5Sport 4K IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/16019/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png"   tvg-rec="3",FOX News IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2335/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="HalaTV.il"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FWCEya47xfWUrYhAe6NYIulOVjfYDioXHhBHfD9jj3MCU87E9ja7C44yr5h69FT8zFQ&usqp=CAU" ,Hala TV
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Makan33.il"  tvg-logo="https://i.imgur.com/RVtQTed.png" ,Makan 33 (1080p)
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="ShelanuTV.il"  tvg-logo="https://i.imgur.com/UVz2Ojq.png" ,Shelanu TV (720p)
-https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",WIZ HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12283/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="AngelTV.in@Hebrew"  tvg-logo="https://i.imgur.com/qKLEGU7.png" ,Angel TV Hebrew (720p)
-https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Keshet12.il@SD"  tvg-logo="https://i.imgur.com/fY3eakc.png" ,Keshet 12 (1080i) [Not 24/7]
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1757445516~acl=/*~data=hdntl~hmac=a8baf01127ae46cd6fd241cf61db8590d7eacc3406f4735ed2defef329496b8a/profileManifest.m3u8?_did=6cfbfc673e5d5f7f274bf96b6c72f28ce1a53f82&_uid=0195a46a-9f11-4704-a944-301512682f7d&rK=bn
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="RelevantTV.il@SD"  tvg-logo="https://i.imgur.com/jCZ5gFO.png" ,Relevant TV (1080p)
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",One HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2340/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",One 2 IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2373/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",One 2 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12231/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Kan Educational IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2380/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Makan 33 IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2381/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yam Tichoni IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2390/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="ShelanuTV.il"  tvg-logo="https://i.imgur.com/UVz2Ojq.png" ,Shelanu TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="AngelTV.in@Hebrew"  tvg-logo="https://i.imgur.com/qKLEGU7.png" ,Angel TV Hebrew (720p)
+https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Good Life IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2355/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Discovery Channel HD IL
@@ -6011,6 +5995,8 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2378/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12247/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",National Geographic IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2387/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Nat Geo Wild FHD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12248/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Nat Geo Wild HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12259/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",History FHD IL
@@ -6023,14 +6009,6 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12243/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12209/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Food Network IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2377/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12211/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni+ HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12224/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Viva Istanbul IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12208/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Viva Premium HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12226/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12257/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus HD IL
@@ -6079,6 +6057,16 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2151/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12220/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 2 HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12215/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Viva Istanbul IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12208/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Viva Premium HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12226/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12211/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yam-tichoni-plus-il.png"   tvg-rec="3",Yam Tichoni IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2390/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni+ HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12224/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Docu HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12258/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Israeli IL
@@ -6111,8 +6099,14 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2351/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12273/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Kids IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2365/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Nat Geo Wild FHD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12248/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",5Sport 4K IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/16019/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",One HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2340/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",One 2 IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2373/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",One 2 HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12231/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Baby TV IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2370/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Disney Channel IL
@@ -6127,6 +6121,8 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12240/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2364/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Nick Jr. IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2337/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",WIZ HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12283/index.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="OndaValenciaTV.es"  tvg-logo="https://i.ibb.co/kmMnXBD/image-58.png"   tvg-name="Onda Valencia TV [es]", Onda Valencia TV
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="SuperTV.it"  tvg-logo="https://i.imgur.com/hxF3yhw.png" ,Super TV [IT]
