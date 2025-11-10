@@ -5963,8 +5963,6 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2329/index.m3u8
 https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_1.2k/chunklist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="KanEducational.il"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" ,Kan Kids (720p)
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Kan Educational IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2380/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/eFM3bTq.png" ,Reshet 13 (1080p)
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2330/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/Iq2Kb69.png"   tvg-name="Channel 14 ",Channel 14 
@@ -6009,6 +6007,12 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12243/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12209/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Food Network IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2377/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12211/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni+ HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12224/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yam-tichoni-plus-il.png"   tvg-rec="3",Yam Tichoni IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2390/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12257/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus HD IL
@@ -6061,12 +6065,6 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12215/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12208/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Viva Premium HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12226/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12211/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yam-tichoni-plus-il.png"   tvg-rec="3",Yam Tichoni IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2390/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni+ HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12224/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Docu HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12258/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Israeli IL
