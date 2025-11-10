@@ -5975,7 +5975,7 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2335/index.m3u8
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Makan33.il"  tvg-logo="https://i.imgur.com/RVtQTed.png" ,Makan 33 (1080p)
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Makan 33 IL
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/RVtQTed.png"   tvg-rec="3",Makan 33 IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2381/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="ShelanuTV.il"  tvg-logo="https://i.imgur.com/UVz2Ojq.png" ,Shelanu TV (720p)
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
@@ -5987,46 +5987,24 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2355/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12241/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Discovery Channel FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2358/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",E! HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12243/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Health IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2378/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",National Geographic HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12247/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",National Geographic IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2387/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Nat Geo Wild FHD IL
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png"   tvg-rec="0",Nat Geo Wild FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12248/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Nat Geo Wild HD IL
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png"   tvg-rec="0",Nat Geo Wild HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12259/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",History FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12265/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",History HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12223/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",E! HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12243/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Food Network HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12209/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Food Network IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2377/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12211/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni+ HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12224/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yam-tichoni-plus-il.png"   tvg-rec="3",Yam Tichoni IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2390/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus FHD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12257/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14207/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Turkish Dramas Plus IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2363/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 2 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14208/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 2 FHD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12262/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 3 FHD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12264/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 3 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14220/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Bollywood HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12267/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Home Plus IL
@@ -6043,28 +6021,48 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12219/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12245/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema 1 IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2357/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 2 HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12215/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema 3 FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2372/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 3 HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12220/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema 4 IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2356/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema Family HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2151/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Comedy HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12217/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT HBO HD IL
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Drama HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2354/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Real HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12274/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Zone IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2360/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema Family HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2151/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 3 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12220/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 2 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12215/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Viva Istanbul IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12208/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Viva Premium HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12226/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni+ HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12224/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 3 HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14220/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yam Tichoni HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12211/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yam-tichoni-plus-il.png"   tvg-rec="3",Yam Tichoni IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2390/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus FHD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12257/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14207/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Turkish Dramas Plus IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2363/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 2 HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14208/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 2 FHD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12262/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 3 FHD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12264/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Docu HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12258/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Israeli IL
@@ -6073,8 +6071,6 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2342/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12270/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="yes2"   tvg-rec="0",Yes Movies Action HD
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12280/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Action HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2346/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Action IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2350/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Comedy FHD IL
@@ -6083,20 +6079,22 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12271/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12281/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Comedy IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2348/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Comedy HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2345/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Drama FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12272/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Drama HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12282/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Drama HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2343/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Drama IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2351/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Kids FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12273/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Kids IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2365/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Action HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2346/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Comedy HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2345/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Drama HD IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2343/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",5Sport 4K IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/16019/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",One HD IL
@@ -6109,10 +6107,10 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12231/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2370/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Disney Channel IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2382/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Hop! IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2338/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Hop! HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12244/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Hop! IL
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2338/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Junior IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12240/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Luli IL
