@@ -2393,6 +2393,8 @@ http://stream.skaz.tv/stream/ch529/fde215a0/mono.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/o2tv-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="o2tv"  tvg-logo="https://epg.iptvx.one/picons/o2tv.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",O!2 HD
 http://stream.skaz.tv/stream/ch554/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYksbMY_FhvuTZXQaetfgyX5M8mEAuptbHCc7ZnHdyFz4JyWLg1XxFGApQnQ7n1S7Q01o&usqp=CAU" ,Manas TV [720p] [KZ]
+http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzzone"  tvg-logo="https://i.imgur.com/nHVABXh.png" ,MuzzOne [KZ]
 https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/2023-01-17_21-45-17.png" ,MIXM TB [1080p]
@@ -2797,6 +2799,8 @@ https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EuroIndieMusicChartTV.it"  tvg-logo="https://i.imgur.com/lF0iofX.png" ,Euro Indie Music Chart TV [IT] [1080p]
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EuroTV.it"  tvg-logo="https://i.imgur.com/HFWWzKT.png" ,Euro TV [IT] [720p]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/ba/Logo_Radio_Kiss_Kiss_Italia.png"   tvg-name="Kiss Kiss Italia HD",Kiss Kiss Italia HD [IT] [720p]
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" ,Kiss Kiss TV [IT] [1080p]
@@ -3337,6 +3341,8 @@ http://stream.skaz.tv/stream/ch2064/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1305/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV Шансон"  tvg-logo="https://epg.iptvx.one/picons/yosso-shanson.png"   catchup="fs" tvg-rec="3" timeshift="0",Yosso TV Шансон [1080p]
 http://stream.skaz.tv/stream/ch3705/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="kazakh-tv"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png" ,Jibek Joly
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ch2197"  tvg-logo="http://s.skaz.tv/tvicon/2197.png"   tvg-name="Play-x Театр Современник HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Театр Современник HD
 http://stream.skaz.tv/stream/ch2197/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="BOX Music 4K"  tvg-logo="https://epg.iptvx.one/picons/box-music-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Music 4K
@@ -5697,6 +5703,10 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="ETBBasque.es"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" ,ETB Basque [ES]
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="EWTNEurope.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" ,EWTN Europe (720p)
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="FailArmy.it"  tvg-logo="https://i.imgur.com/t3IjyYJ.png" ,Failarmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="FuerteventuraTV.es"  tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" ,Fuerteventura TV (1080p)
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="GoienaEus.es"  tvg-logo="https://i.imgur.com/eaLIJzK.png" ,Goiena Eus (720p)
@@ -5719,6 +5729,8 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="OndaAlgeciras.es"  tvg-logo="https://i.imgur.com/kUhFkVF.png" ,Onda Algeciras TV (576p)
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="OndaValenciaTV.es"  tvg-logo="https://ondavalencia.es/images/LOGO_SILUETA_ONDA_VALENCIA.png"   tvg-name="Onda Valencia TV [es]", Onda Valencia TV
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="PopularTVCantabria.es"  tvg-logo="https://i.imgur.com/amgBFmH.png" ,Popular TV Cantabria (576p)
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="Punt3.es"  tvg-logo="https://i.imgur.com/i9tsnhD.png" ,Punt 3 Vall Uixó (1080p)
@@ -6119,11 +6131,7 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2364/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2337/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",WIZ HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12283/index.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="OndaValenciaTV.es"  tvg-logo="https://i.ibb.co/kmMnXBD/image-58.png"   tvg-name="Onda Valencia TV [es]", Onda Valencia TV
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="SuperTV.it"  tvg-logo="https://i.imgur.com/hxF3yhw.png" ,Super TV [IT]
-http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="12TVParma.it"  tvg-logo="https://i.imgur.com/mBYxWOg.png" ,12 TV Parma (540p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="12TVParma.it"  tvg-logo="https://i.imgur.com/mBYxWOg.png" ,12 TV Parma (540p)
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Adnkronos.it"  tvg-logo="https://i.imgur.com/mEoDAf1.png" ,Adnkronos (720p)
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
@@ -6135,13 +6143,11 @@ https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="AzzurraTV.it"  tvg-logo="https://i.imgur.com/qWIZNEc.png" ,Azzurra TV (576p)
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="BizzarroMovies.it"  tvg-logo="https://i.imgur.com/kNGpFHX.png" ,Bizzarro Movies
-https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="CafeTV24.it"  tvg-logo="https://i.imgur.com/SRFzjja.png" ,CafeTV24 (720p)
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="CameradeiDeputati.it"  tvg-logo="https://i.imgur.com/hv4zi9N.png" ,Camera dei Deputati (via RR) (240p)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Canale2Altamura.it"  tvg-logo="https://i.imgur.com/7XXdN5T.png" ,Canale 2 Altamura (576p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Canale2Altamura.it"  tvg-logo="https://i.imgur.com/7XXdN5T.png" ,Canale 2 Altamura (576p)
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Canale8.it"  tvg-logo="https://i.imgur.com/xwYmFgj.png" ,Canale 8 (480p)
 http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
@@ -6149,31 +6155,17 @@ http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="CGEntertainment.it"  tvg-logo="https://i.imgur.com/XeWzy7e.png" ,CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="CinemaSegreto.it"  tvg-logo="https://i.imgur.com/CD0sMAa.png" ,Cinema Segreto
-https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="DITV80.it"  tvg-logo="https://i.imgur.com/2AqKAMy.png" ,DI.TV 80 (720p)
-https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="DonnaTV.it"  tvg-logo="https://i.imgur.com/39cSNHs.png" ,Donna TV (480p)
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="EsperiaTV.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" ,Esperia TV (480p)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="eTvMarche.it"  tvg-logo="https://i.imgur.com/U6OW577.png" ,èTv Marche (720p)
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="eTvRete7.it"  tvg-logo="https://i.imgur.com/xYVI5OC.png" ,èTv Rete 7 (720p)
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="EuroTV.it"  tvg-logo="https://i.imgur.com/HFWWzKT.png" ,Euro TV (720p) [Not 24/7]
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="EWTNEurope.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" ,EWTN Europe (720p) [Not 24/7]
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="FailArmy.it"  tvg-logo="https://i.imgur.com/t3IjyYJ.png" ,Failarmy
-https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹" ,Full Moon
-https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="GiovanniPaoloTV.it"  tvg-logo="https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png" ,Giovanni Paolo TV (1080p)
 https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="GoldTV.it"  tvg-logo="https://i.imgur.com/Yzc47k9.png" ,Gold TV (576p)
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="IcaroTV.it"  tvg-logo="https://i.imgur.com/nWBWzNy.png" ,Icaro TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="IcaroTV.it"  tvg-logo="https://i.imgur.com/nWBWzNy.png" ,Icaro TV (720p)
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="IlBancodeiPugni.it"  tvg-logo="https://i.imgur.com/NZDUlME.png" ,Il Banco dei Pugni Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -6181,14 +6173,12 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a0617180007233
 https://tsw.streamingwebtv24.it:1936/insuranceconnect/insuranceconnect/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="InterTV.it"  tvg-logo="https://i.imgur.com/FUTqh2L.png" ,Inter TV (720p)
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Italia2TV.it"  tvg-logo="https://i.imgur.com/TDSgG28.png" ,Italia 2 TV (480p) [Geo-blocked]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Italia2TV.it"  tvg-logo="https://i.imgur.com/TDSgG28.png" ,Italia 2 TV (480p)
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Italia7.it"  tvg-logo="https://i.imgur.com/xc0kUHk.png" ,Italia 7
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹" ,Iunior TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹" ,Iunior TV (720p)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="LaltroCorriereTV.it"  tvg-logo="https://i.imgur.com/05YWVCq.png" ,L'altro Corriere TV (720P)
-https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="LaCTV.it"  tvg-logo="https://i.imgur.com/TF4LKp0.png" ,La C TV (720p)
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="LaTR3Marsala.it"  tvg-logo="https://i.imgur.com/R4sqZQu.png" ,La TR3 Marsala (720p)
@@ -6205,19 +6195,13 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="MinformoTV.it"  tvg-logo="https://i.imgur.com/9Oq6fLw.png" ,Minformo TV (720p)
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="MondoKids.it"  tvg-logo="https://i.imgur.com/g7GXmFY.png" ,Mondo TV Kids
-https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="MutantX.it"  tvg-logo="https://i.imgur.com/aAUvd0j.png" ,Mutant X Italy (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="NuovaTV1.it"  tvg-logo="https://i.imgur.com/zRu9WGh.png" ,Nuova TV 1 (1080p)
 https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="NuovaTV2.it"  tvg-logo="https://i.imgur.com/zRu9WGh.png" ,Nuova TV 2 (1080p)
-https://nuovatv.net:8443/tv2/stream.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="OndaNovaraTV.it"  tvg-logo="https://i.imgur.com/DTxhOhT.png" ,Onda Novara TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="OndaNovaraTV.it"  tvg-logo="https://i.imgur.com/DTxhOhT.png" ,Onda Novara TV (720p)
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="OndaTV.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg" ,Onda TV (568p)
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="OrlerTV.it"  tvg-logo="https://i.imgur.com/Ia7iULa.png" ,Orler TV (420p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="OrlerTV.it"  tvg-logo="https://i.imgur.com/Ia7iULa.png" ,Orler TV (420p)
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="PaciContemporaryChannel.it"  tvg-logo="https://i.imgur.com/RtOvD2M.png" ,Paci Contemporary Channel (720p)
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
@@ -6231,11 +6215,11 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="QVC.it"  tvg-logo="https://i.imgur.com/6TWUVrh.png" ,QVC Italia (540p)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Rai3.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" ,Rai 3 (720p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Rai3.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" ,Rai 3 (720p)
 https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="ReteBiellaTV.it"  tvg-logo="https://i.imgur.com/I4OVxIb.png" ,Rete Biella TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="ReteBiellaTV.it"  tvg-logo="https://i.imgur.com/I4OVxIb.png" ,Rete Biella TV (720p)
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="ReteOro.it"  tvg-logo="https://i.imgur.com/3oYiBSz.png" ,Rete Oro (720p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="ReteOro.it"  tvg-logo="https://i.imgur.com/3oYiBSz.png" ,Rete Oro (720p)
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="ReteTVItalia.it"  tvg-logo="https://i.imgur.com/BR7QfUF.png" ,Rete TV Italia (1080p)
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
@@ -6247,25 +6231,17 @@ https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="RTTRTrento.it"  tvg-logo="https://i.imgur.com/6DyzN8M.png" ,RTTR Trento (720p)
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="SanMarinoRTV.sm"  tvg-logo="https://i.imgur.com/ZJSWusT.png" ,San Marino RTV (720p)
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="SanMarinoRTVSport.sm"  tvg-logo="https://i.imgur.com/PGm944g.png" ,San Marino RTV Sport (720p)
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="SardegnaUno.it"  tvg-logo="https://i.imgur.com/gv2pLIp.png" ,Sardegna Uno
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="SophiaTV.it"  tvg-logo="https://i.imgur.com/RPXusvS.png" ,Sophia TV Italy (720p)
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹" ,Sportoutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TCI.it"  tvg-logo="https://i.imgur.com/XVOCtVF.png" ,TCI (1080p)
-https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeatroTV.it"  tvg-logo="https://i.imgur.com/GbyLSc2.png" ,Teatro TV (720p)
-https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="SuperTV.it"  tvg-logo="https://i.imgur.com/hxF3yhw.png" ,Super TV [IT]
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleAbruzzo.it"  tvg-logo="https://i.imgur.com/XymK2PR.png" ,Tele Abruzzo (384p)
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleLiguriaSud.it"  tvg-logo="https://i.imgur.com/OxgSGUW.png" ,Tele Liguria Sud (576p)
 https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleQuattro.it"  tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png" ,Tele Quattro (480p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleQuattro.it"  tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png" ,Tele Quattro (480p)
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleArena.it"  tvg-logo="https://i.imgur.com/cTmsGJD.png" ,TeleArena (480p)
 https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
@@ -6281,21 +6257,21 @@ https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleMiaExtra.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png" ,TeleMia Extra (576p)
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Telenorba.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/40/Telenorba.png" ,Telenorba (1080p)
-http://stream2.xdevel.com/video2s976570-2303/stream/playlist_dvr.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TelepaceTrento.it"  tvg-logo="https://tvtvtv.ru/icons/telepace_trento.png" ,Telepace Trento (540p)
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹" ,TeleRegione 118 (576p)
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleTusciaSabina2000.it"  tvg-logo="https://i.imgur.com/cfexNL9.png" ,TeleTusciaSabina 2000 (576p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Teletricolore.it"  tvg-logo="https://i.imgur.com/GajzIN6.png" ,Teletricolore [IT]
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TeleTusciaSabina2000.it"  tvg-logo="https://i.imgur.com/cfexNL9.png" ,TeleTusciaSabina 2000 (576p)
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TGNorba24.it"  tvg-logo="https://i.imgur.com/zAZcSgz.png" ,TG Norba 24 (404p)
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="ThePetCollective.it"  tvg-logo="https://i.imgur.com/MU21Zva.png" ,The Pet Collective
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TV7Benevento.it"  tvg-logo="https://i.imgur.com/VBhVaKB.png" ,TV7 Benevento (288p) [Not 24/7]
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TV7Benevento.it"  tvg-logo="https://i.imgur.com/VBhVaKB.png" ,TV7 Benevento (288p)
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TV2000.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" ,TV 2000 (720p)
+#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TV2000.it"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" ,TV 2000 (1080p)
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="TVCampane1.it"  tvg-logo="https://i.imgur.com/GsdVpll.png" ,TV Campane 1 (720p)
 https://eu1.servers10.com:8081/8032/index.m3u8
@@ -6303,66 +6279,92 @@ https://eu1.servers10.com:8081/8032/index.m3u8
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="UmbriaTV.it"  tvg-logo="https://i.imgur.com/olJIJ7c.png" ,Umbria TV (576p) [Not 24/7]
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹" ,WP Minerva Pictures
-https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Italia 🇮🇹"  tvg-id="Teletricolore.it"  tvg-logo="https://i.imgur.com/GajzIN6.png" ,Teletricolore [IT]
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar24"  tvg-logo="https://i.ibb.co/j5sJjWw/image-2024-10-02-T210332-520.png"   tvg-name="24KZ", 24KZ
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar24"  tvg-logo="https://24.kz/templates/khabar24/img/logo-new.png"   tvg-name="24KZ",24KZ
 http://tvcdn01.oktv.kz/tv/24kz/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="AtamekenBusiness.kz"  tvg-logo="https://i.imgur.com/CfRvm8i.png" ,Atameken Business (1080p) [Not 24/7]
-http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="abaitv"  tvg-logo="https://i.imgur.com/Nw2R7Dq.png" ,Abai TV (720p)
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="7kanal-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png" ,7 канал
+https://stream.tv7.kz/hls/stream.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="31-kanal-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png" ,31 Kanal
+https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kazakhstan"  tvg-logo="https://epg.iptvx.one/picons/kazakhstan.png" ,Qazaqstan TV [1080p]
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="qazaqstan-int"  tvg-logo="https://epg.iptvx.one/picons/qazaqstan-int.png" ,Qazaqstan TV International [1080p]
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png" ,Хабар
+https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="abaitv"  tvg-logo="https://i.imgur.com/Nw2R7Dq.png" ,Abai TV [1080p]
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="AlauTV.kz"  tvg-logo="https://i.imgur.com/gK6ZRzp.png" ,Alau TV (576p)
 https://otv.wotom.net/alau/stream.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Aqjaiyq.kz"  tvg-logo="https://i.imgur.com/ZqIzzmf.png" ,Aqjaiyq (576p)
-https://stream.kaztrk.kz/regional/oraltv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Aqtobe.kz"  tvg-logo="https://i.imgur.com/csKl1z6.png" ,Aqtóbe (576p)
-https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="almaty"  tvg-logo="https://i.ibb.co/NVQ9bwd/resize-2024-10-02-T212003-169.png"   tvg-name="ALMATY TV", ALMATY TV
-https://streams.qazcdn.net/live2/gyGP1ZhSAq/live/gyGP1ZhSAq_360/chunks.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Balapan.kz"  tvg-logo="https://i.imgur.com/2o5T0gi.png" ,Balapan TV
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Ertis.kz"  tvg-logo="https://i.imgur.com/tghMiwW.png" ,Ertis (1080p) [Not 24/7]
-https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Jambyl.kz"  tvg-logo="https://i.imgur.com/X7N3JK4.png" ,Jambyl (360p) [Not 24/7]
-https://stream.kaztrk.kz/regional/taraztv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="el-arna"  tvg-logo="https://i.ibb.co/kq1jvVS/image-2024-10-02-T212318-589.png"   tvg-name="EL ARNA", EL ARNA
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="el-arna"  tvg-logo="https://otautv.kz/wp-content/uploads/2025/03/logotip-1024x279.jpg"   tvg-name="EL ARNA",Bilim TV
 http://sc.id-tv.kz/ElArna_34_35.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Kokshe.kz"  tvg-logo="https://i.imgur.com/pOR3FSR.png" ,Kókshe (720p) [Not 24/7]
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="KTK.kz"  tvg-logo="https://i.imgur.com/BurrNTo.png" ,КТК (1080p) [Not 24/7]
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Mangystay.kz"  tvg-logo="https://i.imgur.com/9JfLseu.png" ,Mańǵystaý (540p) [Not 24/7]
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="MunaraTV.kz"  tvg-logo="https://i.imgur.com/SEka37S.jpg" ,Munara TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="MTRK.kz"  tvg-logo="https://i.imgur.com/XMyRwDk.png" ,МТРК (576p) [Not 24/7]
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Ontustik.kz"  tvg-logo="https://i.imgur.com/xqr1hjN.png" ,Ontústik (360p)
-https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Qazaqstan.kz"  tvg-logo="https://i.imgur.com/oI8g396.png" ,Qazaqstan TV International (1080p)
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="QazSport.kz"  tvg-logo="https://i.imgur.com/UDJ0P5Q.png" ,QazSport (480p) [Geo-blocked]
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Qyzylorda.kz"  tvg-logo="https://i.imgur.com/r4BFQpE.png" ,Qyzylorda (720p)
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Qyzyljar.kz"  tvg-logo="https://i.imgur.com/7l1WSDJ.png" ,Qyzyljar (720p)
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Qostanai.kz"  tvg-logo="https://i.imgur.com/eOz4xJ8.png" ,Qostanai (576p) [Not 24/7]
-https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Saryarqa.kz"  tvg-logo="https://i.imgur.com/EIXwi1c.png" ,Saryarqa (720p) [Not 24/7]
-https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="Semei.kz"  tvg-logo="https://i.ibb.co/P9V0532/Captura.png" ,Semeı (1080p)
-https://stream.kaztrk.kz/regional/semeytv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-logo="https://i.ibb.co/YRsn64S/resize-2024-10-02-T211029-637.png"   tvg-name="Казахстан Шымкент", Казахстан Шымкент
-http://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="novoe-televidenie"  tvg-logo="https://i.imgur.com/mmKWrWs.png" ,Новое телевидение (576p) [Not 24/7]
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="novoe-televidenie"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Novoe-Televidenie.png/1200px-Novoe-Televidenie.png" ,Новое телевидение [720p]
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="rentv-int"  tvg-logo="https://i.ibb.co/4JVBmfD/resize-2024-10-02-T210447-860.png"   tvg-name="Рен ТВ International", Рен ТВ International
-http://45.159.74.14:80/RenTv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar"  tvg-logo="https://i.ibb.co/WP7dQ0T/resize-2024-10-02-T203844-828.png"   tvg-name="Хабар", Хабар
-http://ott.server-iptv.live/2106/video.m3u8?token=A3b61a999e
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="KTK.kz"  tvg-logo="https://epg.iptvx.one/picons/ktk-kz.png" ,КТК [1080p]
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kazakh-tv"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png" ,Jibek Joly [1080p]
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="silkway"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/silkway.png" ,Silk Way
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="balapan"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png" ,Balapan TV [1080p]
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="balapan"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png" ,Balapan International
+https://qazaqstantv-stream.qazcdn.com/international/balapan/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kazsport"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazsport.png" ,QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="almaty"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/almaty.png" ,Almaty TV
+https://stream.qazcdn.net/kf5mevv/gyGP1ZhSAq/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="altai-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png" ,Altai
+https://stream.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="aqjaiyq"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/aqjaiyq.png" ,Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="aqtobe"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/aqtobe.png" ,Aqtóbe
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="atyray"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atyray.png" ,Atyrau
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="ertis"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/ertis.png" ,Ertis
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="jambyl-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/jambyl-kz.png" ,Jambyl
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kokshe"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kokshe.png" ,Kókshe
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="mangystay"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mangystay.png" ,Mańǵystaý
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="ontustik"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/ontustik.png" ,Ontústik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="qostanai-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qostanai-kz.png" ,Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="qyzyljar"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzyljar.png" ,Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="qyzylorda-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzylorda-kz.png" ,Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="saryarqa"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/saryarqa.png" ,Saryarqa (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="semei"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/semei.png" ,Semeı
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="mtrk-petropavl"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mtrk-petropavl.png" ,МТРК Петропавлоск
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="rika"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/rika.png" ,Рика ТВ
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Ulttyq Oner
+https://stream.qaztv.kz/live/stream6/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Sport
+https://stream.qaztv.kz/live/stream9/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Retro
+https://stream.qaztv.kz/live/stream7/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Aitys
+https://stream.qaztv.kz/live/stream8/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Teatr
+https://stream.qaztv.kz/live/stream10/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Serials
+https://stream.qaztv.kz/live/stream1/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Derekti Film
+https://stream.qaztv.kz/live/stream5/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Mult
+https://stream.qaztv.kz/live/stream4/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Music
+https://stream.qaztv.kz/live/stream3/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="no_epg"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png" ,Qazaqstan Azil & Show
+https://stream.qaztv.kz/live/stream2/index.m3u8
 #EXTINF:-1  group-title="대한민국 🇰🇷"  tvg-id="ArirangTV.kr"  tvg-logo="https://i.imgur.com/Asu5pE9.png" ,Arirang
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1  group-title="대한민국 🇰🇷"  tvg-id="BBSTV.kr"  tvg-logo="https://i.imgur.com/01UmXRe.png" ,BBS Buddhist Broadcasting (1080p)
