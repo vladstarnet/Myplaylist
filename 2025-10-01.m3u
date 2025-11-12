@@ -1835,6 +1835,8 @@ https://e10-ll.facecast.net/rtv/0.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="echotv"  tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо TV (Рязань)
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b1/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BF%D0%B0%D0%BF%D0%B0_%28%D0%B3._%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%29_%282018%29.png/revision/latest?cb=20180929064408&path-prefix=ru" ,Ростов-папа [1080p]
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="samara24"  tvg-logo="https://i.imgur.com/YUe3Dwd.png" ,Самара 24 (Самара) [1080p]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="gis-samara"  tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" ,Самара ГИС (Самара) [1080p]
@@ -6281,30 +6283,56 @@ https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar24"  tvg-logo="https://24.kz/templates/khabar24/img/logo-new.png"   tvg-name="24KZ",24KZ
 http://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png" ,Хабар
+https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png" ,Хабар [1080p]
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2223/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="7kanal-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png" ,7 канал
-https://stream.tv7.kz/hls/stream.m3u8
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2213/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="31-kanal-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png" ,31 Kanal
 https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kazakhstan"  tvg-logo="https://epg.iptvx.one/picons/kazakhstan.png" ,Qazaqstan TV [1080p]
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="qazaqstan-int"  tvg-logo="https://epg.iptvx.one/picons/qazaqstan-int.png" ,Qazaqstan TV International [1080p]
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="xabar"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png" ,Хабар
-https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="pervy-kanal-eurasia-kz"  tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eurasia-kz.png" ,Первый канал Евразия
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2212/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5d38606e551531590a663481.png" ,Aqsham TV
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14223/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="astana"  tvg-logo="https://epg.iptvx.one/picons/astana.png" ,Astana TV
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2214/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="abaitv"  tvg-logo="https://i.imgur.com/Nw2R7Dq.png" ,Abai TV [1080p]
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="AlauTV.kz"  tvg-logo="https://i.imgur.com/gK6ZRzp.png" ,Alau TV (576p)
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="alautv"  tvg-logo="https://i.imgur.com/gK6ZRzp.png" ,Алау ТВ
 https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="alautv"  tvg-logo="https://epg.iptvx.one/picons/alautv.png" ,Алау ТВ
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2219/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="aifak-kz"  tvg-logo="https://epg.iptvx.one/picons/aifak-kz.png" ,Айфак
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/15002/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_633537ebcf555f549e80bfd6.png" ,Ассамблея ТВ
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/15004/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="el-arna"  tvg-logo="https://otautv.kz/wp-content/uploads/2025/03/logotip-1024x279.jpg"   tvg-name="EL ARNA",Bilim TV
 http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="novoe-televidenie"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Novoe-Televidenie.png/1200px-Novoe-Televidenie.png" ,Новое телевидение [720p]
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="KTK.kz"  tvg-logo="https://epg.iptvx.one/picons/ktk-kz.png" ,КТК [1080p]
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="ntk-kz"  tvg-logo="https://epg.iptvx.one/picons/ntk-kz.png" ,НТК
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2218/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="otyrar-tv"  tvg-logo="https://epg.iptvx.one/picons/otyrar-tv.png" ,Otyrar
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14237/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kazakh-tv"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png" ,Jibek Joly [1080p]
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kazakh-tv"  tvg-logo="https://epg.iptvx.one/picons/kazakh-tv.png" ,Jibek Joly
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2215/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="silkway"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/silkway.png" ,Silk Way
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="turan-tv"  tvg-logo="https://epg.iptvx.one/picons/turan-tv.png" ,Туран ТВ
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2220/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6jAVEX4HCXCQjpO5VAPkF7XYerz5JpTBbg&s" ,Qadam TV KZ
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/15005/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="ulytau-kz"  tvg-logo="https://epg.iptvx.one/picons/ulytau-kz.png" ,Ulytau [1080p]
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14231/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="balapan"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png" ,Balapan TV [1080p]
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="balapan"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png" ,Balapan International
@@ -6337,10 +6365,20 @@ https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
 https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="qyzylorda-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzylorda-kz.png" ,Qyzylorda
 https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="saryarqa"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/saryarqa.png" ,Saryarqa (720p) [Not 24/7]
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="saryarqa"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/saryarqa.png" ,Saryarqa
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="semei"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/semei.png" ,Semeı
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="jambyl-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/jambyl-kz.png" ,Jambyl
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14232/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="ontustik"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/ontustik.png" ,Ontustik
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/15001/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="qyzylorda-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzylorda-kz.png" ,Qyzylorda
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14233/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="saryarqa"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/saryarqa.png" ,Saryarqa
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2222/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="5kanal-karaganda"  tvg-logo="https://epg.iptvx.one/picons/5kanal-karaganda.png" ,5 канал Караганда
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2221/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="mtrk-petropavl"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mtrk-petropavl.png" ,МТРК Петропавлоск
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="rika"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/rika.png" ,Рика ТВ
