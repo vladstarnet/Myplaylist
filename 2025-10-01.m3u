@@ -1923,7 +1923,9 @@ https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy-yaroslavsky"  tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" ,Первый Ярославский (Ярославль) [1080p]
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="pervy-krymsky" ,Первый Крымский
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="pervy-krymsky"  tvg-logo="https://epg.iptvx.one/picons/pervy-krymsky.png" ,Первый крымский [1080p]
+http://178.212.71.253:8000/play/25/index.m3u8
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="pervy-krymsky"  tvg-logo="https://epg.iptvx.one/picons/pervy-krymsky.png" ,Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="krym24" ,Крым 24 [1080p]
 http://iptv.crimea.net:8787
@@ -1933,10 +1935,14 @@ http://live24.1tvcrimea.ru/switcher.m3u8
 https://simf.1tvcrimea.ru/simferopol24sd.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="legendarny24"  tvg-logo="https://i.imgur.com/z9t6x8B.png" ,Легендарный 24 (Севастополь) [1080p]
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="ewpatorya24"  tvg-logo="https://epg.iptvx.one/picons/ewpatorya24.png" ,Евпатория 24
-http://195.26.83.96:7021/play/52/index.m3u8
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="ewpatorya24"  tvg-logo="https://epg.iptvx.one/picons/ewpatorya24.png" ,Евпатория 24 [1080p]
+http://195.26.83.96:7029/play/a009
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="pervy-sevastopolsky"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13371/logo_256_1660806843.png" ,Первый Севастопольский
+https://mhd128.iptv2022.com/p/KZKXcSuntrjiSjfC8i0XvA,1763020287/streaming/1sevastopol/324/1/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="nts-sevastopol"  tvg-logo="https://epg.iptvx.one/picons/nts-sevastopol.png" ,НТС (Севастополь) [1080p]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="infokanal-sevastopol"  tvg-logo="https://epg.iptvx.one/picons/infokanal-sevastopol.png" ,СТВ Севастополь
+http://178.212.71.253:8000/play/29/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="millet"  tvg-logo="https://i.imgur.com/hUjLRLy.png"   tvg-name="Миллет",Миллет [720p]
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://tvtvtv.ru/icons/trk_555.png"   tvg-name="трк 555 (алушта)",ТРК 555 (Алушта)
@@ -1947,12 +1953,16 @@ http://trk555.tv:8888/live
 http://195.26.83.96:7029/play/a006
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AzYw8ZJi1S43fw1ZzsPI7pq8QGRXI5WUpEMrkr0ffq0REh04fN1V80laF95o3Ssk9Ww&usqp=CAU"   tvg-name="Первый Республиканский",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ed/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F.png/revision/latest/scale-to-width-down/250?cb=20210301200256&path-prefix=ru" ,Новороссия ТВ
+http://217.25.80.16/novorossiya/mono.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7d/%D0%93%D0%A2%D0%A0%D0%9A_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA.png/revision/latest/scale-to-width-down/1200?cb=20250809150250&path-prefix=ru" ,Россия 1 (Донецк)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/54/%D0%93%D0%A2%D0%A0%D0%9A_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA.png/revision/latest/scale-to-width-down/1200?cb=20250809150349&path-prefix=ru" ,Россия 1 (Луганск)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cb/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA_24_%28%D1%81_2024%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/160?cb=20240121085828&path-prefix=ru" ,Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fa/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C_24_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png/revision/latest?cb=20231225112437&path-prefix=ru" ,Мариуполь 24
+https://hls.cis.itvru.ru/hls/mariupol24/index.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/85/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_%D0%A2%D0%92_%28%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%2C_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20220423062235&path-prefix=ru"   tvg-name="Оплот HD",Оплот HD
 http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0b/%D0%9E%D0%BF%D0%BB%D0%BE%D1%82_2_%28%D0%94%D0%9D%D0%A0%2C_%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0%29.png/revision/latest?cb=20210301170910&path-prefix=ru"   tvg-name="Оплот 2",Оплот 2
@@ -2025,6 +2035,8 @@ http://31.43.48.248:7000/ch7/video.m3u8
 http://ott.watch/stream/DZZPCCW11QW/329.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ntn-ua"  tvg-logo="https://af-play.com/storage/images/pack_logos/43282250911ce06825c752587601ab80.png"   tvg-rec="1" catchup_days="7",НТН HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/ntn-ua-hd/video.m3u8
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://ukrtvr.org/images/%D0%9A%D0%B8%D1%97%D0%B2/%D0%9A%D0%B0%D0%BF%D1%83%D1%87%D0%B8%D0%BD%D0%BE%20TV.jpg" ,Капучино TV [1080p]
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="unian-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.jpg"   tvg-rec="1" catchup_days="7",УНИАН Серіал HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/unian-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="bolt"  tvg-logo="https://af-play.com/storage/images/channel_logos/a406e558aa6479815b5cc15e60f8bee6.png"   tvg-rec="1" catchup_days="7",Болт HD
@@ -2139,6 +2151,8 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="36-6-tv"  tvg-logo="https://i.imgur.com/sC0K5BZ.png" ,36.6 FHD
 http://ott.watch/stream/DZZPCCW11QW/331.m3u8
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="natali"  tvg-logo="https://epg.iptvx.one/picons/natali.png" ,Наталі
+https://ext.cdn.nashnet.tv/228.0.0.140/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://kontinent-tv.com.ua/wp-content/uploads/2025/05/nevygadani_istorii.png" ,Невигадані Історії
 http://cdnua05.hls.tv/210/hls/f62d71219200da4130d13b21d23fb23c/4902/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://static.sweet.tv/images/cache/channel_icons/BCLRGIBC/2455-mashina-vremeni-hd.png" ,Машина часу
@@ -2151,8 +2165,8 @@ http://cdnua05.hls.tv/916/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
 http://185.236.229.62:9981/play/a08h
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="eko-tv"  tvg-logo="https://i.imgur.com/WovATGb.png" ,ECO TV HD
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
-#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="karavan-tv"  tvg-logo="https://i.imgur.com/nxEDdB0.png" ,Karavan TV
-http://185.236.229.62:9981/play/a08l
+#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="karavan-tv"  tvg-logo="https://epg.iptvx.one/picons/karavan-tv.png" ,Караван TV
+https://ext.cdn.nashnet.tv/228.0.2.30/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="milady-television"  tvg-logo="https://i.imgur.com/k6FE1Sn.png" ,Milady
 http://185.236.229.62:9981/play/a08i
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="natali"  tvg-logo="https://i.imgur.com/SEfJZiT.png" ,Nataly
@@ -2187,8 +2201,6 @@ http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="TISTV.ua"  tvg-logo="https://i.imgur.com/jDaoUt5.png" ,TIS TV (Одеса)
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
-#EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.imgur.com/D8YJzHV.png" ,Чорноморська ТРК (Одеса)
-https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/d2/%D0%91%D0%B8%D0%BA_HD_%28%D0%91%D0%B0%D0%BB%D1%82%D0%B0%2C_%D1%81_%D1%87%D0%B0%D1%81%D0%B0%D0%BC%D0%B8%29.png/revision/latest/scale-to-width-down/250?cb=20210509104459&path-prefix=ru" ,Балта ТВ HD
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="IzmailTV.ua"  tvg-logo="https://i.imgur.com/CxsUpGz.png" ,Ізмаіл ТВ
@@ -2312,7 +2324,7 @@ http://178.124.207.1:1780/tvp
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="svetloe-tv"  tvg-logo="https://epg.iptvx.one/picons/svetloe-tv.png"   tvg-name="Светлое ТВ",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-logo="https://televid.by/images/SlutskTV.png" ,Слуцк ТВ
-http://146.120.14.239:3001/play/a0fc
+http://146.120.14.239:3001/play/a06m
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="skif-vitebsk"  tvg-logo="https://epg.iptvx.one/picons/skif.png"   tvg-name="Скиф",Скиф
 http://95.46.208.8:24432/skif
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="radio-mir"  tvg-logo="https://epg.iptvx.one/picons/radio-mir.png"   tvg-name="Радио Мир [BY]",Радио Мир [BY]
@@ -3385,7 +3397,7 @@ http://stream.skaz.tv/stream/ch2298/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1440/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="CineMan Relax 4K"  tvg-logo="https://epg.iptvx.one/picons/cineman-relax.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Relax 4K
 http://stream.skaz.tv/stream/ch2311/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://epg.iptvx.one/picons/kamin.png" ,Cozy Vibes 4K
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" ,Cozy Vibes 4K
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://epg.iptvx.one/picons/kamin.png" ,Fireplace 4K
 https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8
@@ -3423,6 +3435,8 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/tHopHL9.png" ,Beach TV [Pawleys Island] [720p]
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig" ,WORLD [1080p]
+http://185.57.68.33/232/index.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" ,Avia Stream [1080p]
 http://iptv.prosto.tv:7000/ch306/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" ,Аквариум [1080p]
@@ -3435,7 +3449,7 @@ http://iptv.prosto.tv:7000/ch302/video.m3u8
 http://iptv.prosto.tv:7000/ch304/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" ,Железная дорога [1080p]
 http://iptv.prosto.tv:7000/ch348/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" ,Зоо [1080p]
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" ,Зоо [1080p]
 http://iptv.prosto.tv:7000/ch319/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" ,Камин [1080p]
 http://iptv.prosto.tv:7000/ch318/video.m3u8
@@ -3451,7 +3465,7 @@ http://iptv.prosto.tv:7000/ch315/video.m3u8
 http://iptv.prosto.tv:7000/ch345/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg" ,Просто Водопад [1080p]
 http://iptv.prosto.tv:7000/ch329/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" ,Просто Горы [1080p]
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" ,Просто Гори [1080p]
 http://iptv.prosto.tv:7000/ch340/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" ,Просто Джунгли [1080p]
 http://iptv.prosto.tv:7000/ch339/video.m3u8
@@ -3459,6 +3473,8 @@ http://iptv.prosto.tv:7000/ch339/video.m3u8
 https://iptv.prosto.tv/ch327/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" ,Просто Комната релакс [1080p]
 http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg" ,Просто Ліс
+http://iptv.prosto.tv:7000/ch330/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg" ,Просто Ночь [1080p]
 http://iptv.prosto.tv:7000/ch349/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg" ,Просто Огонь [1080p]
@@ -3469,7 +3485,7 @@ http://iptv.prosto.tv:7000/ch341/video.m3u8
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg" ,Просто Пляж [1080p]
 http://iptv.prosto.tv:7000/ch332/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" ,Просто Река [1080p]
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="rybalka"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" ,Просто Река [1080p]
 http://iptv.prosto.tv:7000/ch338/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="rybalka"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" ,Просто Рыбалка [1080p]
 http://iptv.prosto.tv:7000/ch344/video.m3u8
@@ -3481,7 +3497,7 @@ https://iptv.prosto.tv/ch336/video.m3u8
 http://iptv.prosto.tv:7000/ch335/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" ,Просто Украина [1080p]
 http://iptv.prosto.tv:7000/ch303/video.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg" ,Свет вокруг [1080p]
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg" ,Світ Навколо [1080p]
 http://iptv.prosto.tv:7000/ch351/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png" ,Space Stream
 http://iptv.prosto.tv:7000/ch314/video.m3u8
@@ -6293,6 +6309,8 @@ https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2223/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="7kanal-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png" ,7 канал
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2213/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="7kanal-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png" ,7 канал
+http://87.76.32.36:8001/7kanal
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="31-kanal-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png" ,31 Kanal
 https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="kazakhstan"  tvg-logo="https://epg.iptvx.one/picons/kazakhstan.png" ,Qazaqstan TV [1080p]
@@ -6305,6 +6323,8 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2212/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14223/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="astana"  tvg-logo="https://epg.iptvx.one/picons/astana.png" ,Astana TV
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2214/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="astana"  tvg-logo="https://epg.iptvx.one/picons/astana.png" ,Astana TV
+http://87.76.32.36:8001/astana
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="abaitv"  tvg-logo="https://i.imgur.com/Nw2R7Dq.png" ,Abai TV [1080p]
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="alautv"  tvg-logo="https://i.imgur.com/gK6ZRzp.png" ,Аллау ТВ
@@ -6315,6 +6335,8 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2219/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/15002/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_633537ebcf555f549e80bfd6.png" ,Ассамблея ТВ
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/15004/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="atameken-business"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Atamekenbusiness.png" ,Atameken
+http://87.76.32.36:8001/atameken
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="el-arna"  tvg-logo="https://otautv.kz/wp-content/uploads/2025/03/logotip-1024x279.jpg"   tvg-name="EL ARNA",Bilim TV
 http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="novoe-televidenie"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Novoe-Televidenie.png/1200px-Novoe-Televidenie.png" ,Новое телевидение [720p]
@@ -6345,6 +6367,8 @@ https://qazaqstantv-stream.qazcdn.com/international/balapan/playlist.m3u8
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="almaty"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/almaty.png" ,Almaty TV
 https://stream.qazcdn.net/kf5mevv/gyGP1ZhSAq/index.m3u8
+#EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="almaty"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/almaty.png" ,Almaty TV
+http://87.76.32.36:8001/almatytv
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="altai-kz"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png" ,Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 #EXTINF:-1  group-title="Қазақстан 🇰🇿"  tvg-id="aqjaiyq"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/aqjaiyq.png" ,Aqjaiyq
