@@ -6597,10 +6597,12 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2244/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20191/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://api.logobank.uz/media/logos_png/Mahalla-01_mm5GOpN.png" ,Mahalla
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20192/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Milliy TV [1080p]
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://mw.tvcom.uz/logo/Group_4531-341x245.png" ,Milliy TV [1080p]
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20195/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Milliy TV
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20194/index.m3u8
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="milliy" ,Milliy TV
+http://milliy.tv/hls/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MY5_TV_logotipi.png/1200px-MY5_TV_logotipi.png" ,My5 [1080p]
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20193/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MY5_TV_logotipi.png/1200px-MY5_TV_logotipi.png" ,MY5 [720p]
@@ -6609,28 +6611,26 @@ https://st.my5.media/hls/hd/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20196/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://oyna.server-img.lfstrm.tv/images/channel_logos/logo_63b7f90b79ec67a54f19b068.png" ,Nurafshon TV
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20198/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Navo
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="navo-uz"  tvg-logo="https://epg.iptvx.one/picons/navo-uz.png" ,Navo
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2243/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,O'zbekiston Tarixi [1080p]
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="http://i123.fastpic.org/big/2024/0312/41/09f161f3a64f89b5c7c9be0013c09841.png" ,O'zbekiston Tarixi [1080p]
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20200/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Renessans TV
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://brendgoda-2023.marketing.uz/uploads/brands/3ea5f26e6223.png" ,Renessans TV
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20201/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Ruxsor TV [1080p]
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg" ,Ruxsor TV [1080p]
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20202/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Taraqqiyot TV
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://mw.tvcom.uz/logo/Frame_425.png" ,Taraqqiyot TV
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20204/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Yoshlar
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://yoshlartv.uz/static/media/logo_yoshlar_uz.f1753e22.png" ,Yoshlar
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2237/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,uz Sport [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20203/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="uzsport" ,Sport UZ
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2239/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Zo'r TV [1080p]
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/uz/7/79/Zo%CA%BBr_TV_logo.jpg" ,Zo'r TV [1080p]
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20205/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://uzdtv.uz/images/channel_1606537372.png" ,Bolajon
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="uzsport"  tvg-logo="https://epg.iptvx.one/picons/uzsport.png" ,uz Sport [1080p]
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20203/index.m3u8
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="uzsport"  tvg-logo="https://epg.iptvx.one/picons/uzsport.png" ,uz Sport
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2239/index.m3u8
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="bolajon-uz"  tvg-logo="https://uzdtv.uz/images/channel_1606537372.png" ,Bolajon
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2242/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="milliy" ,Milliy
-http://milliy.tv/hls/index.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AjyalTV.ps"  tvg-logo="https://i.imgur.com/i6Y7beR.jpg" ,Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AlAqsaTV.ps"  tvg-logo="https://i.imgur.com/Z2rfrQ8.png" ,Al Aqsa Channel (416p) [Not 24/7]
