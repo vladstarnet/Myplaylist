@@ -67,6 +67,8 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/kino-premiere-ua-hd/video.m3u8
 http://193.27.209.122/kinosweet/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinowood"  tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6f83e2b1-d8c3-4a94-880a-2337894050e8.png" ,Kinowood [UA]
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-logo="https://i.imgur.com/FRbtrxo.png" ,MGM
+https://v2.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="okko-tv"  tvg-logo="https://epg.iptvx.one/picons/okko-tv.png"   catchup="fs" tvg-rec="3" timeshift="0",okko TV HD
 http://stream.skaz.tv/stream/ch2855/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="okko-geroi"  tvg-logo="https://epg.iptvx.one/picons/okko-geroi.png" ,okko Герои HD
@@ -1619,6 +1621,8 @@ https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tancuj"  tvg-logo="https://epg.iptvx.one/picons/tancuj.png" ,Танцуй [RU]
 http://stream.skaz.tv/stream/ch588/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="teatr"  tvg-logo="https://i.imgur.com/nc2ijCH.png" ,Театр
+http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Усадьба"  tvg-logo="https://epg.iptvx.one/picons/usadba.png"   catchup="fs" tvg-rec="3" timeshift="0",Усадьба
 http://stream.skaz.tv/stream/ch504/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Успех"  tvg-logo="https://epg.iptvx.one/picons/uspex.png"   catchup="fs" tvg-rec="3" timeshift="0", Успех
@@ -6585,6 +6589,8 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" ,BIZ TV [720p]
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="navo-uz"  tvg-logo="https://epg.iptvx.one/picons/navo-uz.png" ,Navo
+http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2243/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://salomtv.uz/_next/image?url=https%3A%2F%2Fminio-api-hdd.salomtv.uz%2Fimages%2Faf287586fa93402d8bb9a0952c3e26d7_cmprs.webp&w=640&q=75"   tvg-name="TTV Musiqa HD",TTV Musiqa [1080p]
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://w7.pngwing.com/pngs/32/830/png-transparent-sun-tv-network-television-channel-television-show-india-miscellaneous-television-text-thumbnail.png"   tvg-name="Солнечный ТВ",Солнечный ТВ [720p]
@@ -6611,8 +6617,6 @@ https://st.my5.media/hls/hd/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20196/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://oyna.server-img.lfstrm.tv/images/channel_logos/logo_63b7f90b79ec67a54f19b068.png" ,Nurafshon TV
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20198/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="navo-uz"  tvg-logo="https://epg.iptvx.one/picons/navo-uz.png" ,Navo
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2243/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="http://i123.fastpic.org/big/2024/0312/41/09f161f3a64f89b5c7c9be0013c09841.png" ,O'zbekiston Tarixi [1080p]
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20200/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://brendgoda-2023.marketing.uz/uploads/brands/3ea5f26e6223.png" ,Renessans TV
@@ -6633,27 +6637,23 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2239/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2242/index.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AjyalTV.ps"  tvg-logo="https://i.imgur.com/i6Y7beR.jpg" ,Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AlAqsaTV.ps"  tvg-logo="https://i.imgur.com/Z2rfrQ8.png" ,Al Aqsa Channel (416p) [Not 24/7]
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AlAqsaTV.ps"  tvg-logo="https://i.imgur.com/Z2rfrQ8.png" ,Al Aqsa Channel (416p)
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AlNajahNews.ps"  tvg-logo="https://i.imgur.com/c2bwn4G.png" ,Al Najah News (720p)
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AwdahTV.ps"  tvg-logo="https://i.imgur.com/N9lLP1J.png" ,Awdah TV (480p)
-http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="FalastiniTV.ps"  tvg-logo="https://i.imgur.com/6B3Cims.png" ,Falastini TV [Geo-blocked]
-https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="NablusTV.ps"  tvg-logo="https://i.imgur.com/GoLhaDK.png" ,Nablus TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="NablusTV.ps"  tvg-logo="https://i.imgur.com/GoLhaDK.png" ,Nablus TV (720p)
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineMubasher.ps"  tvg-logo="https://i.imgur.com/68llVTZ.png" ,Palestine Mubasher (1080p)
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineSatelliteChannel.ps"  tvg-logo="https://i.imgur.com/4B5FvmX.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineSatelliteChannel.ps"  tvg-logo="https://i.imgur.com/4B5FvmX.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineToday.ps"  tvg-logo="https://i.imgur.com/BS8XXug.png" ,Palestine Today (480p) [Geo-blocked]
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineToday.ps"  tvg-logo="https://i.imgur.com/BS8XXug.png" ,Palestine Today (720p)
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="RajeenTV.ps"  tvg-logo="https://i.imgur.com/6Cx22ya.png" ,Rajeen TV (1080p) [Not 24/7]
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="RajeenTV.ps"  tvg-logo="https://i.imgur.com/6Cx22ya.png" ,Rajeen TV (1080p)
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="ShababFM.ps"  tvg-logo="https://i.imgur.com/4Cyz4Bn.png" ,Shabab FM (720p) [Not 24/7]
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="ShababFM.ps"  tvg-logo="https://i.imgur.com/4Cyz4Bn.png" ,Shabab FM (720p) 
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="WatarTV.ps"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" ,Watar TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="WatarTV.ps"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" ,Watar TV (720p)
 http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1  group-title="România 🇷🇴"  tvg-id="AlephBusiness.ro"  tvg-logo="https://i.imgur.com/IqvZBeo.png" ,Aleph Business (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
