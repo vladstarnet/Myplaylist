@@ -3135,6 +3135,8 @@ http://92.86.248.141:8080/ram/playlist.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SuperTV.ro"  tvg-logo="https://i.imgur.com/pzxUE0O.png" ,Super TV [RO] [1080p]
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="SuperTV.ro@SD"  tvg-logo="https://i.imgur.com/pzxUE0O.png"   http-referrer="https://supertv.ro",Super TV [1080p] [1080i]
+https://live.supertv.ro/live/supertv/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TraditionalTV.ro"  tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" ,Traditional TV [RO] [1080p]
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TVBuzau.ro"  tvg-logo="https://i.imgur.com/GhFmUVO.png" ,TV Buzau [RO]
@@ -6743,290 +6745,36 @@ http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 http://89.38.8.130:39443
 #EXTINF:-1  group-title="România 🇷🇴"  tvg-logo="https://i.imgur.com/irP8QLs.png" ,Vocea Basarabiei TV (720p)
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",E! HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6093/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="0",Cinethronix RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/15251/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="digisport1"   tvg-rec="3",DIGI Sport 1 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2523/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="digisport2"   tvg-rec="3",DIGI Sport 2 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2522/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="digisport3"   tvg-rec="3",DIGI Sport 3 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2524/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="digisport4"   tvg-rec="3",DIGI Sport 4 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2538/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TVR 1 RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6941/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TVR 2 RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6942/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TVR 3 RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6943/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TV1000 RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6944/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Acasă Gold RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6945/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Alfa Omega TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6946/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",National 24 Plus RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6947/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",FilmBox RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6948/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",AMC RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6949/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",AXN White RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6950/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Pro Cinema RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6951/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",AXN Black RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6952/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Film Cafe RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6953/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Travel Mix HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6954/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TV Paprika RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6955/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Investigation Discovery RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6957/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Realitatea Plus RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6958/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Romania TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6959/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Minimax RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6960/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",JimJam RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6961/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="kiss-tv-ro"   tvg-rec="3",Kiss TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6962/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="music-channel-ro"   tvg-rec="3",Music Channel RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6963/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Disney Channel RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6965/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Cartoon Network RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6966/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Disney Jr. RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6967/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Discovery Channel RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6968/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TLC HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6969/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TeenNick RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6971/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Nickelodeon RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6972/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="zu-tv-ro"   tvg-rec="3",ZU TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6973/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Cartoonito RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6974/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",MTV 80s RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6977/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",MTV Hits RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6978/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Favorit TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6979/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Viasat History RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6980/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Viasat Explore RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6981/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",CineMax 2 RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6982/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",National TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6983/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Kanal D HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6984/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="cinemaxhd-ro"   tvg-rec="3",CineMax HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6985/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",HBO HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6986/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",HBO 3 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6987/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Acasă TV HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6988/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Animal Planet HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6989/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Pro Arena HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6990/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",National Geographic HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6991/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Eurosport 1 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6992/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Bucuresti 1 TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6994/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Prima TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6995/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",FilmBox Extra HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6996/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="protvhd-ro"   tvg-rec="3",Pro TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6997/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TVR 1 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6998/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Film Now HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/6999/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",TVR International HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7000/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="antena1hd-ro"   tvg-rec="3",Antena 1 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7002/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Antena 3 CNN HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7003/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Antena Stars HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7004/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",HBO 2 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7005/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",History HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7006/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",AXN RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7007/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",AXN HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7008/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",DIGI 24 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7009/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Nat Geo Wild HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7010/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Mezzo RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7011/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",AXN Spin RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7012/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",HBO 3 RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7013/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",HBO RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7014/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Diva RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7016/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="utv-ro"   tvg-rec="3",UTV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7017/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",National Geographic RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7018/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Nat Geo Wild RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7021/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Taraf TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7022/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Agro TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7023/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Hora TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7024/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Comedy Central RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7025/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Etno RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7027/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",HBO 2 RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7029/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",MTV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7031/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",BBC Earth HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7032/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Warner TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7033/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",ZU TV HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7034/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Happy Channel HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7035/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="utv-ro"   tvg-rec="3",UTV HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7036/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Viasat Nature HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7037/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",DIGI Animal World HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7038/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",DIGI Life HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7039/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="digiworld"   tvg-rec="3",DIGI World HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7040/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Nick Jr. RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7042/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",FilmBox Premium HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7043/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",FilmBox Family HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7044/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Food Network RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7046/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Trinitas TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7047/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",DocuBox HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7049/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Fashion TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7051/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Credo TV RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7052/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",CBS Reality RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7053/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Bollywood RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7054/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"  tvg-id="protv-int-ro"   tvg-rec="3",Pro TV International RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7055/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Epic Drama RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7057/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",BBC Earth RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7058/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Prima Sport 1 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7059/index.m3u8
-#EXTINF:-1  group-title="România 🇷🇴"   tvg-rec="3",Prima Sport 2 HD RO
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/7060/index.m3u8
-#EXTINF:-1  group-title="Music RO"  tvg-id="BusuiocTV.md@SD"  tvg-logo="https://i.imgur.com/CQtfBPu.png" ,Busuioc TV (540p) [Not 24/7]
-https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:-1  group-title="Music RO"  tvg-id="ExclusivTV.ro@SD"  tvg-logo="https://i.imgur.com/xw1IWoO.png" ,Exclusiv TV
-https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
-#EXTINF:-1  group-title="Music RO"  tvg-id="LiraTV.es@SD"  tvg-logo="https://i.imgur.com/hBswXYZ.png" ,LiraTV (720p)
-https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-#EXTINF:-1  group-title="Music RO"  tvg-id="NorocTV.md@SD"  tvg-logo="https://i.imgur.com/XvYqpqG.png" ,Noroc TV (576p) [Not 24/7]
-https://live.noroc.tv/noroc/noroc.m3u8
-#EXTINF:-1  group-title="Music RO"  tvg-id="SuperTV.ro@SD"  tvg-logo="https://i.imgur.com/pzxUE0O.png"   http-referrer="https://supertv.ro",Super TV (1080i) [Not 24/7]
-https://live.supertv.ro/live/supertv/playlist.m3u8
-#EXTINF:-1  group-title="Music RO"  tvg-id="TezaurTV.md@SD"  tvg-logo="https://i.imgur.com/eAagwLW.png" ,Tezaur TV (1080p)
-https://tezaurtv.md/wp-content/uploads/live/index.m3u8
-#EXTINF:-1  group-title="Music RO"  tvg-id="TVRFolclor.ro@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/320px-TVR_Folclor_Logo_2023.svg.png"   http-referrer="https://www.tvrplus.ro/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0",TVR Folclor (1080p) [Geo-blocked]
-https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="NidaeAlIslamRadio.sa"  tvg-logo="https://i.imgur.com/laEk64E.png" ,Nidae AlIslam Radio [KSA] [1080p]
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="AlHadath.sa"  tvg-logo="https://i.imgur.com/De4SEWE.png" ,Al Hadath TV (1080p)
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="AhlAlquranTV.sa"  tvg-logo="https://i.imgur.com/xeQvi2z.png" ,Ahl-Alquran TV (360p)
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="AlEkhbariya.sa"  tvg-logo="https://i.imgur.com/WcRlHQm.png" ,Al Ekhbariya (1080p)
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="AlKhalijTV.sa"  tvg-logo="https://i.imgur.com/Knd2lAQ.png" ,Al Khalij (720p) [Not 24/7]
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://i.imgur.com/Knd2lAQ.png" ,Al Khalij [720p]
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="Asharq News"  tvg-logo="http://skaz.tv/tvicon/1943.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Asharq News
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="Asharq News"  tvg-logo="http://skaz.tv/tvicon/1943.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Asharq News [1080p]
 http://stream.skaz.tv/stream/ch1943/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="AsharqNews.sa"  tvg-logo="https://i.imgur.com/bqRC3sl.png" ,Asharq News (1080p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Asharq_Business_logo.png" ,Asharq News [1080p]
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="AsharqNewsPortrait.sa"  tvg-logo="https://i.imgur.com/bqRC3sl.png" ,Asharq News Portrait (1280p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Asharq_Business_logo.png" ,Asharq News Portrait [1280p]
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="AtfalMawahebTV.sa"  tvg-logo="https://i.imgur.com/Y2BqP9m.png" ,Atfal & Mawaheb TV (1080p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://qanawat.taghtia.com/assets/channels/atfal-wa-mawahib.png" ,Atfal & Mawaheb TV [1080p]
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="Ayat.sa"  tvg-logo="https://i.imgur.com/PUUb1gI.png" ,Ayaat (720p)
-https://ythls.armelin.one/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="EssaidaTV.tn"  tvg-logo="https://www.essaidafm.com/images/radio/logo_ar.png" ,Essaida TV
-https://essaidatv.dextream.com/hls/stream/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="IqraaArabic.sa"  tvg-logo="https://i.imgur.com/HPVsIa4.png" ,Iqraa (576p) [Not 24/7]
-https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="KaifTV.sa"  tvg-logo="https://i.imgur.com/mkzRTuE.png" ,Kaif TV (576p) [Not 24/7]
-http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MakkahTV.sa"  tvg-logo="https://i.imgur.com/PRPcOi0.png" ,Makkah TV (576p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://makkahtv.tv/assets/images/0.png-714x367.png" ,Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC1.ae"  tvg-logo="https://i.imgur.com/CiA3plN.png" ,MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC1.ae"  tvg-logo="https://i.imgur.com/CiA3plN.png" ,MBC 1 [1080p]
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC2.ae"  tvg-logo="https://i.imgur.com/n9mSHuP.png" ,MBC 2 (576p)
 http://213.57.91.138:8000/play/a05k
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC3.ae"  tvg-logo="https://i.imgur.com/PVt8OPN.png" ,MBC 3 KSA (1080p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC3.ae"  tvg-logo="https://i.imgur.com/PVt8OPN.png" ,MBC 3 KSA [1080p]
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC4.ae"  tvg-logo="https://i.imgur.com/BcXASJp.png" ,MBC 4 (1080p)
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBCBollywood.ae"  tvg-logo="https://i.imgur.com/TTAGFHG.png" ,MBC Bollywood (1080p) [Geo-blocked]
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBCBollywood.ae"  tvg-logo="https://i.imgur.com/TTAGFHG.png" ,MBC Bollywood (1080p)
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBCDrama.ae"  tvg-logo="https://i.imgur.com/g5PWnqp.png" ,MBC Drama KSA (1080p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://i.imgur.com/g5PWnqp.png" ,MBC Drama KSA [1080p]
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBCFM.ae"  tvg-logo="https://i.imgur.com/lF8UxvR.png" ,MBC FM (1080p)
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="PanoramaFM.sa"  tvg-logo="https://i.imgur.com/JkDD3bK.png" ,Panorama FM (1080p)
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="RotanaCinemaKSA.sa"  tvg-logo="https://i.imgur.com/pGgp38I.png" ,Rotana Cinema KSA (1080p)
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="SSC1HD.sa"  tvg-logo="https://i.imgur.com/dM7GQXG.png" ,SSC 1 (720p)
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="SSCActionWaleed.sa"  tvg-logo="https://i.imgur.com/agc0IZF.png" ,SSC Action Waleed (1080p) [Not 24/7]
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="ZadTV.sa"  tvg-logo="https://i.imgur.com/GqTAMwt.png" ,ZAD TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC1.ae"  tvg-logo="https://i.imgur.com/CiA3plN.png" ,MBC 1 (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="EuronewsSerbia.rs"  tvg-logo="https://i.imgur.com/7rK00VE.png" ,Euronews Serbia (1080p)
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
 #EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="Pink.rs"  tvg-logo="https://i.imgur.com/66wHb7E.png" ,Pink
