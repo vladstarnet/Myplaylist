@@ -1191,166 +1191,6 @@ http://stream.skaz.tv/stream/ch1300/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1301/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Yosso TV Трагичное"  tvg-logo="https://epg.iptvx.one/picons/yosso-tragic.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Трагичное
 http://stream.skaz.tv/stream/ch1306/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2276"   tvg-name="Play-x Cinema 90-х HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Cinema 90-х HD
-http://stream.skaz.tv/stream/ch2276/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2270"   tvg-name="Play-x Cinema Аnimals HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Cinema Аnimals HD
-http://stream.skaz.tv/stream/ch2270/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2932"   tvg-name="Play-x Cinema Asia HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Cinema Asia HD
-http://stream.skaz.tv/stream/ch2932/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2271"   tvg-name="Play-x Cinema Black HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Cinema Black HD
-http://stream.skaz.tv/stream/ch2271/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2464"   tvg-name="Play-x Cinema Horror Kids HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Cinema Horror Kids HD
-http://stream.skaz.tv/stream/ch2464/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2269"   tvg-name="Play-x Cinema Sport HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Cinema Sport HD
-http://stream.skaz.tv/stream/ch2269/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2870"   tvg-rec="1" catchup-type="auto" catchup_days="3",Play-x Cinema Teens HD
-http://stream.skaz.tv/stream/ch2870/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2869"   tvg-rec="1" catchup-type="auto" catchup_days="3",Play-x Cinema Woman HD
-http://stream.skaz.tv/stream/ch2869/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3366"  tvg-logo="http://s.skaz.tv/tvicon/3366.png"   tvg-name="Play-x Comedy HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Comedy HD
-http://stream.skaz.tv/stream/ch3366/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3365"  tvg-logo="http://s.skaz.tv/tvicon/3365.png"   tvg-name="Play-x Marvel HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Marvel HD
-http://stream.skaz.tv/stream/ch3365/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2461"   tvg-name="Play-x UFO HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x UFO HD
-http://stream.skaz.tv/stream/ch2461/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3412"  tvg-logo="http://s.skaz.tv/tvicon/3412.png"   tvg-name="Play-x Александр Панкратов-Чёрный HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Александр Панкратов-Чёрный HD
-http://stream.skaz.tv/stream/ch3412/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3410"  tvg-logo="http://s.skaz.tv/tvicon/3410.png"   tvg-name="Play-x Андрей Миронов HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Андрей Миронов HD
-http://stream.skaz.tv/stream/ch3410/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2267"   tvg-name="Play-x Арменфильм HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Арменфильм HD
-http://stream.skaz.tv/stream/ch2267/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3411"  tvg-logo="http://s.skaz.tv/tvicon/3411.png"   tvg-name="Play-x Армен Джигарханян HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Армен Джигарханян HD
-http://stream.skaz.tv/stream/ch3411/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3416"  tvg-logo="http://s.skaz.tv/tvicon/3416.png"   tvg-name="Play-x Арнольд Шварценеггер HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Арнольд Шварценеггер HD
-http://stream.skaz.tv/stream/ch3416/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2856"  tvg-logo="http://skaz.tv/tvicon/2856.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Play-x Беларусьфильм HD
-http://stream.skaz.tv/stream/ch2856/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2278"   tvg-name="Play-x Ваш Любимый Детектив HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Ваш Любимый Детектив HD
-http://stream.skaz.tv/stream/ch2278/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3362"  tvg-logo="http://s.skaz.tv/tvicon/3362.png"   tvg-name="Play-x Вестерн HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Вестерн HD
-http://stream.skaz.tv/stream/ch3362/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3421"  tvg-logo="http://s.skaz.tv/tvicon/3421.png"   tvg-name="Play-x Вне Закона HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Вне Закона HD
-http://stream.skaz.tv/stream/ch3421/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3409"  tvg-logo="http://s.skaz.tv/tvicon/3409.png"   tvg-name="Play-x Владимир Высоцкий HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Владимир Высоцкий HD
-http://stream.skaz.tv/stream/ch3409/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3076"   catchup="fs" tvg-rec="3" timeshift="3",Play-x Голубой Огонек HD
-http://stream.skaz.tv/stream/ch3076/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3400"  tvg-logo="http://s.skaz.tv/tvicon/3400.png"   tvg-name="Play-x Горец HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Горец HD
-http://stream.skaz.tv/stream/ch3400/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3417"  tvg-logo="http://s.skaz.tv/tvicon/3417.png"   tvg-name="Play-x Джеки Чан HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Джеки Чан HD
-http://stream.skaz.tv/stream/ch3417/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3403"  tvg-logo="http://s.skaz.tv/tvicon/3403.png"   tvg-name="Play-x Доктор Хаус HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Доктор Хаус HD
-http://stream.skaz.tv/stream/ch3403/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3363"  tvg-logo="http://s.skaz.tv/tvicon/3363.png"   tvg-name="Play-x Драмы HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Драмы HD
-http://stream.skaz.tv/stream/ch3363/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3418"  tvg-logo="http://s.skaz.tv/tvicon/3418.png"   tvg-name="Play-x Жан-Клод Ван Дамм HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Жан-Клод Ван Дамм HD
-http://stream.skaz.tv/stream/ch3418/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3405"  tvg-logo="http://s.skaz.tv/tvicon/3405.png"   tvg-name="Play-x Женаты и с Детьми HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Женаты и с Детьми HD
-http://stream.skaz.tv/stream/ch3405/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3368"  tvg-logo="http://s.skaz.tv/tvicon/3368.png"   tvg-name="Play-x Жизнь Замечательных Людей HD" catchup="fs" tvg-rec="3" timeshift="0", Play-x Жизнь Замечательных Людей HD
-http://stream.skaz.tv/stream/ch3368/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3398"  tvg-logo="http://s.skaz.tv/tvicon/3398.png"   tvg-name="Play-x Звёздные Врата Атлантида HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Звёздные Врата Атлантида HD
-http://stream.skaz.tv/stream/ch3398/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3399"  tvg-logo="http://s.skaz.tv/tvicon/3399.png"   tvg-name="Play-x Игры Престолов HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Игры Престолов HD
-http://stream.skaz.tv/stream/ch3399/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2257"   tvg-rec="1" catchup-type="auto" catchup_days="3",Play-x Киностудия Горького HD
-http://stream.skaz.tv/stream/ch2257/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2933"   tvg-rec="1" catchup-type="auto" catchup_days="3",Play-x Киножурнал Фитиль HD
-http://stream.skaz.tv/stream/ch2933/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2256"   tvg-rec="1" catchup-type="auto" catchup_days="3",Play-x Комедия! Комедия!!! HD
-http://stream.skaz.tv/stream/ch2256/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2262" ,Play-x Криминальная Россия HD
-http://stream.skaz.tv/stream/ch2262/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3378"  tvg-logo="http://s.skaz.tv/tvicon/3378.png"   tvg-name="Play-x Мосфильм 1 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 1 HD
-http://stream.skaz.tv/stream/ch3378/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3379"  tvg-logo="http://s.skaz.tv/tvicon/3379.png"   tvg-name="Play-x Мосфильм 2 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 2 HD
-http://stream.skaz.tv/stream/ch3379/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3380"  tvg-logo="http://s.skaz.tv/tvicon/3380.png"   tvg-name="Play-x Мосфильм 3 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 3 HD
-http://stream.skaz.tv/stream/ch3380/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3381"  tvg-logo="http://s.skaz.tv/tvicon/3381.png"   tvg-name="Play-x Мосфильм 4 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 4 HD
-http://stream.skaz.tv/stream/ch3381/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3382"  tvg-logo="http://s.skaz.tv/tvicon/3382.png"   tvg-name="Play-x Мосфильм 5 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 5 HD
-http://stream.skaz.tv/stream/ch3382/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3383"  tvg-logo="http://s.skaz.tv/tvicon/3383.png"   tvg-name="Play-x Мосфильм 6 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 6 HD
-http://stream.skaz.tv/stream/ch3383/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3384"  tvg-logo="http://s.skaz.tv/tvicon/3384.png"   tvg-name="Play-x Мосфильм 7 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 7 HD
-http://stream.skaz.tv/stream/ch3384/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3385"  tvg-logo="http://s.skaz.tv/tvicon/3385.png"   tvg-name="Play-x Мосфильм 8 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 8 HD
-http://stream.skaz.tv/stream/ch3385/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3386"  tvg-logo="http://s.skaz.tv/tvicon/3386.png"   tvg-name="Play-x Мосфильм 9 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 9 HD
-http://stream.skaz.tv/stream/ch3386/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3387"  tvg-logo="http://s.skaz.tv/tvicon/3387.png"   tvg-name="Play-x Мосфильм 10 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 10 HD
-http://stream.skaz.tv/stream/ch3387/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3388"  tvg-logo="http://s.skaz.tv/tvicon/3388.png"   tvg-name="Play-x Мосфильм 11 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 11 HD
-http://stream.skaz.tv/stream/ch3388/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3389"  tvg-logo="http://s.skaz.tv/tvicon/3389.png"   tvg-name="Play-x Мосфильм 12 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 12 HD
-http://stream.skaz.tv/stream/ch3389/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3390"  tvg-logo="http://s.skaz.tv/tvicon/3390.png"   tvg-name="Play-x Мосфильм 13 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 13 HD
-http://stream.skaz.tv/stream/ch3390/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3391"  tvg-logo="http://s.skaz.tv/tvicon/3391.png"   tvg-name="Play-x Мосфильм 14 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 14 HD
-http://stream.skaz.tv/stream/ch3391/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3392"  tvg-logo="http://s.skaz.tv/tvicon/3392.png"   tvg-name="Play-x Мосфильм 15 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 15 HD
-http://stream.skaz.tv/stream/ch3392/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3393"  tvg-logo="http://s.skaz.tv/tvicon/3393.png"   tvg-name="Play-x Мосфильм 16 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 16 HD
-http://stream.skaz.tv/stream/ch3393/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3394"  tvg-logo="http://s.skaz.tv/tvicon/3394.png"   tvg-name="Play-x Мосфильм 17 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 17 HD
-http://stream.skaz.tv/stream/ch3394/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3395"  tvg-logo="http://s.skaz.tv/tvicon/3395.png"   tvg-name="Play-x Мосфильм 18 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 18 HD
-http://stream.skaz.tv/stream/ch3395/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3396"  tvg-logo="http://s.skaz.tv/tvicon/3396.png"   tvg-name="Play-x Мосфильм 19 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 19 HD
-http://stream.skaz.tv/stream/ch3396/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3397"  tvg-logo="http://s.skaz.tv/tvicon/3397.png"   tvg-name="Play-x Мосфильм 20 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мосфильм 20 HD
-http://stream.skaz.tv/stream/ch3397/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2868"  tvg-logo="http://skaz.tv/tvicon/2868.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Play-x Музыкальные Фильмы HD
-http://stream.skaz.tv/stream/ch2868/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2266"   tvg-name="Play-x Мылодрама HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Мылодрама HD
-http://stream.skaz.tv/stream/ch2266/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2275"   tvg-name="Play-x Комедии Одесской Киностудии HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Комедии Одесской Киностудии HD
-http://stream.skaz.tv/stream/ch2275/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2280"   tvg-name="Play-x Одесская киностудия 2 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Одесская киностудия 2 HD
-http://stream.skaz.tv/stream/ch2280/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2703"   tvg-name="Play-x Одесская киностудия 3 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Одесская киностудия 3 HD
-http://stream.skaz.tv/stream/ch2703/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2273"   tvg-name="Play-x Одесская киностудия 4 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Одесская киностудия 4 HD
-http://stream.skaz.tv/stream/ch2273/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2277"   tvg-name="Play-x Одесская киностудия 5 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Одесская киностудия 5 HD
-http://stream.skaz.tv/stream/ch2277/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3408"  tvg-logo="http://s.skaz.tv/tvicon/3408.png"   tvg-name="Play-x По Законам Военного Времени HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x По Законам Военного Времени HD
-http://stream.skaz.tv/stream/ch3408/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2279"   tvg-name="Play-x Польские Фильмы в Советском Прокате HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Польские Фильмы в Советском Прокате HD
-http://stream.skaz.tv/stream/ch2279/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3414"  tvg-logo="http://s.skaz.tv/tvicon/3414.png"   tvg-name="Play-x Пьер Ришар HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Пьер Ришар HD
-http://stream.skaz.tv/stream/ch3414/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2180"  tvg-logo="http://s.skaz.tv/tvicon/2180.png"   tvg-name="Play-x Сверхъестественное HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Сверхъестественное HD
-http://stream.skaz.tv/stream/ch2180/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3401"  tvg-logo="http://s.skaz.tv/tvicon/3401.png"   tvg-name="Play-x Секретные Материалы HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Секретные Материалы HD
-http://stream.skaz.tv/stream/ch3401/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3364"  tvg-logo="http://s.skaz.tv/tvicon/3364.png"   tvg-name="Play-x Семья HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Семья HD
-http://stream.skaz.tv/stream/ch3364/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3404"  tvg-logo="http://s.skaz.tv/tvicon/3404.png"   tvg-name="Play-x Склифосовский HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Склифосовский HD
-http://stream.skaz.tv/stream/ch3404/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3402"  tvg-logo="http://s.skaz.tv/tvicon/3402.png"   tvg-name="Play-x Служба 911 HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Служба 911 HD
-http://stream.skaz.tv/stream/ch3402/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2268"   tvg-name="Play-x Советский Дубляж HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Советский Дубляж HD
-http://stream.skaz.tv/stream/ch2268/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2272"   tvg-name="Play-x Семейный HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Семейный HD
-http://stream.skaz.tv/stream/ch2272/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3407"  tvg-logo="http://s.skaz.tv/tvicon/3407.png"   tvg-name="Play-x Солдаты HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Солдаты HD
-http://stream.skaz.tv/stream/ch3407/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2274"   tvg-name="Play-x Старый Добрый Фильм HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Старый Добрый Фильм HD
-http://stream.skaz.tv/stream/ch2274/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3406"  tvg-logo="http://s.skaz.tv/tvicon/3406.png"   tvg-name="Play-x Старый Универ HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Старый Универ HD
-http://stream.skaz.tv/stream/ch3406/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3415"  tvg-logo="http://s.skaz.tv/tvicon/3415.png"   tvg-name="Play-x Стивен Спилберг HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Стивен Спилберг HD
-http://stream.skaz.tv/stream/ch3415/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3376"  tvg-logo="http://s.skaz.tv/tvicon/3376.png"   tvg-name="Play-x Триллер HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Триллер HD
-http://stream.skaz.tv/stream/ch3376/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3367"  tvg-logo="http://s.skaz.tv/tvicon/3367.png"   tvg-name="Play-x Ужасы VHS HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Ужасы VHS HD
-http://stream.skaz.tv/stream/ch3367/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2463"   tvg-name="Play-x Фронт HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Фронт HD
-http://stream.skaz.tv/stream/ch2463/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3413"  tvg-logo="http://s.skaz.tv/tvicon/3413.png"   tvg-name="Play-x Чарли Чаплин HD" catchup="fs" tvg-rec="3" timeshift="3",Play-x Чарли Чаплин HD
-http://stream.skaz.tv/stream/ch3413/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy"  tvg-logo="https://epg.iptvx.one/picons/pervy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Первый HD
 http://stream.skaz.tv/stream/ch001/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy"  tvg-logo="http://skaz.tv/tvicon/1089.png" ,Первый HD orig
@@ -3161,13 +3001,15 @@ https://cityeden.catcast.tv/content/47410/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="CityEdenPlay.ru"  tvg-logo="https://i.imgur.com/ozEqob9.png" ,Сити Эдем Play Христианский Музыкальный [RU] [720p]
 https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/UDyxgXf.png" ,Balkan Radio Salzburg [SRB] (480p)
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MOBA.rs"  tvg-logo="https://i.imgur.com/62rvodQ.png"   tvg-name="Moleta mix 12",Moleta mix 12 [SRB]
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w656246624.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="DMSat.rs@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/DM_sat_Logo.jpg" ,DM Sat [SRB]
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RadioHitFMTV.rs"  tvg-logo="https://i.imgur.com/gP2OT4S.png" ,Radio Hit FM TV [SRB] [720p]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="TDIRadioTV.rs@SD"  tvg-logo="https://i.imgur.com/POdTmaD.png" ,TDI Radio TV [SRB]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/POdTmaD.png" ,TDI Radio TV [SRB]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MUZZIK.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/54/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,MUZZIK [SRB]
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
@@ -3193,7 +3035,9 @@ https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ZZTV.rs"  tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/67/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" ,Muzzik ZZ TV [SRB]
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RadioLolaTV.rs"  tvg-logo="https://i.imgur.com/41eE8fl.png" ,Radio Lola [SRB] [720p]
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/g2HpLX1.png" ,Radio Karolina TV [SRB] [720p]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/41eE8fl.png" ,Radio Lola [SRB] [720p]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="JawharaFM.jo"  tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" ,Jawhara TV [TN] [720p]
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
@@ -3433,8 +3277,6 @@ http://stream.skaz.tv/stream/ch2064/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1305/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Yosso TV Шансон"  tvg-logo="https://epg.iptvx.one/picons/yosso-shanson.png"   catchup="fs" tvg-rec="3" timeshift="0",Yosso TV Шансон [1080p]
 http://stream.skaz.tv/stream/ch3705/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ch2197"  tvg-logo="http://s.skaz.tv/tvicon/2197.png"   tvg-name="Play-x Театр Современник HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Театр Современник HD
-http://stream.skaz.tv/stream/ch2197/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="BOX Music 4K"  tvg-logo="https://epg.iptvx.one/picons/box-music-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Music 4K
 http://stream.skaz.tv/stream/ch2295/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K BluesString"  tvg-logo="http://skaz.tv/tvicon/1294.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K BluesString
@@ -3593,6 +3435,8 @@ http://stream.skaz.tv/stream/ch550/fde215a0/mono.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/ucTh9tO.png"   tvg-name="Fashion TV Africa",Fashion TV Africa
 http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="FashionTVCzechSlovak.fr"  tvg-logo="https://i.imgur.com/7Bigo7u.png" ,FashionTV Czech&Slovak [SK]
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="fashion-tv-eu"  tvg-logo="https://i.imgur.com/7Bigo7u.png"   tvg-name="Fashion TV (SK)",Fashion TV [SK]
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="fashion-one"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Fashion_One_Logo.png"   tvg-name="FASHION ONE",FASHION ONE [720p]
@@ -3775,8 +3619,6 @@ http://stream.skaz.tv/stream/ch1979/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2604/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Yosso TV Travel"  tvg-logo="https://epg.iptvx.one/picons/yosso-travel.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Travel
 http://stream.skaz.tv/stream/ch2606/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch2178"  tvg-logo="http://s.skaz.tv/tvicon/2178.png"   tvg-name="Play-x Орел и Решка HD" catchup="fs" tvg-rec="3" timeshift="0", Play-x Орел и Решка HD
-http://stream.skaz.tv/stream/ch2178/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="BOX Mayday HD"  tvg-logo="https://epg.iptvx.one/picons/box-myday.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Mayday HD
 http://stream.skaz.tv/stream/ch2313/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Clarity4k Вселенная"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-universe.png"   catchup="fs" tvg-rec="3" timeshift="0",Clarity4K Вселенная
@@ -3833,24 +3675,6 @@ http://stream.skaz.tv/stream/ch625/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3320/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Совершенно Секретно"  tvg-logo="https://epg.iptvx.one/picons/sovsek.png"   catchup="fs" tvg-rec="3" timeshift="3", Совершенно Секретно
 http://stream.skaz.tv/stream/ch3054/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch3423"  tvg-logo="http://s.skaz.tv/tvicon/3423.png"   tvg-name="Play-x The Chase HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x The Chase HD
-http://stream.skaz.tv/stream/ch3423/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch3422"  tvg-logo="http://s.skaz.tv/tvicon/3422.png"   tvg-name="Play-x The Cube HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x The Cube HD
-http://stream.skaz.tv/stream/ch3422/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch2174"  tvg-logo="http://s.skaz.tv/tvicon/2174.png"   tvg-name="Play-x Top Gear HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Top Gear HD
-http://stream.skaz.tv/stream/ch2174/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch2179"  tvg-logo="http://s.skaz.tv/tvicon/2179.png"   tvg-name="Play-x Атомные Бомбы HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Атомные Бомбы HD
-http://stream.skaz.tv/stream/ch2179/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch2158"  tvg-logo="http://s.skaz.tv/tvicon/2158.png"   tvg-name="Play-x Как Это Работает HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Как Это Работает HD
-http://stream.skaz.tv/stream/ch2158/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Play-x Космический HD" ,Play-x Космический HD
-http://stream.skaz.tv/stream/ch2264/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch3377"  tvg-logo="http://s.skaz.tv/tvicon/3377.png"   tvg-name="Play-x Махинаторы HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Махинаторы HD
-http://stream.skaz.tv/stream/ch3377/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch2159"  tvg-logo="http://s.skaz.tv/tvicon/2159.png"   tvg-name="Play-x Разрушители Легенд HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Разрушители Легенд HD
-http://stream.skaz.tv/stream/ch2159/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="ch2177"  tvg-logo="http://s.skaz.tv/tvicon/2177.png"   tvg-name="Play-x Советский Автопром HD" catchup="fs" tvg-rec="3" timeshift="0", Play-x Советский Автопром HD
-http://stream.skaz.tv/stream/ch2177/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Анекдот ТВ"  tvg-logo="https://i.imgur.com/wKfB79s.png"   catchup="fs" tvg-rec="3" timeshift="0",Анекдот ТВ
 http://stream.skaz.tv/stream/ch1524/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="gagsnetwork-hd"  tvg-logo="https://i.imgur.com/ENj5GIp.png"   tvg-rec="1" catchup_days="7",Gagsnetwork HD
@@ -3865,20 +3689,6 @@ http://stream.skaz.tv/stream/ch1953/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch106/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Сарафан"  tvg-logo="https://epg.iptvx.one/picons/sarafan.png"   catchup="fs" tvg-rec="3" timeshift="0",Сарафан
 http://stream.skaz.tv/stream/ch026/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch2181"  tvg-logo="http://s.skaz.tv/tvicon/2181.png"   tvg-name="Play-x Маски - Шоу HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Маски - Шоу HD
-http://stream.skaz.tv/stream/ch2181/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch2198"  tvg-logo="http://s.skaz.tv/tvicon/2198.png"   tvg-name="Play-x Comedy Woman HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Comedy Woman HD
-http://stream.skaz.tv/stream/ch2198/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch2265"  tvg-logo="http://s.skaz.tv/tvicon/2265.png" ,Play-x Ералаш HD
-http://stream.skaz.tv/stream/ch2265/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch3424"  tvg-logo="http://s.skaz.tv/tvicon/3424.png"   tvg-name="Play-x Чудаки HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Чудаки HD
-http://stream.skaz.tv/stream/ch3424/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch3699"  tvg-logo="http://s.skaz.tv/tvicon/3699.png"   tvg-name="Play-x Аркадий Райкин HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Аркадий Райкин HD
-http://stream.skaz.tv/stream/ch3699/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch2263" ,Play-x Вокруг Смеха HD
-http://stream.skaz.tv/stream/ch2263/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch2867"   catchup="fs" tvg-rec="3" timeshift="0",Play-x Tik Tok HD
-http://stream.skaz.tv/stream/ch2867/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="KBC +100500"  tvg-logo="https://epg.iptvx.one/picons/kbc-100500.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC +100500
 http://stream.skaz.tv/stream/ch2830/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="skycam-100500"  tvg-logo="http://s.skaz.tv/tvicon/3147.png" ,SkyCam 100500
@@ -4179,22 +3989,6 @@ http://stream.skaz.tv/stream/ch1299/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1304/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Yosso TV Cartoon"  tvg-logo="https://epg.iptvx.one/picons/c-cartoon.png"   catchup="fs" tvg-rec="3" timeshift="6",Yosso TV Cartoon
 http://stream.skaz.tv/stream/ch1314/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3419"  tvg-logo="http://s.skaz.tv/tvicon/3419.png"   tvg-name="Play-x Альф HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Альф HD
-http://stream.skaz.tv/stream/ch3419/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3375"  tvg-logo="http://s.skaz.tv/tvicon/3375.png"   tvg-name="Play-x Вспыш и Чудо-Машинки HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Вспыш и Чудо-Машинки HD
-http://stream.skaz.tv/stream/ch3375/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3370"  tvg-logo="http://s.skaz.tv/tvicon/3370.png"   tvg-name="Play-x Мультзал 1 HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Мультзал 1 HD
-http://stream.skaz.tv/stream/ch3370/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3371"  tvg-logo="http://s.skaz.tv/tvicon/3371.png"   tvg-name="Play-x Мультзал 2 HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Мультзал 2 HD
-http://stream.skaz.tv/stream/ch3371/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3372"  tvg-logo="http://s.skaz.tv/tvicon/3372.png"   tvg-name="Play-x Мультзал 3 HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Мультзал 3 HD
-http://stream.skaz.tv/stream/ch3372/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3373"  tvg-logo="http://s.skaz.tv/tvicon/3373.png"   tvg-name="Play-x Мультзал 4 HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Мультзал 4 HD
-http://stream.skaz.tv/stream/ch3373/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3374"  tvg-logo="http://s.skaz.tv/tvicon/3374.png"   tvg-name="Play-x Мультзал 5 HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Мультзал 5 HD
-http://stream.skaz.tv/stream/ch3374/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="ch3369"  tvg-logo="http://s.skaz.tv/tvicon/3369.png"   tvg-name="Play-x Союзмультфильм HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Союзмультфильм HD
-http://stream.skaz.tv/stream/ch3369/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="BoksTV.ru"  tvg-logo="https://i.imgur.com/R1UjyfX.png" ,Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="DubaiSports2.ae"  tvg-logo="https://i.imgur.com/PMJ7Zmo.png" ,Dubai Sports 2 (720p)
@@ -5193,175 +4987,175 @@ http://stream.skaz.tv/stream/ch3045/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3046/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="ch3047"  tvg-logo="http://s.skaz.tv/tvicon/3047.png"   tvg-name="TR: Tabii Spor 5 HD" catchup="fs" tvg-rec="3" timeshift="0", TR: Tabii Spor 5 HD
 http://stream.skaz.tv/stream/ch3047/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="abc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/bf31f8c4a1c5302b1acab110f0913069.png" ,ABC News [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="abc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/bf31f8c4a1c5302b1acab110f0913069.png" ,ABC News [720p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/abc-us-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Africa24.fr"  tvg-logo="https://i.imgur.com/YWIJdai.png" ,Africa 24 [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Africa24.fr"  tvg-logo="https://i.imgur.com/YWIJdai.png" ,Africa 24 [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Africa24English.fr"  tvg-logo="https://i.imgur.com/YWIJdai.png" ,Africa 24 English [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Africa24English.fr"  tvg-logo="https://i.imgur.com/YWIJdai.png" ,Africa 24 English [1080p]
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Al Jazeera"  tvg-logo="https://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Al Jazeera [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Al Jazeera"  tvg-logo="https://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Al Jazeera [1080p]
 http://stream.skaz.tv/stream/ch1945/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="al-jazeera-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png"   tvg-rec="0",Al Jazeera [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="al-jazeera-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png"   tvg-rec="0",Al Jazeera [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/al-jazeera-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="BloombergTVEMEALiveEvent.uk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Europe Live Event [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="BloombergTVEMEALiveEvent.uk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Europe Live Event [720p]
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="BloombergTVAsiaLiveEvent.hk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Asia Live Event [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="BloombergTVAsiaLiveEvent.hk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Asia Live Event [720p]
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="BloombergTVEurope.uk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Europe [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="BloombergTVEurope.uk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Europe [720p]
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="BloombergTVAsia.hk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Asia [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="BloombergTVAsia.hk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Asia [720p]
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="BloombergTVAustralia.au"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Australia (270p)
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="BloombergTVAustralia.au"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Australia (270p)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="bloomberg-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/12966d52f4ca86aa0c4ae837211ccf2d.png"   tvg-rec="0",Bloomberg TV [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="bloomberg-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/12966d52f4ca86aa0c4ae837211ccf2d.png"   tvg-rec="0",Bloomberg TV [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/bloomberg-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Bloomberg TV"  tvg-logo="http://skaz.tv/tvicon/1917.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bloomberg TV
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Bloomberg TV"  tvg-logo="http://skaz.tv/tvicon/1917.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bloomberg TV
 http://stream.skaz.tv/stream/ch1917/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="BBC World News Europe"  tvg-logo="https://epg.iptvx.one/picons/bbc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BBC World News Europe [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="BBC World News Europe"  tvg-logo="https://epg.iptvx.one/picons/bbc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BBC World News Europe [1080p]
 http://stream.skaz.tv/stream/ch499/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="bbc-world-news-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/be74123a9a72dab0f82664c4804df20d.png"   tvg-rec="0",BBC World [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="bbc-world-news-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/be74123a9a72dab0f82664c4804df20d.png"   tvg-rec="0",BBC World [720p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/bbc-world-news-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="bbc-earth"  tvg-logo="https://epg.iptvx.one/picons/bbc.png" ,BBC News Asia Pacific (720p)
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="bbc-earth"  tvg-logo="https://epg.iptvx.one/picons/bbc.png" ,BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CCTV4America.cn"  tvg-logo="https://epg.iptvx.one/picons/cctv4.png" ,CCTV-4 America [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CCTV4America.cn"  tvg-logo="https://epg.iptvx.one/picons/cctv4.png" ,CCTV-4 America [1080p]
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CCTV4Europe.cn@SD"  tvg-logo="https://i.imgur.com/HGLFdfk.png" ,CCTV-4 Europe
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CCTV4Europe.cn@SD"  tvg-logo="https://i.imgur.com/HGLFdfk.png" ,CCTV-4 Europe
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CGTN Russian HD"  tvg-logo="https://i.imgur.com/nDWkCmL.png"   catchup="fs" tvg-rec="3" timeshift="3", CGTN Russian [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CGTN Russian HD"  tvg-logo="https://i.imgur.com/nDWkCmL.png"   catchup="fs" tvg-rec="3" timeshift="3", CGTN Russian [1080p]
 http://stream.skaz.tv/stream/ch3318/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CGTNDocumentary.cn"  tvg-logo="https://i.imgur.com/JHv0WxM.png" ,CGTN Documentary [CN]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CGTNDocumentary.cn"  tvg-logo="https://i.imgur.com/JHv0WxM.png" ,CGTN Documentary [CN]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CGTNFrench.cn"  tvg-logo="https://i.imgur.com/BwhledK.png" ,CGTN Français [CN]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CGTNFrench.cn"  tvg-logo="https://i.imgur.com/BwhledK.png" ,CGTN Français [CN]
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CNN"  tvg-logo="https://epg.iptvx.one/picons/cnn.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CNN [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CNN"  tvg-logo="https://epg.iptvx.one/picons/cnn.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CNN [1080p]
 http://stream.skaz.tv/stream/ch500/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="cnn-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/6ea55f38d04ca6c24a37777c81b516b2.png"   tvg-rec="0",CNN HD [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="cnn-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/6ea55f38d04ca6c24a37777c81b516b2.png"   tvg-rec="0",CNN HD [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/cnn-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CNNNews18.in"  tvg-logo="https://i.imgur.com/WrmeIco.png" ,CNN News 18 [IN] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CNNNews18.in"  tvg-logo="https://i.imgur.com/WrmeIco.png" ,CNN News 18 [IN] [1080p]
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="cnbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/61dc1fbed0b78984a4b5f2d906b28705.png" ,CNBC [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="cnbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/61dc1fbed0b78984a4b5f2d906b28705.png" ,CNBC [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/cnbc-us-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CNBC HD"  tvg-logo="http://skaz.tv/tvicon/2117.png" ,CNBC
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CNBC HD"  tvg-logo="http://skaz.tv/tvicon/2117.png" ,CNBC
 http://stream.skaz.tv/stream/ch2117/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="msnbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/235f918e8be40df4e831e544426627dc.png" ,MSNBC HD
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="msnbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/235f918e8be40df4e831e544426627dc.png" ,MSNBC HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/msnbc-us-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="nbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/dead83e445bedb71431fef391ef97d27.png" ,NBC HD
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="nbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/dead83e445bedb71431fef391ef97d27.png" ,NBC HD
 http://bethoven.af-stream.com:1600/s/yokrgdit/nbc-us-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="deutsche-welle-ru" ,DW Russia
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="deutsche-welle-ru" ,DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="deutsche-welle"  tvg-logo="https://af-play.com/storage/images/channel_logos/c2c72afdf467af11522b848a0b21a1e7.png"   tvg-rec="0",DW Russian
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="deutsche-welle"  tvg-logo="https://af-play.com/storage/images/channel_logos/c2c72afdf467af11522b848a0b21a1e7.png"   tvg-rec="0",DW Russian
 http://bethoven.af-stream.com:1600/s/yokrgdit/deutsche-welle/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="DWEnglish.de"  tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW English [DE] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="DWEnglish.de"  tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW English [DE] [1080p]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="evronews-hd"  tvg-logo="http://skaz.tv/tvicon/498.png" ,EuroNews [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="evronews-hd"  tvg-logo="http://skaz.tv/tvicon/498.png" ,EuroNews [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/evronews-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="EuroNews"  tvg-logo="http://skaz.tv/tvicon/498.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",EuroNews [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="EuroNews"  tvg-logo="http://skaz.tv/tvicon/498.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",EuroNews [720p]
 http://stream.skaz.tv/stream/ch498/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="sky-news-uk-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/ceacd9f4d2d9b7ab3debfec179c97a4e.png"   tvg-rec="0",Sky News [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="sky-news-uk-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/ceacd9f4d2d9b7ab3debfec179c97a4e.png"   tvg-rec="0",Sky News [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/sky-news-uk-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="fox-news-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png"   tvg-rec="0",FOX News [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="fox-news-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png"   tvg-rec="0",FOX News [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/fox-news-hd/video.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="FOX News HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",FOX News HD
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="FOX News HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",FOX News HD
 http://stream.skaz.tv/stream/ch2093/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id=" France 24"  tvg-logo="http://skaz.tv/tvicon/1944.png" ,France 24 [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id=" France 24"  tvg-logo="http://skaz.tv/tvicon/1944.png" ,France 24 [1080p]
 http://stream.skaz.tv/stream/ch1944/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="EWTNAfricaAsia.us"  tvg-logo="https://i.imgur.com/F8ZM25a.png" ,EWTN Africa Asia [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="EWTNAfricaAsia.us"  tvg-logo="https://i.imgur.com/F8ZM25a.png" ,EWTN Africa Asia [720p]
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="EWTNEurope.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" ,EWTN Europe [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="EWTNEurope.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" ,EWTN Europe [720p]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="IranInternational.uk"  tvg-logo="https://i.imgur.com/55RpaF3.png" ,Iran International [IR]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="IranInternational.uk"  tvg-logo="https://i.imgur.com/55RpaF3.png" ,Iran International [IR]
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="ArirangUN.kr"  tvg-logo="https://i.imgur.com/Jdy3WNm.png" ,Arirang TV UN [KR] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="ArirangUN.kr"  tvg-logo="https://i.imgur.com/Jdy3WNm.png" ,Arirang TV UN [KR] [1080p]
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TV5MondeEurope.fr"  tvg-logo="https://i.imgur.com/rPAbMSu.png" ,TV5Monde Europe [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TV5MondeEurope.fr"  tvg-logo="https://i.imgur.com/rPAbMSu.png" ,TV5Monde Europe [1080p]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RTDE.de"  tvg-logo="https://i.imgur.com/v1PIbB2.png" ,RT DE [RU] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="RTDE.de"  tvg-logo="https://i.imgur.com/v1PIbB2.png" ,RT DE [RU] [1080p]
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RTFrance.fr"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" ,RT France [RU] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="RTFrance.fr"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" ,RT France [RU] [1080p]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RTDocumentaryEnglish.ru"  tvg-logo="https://i.imgur.com/aeu5zIC.png" ,RT Documentary English [RU] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="RTDocumentaryEnglish.ru"  tvg-logo="https://i.imgur.com/aeu5zIC.png" ,RT Documentary English [RU] [1080p]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="NDRFernsehenInternational.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" ,NDR Fernsehen International [DE] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="NDRFernsehenInternational.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" ,NDR Fernsehen International [DE] [720p]
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="ReTV.lv"  tvg-logo="https://i.imgur.com/Z3cre5Xm.png" ,Re TV [LV] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="ReTV.lv"  tvg-logo="https://i.imgur.com/Z3cre5Xm.png" ,Re TV [LV] [1080p]
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVJurmala.lv"  tvg-logo="https://i.imgur.com/tQHkHD0.png" ,TV Jūrmala [LV] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVJurmala.lv"  tvg-logo="https://i.imgur.com/tQHkHD0.png" ,TV Jūrmala [LV] [1080p]
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="VidusdaugavasTelevizija.lv"  tvg-logo="https://i.imgur.com/L5U3PQR.png" ,Vidusdaugavas Televīzija [LV]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="VidusdaugavasTelevizija.lv"  tvg-logo="https://i.imgur.com/L5U3PQR.png" ,Vidusdaugavas Televīzija [LV]
 https://straume.vdtv.lv/vdtv2/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="LRTLituanica.lt"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/512px-LRT_Lituanica_Logo_2022.svg.png" ,LRT Lituanica [LT]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="LRTLituanica.lt"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/512px-LRT_Lituanica_Logo_2022.svg.png" ,LRT Lituanica [LT]
 https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="KoreanCentralTelevision.kp"  tvg-logo="https://i.imgur.com/p02AEOF.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television (KCTV)
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="KoreanCentralTelevision.kp"  tvg-logo="https://i.imgur.com/p02AEOF.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVArberia1.xk"  tvg-logo="https://i.imgur.com/zLRzyVS.png" ,TV Arbëria 1 [KOS]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVArberia1.xk"  tvg-logo="https://i.imgur.com/zLRzyVS.png" ,TV Arbëria 1 [KOS]
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="NasaTV.mk"  tvg-logo="https://i.imgur.com/9rB4VZy.png" ,Naša TV [MK] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="NasaTV.mk"  tvg-logo="https://i.imgur.com/9rB4VZy.png" ,Naša TV [MK] [1080p]
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVNOVA12.mk"  tvg-logo="https://i.imgur.com/Qo3Hj3t.png" ,TV NOVA 12 [MK]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVNOVA12.mk"  tvg-logo="https://i.imgur.com/Qo3Hj3t.png" ,TV NOVA 12 [MK]
 http://151.236.247.171:8080/nova/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="moldova-1"  tvg-logo="https://i.imgur.com/gPMlDCP.png" ,Moldova TV [MD]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="moldova-1"  tvg-logo="https://i.imgur.com/gPMlDCP.png" ,Moldova TV [MD]
 http://89.38.8.130:39435
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="moldova-1"  tvg-logo="https://epg.iptvx.one/picons/moldova-1.png" ,Moldova 1 [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="moldova-1"  tvg-logo="https://epg.iptvx.one/picons/moldova-1.png" ,Moldova 1 [1080p]
 http://lb.wisp.cat/lb0/Moldova1HD/mpegts?token=nPfO4rRaax
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="moldova-1"  tvg-logo="https://epg.iptvx.one/picons/moldova-1.png" ,Moldova 1 [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="moldova-1"  tvg-logo="https://epg.iptvx.one/picons/moldova-1.png" ,Moldova 1 [1080p]
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="moldova-2"  tvg-logo="https://epg.iptvx.one/picons/moldova-2.png" ,Moldova 2 [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="moldova-2"  tvg-logo="https://epg.iptvx.one/picons/moldova-2.png" ,Moldova 2 [1080p]
 http://lb.wisp.cat/lb0/Moldova2HD/mpegts?token=nPfO4rRaax
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Moldova2.md@SD"  tvg-logo="https://epg.iptvx.one/picons/moldova-2.png" ,Moldova 2 [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Moldova2.md@SD"  tvg-logo="https://epg.iptvx.one/picons/moldova-2.png" ,Moldova 2 [1080p]
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Moldova2.md"  tvg-logo="https://i.imgur.com/Hv6Nk8A.png" ,Moldova 2 [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Moldova2.md"  tvg-logo="https://i.imgur.com/Hv6Nk8A.png" ,Moldova 2 [1080p]
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RealitateaTV.md"  tvg-logo="https://i.imgur.com/Ul4IIfX.png" ,Realitatea Live [MD]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="RealitateaTV.md"  tvg-logo="https://i.imgur.com/Ul4IIfX.png" ,Realitatea Live [MD]
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="SorTV.md"  tvg-logo="https://i.imgur.com/BcfZgD8.png" ,Sor TV [MD] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="SorTV.md"  tvg-logo="https://i.imgur.com/BcfZgD8.png" ,Sor TV [MD] [1080p]
 http://188.237.212.16:8888/live/cameraFeed.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVCGMNE.me"  tvg-logo="https://i.imgur.com/pf8VEwf.png" ,TVCG MNE [ME] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVCGMNE.me"  tvg-logo="https://i.imgur.com/pf8VEwf.png" ,TVCG MNE [ME] [720p]
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVCG1.me"  tvg-logo="https://i.imgur.com/QORHrXu.png" ,TVCG 1 [ME] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVCG1.me"  tvg-logo="https://i.imgur.com/QORHrXu.png" ,TVCG 1 [ME] [720p]
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVCG2.me"  tvg-logo="https://i.imgur.com/WECmUKH.png" ,TVCG 2 [ME] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVCG2.me"  tvg-logo="https://i.imgur.com/WECmUKH.png" ,TVCG 2 [ME] [720p]
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVCG3.me"  tvg-logo="https://i.imgur.com/0ZT3Bc2.png" ,TVCG 3 [ME] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVCG3.me"  tvg-logo="https://i.imgur.com/0ZT3Bc2.png" ,TVCG 3 [ME] [720p]
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="MNetHD.mk"  tvg-logo="https://i.imgur.com/HDYqWuR.png" ,M-Net HD [MK] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="MNetHD.mk"  tvg-logo="https://i.imgur.com/HDYqWuR.png" ,M-Net HD [MK] [1080p]
 http://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="MNetKids.mk"  tvg-logo="https://i.imgur.com/SbKkpuH.png" ,M-Net Kids [MK] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="MNetKids.mk"  tvg-logo="https://i.imgur.com/SbKkpuH.png" ,M-Net Kids [MK] [720p]
 http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="MNetSport.mk"  tvg-logo="https://i.imgur.com/7k8ar1Z.png" ,M-Net Sport [MK] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="MNetSport.mk"  tvg-logo="https://i.imgur.com/7k8ar1Z.png" ,M-Net Sport [MK] [720p]
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="MNBWorld.mn"  tvg-logo="https://i.imgur.com/PHlj84Q.png" ,MNB World [MN] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="MNBWorld.mn"  tvg-logo="https://i.imgur.com/PHlj84Q.png" ,MNB World [MN] [1080p]
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="RaajjeTV.mv"  tvg-logo="https://i.imgur.com/NvYCCGl.png" ,Raajje TV [MV]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="RaajjeTV.mv"  tvg-logo="https://i.imgur.com/NvYCCGl.png" ,Raajje TV [MV]
 https://stream.raajje.mv/live/rtv_live/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="CNAInternational.sg"  tvg-logo="https://i.imgur.com/xWglicB.png" ,CNA International [SG] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="CNAInternational.sg"  tvg-logo="https://i.imgur.com/xWglicB.png" ,CNA International [SG] [1080p]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="DiTV.se"  tvg-logo="https://i.imgur.com/zApTDWn.png" ,Di TV [SWE] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="DiTV.se"  tvg-logo="https://i.imgur.com/zApTDWn.png" ,Di TV [SWE] [1080p]
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="ExpressenTV.se"  tvg-logo="https://i.imgur.com/ai0BIci.png" ,Expressen TV [SWE]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="ExpressenTV.se"  tvg-logo="https://i.imgur.com/ai0BIci.png" ,Expressen TV [SWE]
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="HimlenTV7.fi"  tvg-logo="https://i.imgur.com/k8a7KNn.png" ,Himlen TV7 [SWE] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="HimlenTV7.fi"  tvg-logo="https://i.imgur.com/k8a7KNn.png" ,Himlen TV7 [SWE] [1080p]
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="LifeStyleTV.se"  tvg-logo="https://i.imgur.com/0mreWrM.jpg" ,LifeStyleTV [SWE] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="LifeStyleTV.se"  tvg-logo="https://i.imgur.com/0mreWrM.jpg" ,LifeStyleTV [SWE] [1080p]
 https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="MiracleChannel.se"  tvg-logo="https://i.imgur.com/yrt7Rw9.png" ,Miracle Channel [SWE]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="MiracleChannel.se"  tvg-logo="https://i.imgur.com/yrt7Rw9.png" ,Miracle Channel [SWE]
 https://miracle.stream.boxigy.com/hls/miracle1.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="MissionAsia.se"  tvg-logo="https://missionasia.org/wp-content/uploads/2025/06/cropped-cropped-Mission-Asia-logo.png" ,Mission Asia [SWE] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="MissionAsia.se"  tvg-logo="https://missionasia.org/wp-content/uploads/2025/06/cropped-cropped-Mission-Asia-logo.png" ,Mission Asia [SWE] [720p]
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-logo="https://e7.pngegg.com/pngimages/904/823/png-clipart-world-s-strongest-man-strongman-champions-league-sports-league-champions-league-logo.png" ,Strongman Champions League [SWE] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-logo="https://e7.pngegg.com/pngimages/904/823/png-clipart-world-s-strongest-man-strongman-champions-league-sports-league-champions-league-logo.png" ,Strongman Champions League [SWE] [720p]
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TaiwanPlusTV.tw"  tvg-logo="https://i.imgur.com/SfcZyqm.png" ,Taiwan Plus TV [TW] [1080p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TaiwanPlusTV.tw"  tvg-logo="https://i.imgur.com/SfcZyqm.png" ,Taiwan Plus TV [TW] [1080p]
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TMTV.us"  tvg-logo="https://nasabbashi.wordpress.com/wp-content/uploads/2014/03/tm_tv.png" ,TM TV [US] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TMTV.us"  tvg-logo="https://nasabbashi.wordpress.com/wp-content/uploads/2014/03/tm_tv.png" ,TM TV [US] [720p]
 https://hls.tmtv.live/hls/stream.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="ClassicArtsShowcase.us"  tvg-logo="https://i.imgur.com/M6FFkc3.png" ,Classic Arts Showcase [US] [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="ClassicArtsShowcase.us"  tvg-logo="https://i.imgur.com/M6FFkc3.png" ,Classic Arts Showcase [US] [720p]
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="KandelaTV.ve"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo369BczM5E511CDNEAoYf10ls_zK27ZkkGQ&s"   tvg-name="KandelaTV [ve]", KandelaTV [VE]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="KandelaTV.ve"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo369BczM5E511CDNEAoYf10ls_zK27ZkkGQ&s"   tvg-name="KandelaTV [ve]", KandelaTV [VE]
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="TVBRICSAfrica.za"  tvg-logo="https://cdn.prod.website-files.com/66685cedcb6f4fcc2d3de947/6684fec9b005c3356b150390_BRICSTV-Logo-White-Alt.svg" ,TV BRICS Africa [ZA]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVBRICSAfrica.za"  tvg-logo="https://cdn.prod.website-files.com/66685cedcb6f4fcc2d3de947/6684fec9b005c3356b150390_BRICSTV-Logo-White-Alt.svg" ,TV BRICS Africa [ZA]
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Canaf54TV.uk@SD"  tvg-logo="https://i.imgur.com/viB0FS2.png" ,Canaf54 TV
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Canaf54TV.uk@SD"  tvg-logo="https://i.imgur.com/viB0FS2.png" ,Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷"  tvg-id="Canal2International.cm"  tvg-logo="https://i.imgur.com/BzA2z7m.png" ,Canal 2 International [720p]
+#EXTINF:-1  group-title="Int 🇬🇧🇦🇩🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="Canal2International.cm"  tvg-logo="https://i.imgur.com/BzA2z7m.png" ,Canal 2 International [720p]
 http://69.64.57.208/canal2international/playlist.m3u8
 #EXTINF:-1  group-title="Arabic 🇴🇲🇮🇶🇪🇬🇧🇭🇶🇦"  tvg-id="ATVSat.us"  tvg-logo="https://i.imgur.com/pwM5txv.png" ,ATVSat [US] [1080p]
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
@@ -5419,6 +5213,12 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1  group-title="Arabic 🇴🇲🇮🇶🇪🇬🇧🇭🇶🇦"  tvg-id="YemenTodayTV.ye"  tvg-logo="https://i.imgur.com/8TzcJu5.png" ,Yemen Today TV [YE]
 https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1  group-title="Undefined"  tvg-logo="https://i.imgur.com/E3YmlxF.png" ,TV SLO 1 [SL] [1080p]
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:-1  group-title="Undefined"  tvg-logo="https://i.imgur.com/OPlzjjv.png" ,TV SLO 2 HD [SL] [1080p]
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:-1  group-title="Undefined"  tvg-logo="https://i.imgur.com/49VrbSW.png" ,TV Veseljak Golica  [SL] [1080p]
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="News24.al"  tvg-logo="https://i.imgur.com/eG33jue.png" ,News 24 Albania [1080p]
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1  group-title="Shqipëria 🇦🇱"  tvg-id="OraNews.al"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" ,Ora News [720p]
@@ -6791,13 +6591,13 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://i.imgur.com/whyZXzW.png" ,LBC [1080p]
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://makkahtv.tv/assets/images/0.png-714x367.png" ,Makkah TV (576p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://makkahtv.tv/assets/images/0.png-714x367.png" ,Makkah TV [576p]
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" ,Maraya [1080p]
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC1.ae"  tvg-logo="https://i.imgur.com/CiA3plN.png" ,MBC 1 [1080p]
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC2.ae"  tvg-logo="https://i.imgur.com/n9mSHuP.png" ,MBC 2 (576p)
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC2.ae"  tvg-logo="https://i.imgur.com/n9mSHuP.png" ,MBC 2 [576p]
 http://213.57.91.138:8000/play/a05k
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-id="MBC3.ae"  tvg-logo="https://i.imgur.com/PVt8OPN.png" ,MBC 3 KSA [1080p]
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
@@ -6833,27 +6633,33 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" ,Saudi Thaqafiya TV [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
-#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="EuronewsSerbia.rs"  tvg-logo="https://i.imgur.com/7rK00VE.png" ,Euronews Serbia (1080p)
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
-#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="Pink.rs"  tvg-logo="https://i.imgur.com/66wHb7E.png" ,Pink
-https://live.rednet.rs/providus/pink1.m3u8
-#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="RedTV.rs"  tvg-logo="https://i.imgur.com/cpN7NrL.png" ,Red TV (720p)
-https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-logo="https://i.postimg.cc/fRrHBCQf/narodnatv.png" ,Narodna TV [720p]
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-logo="https://i.imgur.com/66wHb7E.png" ,Pink (720p)
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-logo="https://i.imgur.com/xQa2idL.png" ,Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="TVAS.rs"  tvg-logo="https://i.imgur.com/LIUtEgD.png" ,RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-logo="https://i.imgur.com/LIUtEgD.png" ,RTV AS (576p)
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="RTVBap.rs"  tvg-logo="https://i.imgur.com/TBAtPH6.png" ,RTV Bap (480p)
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-logo="https://i.imgur.com/LjunOdy.png" ,RTS Svet HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="SandzakTV.rs"  tvg-logo="https://i.imgur.com/lm9Fgsp.png" ,Sandzak TV (576p)
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="SOSKanalPlus.rs"  tvg-logo="https://i.imgur.com/9SD40uH.png" ,SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-logo="https://i.imgur.com/MAhJkK9.png" ,TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="BelleAmie.rs"  tvg-logo="https://i.imgur.com/tOlN5Rz.png" ,TV Belle Amie (540p)
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="TVHram.rs"  tvg-logo="https://i.imgur.com/XzAYOFK.png" ,TV Hram (576p) [Not 24/7]
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="TVHram.rs"  tvg-logo="https://i.imgur.com/XzAYOFK.png" ,TV Hram (576p) 
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="TVPiKanal.rs"  tvg-logo="https://i.imgur.com/8ugnFa3.png" ,TV Pi Kanal (576p) [Not 24/7]
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="TVPiKanal.rs"  tvg-logo="https://i.imgur.com/8ugnFa3.png" ,TV Pi Kanal (576p)
 https://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="TVPirot.rs"  tvg-logo="https://i.imgur.com/o5y1ok6.png" ,TV Pirot (240p) [Not 24/7]
+#EXTINF:-1  group-title="Ср̀бија 🇷🇸"  tvg-id="TVPirot.rs"  tvg-logo="https://i.imgur.com/o5y1ok6.png" ,TV Pirot (240p)
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="24.sk"  tvg-logo="https://i.imgur.com/tTCuczU.png" ,:24 (1080p)
 http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
@@ -6863,8 +6669,6 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 https://fs3.kabelko.sk/9011/index.m3u8?token=btv
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="CSRTV.sk"  tvg-logo="https://i.imgur.com/V2FufrD.png" ,ČSRTV (360p) [Not 24/7]
 https://ythls.armelin.one/channel/UCUy__zD6aeuZKUXX8kUc4ZQ.m3u8
-#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="FashionTVCzechSlovak.fr"  tvg-logo="https://i.imgur.com/7Bigo7u.png" ,FashionTV Czech&Slovak
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="LifeTv.sk"  tvg-logo="https://i.imgur.com/jO8kAY2.png" ,LifeTv (1080p)
 https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="Markiza.sk"  tvg-logo="https://i.imgur.com/W56rOi2.png" ,Markíza (1080p)
@@ -6877,16 +6681,14 @@ https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
 http://88.212.15.27/live/test_minimax/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="MTR.sk"  tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" ,MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
-#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TVRaj.sk"  tvg-logo="https://i.imgur.com/CGckMyx.png" ,Raj TV (720p) [Not 24/7]
-https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-logo="https://i.imgur.com/WlF6tlZ.png" ,Régió TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="Senzi.sk"  tvg-logo="https://i.imgur.com/1qJMmBu.png" ,Senzi (720p)
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TeleviziaMocenok.sk"  tvg-logo="https://i.imgur.com/psb8GxZ.png" ,Televízia Močenok (720p)
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TV8.sk"  tvg-logo="https://i.imgur.com/Z7URrp1.png" ,Televízia OSEM (576p)
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TVDK.sk"  tvg-logo="https://i.imgur.com/qTOnPXe.png" ,TV DK (486p) [Not 24/7]
-http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TVLiptov.sk"  tvg-logo="https://i.imgur.com/CkvB3af.png" ,TV Liptov (1080p)
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TVLocAll.sk"  tvg-logo="https://i.imgur.com/xN1CJol.png" ,TV LocAll (406p)
@@ -6895,62 +6697,22 @@ http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 https://ythls.armelin.one/channel/UCnEQCNDsMtPlrVwCrRViaeQ.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="NZTV.sk"  tvg-logo="https://i.imgur.com/jGZlnzT.png" ,TV Nové Zámky (486p)
 http://s1.media-planet.sk/live/novezamky/lihattv.m3u8
-#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TVRuzinov.sk"  tvg-logo="https://i.imgur.com/bUGuntH.png" ,TV Ružinov (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TVRuzinov.sk"  tvg-logo="https://i.imgur.com/bUGuntH.png" ,TV Ružinov (1080p)
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="TVT.sk"  tvg-logo="https://i.imgur.com/QG0iZlG.png" ,TVT (486p)
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/512px-Kino_Barrandov_logo.png" ,Kino Barrandov (720p)
+http://83.167.253.107/hdmi1_ext
+#EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-logo="https://i.imgur.com/hsJsu3I.png" ,TV NRSR (720p)
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1  group-title="Slovensko 🇸🇰"  tvg-id="VIOTV.sk"  tvg-logo="https://i.imgur.com/7EL3VZ5.png" ,VIO TV (480p)
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
 #EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="BeautifulLifeTV.tw"  tvg-logo="https://i.imgur.com/hkwcBM9.png" ,Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="CTiNews.tw"  tvg-logo="https://i.imgur.com/fEUmRST.png" ,CTi News (中天新聞台)
-https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="DaAi1.tw"  tvg-logo="https://i.imgur.com/KdJi9af.png" ,DaAi1 (大愛1) (720p)
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="DaAi2.tw"  tvg-logo="https://i.imgur.com/KdJi9af.png" ,DaAi2 (大愛2) (720p)
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="DaliTV.tw"  tvg-logo="https://i.imgur.com/pFIMLsA.png" ,Dali TV (大立電視台) (720p)
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,GOOD TV CH24 劉三講古 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,GOOD TV CH45 卡通 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="SETiNews.tw"  tvg-logo="https://i.imgur.com/NaOUWKf.png" ,SET iNews
-https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="SupremeMasterTV.tw"  tvg-logo="https://i.imgur.com/kFMHayP.png" ,Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="TTVNews.tw"  tvg-logo="https://i.imgur.com/AfkK0gv.png" ,TTV News (台视新聞台)
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="TVBSAsia.tw"  tvg-logo="https://i.imgur.com/4S1rkhm.png" ,TVBS Asia (1080p)
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="TVBSNews.tw"  tvg-logo="https://i.imgur.com/171lwfg.png" ,TVBS News (TVBS新聞台)
-https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="WXTV.tw"  tvg-logo="https://i.imgur.com/s8tiTeb.png" ,唯心電視 (480p)
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼"  tvg-id="GeniusGoGoGo.tw"  tvg-logo="https://i.imgur.com/GGdnGqH.png" ,天才衝衝衝 (1080p)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,立法院IVOD直播交通委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,立法院IVOD直播經濟委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,立法院IVOD直播司法及法制委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,立法院IVOD直播朝野協商 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,立法院IVOD直播社會福利及衛生環境委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
-#EXTINF:-1  group-title="台灣/臺灣 🇹🇼" ,立法院IVOD直播院會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
-#EXTINF:-1  group-title="ประเทศไทย 🇹🇭"  tvg-id="AtTV.th"  tvg-logo="https://files.catbox.moe/6rj9aw.jpg" ,@TV (720p)
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1  group-title="ประเทศไทย 🇹🇭"  tvg-id="ALTV.th"  tvg-logo="https://i.imgur.com/MCbCSWv.png" ,ALTV (1080p)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1  group-title="ประเทศไทย 🇹🇭"  tvg-id="AmarinTV.th"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512" ,Amarin TV
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1  group-title="ประเทศไทย 🇹🇭"  tvg-id="Channel3.th"  tvg-logo="https://i.imgur.com/YRiulCU.png" ,Channel 3
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1  group-title="ประเทศไทย 🇹🇭"  tvg-id="Channel5.th"  tvg-logo="https://i.imgur.com/wOIaqg7.png" ,Channel 5 (1080p)
