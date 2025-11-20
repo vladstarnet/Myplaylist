@@ -6805,65 +6805,65 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
 #EXTINF:-1  group-title="ประเทศไทย 🇹🇭"  tvg-id="ZabbChannel.th"  tvg-logo="https://i.imgur.com/4TMtUjW.png" ,Zabb Channel (720p)
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="Tojikiston.tj"  tvg-logo="https://i.imgur.com/sEXCFNk.png" ,Точикистон
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="Tojikiston.tj"  tvg-logo="https://tvt.tj/sites/default/files/logo-tvt-new-3.png" ,Точикистон [1080p]
 https://live.teleradiocom.tj/1/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="Badakhshon.tj"  tvg-logo="https://i.imgur.com/iK6AmkZ.png" ,Бадахшон Точикистон
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="DushanbeHD.tj"  tvg-logo="https://i.imgur.com/WWPIziG.png" ,Душанбе [1080p]
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="Badakhshon.tj"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-badakhshon-tj.png" ,Бадахшон Точикистон
 https://live.teleradiocom.tj/11/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVKulob.tj"  tvg-logo="https://i.imgur.com/AFgEYFp.png" ,TV Kulob Точикистон
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVKulob.tj"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-kulob-tj.png" ,Кулоб Точикистон
 https://live.teleradiocom.tj/12/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSugd.tj"  tvg-logo="https://i.imgur.com/YzkwTHb.png" ,TV Sugd Точикистон
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSugd.tj"  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQYDaQO_zg5X4lcPOEg7mR2hQZ5RFcg65XayJyX4nxxg=s900-c-k-c0x00ffffff-no-rj" ,Суfд Точикистон
 https://live.teleradiocom.tj/14/3m.m3u8
 #EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="Khatlon.tj"  tvg-logo="https://i.imgur.com/X4xVpBj.png" ,Халтон Точикистон
 https://live.teleradiocom.tj/10/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="DushanbeHD.tj"  tvg-logo="https://i.imgur.com/WWPIziG.png" ,Душанбе
-https://live.teleradiocom.tj/7/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-logo="https://i.ibb.co/3h2qZ4v/resize-2024-10-03-T060419-975.png"   tvg-name="TV Varzish",Варзиш
-https://live.teleradiocom.tj/5/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="IlmvaTabiat.tj"  tvg-logo="https://i.imgur.com/MDULX7X.png" ,Илм Ва Табиат
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="IlmvaTabiat.tj"  tvg-logo="https://i.imgur.com/MDULX7X.png" ,Илм Ва Табиат [1080p]
 https://live.teleradiocom.tj/15/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVBahoriston.tj"  tvg-logo="https://i.imgur.com/Dacai5z.png" ,ТВ Бахористон
-https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSafina.tj"  tvg-logo="https://i.imgur.com/Ho2vKZJ.png" ,ТВ Сафина
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSafina.tj"  tvg-logo="https://i.imgur.com/Ho2vKZJ.png" ,ТВ Сафина [1080p]
 https://live.teleradiocom.tj/2/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSayohi.tj"  tvg-logo="https://i.imgur.com/lAkMrtr.png" ,ТВ Саёхон
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSayohi.tj"  tvg-logo="https://i.imgur.com/lAkMrtr.png" ,ТВ Саёхон [1080p]
 https://live.teleradiocom.tj/16/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSinamo.tj"  tvg-logo="https://i.imgur.com/W2qz5a4.png" ,ТВ Синамо
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVSinamo.tj"  tvg-logo="https://tvtvtv.ru/logos/tv_sinamo.png" ,ТВ Синамо [1080p]
 https://live.teleradiocom.tj/6/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TMT.tj"  tvg-logo="https://i.imgur.com/Dg0UkNR.png" ,ТМТ Шахнавоз
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TMT.tj"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbFSY5-dIhkmCpbifL4q7K1fMGy1DbUnmgJy9fbSQUk6sNeOudOwTSCqkxkZUZ0kqFrA&usqp=CAU" ,ТМТ Шахнавоз
 https://live.teleradiocom.tj/9/3m.m3u8
 #EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="Jahonnamo.tj"  tvg-logo="https://i.imgur.com/ffqdD8W.png" ,Чахоннамо
 https://live.teleradiocom.tj/4/3m.m3u8
-#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="Futbol.tj"  tvg-logo="https://i.imgur.com/RngmCDn.png" ,Футбол
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="TVBahoriston.tj"  tvg-logo="https://i.imgur.com/Dacai5z.png" ,ТВ Бахористон [1080p]
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-id="football-tj"  tvg-logo="https://epg.iptvx.one/picons/football-tj.png" ,Футбол [1080p]
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://i.imgur.com/D7RBtZ2.png"   tvg-name="Altyn Asyr", Altyn Asyr
+#EXTINF:-1  group-title="Тоҷикистон 🇹🇯"  tvg-logo="https://tvtvtv.ru/logos/tv_varzish.png"   tvg-name="TV Varzish",SPORT Варзиш [1080p]
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://i.imgur.com/D7RBtZ2.png"   tvg-name="Altyn Asyr",Altyn Asyr
 https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="AltynAsyr.tm"  tvg-logo="https://i.imgur.com/D7RBtZ2.png" ,Altyn Asyr (406p) [Not 24/7]
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="AltynAsyr.tm"  tvg-logo="https://i.imgur.com/D7RBtZ2.png" ,Altyn Asyr
 https://alpha.tv.online.tm/hls/ch001.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://i.imgur.com/JdEb4Ug.png"   tvg-name="Arkadag", Arkadag
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://i.imgur.com/JdEb4Ug.png"   tvg-name="Arkadag",Arkadag TV
 https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
 #EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="ArkadagTV.tm"  tvg-logo="https://i.imgur.com/JdEb4Ug.png" ,Arkadag TV
 https://alpha.tv.online.tm/hls/ch000.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Asgabat.tm"  tvg-logo="https://www.lyngsat.com/logo/tv/aa/asgabat-tm.png" ,Aşgabat
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Asgabat.tm"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Ashgabat_TV.png/revision/latest/scale-to-width-down/250?cb=20211225160751" ,Aşgabat
 https://alpha.tv.online.tm/hls/ch006.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://i.imgur.com/pWbJzr9.png"   tvg-name="Miras", Miras
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://i.imgur.com/pWbJzr9.png"   tvg-name="Miras",Miras
 https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
 #EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Miras.tm"  tvg-logo="https://i.imgur.com/pWbJzr9.png" ,Miras
 https://alpha.tv.online.tm/hls/ch003.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TurkmenOwazy.tm"  tvg-logo="https://i.imgur.com/Ap7l2jC.png"   tvg-name="Turkmen Owazy", Turkmen Owazy
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TurkmenOwazy.tm"  tvg-logo="https://i.imgur.com/Ap7l2jC.png"   tvg-name="Turkmen Owazy",Turkmen Owazy
 https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
 #EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TurkmenOwazy.tm"  tvg-logo="https://i.imgur.com/Ap7l2jC.png" ,Türkmen Owazy
 https://alpha.tv.online.tm/hls/ch005.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Turkmenistan.tm"  tvg-logo="https://i.imgur.com/zKWfwAw.png"   tvg-name="Turkmenistan TV", Turkmenistan TV
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Turkmenistan.tm"  tvg-logo="https://i.imgur.com/iBBpBx4.png"   tvg-name="Turkmenistan TV",Turkmenistan TV
 https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Turkmenistan.tm"  tvg-logo="https://i.imgur.com/zKWfwAw.png" ,Türkmenistan TV
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Turkmenistan.tm"  tvg-logo="https://i.imgur.com/iBBpBx4.png" ,Türkmenistan TV
 https://alpha.tv.online.tm/hls/ch007.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Yaslyk.tm"  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yaslyk-tm.png"   tvg-name="Ýaşlyk", Ýaşlyk
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Yaslyk.tm"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1c/Yaslyk.png/revision/latest/scale-to-width-down/245?cb=20201026061829&path-prefix=ru"   tvg-name="Ýaşlyk",Ýaşlyk
 https://alpha.tv.online.tm/legacyhls/ch002_400/index.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Yaslyk.tm"  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yaslyk-tm.png" ,Ýaşlyk
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="Yaslyk.tm"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1c/Yaslyk.png/revision/latest/scale-to-width-down/245?cb=20201026061829&path-prefix=ru" ,Ýaşlyk
 https://alpha.tv.online.tm/hls/ch002.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png"   tvg-name="Turkmenistan Sport", Turkmenistan Sport
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/eb/Turkmenistan_sport.png/revision/latest?cb=20201026070318&path-prefix=ru"   tvg-name="Turkmenistan Sport",Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TurkmenistanSport.tm"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png" ,Türkmenistan Sport
+#EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TurkmenistanSport.tm"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/eb/Turkmenistan_sport.png/revision/latest?cb=20201026070318&path-prefix=ru" ,Türkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TV1KG.kg"  tvg-logo="https://i.imgur.com/Mti9t9C.png" ,TV1 KG (1080p)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
