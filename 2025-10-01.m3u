@@ -3323,6 +3323,8 @@ http://stream.skaz.tv/stream/ch654/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch665/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" ,Relax 4K
 https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" ,Релакс
+http://185.57.68.33/232/mpegts
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="Quadro 4K"  tvg-logo="https://i.imgur.com/P4c53HA.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Quadro 4K
 http://stream.skaz.tv/stream/ch1041/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5B906B36-29CB-441B-ADCD-921E22A67BDD/3-1x1.png/200?webp=1" ,Drone TV [1080p]
@@ -6867,57 +6869,41 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1  group-title="Türkmenistan 🇹🇲"  tvg-id="TV1KG.kg"  tvg-logo="https://i.imgur.com/Mti9t9C.png" ,TV1 KG (1080p)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TMB.tr"  tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo.png" ,TMB [TR] [1080p]
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="360.tr"  tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="360.tr"  tvg-logo="https://i.imgur.com/agn47sQ.png" ,360 TV (720p)
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AHaber.tr"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" ,A Haber
 https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ANews.tr"  tvg-logo="https://i.imgur.com/6tWCzTp.png" ,A News (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ANews.tr"  tvg-logo="https://i.imgur.com/6tWCzTp.png" ,A News (1080p)
 https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ASpor.tr"  tvg-logo="https://i.imgur.com/ZhkZzLf.png" ,A Spor (1080p) [Not 24/7]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ASpor.tr"  tvg-logo="https://i.imgur.com/ZhkZzLf.png" ,A Spor (1080p)
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AfroturkTV.tr"  tvg-logo="https://i.imgur.com/fWlLvRA.png" ,Afroturk TV (1080p)
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AksuTV.tr"  tvg-logo="https://i.imgur.com/mgDCKiy.png" ,Aksu TV (720p)
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AksuTV.tr"  tvg-logo="https://www.aksutv.com.tr/temalar/AksuV1/assets/style/images/about-img.png" ,Aksu TV (720p)
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AlanyaPostaTV.tr"  tvg-logo="https://i.imgur.com/a3w9eFe.png" ,Alanya Posta TV (1080p)
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AgroTV.tr"  tvg-logo="https://i.imgur.com/ls9NLa4.png" ,Agro TV (1080p)
-https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AkitTV.tr"  tvg-logo="https://i.imgur.com/oGto929.png" ,Akit TV (720p)
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AlmahriahTV.tr"  tvg-logo="https://i.imgur.com/GgEeTNr.png" ,Almahriah TV (1080p)
-https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="AnadoluNetTV.tr"  tvg-logo="https://www.anadolunettv.com/d/r/logo.png" ,Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ArasTV.tr"  tvg-logo="https://i.imgur.com/JsDCyWG.png" ,ARAS TV (576p) [Not 24/7]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ArasTV.tr"  tvg-logo="https://i.imgur.com/JsDCyWG.png" ,ARAS TV (576p)
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ATVAlanya.tr"  tvg-logo="https://i.imgur.com/bUwarR0.png" ,ATV Alanya (720p) [Not 24/7]
-http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="BenguturkTV.tr"  tvg-logo="https://i.imgur.com/p3ON1oX.png" ,BENGÜTÜRK TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="BenguturkTV.tr"  tvg-logo="https://i.imgur.com/p3ON1oX.png" ,BENGÜTÜRK TV (720p)
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="BloombergHT.tr"  tvg-logo="https://i.imgur.com/bmkXfIE.png" ,Bloomberg HT
-https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="BRTV.tr"  tvg-logo="https://i.imgur.com/U3qlEAp.png" ,BRTV (720p) [Geo-blocked]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="BRTV.tr"  tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_19.png?v=6" ,BRTV (720p)
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="ASTV.tr"  tvg-logo="https://i.imgur.com/MCUjck8.png" ,Bursa AS TV (900p)
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="CanTV.tr"  tvg-logo="https://i.imgur.com/oIMtuwB.png" ,Can TV (720p)
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="CekmekoyTV.tr"  tvg-logo="https://i.imgur.com/sjAGFWu.png" ,Cekmeköy TV (1080p)
-https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="Cine1.tr"  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" ,Cine 1 (720p)
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="Cine1.tr"  tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cine-1-buyuk.png?rkt=DfS6Tgv6Hjr93k3" ,Cine 1 (720p)
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="Cine5.tr"  tvg-logo="https://i.imgur.com/AmcOAIY.png" ,Cine5 (720p)
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DehaTV.tr"  tvg-logo="https://i.imgur.com/Dlsm9XP.png" ,Deha TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DenizPostasiTV.tr"  tvg-logo="https://i.imgur.com/Mm8hdfx.png" ,Deniz Postası TV (720p) [Not 24/7]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DenizPostasiTV.tr"  tvg-logo="https://i.imgur.com/Mm8hdfx.png" ,Deniz Postası TV (720p)
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DHA.tr"  tvg-logo="https://i.imgur.com/VZhag2x.png" ,DHA (720p) [Not 24/7]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DHA.tr"  tvg-logo="https://i.imgur.com/VZhag2x.png" ,DHA (720p)
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DimTV.tr"  tvg-logo="https://i.imgur.com/X4QFDhk.png" ,DİM TV (720p) [Geo-blocked]
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DimTV.tr"  tvg-logo="https://i.imgur.com/X4QFDhk.png" ,DİM TV Alanya (720p)
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="DiyanetTV.tr"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" ,Diyanet TV (1080p)
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
@@ -7055,6 +7041,8 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TJKTV.tr"  tvg-logo="https://i.imgur.com/3zHdkYG.png" ,TJK TV (1080p)
 https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TMB.tr"  tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo.png" ,TMB [TR] [1080p]
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TonTV.tr"  tvg-logo="https://i.imgur.com/f0Soeob.png" ,Ton TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TrakyaTurk.tr"  tvg-logo="https://trakyaturktv.com/uploads/library/2024/04/unnamed1.jpg" ,Trakya Türk TV (720p)
