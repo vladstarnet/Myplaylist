@@ -6369,10 +6369,6 @@ https://iptv.itv.uz/hls/live/t/19yuXtJwQPMo2KIAqqbuBQ/e/1764230160/1499/index.m3
 https://iptv.itv.uz/hls/live/t/0dIWPtcbpP9JP69t1v1a2w/e/1764230155/1006/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg" , Ellikqala TV
 https://iptv.itv.uz/hls/live/t/jmHv54YhUlfEFTbhPr1g0g/e/1764230158/1495/index.m3u8?ip=213.183.48.195
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg" , Fergana MTRK
-https://iptv.itv.uz/hls/live/t/YI6CvO5GW80NgWa8VCuA4Q/e/1764230156/1458/index.m3u8?ip=213.183.48.195
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg" , Xorazm MTRK
-https://iptv.itv.uz/hls/live/t/TTaGlKkS45Vkpjdh0JfHNQ/e/1764230157/1464/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg" , Jaslar TV
 https://iptv.itv.uz/hls/live/t/hUVVOSRZ-SxC99sxHbbu2Q/e/1764230159/1490/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg" , Jizzax TV
@@ -6399,8 +6395,6 @@ https://iptv.itv.uz/hls/live/t/rmHPVqVuVsOhr_8tq304vw/e/1764230152/1014/index.m3
 https://iptv.itv.uz/hls/live/t/-wzWoTrlwFzZoE_lf1usWg/e/1764230152/1216/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="milliy" ,Milliy TV
 http://milliy.tv/hls/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg" , Mimi TV
-https://iptv.itv.uz/hls/live/t/aWS3PLW9UByHmKYYL76Nyw/e/1764230157/1470/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg" , Muloqot TV
 https://iptv.itv.uz/hls/live/t/erBw35oAQkqehJHIqxYpCQ/e/1764230159/1285/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MY5_TV_logotipi.png/1200px-MY5_TV_logotipi.png" ,MY5 Uzbekistan [720p]
@@ -6441,6 +6435,8 @@ https://iptv.itv.uz/hls/live/t/nE2v2FoIAg0TGJV-QCoFFQ/e/1764230152/1016/index.m3
 https://iptv.itv.uz/hls/live/t/ygKBMmFa-8kpeKCRXl5j0g/e/1764230154/1205/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="bolajon-uz"  tvg-logo="https://uzdtv.uz/images/channel_1606537372.png" ,Bolajon
 https://iptv.itv.uz/hls/live/t/Am9-2Be-GW-PAsH0WGOE9A/e/1764230154/1007/index.m3u8?ip=213.183.48.195
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg" , Mimi TV
+https://iptv.itv.uz/hls/live/t/aWS3PLW9UByHmKYYL76Nyw/e/1764230157/1470/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="uzsport"  tvg-logo="https://epg.iptvx.one/picons/uzsport.png" ,uz Sport [1080p]
 https://iptv.itv.uz/hls/live/t/G21rEMQ8UJgrFYOQUwxzXA/e/1764230151/1004/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg" , Futbol TV
@@ -7703,4 +7699,106 @@ https://ovh11.zorovids.click/shp3/601-800/797.mp4
 https://ovh11.zorovids.click/shp3/601-800/798.mp4
 #EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 799
 https://ovh11.zorovids.click/shp3/601-800/799.mp4
+#EXTINF:-1  group-title="18+ 💓" , XY Max
+http://85.11.144.9:50999/102
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Adult IPTV Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="babes-tv" , Babes TV HD
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Brazzers TV Europe HD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓" , CentoXCento HD
+https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel" , Dorcel TV
+https://176.116.105.82/Dorcel_HD/index.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel" , Dorcel TV HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel-xxx" , Dorcel XXX
+http://85.11.144.9:50999/105
+#EXTINF:-1  group-title="18+ 💓" , Erota
+http://85.11.144.9:50999/31
+#EXTINF:-1  group-title="18+ 💓" , Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd" , Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Extasy
+https://176.116.105.82/Extasy_HD/index.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Exxxxotica
+http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-tv" , Hustler TV
+http://213.169.39.30:5115
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-hd" , Hustler HD
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="passionxxx" , PassionXXX
+https://78.108.251.7/XXL/index.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Penthouse Passion HD
+http://141.95.55.143/CH3517/index.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Pink Club TV HD
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Playboy TV HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Private SD
+http://213.169.39.30:5036
+#EXTINF:-1  group-title="18+ 💓" , Reality Kings TV HD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="redlight-hd" , Redlight HD
+http://85.11.144.9:50999/39
+#EXTINF:-1  group-title="18+ 💓" , SuperOne
+http://185.166.252.230/SuperOne/index.m3u8
+#EXTINF:-1  group-title="18+ 💓" , Venus
+http://181.188.216.5:18000/play/a01h/index.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="vivid-tv" , Vivid TV
+http://85.11.144.9:50999/42
+#EXTINF:-1  group-title="18+ 💓" , XY Plus
+http://85.11.144.9:50999/35
+#EXTINF:-1  group-title="18+ 💓" , XY Mix
+http://85.11.144.9:50999/101
+#EXTINF:-1  group-title="Общие" , loganettv strawberry
+https://t.me/loganettv_support
+#EXTINF:-1  group-title="Общие" , telegram - t.me/loganettv_original
+https://t.me/loganettv_original
 #EXT-X-ENDLIST
