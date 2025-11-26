@@ -5823,14 +5823,16 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1  group-title="الأردن 🇯🇴"  tvg-id="RoyaTV.jo"  tvg-logo="https://i.imgur.com/WX80rty.png" ,Roya TV (1080p)
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" ,i24NEWS [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2386/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSHebrew.il@SD"  tvg-logo="https://www.i24news.tv/images/favicon.png" ,i24NEWS [1080p]
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" ,i24NEWS [1080p]
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSArabic.il@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" ,i24 News Arabic [720p]
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="i24NEWSFrench.il@SD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" ,i24 News French [720p]
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/1200px-Bloomberg_HT_logo.svg.png" ,Bloomberg TV
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Arutz_24_logo.png"   tvg-rec="0",Channel 24 HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12237/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/QXB1jv8.png"   tvg-rec="0",Knesset Channel IL
@@ -5863,16 +5865,10 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2335/index.m3u8
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Makan33.il"  tvg-logo="https://i.imgur.com/RVtQTed.png" ,Makan 33 (1080p)
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://i.imgur.com/RVtQTed.png"   tvg-rec="3",Makan 33 IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2381/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="ShelanuTV.il"  tvg-logo="https://i.imgur.com/UVz2Ojq.png" ,Shelanu TV (720p)
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="AngelTV.in@Hebrew"  tvg-logo="https://i.imgur.com/qKLEGU7.png" ,Angel TV Hebrew (720p)
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Good Life IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2355/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Discovery Channel HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12241/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Discovery Channel FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2358/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",E! HD IL
@@ -5883,22 +5879,14 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2378/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12247/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png"   tvg-rec="0",Nat Geo Wild FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12248/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png"   tvg-rec="0",Nat Geo Wild HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12259/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",History FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12265/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",History HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12223/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Food Network HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12209/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Food Network IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2377/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Bollywood HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12267/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Home Plus IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2339/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT 3 IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2367/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT 3 HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12214/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT 8 IL
@@ -5907,14 +5895,10 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12216/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12219/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 1 HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12245/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema 1 IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2357/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 2 HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12215/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema 3 FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2372/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",HOT Cinema 3 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12220/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema 4 IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2356/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",HOT Cinema Family HD IL
@@ -5941,12 +5925,6 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12211/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2390/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12257/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas Plus HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14207/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Turkish Dramas Plus IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2363/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 2 HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/14208/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 2 FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12262/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Turkish Dramas 3 FHD IL
@@ -5957,26 +5935,12 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12258/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2342/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Action FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12270/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="yes2"   tvg-rec="0",Yes Movies Action HD
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12280/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Action IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2350/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Comedy FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12271/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Comedy HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12281/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Comedy IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2348/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Drama FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12272/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Drama HD IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12282/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Drama IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2351/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Yes Movies Kids FHD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12273/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes Movies Kids IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2365/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Action HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2346/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Yes TV Comedy HD IL
@@ -5987,8 +5951,6 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2343/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/16019/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",One HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2340/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",One 2 IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2373/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",One 2 HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12231/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Baby TV IL
@@ -5997,8 +5959,6 @@ http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2370/index.m3u8
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2382/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Hop! HD IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12244/index.m3u8
-#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Hop! IL
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2338/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="0",Junior IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12240/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"   tvg-rec="3",Luli IL
@@ -6390,13 +6350,13 @@ https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 #EXTINF:-1  group-title="لبنان‎ 🇱🇧"  tvg-id="VoiceofLebanon.lb"  tvg-logo="https://i.imgur.com/f8WcqRY.png" ,Voice of Lebanon [1080p]
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.imgur.com/VRFhKbw.png" ,O'zbekiston 24 [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20199/index.m3u8
+https://iptv.itv.uz/hls/live/t/Duunq6yB2xpKu8ftgCXiSg/e/1764230151/1011/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f7/O%27zbekiston_1_%282025-%D0%BD.%D0%B2.%29.jpg/revision/latest?cb=20250325212119&path-prefix=ru"   tvg-name="Uzbekiston HD",O'zbekiston 1
 http://31.148.197.2:5001/
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f7/O%27zbekiston_1_%282025-%D0%BD.%D0%B2.%29.jpg/revision/latest?cb=20250325212119&path-prefix=ru" ,O'zbekiston 1
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2236/index.m3u8
+https://iptv.itv.uz/hls/live/t/s_KdVF30TvOztewHdIC2fg/e/1764230150/1001/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://media.clicktv.platform24.tv/img/ch/17/63/176383690fa9bee69a38d44386ea07a5.png?w=408&format=webp" ,Toshkent
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20206/index.m3u8
+https://iptv.itv.uz/hls/live/t/gm7qkVH5rZrlZXoUODSwwA/e/1764230150/1003/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" ,BIZ Cinema [720p]
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" ,BIZ Music [720p]
@@ -6404,51 +6364,51 @@ https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" ,BIZ TV [720p]
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="navo-uz"  tvg-logo="https://epg.iptvx.one/picons/navo-uz.png" ,Navo
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2243/index.m3u8
+https://iptv.itv.uz/hls/live/t/W_vrr0fKj02YR6GHNIgD4w/e/1764230154/1008/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://salomtv.uz/_next/image?url=https%3A%2F%2Fminio-api-hdd.salomtv.uz%2Fimages%2Faf287586fa93402d8bb9a0952c3e26d7_cmprs.webp&w=640&q=75"   tvg-name="TTV Musiqa HD",TTV Musiqa [1080p]
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://w7.pngwing.com/pngs/32/830/png-transparent-sun-tv-network-television-channel-television-show-india-miscellaneous-television-text-thumbnail.png"   tvg-name="Солнечный ТВ",Солнечный ТВ [720p]
 https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://api.logobank.uz/media/logos_png/Dunyo_Boylab-01.png" ,Dunyo Bo'ylab 
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2241/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Kinoteatr
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2244/index.m3u8
+https://iptv.itv.uz/hls/live/t/0dIWPtcbpP9JP69t1v1a2w/e/1764230155/1006/index.m3u8?ip=213.183.48.195
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg" ,Kinoteatr
+https://iptv.itv.uz/hls/live/t/dVM2I8oECz8TFR9vErZxnA/e/1764230155/1009/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://i.allplay.uz/i/62229/eyJ3IjoyNTAsImgiOjI1MCwiYyI6dHJ1ZX0/image.jpg?t=Yn6Wy32DckdilyMIz1d0Rg" ,Madaniyat va Ma'rifat
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20191/index.m3u8
+https://iptv.itv.uz/hls/live/t/lXUm5_O7ingUnmbo-PE_Hw/e/1764230154/1005/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://api.logobank.uz/media/logos_png/Mahalla-01_mm5GOpN.png" ,Mahalla
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20192/index.m3u8
+https://iptv.itv.uz/hls/live/t/DSUSZLICCAG3Cp3RpSlNZA/e/1764230155/1013/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://mw.tvcom.uz/logo/Group_4531-341x245.png" ,Milliy TV [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20195/index.m3u8
+https://iptv.itv.uz/hls/live/t/rmHPVqVuVsOhr_8tq304vw/e/1764230152/1014/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Milliy TV
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20194/index.m3u8
+https://iptv.itv.uz/hls/live/t/-wzWoTrlwFzZoE_lf1usWg/e/1764230152/1216/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="milliy" ,Milliy TV
 http://milliy.tv/hls/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MY5_TV_logotipi.png/1200px-MY5_TV_logotipi.png" ,My5 [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20193/index.m3u8
+https://iptv.itv.uz/hls/live/t/th3hHbPInz840TTvaPw8gQ/e/1764230153/1012/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MY5_TV_logotipi.png/1200px-MY5_TV_logotipi.png" ,MY5 [720p]
 https://st.my5.media/hls/hd/index.m3u8
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MY5_TV_logotipi.png/1200px-MY5_TV_logotipi.png" ,MY5
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20196/index.m3u8
+https://iptv.itv.uz/hls/live/t/0_9dhcu9AGVnNVXvX5-JNQ/e/1764230153/1217/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://oyna.server-img.lfstrm.tv/images/channel_logos/logo_63b7f90b79ec67a54f19b068.png" ,Nurafshon TV
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20198/index.m3u8
+https://iptv.itv.uz/hls/live/t/y1k8x4z8ymNGvoaE-6_JsA/e/1764230156/1220/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="http://i123.fastpic.org/big/2024/0312/41/09f161f3a64f89b5c7c9be0013c09841.png" ,O'zbekiston Tarixi [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20200/index.m3u8
+https://iptv.itv.uz/hls/live/t/zn_nJO8X9JcZQt24XJUOzA/e/1764230155/1209/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://brendgoda-2023.marketing.uz/uploads/brands/3ea5f26e6223.png" ,Renessans TV
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20201/index.m3u8
+https://iptv.itv.uz/hls/live/t/t9OERXfrS1fY3nA54yueUA/e/1764230153/1221/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg" ,Ruxsor TV [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20202/index.m3u8
+https://iptv.itv.uz/hls/live/t/HfYv79TbPiOVuY-TaHMw5g/e/1764230156/4008/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://mw.tvcom.uz/logo/Frame_425.png" ,Taraqqiyot TV
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20204/index.m3u8
+https://iptv.itv.uz/hls/live/t/1RB9e4RPoYW2vaZ2b05qfA/e/1764230156/1204/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://yoshlartv.uz/static/media/logo_yoshlar_uz.f1753e22.png" ,Yoshlar
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2237/index.m3u8
+https://iptv.itv.uz/hls/live/t/I1TBPD9iTUOE57zBzONT1g/e/1764230150/1002/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-logo="https://upload.wikimedia.org/wikipedia/uz/7/79/Zo%CA%BBr_TV_logo.jpg" ,Zo'r TV [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20205/index.m3u8
+https://iptv.itv.uz/hls/live/t/nE2v2FoIAg0TGJV-QCoFFQ/e/1764230152/1016/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="uzsport"  tvg-logo="https://epg.iptvx.one/picons/uzsport.png" ,uz Sport [1080p]
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/20203/index.m3u8
-#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="uzsport"  tvg-logo="https://epg.iptvx.one/picons/uzsport.png" ,uz Sport
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2239/index.m3u8
+https://iptv.itv.uz/hls/live/t/G21rEMQ8UJgrFYOQUwxzXA/e/1764230151/1004/index.m3u8?ip=213.183.48.195
+#EXTINF:-1  group-title="Oʻzbekiston 🇺🇿" ,Добавленный канал
+http://
 #EXTINF:-1  group-title="Oʻzbekiston 🇺🇿"  tvg-id="bolajon-uz"  tvg-logo="https://uzdtv.uz/images/channel_1606537372.png" ,Bolajon
-http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2242/index.m3u8
+https://iptv.itv.uz/hls/live/t/Am9-2Be-GW-PAsH0WGOE9A/e/1764230154/1007/index.m3u8?ip=213.183.48.195
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AjyalTV.ps"  tvg-logo="https://i.imgur.com/i6Y7beR.jpg" ,Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="AlAqsaTV.ps"  tvg-logo="https://i.imgur.com/Z2rfrQ8.png" ,Al Aqsa Channel (416p)
@@ -7153,47 +7113,53 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiZaman.ae"  tvg-logo="https://i.imgur.com/5Q5qMzP.png" ,Dubai Zaman (1080p)
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="FujairahTV.ae"  tvg-logo="https://www.fujairahtv.ae/images/menu-logo.png" ,Fujairah TV (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="FujairahTV.ae"  tvg-logo="https://www.fujairahtv.ae/images/menu-logo.png" ,Fujairah TV (1080p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Majid.ae"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Majid_tv_2023.png/revision/latest/scale-to-width-down/300?cb=20231004113931" ,Majid TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://e7.pngegg.com/pngimages/215/378/png-clipart-mbc1-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A-mbc2-mbc-action-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-television-text.png" ,MBC
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/1891/1891301-7b3a8c6296d0430ead9e5cbda896b1ad.jpg?hash=ezqMYpbQQw" ,MBC
 https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://i.imgur.com/TTAGFHG.png" ,MBC Bollywood [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://w1.pngwing.com/pngs/858/409/png-transparent-tv-mbc-drama-mbc-plus-drama-television-mbc-3-mbc2-television-channel-streaming-media-mbc-max.png" ,MBC Drama
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/MBC_Drama_Logo.svg" ,MBC Drama [720p]
 https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/MBC_Maser_Drama.png/revision/latest/scale-to-width-down/1200?cb=20250711110045" ,MBС+ Drama [720]
-https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_4.m3u8http://
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBCIraq.ae"  tvg-logo="https://i.imgur.com/D0LxiPE.png" ,MBC Iraq (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" ,MBС+ Drama [1080]
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBCIraq.ae"  tvg-logo="https://i.imgur.com/D0LxiPE.png" ,MBC Iraq [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBCPersia.ae"  tvg-logo="https://i.imgur.com/4FXiyjn.png" ,MBC Persia (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBCPersia.ae"  tvg-logo="https://i.imgur.com/4FXiyjn.png" ,MBC Persia [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://i.imgur.com/BcXASJp.png" ,MBC 4 [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBC5.ae"  tvg-logo="https://i.imgur.com/fRWaDyF.png" ,MBC 5 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/video/1080p2400kbps/video.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="NoorDubai.ae"  tvg-logo="https://i.imgur.com/Nwl8Y7K.png" ,Noor Dubai (576p)
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="NourTV.ae"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" ,Nour TV (720p)
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://alqurans.com/img/peace_tv_china.png" ,Peace TV Chinese (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest?cb=20220419153100" ,Peace TV Bangla [1080p]
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://alqurans.com/img/peace_tv_china.png" ,Peace TV Chinese [1080p]
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SamaDubai.ae"  tvg-logo="https://i.imgur.com/F5g3ymW.png" ,Sama Dubai (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" ,Peace TV English [1080p]
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://alqurans.com/img/peace_tv_urdu.png" ,Peace TV Urdu [1080p]
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SamaDubai.ae"  tvg-logo="https://i.imgur.com/F5g3ymW.png" ,Sama Dubai [1080p]
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SharjahTV.ae"  tvg-logo="https://i.imgur.com/Oz2bPOt.png" ,Sharjah TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SharjahTV.ae"  tvg-logo="https://i.imgur.com/Oz2bPOt.png" ,Sharjah TV [1080p]
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Sharjah2.ae"  tvg-logo="https://i.imgur.com/Wd3Xvd1.png" ,Sharjah 2 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Sharjah2.ae"  tvg-logo="https://i.imgur.com/Wd3Xvd1.png" ,Sharjah 2 [1080p]
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SharjahSports.ae"  tvg-logo="https://i.imgur.com/CsEElsJ.png" ,Sharjah Sports TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SharjahSports.ae"  tvg-logo="https://i.imgur.com/CsEElsJ.png" ,Sharjah Sports TV [1080p]
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SkyNewsArabia.ae"  tvg-logo="https://i.imgur.com/SvjU4h6.png" ,Sky News Arabia (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SkyNewsArabiaVertical.ae"  tvg-logo="https://i.imgur.com/FjtzQQs.png" ,Sky News Arabia (Portrait) (1280p) [Not 24/7]
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SkyNewsArabia.ae"  tvg-logo="https://i.imgur.com/SvjU4h6.png" ,Sky News Arabia [1080p]
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SkyNewsArabiaVertical.ae"  tvg-logo="https://i.imgur.com/FjtzQQs.png" ,Sky News Arabia (Portrait) [1280p]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Spacetoon_logo_2020.png/revision/latest?cb=20230127005055" ,Spacetoon Arabic [720p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8
-#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Wanasah.ae"  tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Wanasah.ae"  tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah [1080p]
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="WeyyakAction.ae"  tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" ,Weyyak Action (1080p)
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
