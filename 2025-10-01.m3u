@@ -6557,6 +6557,8 @@ https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://i.imgur.com/WcRlHQm.png" ,Al Ekhbariya [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Al_Hadath_TV_logo_2023.svg/500px-Al_Hadath_TV_logo_2023.svg.png" ,Al Hadath [720p]
+https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/manifest/video/720p1750kbps/video.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://i.imgur.com/Knd2lAQ.png" ,Al Khalij [720p]
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1  group-title="السُّعُودِيَّة 🇸🇦"  tvg-logo="https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b" ,Alkhuzama Radio [720p]
@@ -7099,95 +7101,107 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" ,Tabii Spor 6 (1440p)
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="Alarabiya.ae"  tvg-logo="https://i.imgur.com/NXFkYFj.png" ,Al Arabiya (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Alarabiya.ae"  tvg-logo="https://i.imgur.com/NXFkYFj.png" ,Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AlarabiyaPortrait.ae"  tvg-logo="https://i.imgur.com/NXFkYFj.png" ,Al Arabiya Portrait (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AlarabiyaPortrait.ae"  tvg-logo="https://i.imgur.com/NXFkYFj.png" ,Al Arabiya Portrait (720p)
 https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AlArabiyaBusiness.ae"  tvg-logo="https://i.imgur.com/eEV4r6J.jpg" ,Al Arabiya Business (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AlArabiyaBusiness.ae"  tvg-logo="https://i.imgur.com/eEV4r6J.jpg" ,Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-logo="https://i.imgur.com/sOMOe9t.png" ,Al Dafrah TV (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://yt3.googleusercontent.com/Zy2CEetkHMlh47c_C_Hi7JI1Lrb-VGO6ckAYPguNqoRzbbe2E454C5HVv_fbD-6dMbf_O-D2f3M=s900-c-k-c0x00ffffff-no-rj" ,Al Arabiya Programs [1080p]
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://media0087.elcinema.com/tvguide/1264_1.png" ,Al Dafrah TV (720p)
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AlSharqiyaMinKabla.ae"  tvg-logo="https://i.imgur.com/WGX5SCx.png" ,Al Sharqiya Min Kabla (1080p)
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AlWoustaTV.ae"  tvg-logo="https://i.imgur.com/zgMqQPQ.png" ,Al Wousta TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AlWoustaTV.ae"  tvg-logo="https://i.imgur.com/zgMqQPQ.png" ,Al Wousta TV (1080p)
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AbuDhabiEmirates.ae"  tvg-logo="https://i.imgur.com/iSbZqn4.png" ,Al Emarat TV (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-logo="https://i.imgur.com/m4qheI4.png" ,Al Sharqiya Min Kabla (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://i.imgur.com/m4qheI4.png" ,Al Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AbuDhabiAloula.ae"  tvg-logo="https://i.imgur.com/8DAriPs.png" ,Abu Dhabi TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AbuDhabiEmirates.ae"  tvg-logo="https://i.imgur.com/iSbZqn4.png" ,Al Emarat TV (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AbuDhabiAloula.ae"  tvg-logo="https://i.imgur.com/8DAriPs.png" ,Abu Dhabi TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AbuDhabiSports1.ae"  tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" ,Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AbuDhabiSports1.ae"  tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" ,Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AbuDhabiSports2.ae"  tvg-logo="https://i.imgur.com/y1I2jFK.png" ,Abu Dhabi Sports 2 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AbuDhabiSports2.ae"  tvg-logo="https://i.imgur.com/y1I2jFK.png" ,Abu Dhabi Sports 2 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AjmanTV.ae"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Ajman_TV_Logo_1996.png/revision/latest/scale-to-width-down/250?cb=20241210014941" ,Ajman TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AjmanTV.ae"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Ajman_TV_Logo_1996.png/revision/latest/scale-to-width-down/250?cb=20241210014941" ,Ajman TV (1080p)
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AlShallalTV.ae"  tvg-logo="https://i.imgur.com/otAHLRo.png" ,Al Shallal TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AlShallalTV.ae"  tvg-logo="https://i.imgur.com/otAHLRo.png" ,Al Shallal TV (1080p)
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="AlYaumTV.ae"  tvg-logo="https://i.imgur.com/rBixF3P.png" ,Al Yaum TV (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="AlYaumTV.ae"  tvg-logo="https://i.imgur.com/rBixF3P.png" ,Al Yaum TV (720p)
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="BaynounahTV.ae"  tvg-logo="https://i.imgur.com/uVmHT97.png" ,Baynounah TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="BaynounahTV.ae"  tvg-logo="https://i.imgur.com/uVmHT97.png" ,Baynounah TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="YasTV.ae"  tvg-logo="https://i.imgur.com/CSHQhP4.png" ,Yas TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="YasTV.ae"  tvg-logo="https://i.imgur.com/CSHQhP4.png" ,Yas TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-logo="https://i.imgur.com/Wo488Y2.png" ,China Arab TV (576p)
-http://213.57.91.138:8000/play/a061
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="CNBCArabiya.ae"  tvg-logo="https://i.imgur.com/opBXx1K.png" ,CNBC Arabia [AE]
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="CNBCArabiya.ae"  tvg-logo="https://i.imgur.com/opBXx1K.png" ,CNBC Arabia [AE]
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiOne.ae"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dubai_one_tv_logo_2023.png/revision/latest/scale-to-width-down/250?cb=20231208211417" ,Dubai One (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiOne.ae"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Dubai_one_tv_logo_2023.png/revision/latest/scale-to-width-down/250?cb=20231208211417" ,Dubai One (1080p)
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiTV.ae"  tvg-logo="https://i.imgur.com/UMmbyHv.png" ,Dubai TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiTV.ae"  tvg-logo="https://i.imgur.com/UMmbyHv.png" ,Dubai TV (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiRacing.ae"  tvg-logo="https://i.imgur.com/CJ1dagP.png" ,Dubai Racing (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiRacing.ae"  tvg-logo="https://i.imgur.com/CJ1dagP.png" ,Dubai Racing (1080p)
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiRacing2.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKNACYWhwbxXm8P8oGHEywR_VMWd12X8Trw&s" ,Dubai Racing 2 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiRacing2.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKNACYWhwbxXm8P8oGHEywR_VMWd12X8Trw&s" ,Dubai Racing 2 (1080p)
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiRacing3.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnnCl2YSEvlWnyWd9GttzpsmOUm_84yqhYw&s" ,Dubai Racing 3 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiRacing3.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnnCl2YSEvlWnyWd9GttzpsmOUm_84yqhYw&s" ,Dubai Racing 3 (1080p)
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiSports1.ae"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" ,Dubai Sports 1 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiSports1.ae"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" ,Dubai Sports 1 (1080p)
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiSports2.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG4Cz94XzTxdB4zGYUfxzxYYi-LRxqRcv6w&s" ,Dubai Sports 2 (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiSports2.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG4Cz94XzTxdB4zGYUfxzxYYi-LRxqRcv6w&s" ,Dubai Sports 2 (720p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiSports3.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCxKnfXKWtW9GVzDlq34hPhXGeNiSnSRqtg&s" ,Dubai Sports 3 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiSports3.ae"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCxKnfXKWtW9GVzDlq34hPhXGeNiSnSRqtg&s" ,Dubai Sports 3 (1080p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="DubaiZaman.ae"  tvg-logo="https://i.imgur.com/5Q5qMzP.png" ,Dubai Zaman (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="DubaiZaman.ae"  tvg-logo="https://i.imgur.com/5Q5qMzP.png" ,Dubai Zaman (1080p)
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="FujairahTV.ae"  tvg-logo="https://www.fujairahtv.ae/images/menu-logo.png" ,Fujairah TV (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="FujairahTV.ae"  tvg-logo="https://www.fujairahtv.ae/images/menu-logo.png" ,Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="Majid.ae"  tvg-logo="https://images.seeklogo.com/logo-png/51/2/majid-tv-logo-png_seeklogo-512338.png" ,Majid TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Majid.ae"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Majid_tv_2023.png/revision/latest/scale-to-width-down/300?cb=20231004113931" ,Majid TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="MBCIraq.ae"  tvg-logo="https://i.imgur.com/D0LxiPE.png" ,MBC Iraq (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://e7.pngegg.com/pngimages/215/378/png-clipart-mbc1-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A-mbc2-mbc-action-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-television-text.png" ,MBC
+https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://i.imgur.com/TTAGFHG.png" ,MBC Bollywood [1080p]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://w1.pngwing.com/pngs/858/409/png-transparent-tv-mbc-drama-mbc-plus-drama-television-mbc-3-mbc2-television-channel-streaming-media-mbc-max.png" ,MBC Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/MBC_Maser_Drama.png/revision/latest/scale-to-width-down/1200?cb=20250711110045" ,MBС+ Drama [720]
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index_4.m3u8http://
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBCIraq.ae"  tvg-logo="https://i.imgur.com/D0LxiPE.png" ,MBC Iraq (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="MBCPersia.ae"  tvg-logo="https://i.imgur.com/4FXiyjn.png" ,MBC Persia (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBCPersia.ae"  tvg-logo="https://i.imgur.com/4FXiyjn.png" ,MBC Persia (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="NoorDubai.ae"  tvg-logo="https://i.imgur.com/Nwl8Y7K.png" ,Noor Dubai (576p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://i.imgur.com/BcXASJp.png" ,MBC 4 [1080p]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="MBC5.ae"  tvg-logo="https://i.imgur.com/fRWaDyF.png" ,MBC 5 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="NoorDubai.ae"  tvg-logo="https://i.imgur.com/Nwl8Y7K.png" ,Noor Dubai (576p)
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="NourTV.ae"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" ,Nour TV (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="NourTV.ae"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" ,Nour TV (720p)
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-logo="https://alqurans.com/img/peace_tv_china.png" ,Peace TV Chinese (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://alqurans.com/img/peace_tv_china.png" ,Peace TV Chinese (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="SamaDubai.ae"  tvg-logo="https://i.imgur.com/F5g3ymW.png" ,Sama Dubai (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SamaDubai.ae"  tvg-logo="https://i.imgur.com/F5g3ymW.png" ,Sama Dubai (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="SharjahTV.ae"  tvg-logo="https://i.imgur.com/Oz2bPOt.png" ,Sharjah TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SharjahTV.ae"  tvg-logo="https://i.imgur.com/Oz2bPOt.png" ,Sharjah TV (1080p)
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="Sharjah2.ae"  tvg-logo="https://i.imgur.com/Wd3Xvd1.png" ,Sharjah 2 (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Sharjah2.ae"  tvg-logo="https://i.imgur.com/Wd3Xvd1.png" ,Sharjah 2 (1080p)
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="SharjahSports.ae"  tvg-logo="https://i.imgur.com/CsEElsJ.png" ,Sharjah Sports TV (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SharjahSports.ae"  tvg-logo="https://i.imgur.com/CsEElsJ.png" ,Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="SkyNewsArabia.ae"  tvg-logo="https://i.imgur.com/SvjU4h6.png" ,Sky News Arabia (1080p) [Not 24/7]
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SkyNewsArabia.ae"  tvg-logo="https://i.imgur.com/SvjU4h6.png" ,Sky News Arabia (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="SkyNewsArabiaVertical.ae"  tvg-logo="https://i.imgur.com/FjtzQQs.png" ,Sky News Arabia (Portrait) (1280p) [Not 24/7]
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="SkyNewsArabiaVertical.ae"  tvg-logo="https://i.imgur.com/FjtzQQs.png" ,Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="Wanasah.ae"  tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Spacetoon_logo_2020.png/revision/latest?cb=20230127005055" ,Spacetoon Arabic [720p]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="Wanasah.ae"  tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah (1080p)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="WeyyakAction.ae"  tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" ,Weyyak Action (1080p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="WeyyakAction.ae"  tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" ,Weyyak Action (1080p)
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="WeyyakDrama.ae"  tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" ,Weyyak Drama (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="WeyyakDrama.ae"  tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" ,Weyyak Drama (720p)
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="WeyyakMix.ae"  tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" ,Weyyak Mix (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="WeyyakMix.ae"  tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" ,Weyyak Mix (720p)
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1  group-title="الإِمَارات العربِيَّة المُتَّحِدة‎ 🇦🇪"  tvg-id="WeyyakNawaem.ae"  tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" ,Weyyak Nawaem (720p)
+#EXTINF:-1  group-title="الإمارات‎ 🇦🇪"  tvg-id="WeyyakNawaem.ae"  tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" ,Weyyak Nawaem (720p)
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="shalun" ,Шалун HD
 http://88.218.242.237:8000/play/a00h
