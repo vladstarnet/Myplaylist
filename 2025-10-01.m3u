@@ -5105,7 +5105,7 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="NDRFernsehenInternational.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" ,NDR Fernsehen International [DE] [720p]
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="KoreanCentralTelevision.kp"  tvg-logo="https://i.imgur.com/p02AEOF.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television (KCTV)
+#EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="KoreanCentralTelevision.kp"  tvg-logo="https://i.imgur.com/p02AEOF.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="TVArberia1.xk"  tvg-logo="https://i.imgur.com/zLRzyVS.png" ,TV Arbëria 1 [KOS]
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
@@ -5299,6 +5299,32 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/start-tv-az-hd/video.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/tmb-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="xazar-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/xazar-tv-az.png"   tvg-rec="1" catchup_days="7",Xazar TV [1080p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/xazar-tv-az-hd/video.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Nor Hayastan"  tvg-logo="https://cdn.epg.one/img2/2395.png" ,Նոր Հայաստան [1080p]
+http://45.11.139.43:8555/norhayastan/index.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Geghama TV"  tvg-logo="https://mytv.do.am/logo/geghama.png" ,Գեղամա TV
+http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://mytv.do.am/logo/artn.png"   id="AM: Artn TV",ARTN TV|+ru
+http://45.11.139.43:8555/artn/index.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://mytv.do.am/logo/artn.png" ,ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Mig TV"  tvg-logo="https://mytv.do.am/logo/mig-tv.png" ,Միգ TV
+http://45.11.139.43:8555/mig/index.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Armount TV"  tvg-logo="https://cdn.epg.one/img2/5941.png" ,Արմաունթ TV [1080p]
+https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: ATV Fitness"  tvg-logo="https://mytv.do.am/logo/fitnes.png" ,Ֆիթնես TV
+http://45.11.139.43:8555/fitnes/index.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" ,Շանթ
+http://5.188.172.179/Shant/index.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲" ,Amga|+ru [1080p]
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" ,USArmenia TV [1080p]
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" ,Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="freshtv"  tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" ,Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTINF:-1  group-title="Հայաստան 🇦🇲" ,Radio Van 103.0 FM Yerevan
+http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="RTVHB.ba"  tvg-logo="https://i.imgur.com/6FNL8Iv.png" ,RTV Herceg-Bosne (576p)
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="RTVZenica.ba"  tvg-logo="https://i.imgur.com/TKUaflB.png" ,RTV Zenica (720p)
@@ -7377,8 +7403,6 @@ https://video1.tizam.cc/old_films/Fatal-Orchid-2-RUS.mp4
 https://video1.tizam.cc/old_films/Luxurious2.mp4
 #EXTINF:-1  group-title="18+ 💓" ,18+ Роскошный 4
 https://video1.tizam.cc/old_films/Luxurious4.mp4
-#EXTINF:-1  group-title="18+ 💓" ,NOVXX
-https://novoe.top/nove_tv.m3u8.jpg?m3u8
 #EXTINF:-1  group-title="18+ 💓" ,tva-x1
 https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
 #EXTINF:-1  group-title="18+ 💓" ,tva-xx1
@@ -7421,444 +7445,6 @@ https://ovhv47.twincdn.com/videos/42/42335/42335_720p.mp4?key_iptv.org.ua
 https://ovhv47.twincdn.com/videos/42/42339/42339_720p.mp4?key_iptv.org.ua
 #EXTINF:-1  group-title="18+ 💓" ,tva-x20
 https://ovhv47.twincdn.com/videos/42/42346/42346_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 403
-https://ovh11.zorovids.click/shp3/401-600/403.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 404
-https://ovh11.zorovids.click/shp3/401-600/404.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 405
-https://ovh11.zorovids.click/shp3/401-600/405.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 406
-https://ovh11.zorovids.click/shp3/401-600/406.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 407
-https://ovh11.zorovids.click/shp3/401-600/407.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 408
-https://ovh11.zorovids.click/shp3/401-600/408.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 409
-https://ovh11.zorovids.click/shp3/401-600/409.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 601
-https://ovh11.zorovids.click/shp3/601-800/601.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 602
-https://ovh11.zorovids.click/shp3/601-800/602.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 603
-https://ovh11.zorovids.click/shp3/601-800/603.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 604
-https://ovh11.zorovids.click/shp3/601-800/604.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 605
-https://ovh11.zorovids.click/shp3/601-800/605.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 607
-https://ovh11.zorovids.click/shp3/601-800/607.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 608
-https://ovh11.zorovids.click/shp3/601-800/608.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 609
-https://ovh11.zorovids.click/shp3/601-800/609.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 610
-https://ovh11.zorovids.click/shp3/601-800/610.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 611
-https://ovh11.zorovids.click/shp3/601-800/611.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 612
-https://ovh11.zorovids.click/shp3/601-800/612.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 613
-https://ovh11.zorovids.click/shp3/601-800/613.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 614
-https://ovh11.zorovids.click/shp3/601-800/614.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 615
-https://ovh11.zorovids.click/shp3/601-800/615.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 616
-https://ovh11.zorovids.click/shp3/601-800/616.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 617
-https://ovh11.zorovids.click/shp3/601-800/617.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 618
-https://ovh11.zorovids.click/shp3/601-800/618.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 619
-https://ovh11.zorovids.click/shp3/601-800/619.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 620
-https://ovh11.zorovids.click/shp3/601-800/620.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 621
-https://ovh11.zorovids.click/shp3/601-800/621.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 622
-https://ovh11.zorovids.click/shp3/601-800/622.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 623
-https://ovh11.zorovids.click/shp3/601-800/623.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 624
-https://ovh11.zorovids.click/shp3/601-800/624.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 625
-https://ovh11.zorovids.click/shp3/601-800/625.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 626
-https://ovh11.zorovids.click/shp3/601-800/626.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 627
-https://ovh11.zorovids.click/shp3/601-800/627.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 628
-https://ovh11.zorovids.click/shp3/601-800/628.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 629
-https://ovh11.zorovids.click/shp3/601-800/629.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 630
-https://ovh11.zorovids.click/shp3/601-800/630.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 631
-https://ovh11.zorovids.click/shp3/601-800/631.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 632
-https://ovh11.zorovids.click/shp3/601-800/632.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 633
-https://ovh11.zorovids.click/shp3/601-800/633.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 634
-https://ovh11.zorovids.click/shp3/601-800/634.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 635
-https://ovh11.zorovids.click/shp3/601-800/635.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 636
-https://ovh11.zorovids.click/shp3/601-800/636.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 637
-https://ovh11.zorovids.click/shp3/601-800/637.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 638
-https://ovh11.zorovids.click/shp3/601-800/638.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 639
-https://ovh11.zorovids.click/shp3/601-800/639.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 640
-https://ovh11.zorovids.click/shp3/601-800/640.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 641
-https://ovh11.zorovids.click/shp3/601-800/641.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 642
-https://ovh11.zorovids.click/shp3/601-800/642.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 643
-https://ovh11.zorovids.click/shp3/601-800/643.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 644
-https://ovh11.zorovids.click/shp3/601-800/644.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 645
-https://ovh11.zorovids.click/shp3/601-800/645.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 646
-https://ovh11.zorovids.click/shp3/601-800/646.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 647
-https://ovh11.zorovids.click/shp3/601-800/647.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 648
-https://ovh11.zorovids.click/shp3/601-800/648.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 649
-https://ovh11.zorovids.click/shp3/601-800/649.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 650
-https://ovh11.zorovids.click/shp3/601-800/650.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 651
-https://ovh11.zorovids.click/shp3/601-800/651.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 652
-https://ovh11.zorovids.click/shp3/601-800/652.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 653
-https://ovh11.zorovids.click/shp3/601-800/653.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 654
-https://ovh11.zorovids.click/shp3/601-800/654.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 655
-https://ovh11.zorovids.click/shp3/601-800/655.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 656
-https://ovh11.zorovids.click/shp3/601-800/656.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 657
-https://ovh11.zorovids.click/shp3/601-800/657.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 658
-https://ovh11.zorovids.click/shp3/601-800/658.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 659
-https://ovh11.zorovids.click/shp3/601-800/659.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 660
-https://ovh11.zorovids.click/shp3/601-800/660.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 661
-https://ovh11.zorovids.click/shp3/601-800/661.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 662
-https://ovh11.zorovids.click/shp3/601-800/662.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 663
-https://ovh11.zorovids.click/shp3/601-800/663.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 664
-https://ovh11.zorovids.click/shp3/601-800/664.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 665
-https://ovh11.zorovids.click/shp3/601-800/665.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 666
-https://ovh11.zorovids.click/shp3/601-800/666.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 667
-https://ovh11.zorovids.click/shp3/601-800/667.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 668
-https://ovh11.zorovids.click/shp3/601-800/668.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 669
-https://ovh11.zorovids.click/shp3/601-800/669.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 670
-https://ovh11.zorovids.click/shp3/601-800/670.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 671
-https://ovh11.zorovids.click/shp3/601-800/671.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 672
-https://ovh11.zorovids.click/shp3/601-800/672.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 673
-https://ovh11.zorovids.click/shp3/601-800/673.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 674
-https://ovh11.zorovids.click/shp3/601-800/674.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 675
-https://ovh11.zorovids.click/shp3/601-800/675.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 676
-https://ovh11.zorovids.click/shp3/601-800/676.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 677
-https://ovh11.zorovids.click/shp3/601-800/677.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 678
-https://ovh11.zorovids.click/shp3/601-800/678.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 679
-https://ovh11.zorovids.click/shp3/601-800/679.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 680
-https://ovh11.zorovids.click/shp3/601-800/680.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 681
-https://ovh11.zorovids.click/shp3/601-800/681.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 682
-https://ovh11.zorovids.click/shp3/601-800/682.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 683
-https://ovh11.zorovids.click/shp3/601-800/683.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 684
-https://ovh11.zorovids.click/shp3/601-800/684.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 685
-https://ovh11.zorovids.click/shp3/601-800/685.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 686
-https://ovh11.zorovids.click/shp3/601-800/686.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 687
-https://ovh11.zorovids.click/shp3/601-800/687.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 688
-https://ovh11.zorovids.click/shp3/601-800/688.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 689
-https://ovh11.zorovids.click/shp3/601-800/689.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 690
-https://ovh11.zorovids.click/shp3/601-800/690.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 691
-https://ovh11.zorovids.click/shp3/601-800/691.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 692
-https://ovh11.zorovids.click/shp3/601-800/692.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 693
-https://ovh11.zorovids.click/shp3/601-800/693.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 694
-https://ovh11.zorovids.click/shp3/601-800/694.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 695
-https://ovh11.zorovids.click/shp3/601-800/695.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 696
-https://ovh11.zorovids.click/shp3/601-800/696.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 697
-https://ovh11.zorovids.click/shp3/601-800/697.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 698
-https://ovh11.zorovids.click/shp3/601-800/698.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 699
-https://ovh11.zorovids.click/shp3/601-800/699.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 700
-https://ovh11.zorovids.click/shp3/601-800/700.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 701
-https://ovh11.zorovids.click/shp3/601-800/701.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 702
-https://ovh11.zorovids.click/shp3/601-800/702.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 703
-https://ovh11.zorovids.click/shp3/601-800/703.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 704
-https://ovh11.zorovids.click/shp3/601-800/704.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 705
-https://ovh11.zorovids.click/shp3/601-800/705.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 706
-https://ovh11.zorovids.click/shp3/601-800/706.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 707
-https://ovh11.zorovids.click/shp3/601-800/707.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 708
-https://ovh11.zorovids.click/shp3/601-800/708.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 709
-https://ovh11.zorovids.click/shp3/601-800/709.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 710
-https://ovh11.zorovids.click/shp3/601-800/710.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 711
-https://ovh11.zorovids.click/shp3/601-800/711.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 712
-https://ovh11.zorovids.click/shp3/601-800/712.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 713
-https://ovh11.zorovids.click/shp3/601-800/713.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 714
-https://ovh11.zorovids.click/shp3/601-800/714.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 715
-https://ovh11.zorovids.click/shp3/601-800/715.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 716
-https://ovh11.zorovids.click/shp3/601-800/716.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 717
-https://ovh11.zorovids.click/shp3/601-800/717.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 718
-https://ovh11.zorovids.click/shp3/601-800/718.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 719
-https://ovh11.zorovids.click/shp3/601-800/719.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 720
-https://ovh11.zorovids.click/shp3/601-800/720.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 721
-https://ovh11.zorovids.click/shp3/601-800/721.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 722
-https://ovh11.zorovids.click/shp3/601-800/722.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 723
-https://ovh11.zorovids.click/shp3/601-800/723.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 724
-https://ovh11.zorovids.click/shp3/601-800/724.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 725
-https://ovh11.zorovids.click/shp3/601-800/725.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 726
-https://ovh11.zorovids.click/shp3/601-800/726.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 727
-https://ovh11.zorovids.click/shp3/601-800/727.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 728
-https://ovh11.zorovids.click/shp3/601-800/728.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 729
-https://ovh11.zorovids.click/shp3/601-800/729.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 730
-https://ovh11.zorovids.click/shp3/601-800/730.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 731
-https://ovh11.zorovids.click/shp3/601-800/731.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 732
-https://ovh11.zorovids.click/shp3/601-800/732.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 733
-https://ovh11.zorovids.click/shp3/601-800/733.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 734
-https://ovh11.zorovids.click/shp3/601-800/734.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 735
-https://ovh11.zorovids.click/shp3/601-800/735.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 736
-https://ovh11.zorovids.click/shp3/601-800/736.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 737
-https://ovh11.zorovids.click/shp3/601-800/737.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 738
-https://ovh11.zorovids.click/shp3/601-800/738.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 739
-https://ovh11.zorovids.click/shp3/601-800/739.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 740
-https://ovh11.zorovids.click/shp3/601-800/740.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 741
-https://ovh11.zorovids.click/shp3/601-800/741.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 742
-https://ovh11.zorovids.click/shp3/601-800/742.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 743
-https://ovh11.zorovids.click/shp3/601-800/743.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 744
-https://ovh11.zorovids.click/shp3/601-800/744.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 745
-https://ovh11.zorovids.click/shp3/601-800/745.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 746
-https://ovh11.zorovids.click/shp3/601-800/746.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 747
-https://ovh11.zorovids.click/shp3/601-800/747.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 748
-https://ovh11.zorovids.click/shp3/601-800/748.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 749
-https://ovh11.zorovids.click/shp3/601-800/749.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 750
-https://ovh11.zorovids.click/shp3/601-800/750.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 751
-https://ovh11.zorovids.click/shp3/601-800/751.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 752
-https://ovh11.zorovids.click/shp3/601-800/752.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 753
-https://ovh11.zorovids.click/shp3/601-800/753.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 754
-https://ovh11.zorovids.click/shp3/601-800/754.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 755
-https://ovh11.zorovids.click/shp3/601-800/755.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 756
-https://ovh11.zorovids.click/shp3/601-800/756.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 757
-https://ovh11.zorovids.click/shp3/601-800/757.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 758
-https://ovh11.zorovids.click/shp3/601-800/758.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 759
-https://ovh11.zorovids.click/shp3/601-800/759.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 760
-https://ovh11.zorovids.click/shp3/601-800/760.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 761
-https://ovh11.zorovids.click/shp3/601-800/761.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 762
-https://ovh11.zorovids.click/shp3/601-800/762.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 763
-https://ovh11.zorovids.click/shp3/601-800/763.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 764
-https://ovh11.zorovids.click/shp3/601-800/764.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 765
-https://ovh11.zorovids.click/shp3/601-800/765.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 766
-https://ovh11.zorovids.click/shp3/601-800/766.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 767
-https://ovh11.zorovids.click/shp3/601-800/767.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 768
-https://ovh11.zorovids.click/shp3/601-800/768.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 769
-https://ovh11.zorovids.click/shp3/601-800/769.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 770
-https://ovh11.zorovids.click/shp3/601-800/770.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 771
-https://ovh11.zorovids.click/shp3/601-800/771.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 772
-https://ovh11.zorovids.click/shp3/601-800/772.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 773
-https://ovh11.zorovids.click/shp3/601-800/773.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 774
-https://ovh11.zorovids.click/shp3/601-800/774.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 775
-https://ovh11.zorovids.click/shp3/601-800/775.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 776
-https://ovh11.zorovids.click/shp3/601-800/776.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 777
-https://ovh11.zorovids.click/shp3/601-800/777.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 778
-https://ovh11.zorovids.click/shp3/601-800/778.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 779
-https://ovh11.zorovids.click/shp3/601-800/779.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 780
-https://ovh11.zorovids.click/shp3/601-800/780.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 781
-https://ovh11.zorovids.click/shp3/601-800/781.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 782
-https://ovh11.zorovids.click/shp3/601-800/782.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 783
-https://ovh11.zorovids.click/shp3/601-800/783.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 784
-https://ovh11.zorovids.click/shp3/601-800/784.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 785
-https://ovh11.zorovids.click/shp3/601-800/785.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 786
-https://ovh11.zorovids.click/shp3/601-800/786.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 787
-https://ovh11.zorovids.click/shp3/601-800/787.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 788
-https://ovh11.zorovids.click/shp3/601-800/788.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 789
-https://ovh11.zorovids.click/shp3/601-800/789.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 790
-https://ovh11.zorovids.click/shp3/601-800/790.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 791
-https://ovh11.zorovids.click/shp3/601-800/791.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 792
-https://ovh11.zorovids.click/shp3/601-800/792.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 793
-https://ovh11.zorovids.click/shp3/601-800/793.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 794
-https://ovh11.zorovids.click/shp3/601-800/794.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 795
-https://ovh11.zorovids.click/shp3/601-800/795.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 796
-https://ovh11.zorovids.click/shp3/601-800/796.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 797
-https://ovh11.zorovids.click/shp3/601-800/797.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 798
-https://ovh11.zorovids.click/shp3/601-800/798.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 799
-https://ovh11.zorovids.click/shp3/601-800/799.mp4
-#EXTINF:-1  group-title="18+ 💓" ,VIDEO GIRL +18 800
-https://ovh11.zorovids.click/shp3/601-800/800.mp4
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-id="AM: Nor Hayastan"  tvg-logo="https://cdn.epg.one/img2/2395.png" ,Նոր Հայաստան
-http://45.11.139.43:8555/norhayastan/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-id="AM: Geghama TV"  tvg-logo="https://mytv.do.am/logo/geghama.png" ,Գեղամա TV
-http://45.11.139.43:8555/geghama/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-logo="https://mytv.do.am/logo/artn.png"   id="AM: Artn TV",ARTN TV|+ru
-http://45.11.139.43:8555/artn/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-id="AM: Mig TV"  tvg-logo="https://mytv.do.am/logo/mig-tv.png" ,Միգ TV
-http://45.11.139.43:8555/mig/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-id="AM: Armount TV"  tvg-logo="https://cdn.epg.one/img2/5941.png" ,Արմաունթ TV
-https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-id="AM: ATV Fitness"  tvg-logo="https://mytv.do.am/logo/fitnes.png" ,Ֆիթնես TV
-http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" ,Շանթ
-http://5.188.172.179/Shant/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲" ,Amga|+ru
-https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲" ,Radio Van 103.0 FM Yerevan
-http://stream.radiovan.fm/stream/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" ,USArmenia TV
-http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" ,Luys
-http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png" ,ARTN TV
-https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1  group-title="Армения 🇦🇲"  tvg-id="freshtv"  tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" ,Fresh TV
-https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 #EXTINF:-1  group-title="Латвия 🇱🇻" ,TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1  group-title="Латвия 🇱🇻"  tvg-logo="https://i.imgur.com/r4rlHUt.png" ,Tvnet 
