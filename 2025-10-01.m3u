@@ -4993,27 +4993,29 @@ http://stream.skaz.tv/stream/ch3045/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3046/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="ch3047"  tvg-logo="http://s.skaz.tv/tvicon/3047.png"   tvg-name="TR: Tabii Spor 5 HD" catchup="fs" tvg-rec="3" timeshift="0", TR: Tabii Spor 5 HD
 http://stream.skaz.tv/stream/ch3047/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="ETV.ee"  tvg-logo="https://i.imgur.com/5URjPgG.png" ,ETV [EST] (720p)
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="ETV.ee"  tvg-logo="https://i.imgur.com/5URjPgG.png" ,ETV [EST] (720p)
 https://sb.err.ee/live/etv.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="TVN.ee"  tvg-logo="https://i.imgur.com/t8nUMAO.png" ,TVN [EST] (1080p)
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="TVN.ee"  tvg-logo="https://i.imgur.com/t8nUMAO.png" ,TVN [EST] (1080p)
 https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="ETVPlus.ee"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" ,ETV+ [EST] (720p)
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="ETVPlus.ee"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" ,ETV+ [EST] (720p)
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="ETV2.ee"  tvg-logo="https://i.imgur.com/fUjGHDa.png" ,ETV2 [EST] (720p)
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="ETV2.ee"  tvg-logo="https://i.imgur.com/fUjGHDa.png" ,ETV2 [EST] (720p)
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="LifeTV.ee"  tvg-logo="https://i.imgur.com/JhrTB82.png" ,Life TV [EST] (432p)
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="LifeTV.ee"  tvg-logo="https://i.imgur.com/JhrTB82.png" ,Life TV [EST] (432p)
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="TaevasTV7.fi"  tvg-logo="https://i.imgur.com/usXedIj.png" ,Taevas TV7 [EST] (1080p)
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="TaevasTV7.fi"  tvg-logo="https://i.imgur.com/usXedIj.png" ,Taevas TV7 [EST] (1080p)
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="TBNBaltia.ee"  tvg-logo="https://i.imgur.com/rKBaK56.png" ,TBN Baltia [EST] (1080p)
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="TBNBaltia.ee"  tvg-logo="https://i.imgur.com/rKBaK56.png" ,TBN Baltia [EST] (1080p)
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="ReTV.lv"  tvg-logo="https://i.imgur.com/Z3cre5Xm.png" ,Re TV [LV] [1080p]
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="ReTV.lv"  tvg-logo="https://i.imgur.com/Z3cre5Xm.png" ,Re TV [LV] [1080p]
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="TVJurmala.lv"  tvg-logo="https://i.imgur.com/tQHkHD0.png" ,TV Jūrmala [LV] [1080p]
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="TVJurmala.lv"  tvg-logo="https://i.imgur.com/tQHkHD0.png" ,TV Jūrmala [LV] [1080p]
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="VidusdaugavasTelevizija.lv"  tvg-logo="https://i.imgur.com/L5U3PQR.png" ,Vidusdaugavas Televīzija [LV]
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-logo="https://i.imgur.com/r4rlHUt.png" ,Tvnet [LV]
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="VidusdaugavasTelevizija.lv"  tvg-logo="https://i.imgur.com/L5U3PQR.png" ,Vidusdaugavas Televīzija [LV]
 https://straume.vdtv.lv/vdtv2/index.m3u8
-#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻"  tvg-id="LRTLituanica.lt"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/512px-LRT_Lituanica_Logo_2022.svg.png" ,LRT Lituanica [LT]
+#EXTINF:-1  group-title="Baltic 🇪🇪🇱🇻🇱🇹"  tvg-id="LRTLituanica.lt"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/512px-LRT_Lituanica_Logo_2022.svg.png" ,LRT Lituanica [LT]
 https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇮🇳🇮🇷🇸🇮"  tvg-id="abc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/bf31f8c4a1c5302b1acab110f0913069.png" ,ABC News [720p]
 http://bethoven.af-stream.com:1600/s/yokrgdit/abc-us-hd/video.m3u8
@@ -5303,27 +5305,27 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/xazar-tv-az-hd/video.m3u8
 http://45.11.139.43:8555/norhayastan/index.m3u8
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Geghama TV"  tvg-logo="https://mytv.do.am/logo/geghama.png" ,Գեղամա TV
 http://45.11.139.43:8555/geghama/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://mytv.do.am/logo/artn.png"   id="AM: Artn TV",ARTN TV|+ru
+#EXTINF:-1  group-title="Հայաստան 🇦🇲" ,Amga|+ru [1080p]
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="artn-am"  tvg-logo="https://mytv.do.am/logo/artn.png"   id="AM: Artn TV",ARTN TV|+ru
 http://45.11.139.43:8555/artn/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://mytv.do.am/logo/artn.png" ,ARTN TV
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="artn-am"  tvg-logo="https://mytv.do.am/logo/artn.png" ,ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Mig TV"  tvg-logo="https://mytv.do.am/logo/mig-tv.png" ,Միգ TV
 http://45.11.139.43:8555/mig/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Armount TV"  tvg-logo="https://cdn.epg.one/img2/5941.png" ,Արմաունթ TV [1080p]
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="armenia-tv"  tvg-logo="https://cdn.epg.one/img2/5941.png" ,Արմաունթ TV [1080p]
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: ATV Fitness"  tvg-logo="https://mytv.do.am/logo/fitnes.png" ,Ֆիթնես TV
 http://45.11.139.43:8555/fitnes/index.m3u8
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" ,Շանթ
 http://5.188.172.179/Shant/index.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲" ,Amga|+ru [1080p]
-https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="freshtv"  tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" ,Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" ,USArmenia TV [1080p]
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" ,Luys
 http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="freshtv"  tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" ,Fresh TV
-https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
-#EXTINF:-1  group-title="Հայաստան 🇦🇲" ,Radio Van 103.0 FM Yerevan
+#EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-van.jpg" ,Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1  group-title="Босна и Херцеговина 🇧🇦"  tvg-id="RTVHB.ba"  tvg-logo="https://i.imgur.com/6FNL8Iv.png" ,RTV Herceg-Bosne (576p)
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
@@ -5353,6 +5355,92 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-id="TV1.bg"  tvg-logo="https://i.imgur.com/YLDp5u3.png" ,TV 1 (720p)
 https://tv1.cloudcdn.bg:8081/stream.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,BNT 1 HD BG
+http://84.54.128.52:9090/play/13002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,bTV Lady
+http://84.54.128.52:9090/play/1007/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,BNT 1
+http://84.54.128.52:9090/play/1001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,BNT 2
+http://84.54.128.52:9090/play/8001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,BNT 3 HD SPORT
+http://84.54.128.52:9090/play/13001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Baby TV/EN/DE/
+http://84.54.128.52:9090/play/3001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,RING BG
+http://84.54.128.52:9090/play/4001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport BG
+http://84.54.128.52:9090/play/4003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="tlc-blk" ,TLC BG
+http://84.54.128.52:9090/play/7003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 BG
+http://84.54.128.52:9090/play/4004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Nickelodeon BG/EN
+http://84.54.128.52:9090/play/3004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Diema BG
+http://84.54.128.52:9090/play/2005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery ID Xtra BG/EN
+http://84.54.128.52:9090/play/7005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Nick Jr BG/EN
+http://84.54.128.52:9090/play/3005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Disney Channel BG/EN
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Kino NOVA  BG/EN
+http://84.54.128.52:9090/play/2006/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Diema Family BG/EN
+http://84.54.128.52:9090/play/2007/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery BG
+http://84.54.128.52:9090/play/7001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Travel Channel BG/EN
+http://84.54.128.52:9090/play/7007/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,AXN Black BG
+http://84.54.128.52:9090/play/1008/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,EKids
+http://84.54.128.52:9090/play/3008/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Nat Geo Wild BG/EN
+http://84.54.128.52:9090/play/6008/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,AXN BG
+http://84.54.128.52:9090/play/2001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life BG
+http://84.54.128.52:9090/play/2002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime BG
+http://84.54.128.52:9090/play/2003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Duck TV EN
+http://84.54.128.52:9090/play/3002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="euronews-en" ,Euronews EN
+http://84.54.128.52:9090/play/9004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Bulgaria On Air
+http://84.54.128.52:9090/play/9005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport HD BG
+http://84.54.128.52:9090/play/15003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery HD BG/EN
+http://84.54.128.52:9090/play/17003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 HD BG/EN
+http://84.54.128.52:9090/play/15004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel BG/EN
+http://84.54.128.52:9090/play/2004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel HD BG/EN
+http://84.54.128.52:9090/play/14001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime HD BG
+http://84.54.128.52:9090/play/14002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life HD BG/EN
+http://84.54.128.52:9090/play/14003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,NOVA BG/EN
+http://84.54.128.52:9090/play/1003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,RING BG HD
+http://84.54.128.52:9090/play/15001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Romani_Qk
+http://84.54.128.52:9090/play/a013/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,bTV Action BG
+http://84.54.128.52:9090/play/1004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,bTV Action HD BG
+http://84.54.128.52:9090/play/13004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,bTV Cinema BG
+http://84.54.128.52:9090/play/1006/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,bTV Comedy BG
+http://84.54.128.52:9090/play/1005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,bTV HD BG
+http://84.54.128.52:9090/play/13003/index.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="ANT1Cyprus.cy"  tvg-logo="https://i.imgur.com/2KAObBt.png" ,ANT1 Cyprus [CY] [1080p]
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="RIKSat.cy"  tvg-logo="https://i.imgur.com/BIKwFhD.png" ,RΙΚ Sat [CY] [720p]
@@ -5899,6 +5987,8 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/12239/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-98-il.png"   tvg-rec="3",Channel 98 IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2369/index.m3u8
+#EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Al-Hayat_Media_Center_Logo_%28variant_2%29.svg/829px-Al-Hayat_Media_Center_Logo_%28variant_2%29.svg.png" ,Alhayat TV [720p]
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png"   tvg-rec="3",FOX News IL
 http://zlcihvqc.rostelekom.xyz/iptv/PU8W85XAVQ55ZG/2335/index.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="HalaTV.il"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FWCEya47xfWUrYhAe6NYIulOVjfYDioXHhBHfD9jj3MCU87E9ja7C44yr5h69FT8zFQ&usqp=CAU" ,Hala TV
@@ -6983,8 +7073,12 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="GrandCinema.tr"  tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" ,Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://www.finest.tv/themes/default/assets/images/logo2017.png" ,Finest TV
+http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" ,Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ftv_logo.svg/314px-Ftv_logo.svg.png" ,FTV Türk
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://i.imgur.com/ZbUSlOC.png" ,Fortuna TV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" ,FX (1080p) 
@@ -7043,6 +7137,8 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="MaviKaradenizTV.tr"  tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" ,MaviKaradeniz (1080p)
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/c/ca/20210921131744%21MC_TV_logosu.png" ,MC EU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="MeltemTV.tr"  tvg-logo="https://i.imgur.com/C3m6w5S.png" ,Meltem TV (1080p)
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://mekameleen.tv/upload/oldmekameleen-1202942792.png" ,Mekameleen TV (1080p)
@@ -7445,124 +7541,4 @@ https://ovhv47.twincdn.com/videos/42/42335/42335_720p.mp4?key_iptv.org.ua
 https://ovhv47.twincdn.com/videos/42/42339/42339_720p.mp4?key_iptv.org.ua
 #EXTINF:-1  group-title="18+ 💓" ,tva-x20
 https://ovhv47.twincdn.com/videos/42/42346/42346_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="Латвия 🇱🇻" ,TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1  group-title="Латвия 🇱🇻"  tvg-logo="https://i.imgur.com/r4rlHUt.png" ,Tvnet 
-https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,BNT 1
-http://84.54.128.52:9090/play/1001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,BNT 3 HD SPORT
-http://84.54.128.52:9090/play/13001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Baby TV/EN/DE/
-http://84.54.128.52:9090/play/3001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,RING BG
-http://84.54.128.52:9090/play/4001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Eurosport BG
-http://84.54.128.52:9090/play/4003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬"  tvg-id="tlc-blk" ,TLC BG
-http://84.54.128.52:9090/play/7003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Eurosport 2 BG
-http://84.54.128.52:9090/play/4004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Nickelodeon BG/EN
-http://84.54.128.52:9090/play/3004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Diema BG
-http://84.54.128.52:9090/play/2005/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Discovery ID Xtra BG/EN
-http://84.54.128.52:9090/play/7005/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Nick Jr BG/EN
-http://84.54.128.52:9090/play/3005/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Disney Channel BG/EN
-http://84.54.128.52:9090/play/3006/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Kino NOVA  BG/EN
-http://84.54.128.52:9090/play/2006/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Diema Family BG/EN
-http://84.54.128.52:9090/play/2007/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Discovery BG
-http://84.54.128.52:9090/play/7001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,National Geographic BG/EN
-http://84.54.128.52:9090/play/6007/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Travel Channel BG/EN
-http://84.54.128.52:9090/play/7007/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,24 Kitchen BG
-http://84.54.128.52:9090/play/2008/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,AXN Black BG
-http://84.54.128.52:9090/play/1008/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,EKids
-http://84.54.128.52:9090/play/3008/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Nat Geo Wild BG/EN
-http://84.54.128.52:9090/play/6008/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,AXN White BG
-http://84.54.128.52:9090/play/1009/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Animal Planet RU/BG/EN
-http://84.54.128.52:9090/play/6009/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,AXN BG
-http://84.54.128.52:9090/play/2001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,STAR Life BG
-http://84.54.128.52:9090/play/2002/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,STAR Crime BG
-http://84.54.128.52:9090/play/2003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Duck TV EN
-http://84.54.128.52:9090/play/3002/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,BNT 2
-http://84.54.128.52:9090/play/8001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬"  tvg-id="euronews-en" ,Euronews EN
-http://84.54.128.52:9090/play/9004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Bulgaria On Air
-http://84.54.128.52:9090/play/9005/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Eurosport HD BG
-http://84.54.128.52:9090/play/15003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,National Geo HD BG/EN
-http://84.54.128.52:9090/play/17001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Nat Geo Wild HD BG/EN
-http://84.54.128.52:9090/play/17002/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,24 Kitchen HD BG/EN
-http://84.54.128.52:9090/play/14004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,BNT 1 HD BG
-http://84.54.128.52:9090/play/13002/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Discovery HD BG/EN
-http://84.54.128.52:9090/play/17003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Eurosport 2 HD BG/EN
-http://84.54.128.52:9090/play/15004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,STAR Channel BG/EN
-http://84.54.128.52:9090/play/2004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,STAR Channel HD BG/EN
-http://84.54.128.52:9090/play/14001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,STAR Crime HD BG
-http://84.54.128.52:9090/play/14002/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,STAR Life HD BG/EN
-http://84.54.128.52:9090/play/14003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,NOVA BG/EN
-http://84.54.128.52:9090/play/1003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,RING BG HD
-http://84.54.128.52:9090/play/15001/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,Romani_Qk
-http://84.54.128.52:9090/play/a013/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,World_Fashion_TV
-http://84.54.128.52:9090/play/a00a/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,bTV BG
-http://84.54.128.52:9090/play/1002/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,bTV Action BG
-http://84.54.128.52:9090/play/1004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,bTV Action HD BG
-http://84.54.128.52:9090/play/13004/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,bTV Cinema BG
-http://84.54.128.52:9090/play/1006/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,bTV Comedy BG
-http://84.54.128.52:9090/play/1005/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,bTV HD BG
-http://84.54.128.52:9090/play/13003/index.m3u8
-#EXTINF:-1  group-title="Болгария 🇧🇬" ,bTV Lady
-http://84.54.128.52:9090/play/1007/index.m3u8
-#EXTINF:-1  group-title="Израиль 🇮🇱" ,Alhayat TV
-https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
-#EXTINF:-1  group-title="Израиль 🇮🇱" ,Kabbalah for the People (Israel)
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1  group-title="Израиль 🇮🇱" ,Ran TV Israel 
-https://streaminglive.co.il:3730/live/raniamranilive.m3u8
-#EXTINF:-1  group-title="Турция 🇹🇷" ,Finest TV
-http://media.finest.tv/hls/live.m3u8
-#EXTINF:-1  group-title="Турция 🇹🇷" ,FTV Türk
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1  group-title="Турция 🇹🇷" ,MC EU TV
-https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXT-X-ENDLIST
