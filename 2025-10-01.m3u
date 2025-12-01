@@ -5339,7 +5339,7 @@ https://restr2.bgtv.bg/agro/hls/agro.m3u8
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-id="HopeChannelBulgaria.bg"  tvg-logo="https://i.imgur.com/bxzeEML.png" ,Hope Channel Bulgaria [720p]
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="Kanal0.bg"  tvg-logo="https://i.imgur.com/mycxET5.jpg" ,Kanal 0 [720p]
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="Kanal0.bg"  tvg-logo="https://i.imgur.com/mycxET5.jpg" ,Канал 0 [720p]
 https://old2.rn-tv.com/k0/stream.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-id="LightChannel.bg"  tvg-logo="https://i.imgur.com/S3Fbf8T.png" ,Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
@@ -5353,91 +5353,93 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-id="TV1.bg"  tvg-logo="https://i.imgur.com/YLDp5u3.png" ,TV 1 (720p)
 https://tv1.cloudcdn.bg:8081/stream.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/51/2/bnt-1-logo-png_seeklogo-512091.png" ,БНТ 1 HD BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_of_BNT_1_%282018-%29.svg/1280px-Logo_of_BNT_1_%282018-%29.svg.png" ,БНТ 1 HD BG
 http://84.54.128.52:9090/play/13002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/51/2/bnt-1-logo-png_seeklogo-512091.png" ,БНТ 1
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_of_BNT_1_%282018-%29.svg/1280px-Logo_of_BNT_1_%282018-%29.svg.png" ,БНТ 1
 http://84.54.128.52:9090/play/1001/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/5/5d/Bnt2_%281%29.png/revision/latest/scale-to-width-down/400?cb=20220717152929&path-prefix=bg" ,БНТ 2
 http://84.54.128.52:9090/play/8001/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b6/2021-01-16_12-15-34.png/revision/latest/scale-to-width-down/250?cb=20210116114121&path-prefix=ru" ,БНТ 3 HD SPORT
 http://84.54.128.52:9090/play/13001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,bTV HD BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/1200px-BTV_Bulgaria_logo.svg.png" ,bTV HD BG
 http://84.54.128.52:9090/play/13003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/1200px-BTV_Bulgaria_logo.svg.png" ,bTV BG
+http://84.54.128.52:9090/play/1002/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/2560px-BTV_Action_Bulgaria_logo.svg.png" ,bTV Action HD BG
 http://84.54.128.52:9090/play/13004/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/2560px-BTV_Action_Bulgaria_logo.svg.png" ,bTV Action BG
 http://84.54.128.52:9090/play/1004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,bTV Cinema BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/BTV_Cinema_Bulgaria_logo.svg/2560px-BTV_Cinema_Bulgaria_logo.svg.png" ,bTV Cinema BG
 http://84.54.128.52:9090/play/1006/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,bTV Comedy BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BTV_Comedy_Bulgaria_logo.svg/2560px-BTV_Comedy_Bulgaria_logo.svg.png" ,bTV Comedy BG
 http://84.54.128.52:9090/play/1005/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Crop-logo-btv-story.svg/1280px-Crop-logo-btv-story.svg.png" ,bTV Story
 http://84.54.128.52:9090/play/1007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,AXN BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/300?cb=20201126064846" ,AXN BG
 http://84.54.128.52:9090/play/2001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,AXN Black BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2560px-AXN_Black_logo_%282015%29.svg.png" ,AXN Black BG
 http://84.54.128.52:9090/play/1008/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Bulgaria On Air
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/49/2/bulgaria-on-air-tv-logo-png_seeklogo-493698.png" ,Bulgaria On Air
 http://84.54.128.52:9090/play/9005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Diema BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Diema_Bulgaria_logo.svg/1200px-Diema_Bulgaria_logo.svg.png" ,Diema BG
 http://84.54.128.52:9090/play/2005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Diema Family BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Diema_Family_Bulgaria_logo.svg/2048px-Diema_Family_Bulgaria_logo.svg.png" ,Diema Family BG/EN
 http://84.54.128.52:9090/play/2007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery HD BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/26/2/discovery-channel-logo-png_seeklogo-268048.png" ,Discovery HD BG/EN
 http://84.54.128.52:9090/play/17003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/26/2/discovery-channel-logo-png_seeklogo-268048.png" ,Discovery BG
 http://84.54.128.52:9090/play/7001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery ID Xtra BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" ,Discovery ID Xtra BG/EN
 http://84.54.128.52:9090/play/7005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="euronews-en" ,Euronews EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="euronews-en"  tvg-logo="https://euronews.bg/wp-content/uploads/2024/10/logo-small.png" ,Euronews EN
 http://84.54.128.52:9090/play/9004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Kino NOVA  BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/KinoNova.png/revision/latest?cb=20200504225457" ,Kino NOVA  BG/EN
 http://84.54.128.52:9090/play/2006/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,NOVA BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/955px-NOVA_logo.svg.png" ,NOVA BG/EN
 http://84.54.128.52:9090/play/1003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Nat Geo Wild BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" ,Nat Geo Wild BG/EN
 http://84.54.128.52:9090/play/6008/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime HD BG
-http://84.54.128.52:9090/play/14002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime BG
-http://84.54.128.52:9090/play/2003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel HD BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg?1763641256" ,STAR Channel HD BG/EN
 http://84.54.128.52:9090/play/14001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg?1763641256" ,STAR Channel BG/EN
 http://84.54.128.52:9090/play/2004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life HD BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://www.dnes.bg/media/files/images/original/tvchannels/starcrime.png" ,STAR Crime HD BG
+http://84.54.128.52:9090/play/14002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://www.dnes.bg/media/files/images/original/tvchannels/starcrime.png" ,STAR Crime BG
+http://84.54.128.52:9090/play/2003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfpxe5b-d986eed9-4037-4b49-b5dd-6e74fc417113.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83NTE5Yjk2Yy03MWY4LTQwNDAtODJkNC1jODBlMTgzODRmMWIvZGZweGU1Yi1kOTg2ZWVkOS00MDM3LTRiNDktYjVkZC02ZTc0ZmM0MTcxMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0OZBxuRA2gyip-AlTr-SRTSvF3lGTnKRSf3PhIMHXYI" ,STAR Life HD BG/EN
 http://84.54.128.52:9090/play/14003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg?1763641256" ,STAR Life BG
 http://84.54.128.52:9090/play/2002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="tlc-blk" ,TLC BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="tlc-blk"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" ,TLC BG
 http://84.54.128.52:9090/play/7003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Travel Channel BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" ,Travel Channel BG/EN
 http://84.54.128.52:9090/play/7007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Romani_Qk
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO97BIVLI8FSa10cerpASLJBH2MgzgpIg1iw&s" ,РОМАНИ ЯК
 http://84.54.128.52:9090/play/a013/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport HD BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_HD_since_2015.svg/2560px-Eurosport_HD_since_2015.svg.png" ,Eurosport HD BG
 http://84.54.128.52:9090/play/15003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_HD_since_2015.svg/2560px-Eurosport_HD_since_2015.svg.png" ,Eurosport BG
 http://84.54.128.52:9090/play/4003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 HD BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eurosport_2_HD_Logo_2015.svg/2560px-Eurosport_2_HD_Logo_2015.svg.png" ,Eurosport 2 HD BG/EN
 http://84.54.128.52:9090/play/15004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eurosport_2_HD_Logo_2015.svg/2560px-Eurosport_2_HD_Logo_2015.svg.png" ,Eurosport 2 BG
 http://84.54.128.52:9090/play/4004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,RING BG HD
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://www.varnalan.com/wp-content/uploads/2017/05/ringhd.png" ,RING BG HD
 http://84.54.128.52:9090/play/15001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,RING BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/RING_Bulgaria_logo.svg/1200px-RING_Bulgaria_logo.svg.png" ,RING BG
 http://84.54.128.52:9090/play/4001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Baby TV/EN/DE/
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/NewBabyTVLogo.png/revision/latest/scale-to-width-down/300?cb=20251109165906" ,Baby TV/EN/DE/
 http://84.54.128.52:9090/play/3001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Disney Channel BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" ,Disney Channel BG/EN
 http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬" ,Duck TV EN
 http://84.54.128.52:9090/play/3002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,EKids
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/E-Kids_logo_2024.svg/640px-E-Kids_logo_2024.svg.png" ,EKids
 http://84.54.128.52:9090/play/3008/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Nickelodeon BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nickelodeon_2023_logo.png/1008px-Nickelodeon_2023_logo.png" ,Nickelodeon BG/EN
 http://84.54.128.52:9090/play/3004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Nick Jr BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1447px-Nick_Jr._logo_2023_%28outline%29.svg.png" ,Nick Jr BG/EN
 http://84.54.128.52:9090/play/3005/index.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="ANT1Cyprus.cy"  tvg-logo="https://i.imgur.com/2KAObBt.png" ,ANT1 Cyprus [CY] [1080p]
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
