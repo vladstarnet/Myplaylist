@@ -5385,9 +5385,9 @@ http://84.54.128.52:9090/play/9005/index.m3u8
 http://84.54.128.52:9090/play/2005/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Diema_Family_Bulgaria_logo.svg/2048px-Diema_Family_Bulgaria_logo.svg.png" ,Diema Family BG/EN
 http://84.54.128.52:9090/play/2007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery HD BG/EN
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1200px-2019_Discovery_logo.svg.png" ,Discovery HD BG/EN
 http://84.54.128.52:9090/play/17003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1200px-2019_Discovery_logo.svg.png" ,Discovery BG
 http://84.54.128.52:9090/play/7001/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" ,Discovery ID Xtra BG/EN
 http://84.54.128.52:9090/play/7005/index.m3u8
