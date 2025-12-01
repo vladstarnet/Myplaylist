@@ -5379,15 +5379,15 @@ http://84.54.128.52:9090/play/1007/index.m3u8
 http://84.54.128.52:9090/play/2001/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2560px-AXN_Black_logo_%282015%29.svg.png" ,AXN Black BG
 http://84.54.128.52:9090/play/1008/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/49/2/bulgaria-on-air-tv-logo-png_seeklogo-493698.png" ,Bulgaria On Air
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNO7E1MRaGJH8gH8k_91YHGzA_v6gwwiqRPg&s" ,Bulgaria On Air
 http://84.54.128.52:9090/play/9005/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Diema_Bulgaria_logo.svg/1200px-Diema_Bulgaria_logo.svg.png" ,Diema BG
 http://84.54.128.52:9090/play/2005/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Diema_Family_Bulgaria_logo.svg/2048px-Diema_Family_Bulgaria_logo.svg.png" ,Diema Family BG/EN
 http://84.54.128.52:9090/play/2007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/26/2/discovery-channel-logo-png_seeklogo-268048.png" ,Discovery HD BG/EN
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery HD BG/EN
 http://84.54.128.52:9090/play/17003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/26/2/discovery-channel-logo-png_seeklogo-268048.png" ,Discovery BG
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery BG
 http://84.54.128.52:9090/play/7001/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" ,Discovery ID Xtra BG/EN
 http://84.54.128.52:9090/play/7005/index.m3u8
