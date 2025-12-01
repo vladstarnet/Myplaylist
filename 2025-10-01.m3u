@@ -3317,8 +3317,6 @@ http://stream.skaz.tv/stream/ch1440/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2311/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" ,Cozy Vibes 4K
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://epg.iptvx.one/picons/kamin.png" ,Fireplace 4K
-https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="Home 4K"  tvg-logo="https://epg.iptvx.one/picons/home4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Home 4K
 http://stream.skaz.tv/stream/ch551/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="love-nature-4k"   tvg-rec="1" catchup-type="auto" catchup_days="3",Love Nature 4K
@@ -3327,9 +3325,11 @@ http://stream.skaz.tv/stream/ch654/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch665/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="Quadro 4K"  tvg-logo="https://i.imgur.com/P4c53HA.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Quadro 4K
 http://stream.skaz.tv/stream/ch1041/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" ,Релакс
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig" ,WORLD [1080p]
+http://185.57.68.33/232/index.m3u8
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" ,WORLD [1080p]
 http://185.57.68.33/232/mpegts
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd" ,Камин
+#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" ,Камин
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5B906B36-29CB-441B-ADCD-921E22A67BDD/3-1x1.png/200?webp=1" ,Drone TV [1080p]
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
@@ -3355,8 +3355,6 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://i.imgur.com/tHopHL9.png" ,Beach TV [Pawleys Island] [720p]
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig" ,WORLD [1080p]
-http://185.57.68.33/232/index.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" ,Avia Stream [1080p]
 http://iptv.prosto.tv:7000/ch306/video.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" ,Аквариум [1080p]
@@ -5355,92 +5353,92 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
 #EXTINF:-1  group-title="България 🇧🇬"  tvg-id="TV1.bg"  tvg-logo="https://i.imgur.com/YLDp5u3.png" ,TV 1 (720p)
 https://tv1.cloudcdn.bg:8081/stream.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,BNT 1 HD BG
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/51/2/bnt-1-logo-png_seeklogo-512091.png" ,БНТ 1 HD BG
 http://84.54.128.52:9090/play/13002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,bTV Lady
-http://84.54.128.52:9090/play/1007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,BNT 1
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://images.seeklogo.com/logo-png/51/2/bnt-1-logo-png_seeklogo-512091.png" ,БНТ 1
 http://84.54.128.52:9090/play/1001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,BNT 2
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/5/5d/Bnt2_%281%29.png/revision/latest/scale-to-width-down/400?cb=20220717152929&path-prefix=bg" ,БНТ 2
 http://84.54.128.52:9090/play/8001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,BNT 3 HD SPORT
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b6/2021-01-16_12-15-34.png/revision/latest/scale-to-width-down/250?cb=20210116114121&path-prefix=ru" ,БНТ 3 HD SPORT
 http://84.54.128.52:9090/play/13001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Baby TV/EN/DE/
-http://84.54.128.52:9090/play/3001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,RING BG
-http://84.54.128.52:9090/play/4001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport BG
-http://84.54.128.52:9090/play/4003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="tlc-blk" ,TLC BG
-http://84.54.128.52:9090/play/7003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 BG
-http://84.54.128.52:9090/play/4004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Nickelodeon BG/EN
-http://84.54.128.52:9090/play/3004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Diema BG
-http://84.54.128.52:9090/play/2005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery ID Xtra BG/EN
-http://84.54.128.52:9090/play/7005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Nick Jr BG/EN
-http://84.54.128.52:9090/play/3005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Disney Channel BG/EN
-http://84.54.128.52:9090/play/3006/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Kino NOVA  BG/EN
-http://84.54.128.52:9090/play/2006/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Diema Family BG/EN
-http://84.54.128.52:9090/play/2007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery BG
-http://84.54.128.52:9090/play/7001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Travel Channel BG/EN
-http://84.54.128.52:9090/play/7007/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,AXN Black BG
-http://84.54.128.52:9090/play/1008/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,EKids
-http://84.54.128.52:9090/play/3008/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Nat Geo Wild BG/EN
-http://84.54.128.52:9090/play/6008/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,AXN BG
-http://84.54.128.52:9090/play/2001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life BG
-http://84.54.128.52:9090/play/2002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime BG
-http://84.54.128.52:9090/play/2003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Duck TV EN
-http://84.54.128.52:9090/play/3002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="euronews-en" ,Euronews EN
-http://84.54.128.52:9090/play/9004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Bulgaria On Air
-http://84.54.128.52:9090/play/9005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport HD BG
-http://84.54.128.52:9090/play/15003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Discovery HD BG/EN
-http://84.54.128.52:9090/play/17003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 HD BG/EN
-http://84.54.128.52:9090/play/15004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel BG/EN
-http://84.54.128.52:9090/play/2004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel HD BG/EN
-http://84.54.128.52:9090/play/14001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime HD BG
-http://84.54.128.52:9090/play/14002/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life HD BG/EN
-http://84.54.128.52:9090/play/14003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,NOVA BG/EN
-http://84.54.128.52:9090/play/1003/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,RING BG HD
-http://84.54.128.52:9090/play/15001/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,Romani_Qk
-http://84.54.128.52:9090/play/a013/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,bTV Action BG
-http://84.54.128.52:9090/play/1004/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,bTV Action HD BG
+#EXTINF:-1  group-title="България 🇧🇬" ,bTV HD BG
+http://84.54.128.52:9090/play/13003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/2560px-BTV_Action_Bulgaria_logo.svg.png" ,bTV Action HD BG
 http://84.54.128.52:9090/play/13004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BTV_Action_Bulgaria_logo.svg/2560px-BTV_Action_Bulgaria_logo.svg.png" ,bTV Action BG
+http://84.54.128.52:9090/play/1004/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬" ,bTV Cinema BG
 http://84.54.128.52:9090/play/1006/index.m3u8
 #EXTINF:-1  group-title="България 🇧🇬" ,bTV Comedy BG
 http://84.54.128.52:9090/play/1005/index.m3u8
-#EXTINF:-1  group-title="България 🇧🇬" ,bTV HD BG
-http://84.54.128.52:9090/play/13003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Crop-logo-btv-story.svg/1280px-Crop-logo-btv-story.svg.png" ,bTV Story
+http://84.54.128.52:9090/play/1007/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,AXN BG
+http://84.54.128.52:9090/play/2001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,AXN Black BG
+http://84.54.128.52:9090/play/1008/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Bulgaria On Air
+http://84.54.128.52:9090/play/9005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Diema BG
+http://84.54.128.52:9090/play/2005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Diema Family BG/EN
+http://84.54.128.52:9090/play/2007/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery HD BG/EN
+http://84.54.128.52:9090/play/17003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery BG
+http://84.54.128.52:9090/play/7001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Discovery ID Xtra BG/EN
+http://84.54.128.52:9090/play/7005/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="euronews-en" ,Euronews EN
+http://84.54.128.52:9090/play/9004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Kino NOVA  BG/EN
+http://84.54.128.52:9090/play/2006/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,NOVA BG/EN
+http://84.54.128.52:9090/play/1003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Nat Geo Wild BG/EN
+http://84.54.128.52:9090/play/6008/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime HD BG
+http://84.54.128.52:9090/play/14002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Crime BG
+http://84.54.128.52:9090/play/2003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel HD BG/EN
+http://84.54.128.52:9090/play/14001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Channel BG/EN
+http://84.54.128.52:9090/play/2004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life HD BG/EN
+http://84.54.128.52:9090/play/14003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,STAR Life BG
+http://84.54.128.52:9090/play/2002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬"  tvg-id="tlc-blk" ,TLC BG
+http://84.54.128.52:9090/play/7003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Travel Channel BG/EN
+http://84.54.128.52:9090/play/7007/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Romani_Qk
+http://84.54.128.52:9090/play/a013/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport HD BG
+http://84.54.128.52:9090/play/15003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport BG
+http://84.54.128.52:9090/play/4003/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 HD BG/EN
+http://84.54.128.52:9090/play/15004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Eurosport 2 BG
+http://84.54.128.52:9090/play/4004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,RING BG HD
+http://84.54.128.52:9090/play/15001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,RING BG
+http://84.54.128.52:9090/play/4001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Baby TV/EN/DE/
+http://84.54.128.52:9090/play/3001/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Disney Channel BG/EN
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Duck TV EN
+http://84.54.128.52:9090/play/3002/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,EKids
+http://84.54.128.52:9090/play/3008/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Nickelodeon BG/EN
+http://84.54.128.52:9090/play/3004/index.m3u8
+#EXTINF:-1  group-title="България 🇧🇬" ,Nick Jr BG/EN
+http://84.54.128.52:9090/play/3005/index.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="ANT1Cyprus.cy"  tvg-logo="https://i.imgur.com/2KAObBt.png" ,ANT1 Cyprus [CY] [1080p]
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1  group-title="Cyprus/Kıbrıs 🇨🇾"  tvg-id="RIKSat.cy"  tvg-logo="https://i.imgur.com/BIKwFhD.png" ,RΙΚ Sat [CY] [720p]
