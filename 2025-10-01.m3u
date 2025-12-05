@@ -1177,6 +1177,8 @@ http://stream.skaz.tv/stream/ch3744/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3745/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3740"  tvg-logo="http://skaz.tv/tvicon/3740.png"   tvg-name="TVPlay Мифы и Легенды HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Мифы и Легенды HD
 http://stream.skaz.tv/stream/ch3740/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3816"  tvg-logo="http://skaz.tv/tvicon/3816.png"   tvg-name="TVPlay Михаил Галустян HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Михаил Галустян HD
+http://stream.skaz.tv/stream/ch3816/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3780"  tvg-logo="http://skaz.tv/tvicon/3780.png"   tvg-name="TVPlay Моя Прекрасная Няня HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Моя Прекрасная Няня HD
 http://stream.skaz.tv/stream/ch3780/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3749"  tvg-logo="http://skaz.tv/tvicon/3749.png"   tvg-name="TVPlay Новинки Мир HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Новинки Мир HD
@@ -1201,8 +1203,6 @@ http://stream.skaz.tv/stream/ch3751/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3782/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3783"  tvg-logo="http://skaz.tv/tvicon/3783.png"   tvg-name="TVPlay Фильмы Г Данелии HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Фильмы Г Данелии HD
 http://stream.skaz.tv/stream/ch3783/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3816"  tvg-logo="http://skaz.tv/tvicon/3816.png"   tvg-name="TVPlay Михаил Галустян HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Михаил Галустян HD
-http://stream.skaz.tv/stream/ch3816/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3752"  tvg-logo="http://skaz.tv/tvicon/3752.png"   tvg-name="TVPlay Фантастика HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Фантастика HD
 http://stream.skaz.tv/stream/ch3752/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3817"  tvg-logo="http://skaz.tv/tvicon/3817.png"   tvg-name="TVPlay Фильмы А Балабанова HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Фильмы А Балабанова HD
@@ -2455,6 +2455,8 @@ https://myradio24.org/tisradio_video.m3u8
 https://myradio24.org/tisradio_video.m3u8?secret=FILM_TV_GROUP?token=ZmlsbXR2Z3JvdXB8fE1USXdOVEU1T0RKSGNrRm0=
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Music Hits+"  tvg-logo="http://skaz.tv/tvicon/2334.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Music Hits+ [GE]
 http://stream.skaz.tv/stream/ch2334/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Xmas Hits+"  tvg-logo="http://skaz.tv/tvicon/2333.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Xmas Hits+  [GE] [1080p]
+http://stream.skaz.tv/stream/ch2333/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/13/MTV_Xmas_UK_%282021%29.png/revision/latest?cb=20211108141748&path-prefix=ru" ,MTV Xmas
 http://ckfdagk.megakomo.xyz/8457027811/8672671710/191719
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MTV"  tvg-logo="http://s.skaz.tv/tvicon/30.png"   catchup="fs" tvg-rec="3" timeshift="0",MTV
@@ -2591,8 +2593,6 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/classic-music/video.m3u8
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Mezzo Live HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/mezzo-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Mezzo Live [1080p]
 http://stream.skaz.tv/stream/ch130/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Xmas Hits+"  tvg-logo="http://skaz.tv/tvicon/2333.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Xmas Hits+ [1080p]
-http://stream.skaz.tv/stream/ch2333/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Wanasah.ae"  tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah [AE] [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/yj8RNnG.png" ,AMC [AF]
