@@ -529,6 +529,10 @@ http://stream.skaz.tv/stream/ch2063/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch511/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Catastrophe HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-catastrophe.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Catastrophe HD
 http://stream.skaz.tv/stream/ch770/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch790"  tvg-logo="https://epg.iptvx.one/picons/bcu-kinozakaz.png" ,BCU Christmas HD
+http://stream.skaz.tv/stream/ch790/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch590"  tvg-logo="https://epg.iptvx.one/picons/bcu-kinozakaz.png" ,BCU Christmas HD OLD
+http://stream.skaz.tv/stream/ch590/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Cinema HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Cinema HD
 http://stream.skaz.tv/stream/ch771/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Cinema+ HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Cinema+ HD
@@ -627,6 +631,8 @@ http://stream.skaz.tv/stream/ch2925/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1074/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Комедия"  tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Комедия
 http://stream.skaz.tv/stream/ch1037/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2925"  tvg-logo="https://epg.iptvx.one/picons/cineman-komseri.png" ,CineMan Комедийные сериалы
+http://stream.skaz.tv/stream/ch2925/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Криминальные Сериалы"  tvg-logo="https://epg.iptvx.one/picons/cineman-gluhar.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Криминальные Сериалы
 http://stream.skaz.tv/stream/ch2748/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Лесник"  tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Лесник
@@ -1057,6 +1063,8 @@ http://stream.skaz.tv/stream/ch1964/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch1962/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-firezone-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Sky High Firezone HD
 http://stream.skaz.tv/stream/ch1969/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch1986"  tvg-logo="https://epg.iptvx.one/picons/sky-high-future-fhd.png" ,Sky High Future HD
+http://stream.skaz.tv/stream/ch1986/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-gunrush-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-gunrush-fhd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Sky High Gunrush HD
 http://stream.skaz.tv/stream/ch1973/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-heart-s-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-heart-s-fhd.png"   tvg-name="Sky High Heart S HD" catchup="fs" tvg-rec="3" timeshift="3",Sky High Heart S HD
@@ -1099,6 +1107,106 @@ http://stream.skaz.tv/stream/ch1072/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch777/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-zippy-s-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png"   tvg-name="Sky High Zippy S HD" catchup="fs" tvg-rec="3" timeshift="3",Sky High Zippy S HD
 http://stream.skaz.tv/stream/ch3718/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3433"  tvg-logo="http://skaz.tv/tvicon/3433.png"   tvg-name="TEAM NewMovie HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM NewMovie HD
+http://stream.skaz.tv/stream/ch3433/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3747"  tvg-logo="http://skaz.tv/tvicon/3747.png"   tvg-name="TVPlay Следствие Ведут HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Следствие Ведут HD
+http://stream.skaz.tv/stream/ch3747/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3434"  tvg-logo="http://skaz.tv/tvicon/3434.png"   tvg-name="TEAM RuKino HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM RuKino HD
+http://stream.skaz.tv/stream/ch3434/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3446"  tvg-logo="http://skaz.tv/tvicon/3446.png"   tvg-name="TEAM WSeries HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM WSeries HD
+http://stream.skaz.tv/stream/ch3446/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3445"  tvg-logo="http://skaz.tv/tvicon/3445.png"   tvg-name="TEAM RuSerial HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM RuSerial HD
+http://stream.skaz.tv/stream/ch3445/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3447"  tvg-logo="http://skaz.tv/tvicon/3447.png"   tvg-name="TEAM TRSeries HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM TRSeries HD
+http://stream.skaz.tv/stream/ch3447/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3701"  tvg-logo="http://skaz.tv/tvicon/3701.png"   tvg-name="TEAM Agatha HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Agatha HD
+http://stream.skaz.tv/stream/ch3701/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3702"  tvg-logo="http://skaz.tv/tvicon/3702.png"   tvg-name="TEAM Spaceopera HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Spaceopera HD
+http://stream.skaz.tv/stream/ch3702/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3703"  tvg-logo="http://skaz.tv/tvicon/3703.png"   tvg-name="TEAM StarTrek HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM StarTrek HD
+http://stream.skaz.tv/stream/ch3703/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3704"  tvg-logo="http://skaz.tv/tvicon/3704.png"   tvg-name="TEAM StarWars HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM StarWars HD
+http://stream.skaz.tv/stream/ch3704/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2154"  tvg-logo="http://skaz.tv/tvicon/2154.png"   tvg-name="TEAM Bollywood HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Bollywood HD
+http://stream.skaz.tv/stream/ch2154/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3835"  tvg-logo="http://skaz.tv/tvicon/3835.png"   tvg-name="TEAM Darkverse HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Darkverse HD
+http://stream.skaz.tv/stream/ch3835/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3842"  tvg-logo="http://skaz.tv/tvicon/3842.png"   tvg-name="TEAM Neujahr HD" catchup="fs" tvg-rec="3" timeshift="2", TEAM Neujahr HD
+http://stream.skaz.tv/stream/ch3842/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3840"  tvg-logo="http://skaz.tv/tvicon/3840.png"   tvg-name="TEAM New Year HD" catchup="fs" tvg-rec="3" timeshift="2", TEAM New Year HD
+http://stream.skaz.tv/stream/ch3840/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3738"  tvg-logo="http://skaz.tv/tvicon/3738.png"   tvg-name="TVPlay VHS HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay VHS HD
+http://stream.skaz.tv/stream/ch3738/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3739"  tvg-logo="http://skaz.tv/tvicon/3739.png"   tvg-name="TVPlay Индийское Кино HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Индийское Кино HD
+http://stream.skaz.tv/stream/ch3739/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3740"  tvg-logo="http://skaz.tv/tvicon/3740.png"   tvg-name="TVPlay Мифы и Легенды HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Мифы и Легенды HD
+http://stream.skaz.tv/stream/ch3740/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3741"  tvg-logo="http://skaz.tv/tvicon/3741.png"   tvg-name="TVPlay Anime HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Anime HD
+http://stream.skaz.tv/stream/ch3741/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3742"  tvg-logo="http://skaz.tv/tvicon/3742.png"   tvg-name="TVPlay Великая Отечественная HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Великая Отечественная HD
+http://stream.skaz.tv/stream/ch3742/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3743"  tvg-logo="http://skaz.tv/tvicon/3743.png"   tvg-name="TVPlay Детское Кино HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Детское Кино HD
+http://stream.skaz.tv/stream/ch3743/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3744"  tvg-logo="http://skaz.tv/tvicon/3744.png"   tvg-name="TVPlay Лихие 90е Кино HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Лихие 90е Кино HD
+http://stream.skaz.tv/stream/ch3744/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3745"  tvg-logo="http://skaz.tv/tvicon/3745.png"   tvg-name="TVPlay Лихие 90е Сериал HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Лихие 90е Сериал HD
+http://stream.skaz.tv/stream/ch3745/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3746"  tvg-logo="http://skaz.tv/tvicon/3746.png"   tvg-name="TVPlay Новинки RUS HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Новинки RUS HD
+http://stream.skaz.tv/stream/ch3746/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3749"  tvg-logo="http://skaz.tv/tvicon/3749.png"   tvg-name="TVPlay Новинки Мир HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Новинки Мир HD
+http://stream.skaz.tv/stream/ch3749/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3781"  tvg-logo="http://skaz.tv/tvicon/3781.png"   tvg-name="TVPlay Папины Дочки HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Папины Дочки HD
+http://stream.skaz.tv/stream/ch3781/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3750"  tvg-logo="http://skaz.tv/tvicon/3750.png"   tvg-name="TVPlay Советское Кино HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Советское Кино HD
+http://stream.skaz.tv/stream/ch3750/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3751"  tvg-logo="http://skaz.tv/tvicon/3751.png"   tvg-name="TVPlay Ужасы HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Ужасы HD
+http://stream.skaz.tv/stream/ch3751/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3752"  tvg-logo="http://skaz.tv/tvicon/3752.png"   tvg-name="TVPlay Фантастика HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Фантастика HD
+http://stream.skaz.tv/stream/ch3752/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3753"  tvg-logo="http://skaz.tv/tvicon/3753.png"   tvg-name="TVPlay Русская Фантастика  HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Русская Фантастика  HD
+http://stream.skaz.tv/stream/ch3753/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3754"  tvg-logo="http://skaz.tv/tvicon/3754.png"   tvg-name="TVPlay DC Comics HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay DC Comics HD
+http://stream.skaz.tv/stream/ch3754/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3758"  tvg-logo="http://skaz.tv/tvicon/3758.png"   tvg-name="TVPlay Marvel HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Marvel HD
+http://stream.skaz.tv/stream/ch3758/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3761"  tvg-logo="http://skaz.tv/tvicon/3761.png"   tvg-name="TVPlay Биографии HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Биографии HD
+http://stream.skaz.tv/stream/ch3761/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3763"  tvg-logo="http://skaz.tv/tvicon/3763.png"   tvg-name="TVPlay Баффи HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Баффи HD
+http://stream.skaz.tv/stream/ch3763/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3764"  tvg-logo="http://skaz.tv/tvicon/3764.png"   tvg-name="TVPlay Латинские Cериалы HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Латинские Cериалы HD
+http://stream.skaz.tv/stream/ch3764/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3765"  tvg-logo="http://skaz.tv/tvicon/3765.png"   tvg-name="TVPlay Пародии HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Пародии HD
+http://stream.skaz.tv/stream/ch3765/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3766"  tvg-logo="http://skaz.tv/tvicon/3766.png"   tvg-name="TVPlay Психо HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Психо HD
+http://stream.skaz.tv/stream/ch3766/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3768"  tvg-logo="http://skaz.tv/tvicon/3768.png"   tvg-name="TVPlay Игра Престолов HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Игра Престолов HD
+http://stream.skaz.tv/stream/ch3768/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3771"  tvg-logo="http://skaz.tv/tvicon/3771.png"   tvg-name="TVPlay Космический HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Космический HD
+http://stream.skaz.tv/stream/ch3771/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3773"  tvg-logo="http://skaz.tv/tvicon/3773.png"   tvg-name="TVPlay Гарри Поттер HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Гарри Поттер HD
+http://stream.skaz.tv/stream/ch3773/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3776"  tvg-logo="http://skaz.tv/tvicon/3776.png"   tvg-name="TVPlay Друзья HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Друзья HD
+http://stream.skaz.tv/stream/ch3776/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3777"  tvg-logo="http://skaz.tv/tvicon/3777.png"   tvg-name="TVPlay Зачарованные HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Зачарованные HD
+http://stream.skaz.tv/stream/ch3777/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3774"  tvg-logo="http://skaz.tv/tvicon/3774.png" ,TVPlay Истории Средиземья HD
+http://stream.skaz.tv/stream/ch3774/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3818"  tvg-logo="http://skaz.tv/tvicon/3818.png"   tvg-name="TVPlay Дмитрий Нагиев HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Дмитрий Нагиев HD
+http://stream.skaz.tv/stream/ch3818/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3780"  tvg-logo="http://skaz.tv/tvicon/3780.png"   tvg-name="TVPlay Моя Прекрасная Няня HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Моя Прекрасная Няня HD
+http://stream.skaz.tv/stream/ch3780/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3782"  tvg-logo="http://skaz.tv/tvicon/3782.png"   tvg-name="TVPlay Фильмы Л Гайдая HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Фильмы Л Гайдая HD
+http://stream.skaz.tv/stream/ch3782/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3783"  tvg-logo="http://skaz.tv/tvicon/3783.png"   tvg-name="TVPlay Фильмы Г Данелии HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Фильмы Г Данелии HD
+http://stream.skaz.tv/stream/ch3783/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3784"  tvg-logo="http://skaz.tv/tvicon/3784.png"   tvg-name="TVPlay Зомби HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Зомби HD
+http://stream.skaz.tv/stream/ch3784/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3786"  tvg-logo="http://skaz.tv/tvicon/3786.png"   tvg-name="TVPlay Высоцкий HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Высоцкий HD
+http://stream.skaz.tv/stream/ch3786/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3816"  tvg-logo="http://skaz.tv/tvicon/3816.png"   tvg-name="TVPlay Михаил Галустян HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Михаил Галустян HD
+http://stream.skaz.tv/stream/ch3816/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3817"  tvg-logo="http://skaz.tv/tvicon/3817.png"   tvg-name="TVPlay Фильмы А Балабанова HD" catchup="fs" tvg-rec="3" timeshift="3", TVPlay Фильмы А Балабанова HD
+http://stream.skaz.tv/stream/ch3817/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Movie Hits"  tvg-logo="https://epg.iptvx.one/picons/veles-mh.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Movie Hits
 http://stream.skaz.tv/stream/ch2598/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Premiere"  tvg-logo="https://epg.iptvx.one/picons/veles-prem.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Premiere
@@ -1119,7 +1227,7 @@ http://stream.skaz.tv/stream/ch2314/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2696/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Наше Кино"  tvg-logo="https://epg.iptvx.one/picons/veles-nashek.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Наше Кино
 http://stream.skaz.tv/stream/ch2802/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Veles Новогодний"  tvg-logo="http://s.skaz.tv/tvicon/3078.png"   catchup="fs" tvg-rec="3" timeshift="3",Veles С Новым Годом!
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Veles Новогодний"  tvg-logo="https://epg.iptvx.one/picons/veles-ny.png"   catchup="fs" tvg-rec="3" timeshift="3",Veles С Новым Годом!
 http://stream.skaz.tv/stream/ch3078/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="VeleS Семейный"  tvg-logo="https://epg.iptvx.one/picons/veles-semej.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",VeleS Семейный
 http://stream.skaz.tv/stream/ch2800/fde215a0/mono.m3u8
@@ -1131,6 +1239,8 @@ http://stream.skaz.tv/stream/ch2596/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2799/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Action War Films HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-actionwar.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Action War Films HD
 http://stream.skaz.tv/stream/ch3136/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3824"  tvg-logo="https://epg.iptvx.one/picons/velilla-bpiter.png" ,Velilla TV Бандитский Петербург
+http://stream.skaz.tv/stream/ch3824/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV Домашний HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-domashny.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV Домашний HD
 http://stream.skaz.tv/stream/ch3138/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Velilla TV ИП Пирогова HD"  tvg-logo="https://epg.iptvx.one/picons/velilla-pirog.png"   catchup="fs" tvg-rec="3" timeshift="3",Velilla TV ИП Пирогова HD
@@ -1281,7 +1391,7 @@ http://bethoven.af-stream.com:1600/s/yokrgdit/ctc-hd/video.m3u8
 http://stream.skaz.tv/stream/ch021/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="СТС love"  tvg-logo="https://epg.iptvx.one/picons/sts-love.png"   catchup="fs" tvg-rec="3" timeshift="3",СТС love
 http://stream.skaz.tv/stream/ch111/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="sts-love"  tvg-logo="https://epg.iptvx.one/picons/sts-love.png"   tvg-rec="7" catchup-days="7",СТС Love
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="sts-love"  tvg-logo="https://epg.iptvx.one/picons/sts-love.png"   tvg-rec="7" catchup-days="7",СТС love
 http://bethoven.af-stream.com:1600/s/yokrgdit/sts-love/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Пятница! HD"  tvg-logo="http://skaz.tv/tvicon/25.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Пятница! HD
 http://stream.skaz.tv/stream/ch025/fde215a0/mono.m3u8
@@ -1427,6 +1537,8 @@ http://stream.skaz.tv/stream/ch522/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch327/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="365 дней ТВ"  tvg-logo="https://epg.iptvx.one/picons/365-dnej.png"   catchup="fs" tvg-rec="3" timeshift="2", 365 дней ТВ
 http://stream.skaz.tv/stream/ch443/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="bolshoj-efir"  tvg-logo="https://epg.iptvx.one/picons/bolshoj-efir.png" ,Большой эфир HD
+http://stream.skaz.tv/stream/ch3830/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="БОБЁР"  tvg-logo="https://epg.iptvx.one/picons/bobior.png"   catchup="fs" tvg-rec="3" timeshift="0",БОБЁР
 http://stream.skaz.tv/stream/ch075/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Здоровое ТВ"  tvg-logo="https://epg.iptvx.one/picons/zdorovoe-tv.png"   catchup="fs" tvg-rec="3" timeshift="0",Здоровое ТВ
@@ -1435,8 +1547,6 @@ http://stream.skaz.tv/stream/ch539/fde215a0/mono.m3u8
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="zhivaya-planeta"  tvg-logo="https://i.imgur.com/onNv1tM.png" ,Живая Планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Живая Планета"  tvg-logo="https://epg.iptvx.one/picons/zhivaya-planeta.png"   catchup="fs" tvg-rec="3" timeshift="0",Живая Планета
-http://stream.skaz.tv/stream/ch453/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Доктор"  tvg-logo="https://epg.iptvx.one/picons/doktor.png"   catchup="fs" tvg-rec="3" timeshift="0",Доктор
 http://stream.skaz.tv/stream/ch440/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Лапки LIVE HD"  tvg-logo="https://epg.iptvx.one/picons/lapki-live.png"   catchup="fs" tvg-rec="3" timeshift="3",Лапки LIVE HD
@@ -1445,6 +1555,8 @@ http://stream.skaz.tv/stream/ch3302/fde215a0/mono.m3u8
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="История"  tvg-logo="https://i.imgur.com/eEjPail.png"   catchup="fs" tvg-rec="3" timeshift="2",История
 http://stream.skaz.tv/stream/ch442/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="kaleydoskop-tv"  tvg-logo="https://epg.iptvx.one/picons/kaleydoskop.png" ,Калейдоскоп TV
+http://stream.skaz.tv/stream/ch3829/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Телекафе"  tvg-logo="https://epg.iptvx.one/picons/telekafe.png"   catchup="fs" tvg-rec="3" timeshift="0",Телекафе
 http://stream.skaz.tv/stream/ch630/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="poexali"  tvg-logo="https://i.imgur.com/ZNCpbII.png" ,Поехали!
@@ -1461,14 +1573,20 @@ https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tancuj"  tvg-logo="https://epg.iptvx.one/picons/tancuj.png" ,Танцуй [RU]
 http://stream.skaz.tv/stream/ch588/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="teatr"  tvg-logo="https://i.imgur.com/nc2ijCH.png" ,Театр HD
+http://stream.skaz.tv/stream/ch3333/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="teatr"  tvg-logo="https://i.imgur.com/nc2ijCH.png" ,Театр
 http://31.148.48.15/Sochi_HD/index.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tonus-tv"  tvg-logo="https://epg.iptvx.one/picons/tonus-tv.png" ,Тонус
+http://stream.skaz.tv/stream/ch3814/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Усадьба"  tvg-logo="https://epg.iptvx.one/picons/usadba.png"   catchup="fs" tvg-rec="3" timeshift="0",Усадьба
 http://stream.skaz.tv/stream/ch504/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Успех"  tvg-logo="https://epg.iptvx.one/picons/uspex.png"   catchup="fs" tvg-rec="3" timeshift="0", Успех
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Успех"  tvg-logo="https://epg.iptvx.one/picons/uspex.png"   catchup="fs" tvg-rec="3" timeshift="0",Успех
 http://stream.skaz.tv/stream/ch628/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="univer-tv"  tvg-logo="https://epg.iptvx.one/picons/univer-tv.png" ,UNIVER [1080p]
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ch3831"  tvg-logo="https://af-play.com/storage/images/channel_logos/988d91c7197840f2ff4dcbd4dbf85c99.png" ,Центральное Tелевидение HD
+http://stream.skaz.tv/stream/ch3831/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="centralnoe-tv"  tvg-logo="https://af-play.com/storage/images/channel_logos/988d91c7197840f2ff4dcbd4dbf85c99.png" ,Центральное телевидение
 http://bethoven.af-stream.com:1600/s/yokrgdit/centralnoe-tv/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="spas"  tvg-logo="https://i.imgur.com/yY39nMg.png"   catchup="fs" tvg-rec="3" timeshift="2",Спас
@@ -3523,16 +3641,20 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-sam
 http://stream.skaz.tv/stream/ch533/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="В мире животных HD"  tvg-logo="https://epg.iptvx.one/picons/v-mire-zhivotnyx.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",В мире животных HD
 http://stream.skaz.tv/stream/ch141/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Диалоги о рыбалке"  tvg-logo="https://epg.iptvx.one/picons/dialogi-o-rybalke.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Диалоги о рыбалке
+#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Диалоги о рыбалке"  tvg-logo="https://epg.iptvx.one/picons/dialogi-o-rybalke.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Диалоги о рыбалке HD
 http://stream.skaz.tv/stream/ch067/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Дикая Охота HD"  tvg-logo="https://epg.iptvx.one/picons/dikaya-oxota-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Дикая Охота HD
 http://stream.skaz.tv/stream/ch449/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Дикая Рыбалка HD"  tvg-logo="https://epg.iptvx.one/picons/dikaya-rybalka-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Дикая Рыбалка HD
 http://stream.skaz.tv/stream/ch450/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch069"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/63/Dikiy_1.svg/revision/latest?cb=20240813175839&path-prefix=ru" ,Дикий
+http://stream.skaz.tv/stream/ch069/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Дикий"  tvg-logo="https://epg.iptvx.one/picons/dikiy.png"   catchup="fs" tvg-rec="3" timeshift="0", Дикий Охота и Рыбалка
 http://stream.skaz.tv/stream/ch069/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Домашние животные"  tvg-logo="https://epg.iptvx.one/picons/domashnie-zhivotnye.png"   catchup="fs" tvg-rec="3" timeshift="0",Домашние животные
 http://stream.skaz.tv/stream/ch626/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="zhivaya-planeta"  tvg-logo="https://epg.iptvx.one/picons/zhivaya-planeta.png"   catchup="fs" tvg-rec="3" timeshift="0",Живая Планета
+http://stream.skaz.tv/stream/ch453/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Живая природа HD"  tvg-logo="https://epg.iptvx.one/picons/zhivaya-priroda.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Живая природа HD
 http://stream.skaz.tv/stream/ch452/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Загородная жизнь"  tvg-logo="https://static.tildacdn.com/tild3466-3338-4531-b264-666537323566/-emblem-small.png" ,Загородная жизнь
@@ -3555,12 +3677,16 @@ http://stream.skaz.tv/stream/ch142/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3321/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Наша сибирь 4K"  tvg-logo="https://epg.iptvx.one/picons/nasha-sibir.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Наша сибирь HD
 http://stream.skaz.tv/stream/ch640/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch3834"  tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" ,Наша Тема
+http://stream.skaz.tv/stream/ch3834/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Охота и рыбалка"  tvg-logo="https://epg.iptvx.one/picons/oxota-i-rybalka.png"   catchup="fs" tvg-rec="3" timeshift="0",Охота и рыбалка
 http://stream.skaz.tv/stream/ch448/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Охотник и рыболов HD"  tvg-logo="https://epg.iptvx.one/picons/oxotnik-i-rybolov-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Охотник и рыболов HD
 http://stream.skaz.tv/stream/ch085/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Приключения HD"  tvg-logo="https://epg.iptvx.one/picons/prikluchenia-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Приключения HD
 http://stream.skaz.tv/stream/ch143/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch3813"  tvg-logo="https://www.cableman.ru/sites/default/files/rybolov.png" ,Рыболов
+http://stream.skaz.tv/stream/ch3813/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Телепутешествия"  tvg-logo="https://epg.iptvx.one/picons/teleputeshestvia.png"   catchup="fs" tvg-rec="3" timeshift="0",Телепутешествия
 http://stream.skaz.tv/stream/ch659/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Точка отрыва"  tvg-logo="https://epg.iptvx.one/picons/tochka-otryva.png"   catchup="fs" tvg-rec="3" timeshift="2",Точка отрыва
@@ -3595,20 +3721,6 @@ http://stream.skaz.tv/stream/ch2692/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2679/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Oasis Рыбалка"  tvg-logo="http://skaz.tv/tvicon/2664.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Oasis Рыбалка
 http://stream.skaz.tv/stream/ch2664/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch3361"  tvg-logo="http://s.skaz.tv/tvicon/3361.png" ,Play-x В Мире Животных HD
-http://stream.skaz.tv/stream/ch3361/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch3358"  tvg-logo="http://s.skaz.tv/tvicon/3358.png"   tvg-name="Play-x Города Советского Союза HD" catchup="fs" tvg-rec="3" timeshift="0", Play-x Города Советского Союза HD
-http://stream.skaz.tv/stream/ch3358/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch2199"  tvg-logo="http://s.skaz.tv/tvicon/2199.png"   tvg-name="Play-x Зарубежные Страны Глазами Советского ТВ HD" catchup="fs" tvg-rec="3" timeshift="0", Play-x Зарубежные Страны Глазами Советского ТВ HD
-http://stream.skaz.tv/stream/ch2199/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch2195"  tvg-logo="http://s.skaz.tv/tvicon/2195.png"   tvg-name="Play-x Жизнь в 90-е HD" catchup="fs" tvg-rec="3" timeshift="0", Play-x Жизнь в 90-е HD
-http://stream.skaz.tv/stream/ch2195/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch3359"  tvg-logo="http://s.skaz.tv/tvicon/3359.png" ,Play-x Наш Сад HD
-http://stream.skaz.tv/stream/ch3359/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch3360"  tvg-logo="http://s.skaz.tv/tvicon/3360.png" ,Play-x Удивительная Природа HD
-http://stream.skaz.tv/stream/ch3360/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="ch2193"  tvg-logo="http://s.skaz.tv/tvicon/2193.png"   tvg-name="Play-x Форт Боярд - Возвращение HD" catchup="fs" tvg-rec="3" timeshift="3", Play-x Форт Боярд - Возвращение HD
-http://stream.skaz.tv/stream/ch2193/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Sky High Nature HD"  tvg-logo="https://epg.iptvx.one/picons/sky-high-nature-fhd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Sky High Nature HD
 http://stream.skaz.tv/stream/ch1979/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Yosso TV Nature"  tvg-logo="https://epg.iptvx.one/picons/yosso-nature.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Yosso TV Nature
@@ -3669,7 +3781,7 @@ http://stream.skaz.tv/stream/ch073/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch625/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Ратник HD"  tvg-logo="https://epg.iptvx.one/picons/ratnik.png"   catchup="fs" tvg-rec="3" timeshift="3",Ратник HD
 http://stream.skaz.tv/stream/ch3320/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Совершенно Секретно"  tvg-logo="https://epg.iptvx.one/picons/sovsek.png"   catchup="fs" tvg-rec="3" timeshift="3", Совершенно Секретно
+#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Совершенно Секретно"  tvg-logo="https://epg.iptvx.one/picons/sovsek.png"   catchup="fs" tvg-rec="3" timeshift="3",Совершенно Секретно
 http://stream.skaz.tv/stream/ch3054/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Анекдот ТВ"  tvg-logo="https://i.imgur.com/wKfB79s.png"   catchup="fs" tvg-rec="3" timeshift="0",Анекдот ТВ
 http://stream.skaz.tv/stream/ch1524/fde215a0/mono.m3u8
@@ -3685,6 +3797,24 @@ http://stream.skaz.tv/stream/ch1953/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch106/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Сарафан"  tvg-logo="https://epg.iptvx.one/picons/sarafan.png"   catchup="fs" tvg-rec="3" timeshift="0",Сарафан
 http://stream.skaz.tv/stream/ch026/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-6kadrov"  tvg-logo="http://skaz.tv/tvicon/3759.png" ,TVPlay 6 Кадров HD
+http://stream.skaz.tv/stream/ch3759/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-gorodok"  tvg-logo="http://skaz.tv/tvicon/3769.png" ,TVPlay Городок HD
+http://stream.skaz.tv/stream/ch3769/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-eralash"  tvg-logo="http://skaz.tv/tvicon/3755.png" ,TVPlay Ералаш HD
+http://stream.skaz.tv/stream/ch3755/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-sketchshow"  tvg-logo="http://skaz.tv/tvicon/3762.png" ,TVPlay Скетч Шоу HD
+http://stream.skaz.tv/stream/ch3762/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-yumor"  tvg-logo="http://skaz.tv/tvicon/3767.png" ,TVPlay Юмор HD
+http://stream.skaz.tv/stream/ch3767/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-svoyaigra"  tvg-logo="http://skaz.tv/tvicon/3748.png" ,TVPlay Своя Игра HD
+http://stream.skaz.tv/stream/ch3748/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-gamezone"  tvg-logo="http://skaz.tv/tvicon/3756.png" ,TVPlay GameZone HD
+http://stream.skaz.tv/stream/ch3756/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-vkusniykanal"  tvg-logo="http://skaz.tv/tvicon/3770.png" ,TVPlay Вкусное TV
+http://stream.skaz.tv/stream/ch3770/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="tvplay-sledstvieveli"  tvg-logo="http://skaz.tv/tvicon/3785.png" ,TVPlay Следствие вели с Л Каневским
+http://stream.skaz.tv/stream/ch3785/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="KBC +100500"  tvg-logo="https://epg.iptvx.one/picons/kbc-100500.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC +100500
 http://stream.skaz.tv/stream/ch2830/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="skycam-100500"  tvg-logo="http://s.skaz.tv/tvicon/3147.png" ,SkyCam 100500
@@ -3701,7 +3831,9 @@ http://stream.skaz.tv/stream/ch422/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch538/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Кухня ТВ"  tvg-logo="https://epg.iptvx.one/picons/kuxnia-tv.png"   catchup="fs" tvg-rec="3" timeshift="0",Кухня ТВ
 http://stream.skaz.tv/stream/ch046/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Food Network HD"  tvg-logo="https://epg.iptvx.one/picons/food-network.png"   catchup="fs" tvg-rec="3" timeshift="2", Food Network HD
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch3832"  tvg-logo="https://epg.iptvx.one/picons/pervy-vegetariansky.png" ,Первый Вегетарианский
+http://stream.skaz.tv/stream/ch3832/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Food Network HD"  tvg-logo="https://epg.iptvx.one/picons/food-network.png"   catchup="fs" tvg-rec="3" timeshift="2",Food Network HD
 http://stream.skaz.tv/stream/ch455/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Foodtime HD"  tvg-logo="https://epg.iptvx.one/picons/eda-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Foodtime HD
 http://stream.skaz.tv/stream/ch454/fde215a0/mono.m3u8
