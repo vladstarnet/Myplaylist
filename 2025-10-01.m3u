@@ -383,6 +383,8 @@ http://stream.skaz.tv/stream/ch2591/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch2457/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="True Motion 60Hz 💎✨"  tvg-id="Yosso TV Best Box 60fps"  tvg-logo="https://epg.iptvx.one/picons/yosso-bestbox60.png"   catchup="fs" tvg-rec="3" timeshift="3",Yosso TV Best Box 60fps
 http://stream.skaz.tv/stream/ch3182/fde215a0/mono.m3u8
+#EXTINF:-1  group-title="True Motion 60Hz 💎✨"  tvg-id="BOX Game HD"  tvg-logo="https://epg.iptvx.one/picons/box-game.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Game HD 60fps
+http://stream.skaz.tv/stream/ch2289/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="bcu-premiere-4k"  tvg-logo="https://epg.iptvx.one/picons/bcu-premiere-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Premiere Ultra 4K
 http://stream.skaz.tv/stream/ch553/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BCU Ultra 4K"  tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Ultra 4K
@@ -3815,8 +3817,6 @@ http://stream.skaz.tv/stream/ch2830/fde215a0/mono.m3u8
 http://stream.skaz.tv/stream/ch3147/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="E TV"  tvg-logo="http://skaz.tv/tvicon/503.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",E TV Gaming
 http://stream.skaz.tv/stream/ch503/fde215a0/mono.m3u8
-#EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="BOX Game HD"  tvg-logo="https://epg.iptvx.one/picons/box-game.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Game HD (60 FPS)
-http://stream.skaz.tv/stream/ch2289/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="ch3055"  tvg-logo="https://epg.iptvx.one/picons/box-gurman.png" ,BOX Gurman HD
 http://stream.skaz.tv/stream/ch3055/fde215a0/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Аппетитный HD"  tvg-logo="https://epg.iptvx.one/picons/appetitny.png" ,Аппетитный HD
