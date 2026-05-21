@@ -7463,7 +7463,7 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="babes-tv"  tvg-logo="https://epg.iptvx.one/picons/babes-tv.png" ,Babes TV HD
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch093"  tvg-logo="http://skaz.tv/tvicons/93.png"   tvg-name="Brazzers TV HD" tvg-rec="0", Brazzers TV HD
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch093"  tvg-logo="http://skaz.tv/tvicons/93.png"   tvg-name="Brazzers TV HD" tvg-rec="0",Brazzers TV Europe HD
 http://stream.skaz.tv/stream/ch093/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="brazzers-tv-europe"  tvg-logo="https://epg.iptvx.one/picons/brazzers.png" ,Brazzers TV Europe HD
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
@@ -7486,8 +7486,6 @@ http://stream.skaz.tv/stream/ch655/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" ,EroXXX HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" ,EroXXX HD
-http://85.11.144.9:50999/29
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" ,EroXXX HD
 http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="erox"  tvg-logo="https://epg.iptvx.one/picons/erox-ua.png" ,Erox HD
 http://193.27.209.122/erox/index.m3u8
@@ -7501,14 +7499,14 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="ch096"  tvg-logo="http://skaz.tv/tvicons/96.png"   tvg-name="Hustler HD" tvg-rec="0", Hustler HD
 http://stream.skaz.tv/stream/ch096/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-hd" ,Hustler HD
-http://85.11.144.9:50999/30
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" ,Hustler TV
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-tv"  tvg-logo="http://skaz.tv/tvicons/96.png" ,Hustler TV
 http://213.169.39.30:5115
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="leo-tv-xxx"  tvg-logo="https://epg.iptvx.one/picons/leo-tv-xxx.png" ,Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="ch381"  tvg-logo="http://skaz.tv/tvicons/381.png"   tvg-name="Penthouse Gold HD" tvg-rec="0", Penthouse Gold HD
 http://stream.skaz.tv/stream/ch381/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="penthouse-gold"  tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" ,Penthouse Gold HD
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="ch819"  tvg-logo="http://skaz.tv/tvicons/819.png"   tvg-name="Penthouse Passion HD" tvg-rec="0", Penthouse Passion HD
 http://stream.skaz.tv/stream/ch819/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="ch791"  tvg-logo="http://skaz.tv/tvicons/791.png"   tvg-name="Penthouse Quickies HD" tvg-rec="0", Penthouse Quickies HD
@@ -7521,8 +7519,6 @@ http://stream.skaz.tv/stream/ch094/ca116d29bd/mono.m3u8
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="ch050"  tvg-logo="http://skaz.tv/tvicons/50.png"   tvg-name="Playboy" tvg-rec="0", Playboy
 http://stream.skaz.tv/stream/ch050/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="penthouse-gold"  tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" ,Penthouse Gold HD
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1  group-title="18+ 💓" ,Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="private-tv"  tvg-logo="https://epg.iptvx.one/picons/private-tv.png" ,PRIVATE
@@ -7531,8 +7527,6 @@ http://213.169.39.30:5036
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="reality-kings	"  tvg-logo="https://epg.iptvx.one/picons/reality-kings.png" ,Reality Kings TV HD
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓" ,Russian r
-http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1507"  tvg-logo="http://skaz.tv/tvicons/1507.png"   tvg-name="Sex View 4K" tvg-rec="0", Sex View 4K
 http://stream.skaz.tv/stream/ch1507/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1893"  tvg-logo="http://skaz.tv/tvicons/1893.png"   tvg-name="Sex View Gay" tvg-rec="0", Sex View Gay
@@ -7813,6 +7807,8 @@ https://ovhv47.twincdn.com/videos/42/42335/42335_720p.mp4?key_iptv.org.ua
 https://ovhv47.twincdn.com/videos/42/42339/42339_720p.mp4?key_iptv.org.ua
 #EXTINF:-1  group-title="18+ 💓" ,tva-x20
 https://ovhv47.twincdn.com/videos/42/42346/42346_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,Russian r
+http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1  group-title="18+ 💓" ,18+ zamuzhnyaya_no_raskreposhchennaya
 https://video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4
 #EXTINF:-1  group-title="18+ 💓" ,18+ 5_klyuchey_k_naslazhdeniyu_1 
