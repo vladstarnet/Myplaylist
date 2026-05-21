@@ -7,6 +7,8 @@ http://stream.skaz.tv/stream/ch070/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch464/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="312-kino"  tvg-logo="https://epg.iptvx.one/picons/312-kino.png" ,312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="4ever-cinema"  tvg-logo="https://epg.iptvx.one/picons/4ever-cinema.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4ever Cinema
+http://stream.skaz.tv/stream/ch1116/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="4ever-drama"  tvg-logo="https://epg.iptvx.one/picons/4ever-drama.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4ever Drama HD
 http://stream.skaz.tv/stream/ch384/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="4ever-theater"  tvg-logo="https://epg.iptvx.one/picons/4ever-theater.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4ever Theater HD
@@ -23,8 +25,6 @@ http://stream.skaz.tv/stream/ch421/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch515/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Bollywood HD"  tvg-logo="https://epg.iptvx.one/picons/bollywood-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bollywood HD
 http://stream.skaz.tv/stream/ch326/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Movie 🎞️"  tvg-id="C More Hits HD"  tvg-logo="http://skaz.tv/tvicon/1116.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",C More Hits HD
-http://stream.skaz.tv/stream/ch1116/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="cine-plus-ledend"  tvg-logo="https://i.imgur.com/QtOfzSH.png" ,Сine+ legend [UA]
 http://193.27.209.122/cine_plus_legend/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Comedy Central"  tvg-logo="https://epg.iptvx.one/picons/comedy-central-pl.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Comedy Central
@@ -347,8 +347,6 @@ http://stream.skaz.tv/stream/ch3347/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch3348/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="clarity4k-cinema010-hdr"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-cinema010-hdr.png"   tvg-name="Clarity4K Cinema MIX 10 HDR" catchup="fs" tvg-rec="3" timeshift="3",Clarity4K Cinema MIX 10 HDR
 http://stream.skaz.tv/stream/ch3349/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="Clarity4K Запал"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-zapal.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Запал
-http://stream.skaz.tv/stream/ch2601/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="liberty-azia-4k-hdr"  tvg-logo="https://epg.iptvx.one/picons/liberty-azia-4k-hdr.png"   tvg-name="Liberty Азия 4К HDR" catchup="fs" tvg-rec="3" timeshift="3",Liberty Азия 4К HDR
 http://stream.skaz.tv/stream/ch3444/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="HDR 💎⚡️"  tvg-id="liberty-boeviki-4k-hdr"  tvg-logo="https://epg.iptvx.one/picons/liberty-boeviki-4k-hdr.png"   tvg-name="Liberty Боевики 4К HDR" catchup="fs" tvg-rec="3" timeshift="3",Liberty Боевики 4К HDR
@@ -395,12 +393,12 @@ http://stream.skaz.tv/stream/ch2297/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch2299/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Remast+ 4K"  tvg-logo="https://epg.iptvx.one/picons/box-remast-plus-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Remast+ 4K
 http://stream.skaz.tv/stream/ch2707/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="box-serial-premiere-4k"  tvg-logo="https://epg.iptvx.one/picons/box-serial-premiere-4k.png" ,BOX Serial Premiere 4K
-http://stream.skaz.tv/stream/ch2033/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Russian 4K"  tvg-logo="https://epg.iptvx.one/picons/box-russian-4k.png" ,BOX Russian 4K
 http://stream.skaz.tv/stream/ch1949/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX Serial 4K"  tvg-logo="https://epg.iptvx.one/picons/box-serial-premiere-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Serial 4K
 http://stream.skaz.tv/stream/ch2300/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="box-serial-premiere-4k"  tvg-logo="https://epg.iptvx.one/picons/box-serial-premiere-4k.png" ,BOX Serial Premiere 4K
+http://stream.skaz.tv/stream/ch2033/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="BOX UltraStars 4K"  tvg-logo="https://epg.iptvx.one/picons/box-ultrastars-4k.png" ,BOX UltraStars 4K
 http://stream.skaz.tv/stream/ch2931/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Cinema UHD"  tvg-logo="https://epg.iptvx.one/picons/ultra-hd-cinema.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Cinema UHD
@@ -431,6 +429,8 @@ http://stream.skaz.tv/stream/ch451/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch1179/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k Драмы"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-dramy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k Драмы
 http://stream.skaz.tv/stream/ch2886/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K Запал"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-zapal.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Запал
+http://stream.skaz.tv/stream/ch2601/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4k Классика Кино"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-western.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k Классика Кино
 http://stream.skaz.tv/stream/ch2506/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="UHD 4K 🎗️🖥️"  tvg-id="Clarity4K КиноНовинки"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-kinonowinki.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K КиноНовинки
@@ -543,7 +543,7 @@ http://stream.skaz.tv/stream/ch773/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch775/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="bcu-kinorating"  tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Kinorating HD
 http://stream.skaz.tv/stream/ch776/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch790"  tvg-logo="http://skaz.tv/tvicons/790.png" ,BCU Media HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="bcu-media"  tvg-logo="http://skaz.tv/tvicons/790.png" ,BCU Media HD
 http://stream.skaz.tv/stream/ch790/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="bcu-media"  tvg-logo="https://epg.iptvx.one/picons/bcu-kinozakaz.png" ,BCU Media HD OLD
 http://stream.skaz.tv/stream/ch590/ca116d29bd/mono.m3u8
@@ -563,8 +563,6 @@ http://stream.skaz.tv/stream/ch2744/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch788/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Stars HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Stars HD
 http://stream.skaz.tv/stream/ch835/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Hybrid HD"  tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Stars HD 2
-http://stream.skaz.tv/stream/ch790/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Survival HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-survival.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Survival HD
 http://stream.skaz.tv/stream/ch1444/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BCU Survival HD"  tvg-logo="https://epg.iptvx.one/picons/bcu-survival.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BCU Survival OLD
@@ -597,6 +595,8 @@ http://stream.skaz.tv/stream/ch2301/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch401/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Spy HD"  tvg-logo="https://epg.iptvx.one/picons/box-spy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Spy HD
 http://stream.skaz.tv/stream/ch2302/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Spy HD"  tvg-logo="https://epg.iptvx.one/picons/box-spy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Spy HD
+http://stream.skaz.tv/stream/ch790/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Western HD"  tvg-logo="https://epg.iptvx.one/picons/box-western.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Western HD
 http://stream.skaz.tv/stream/ch2305/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="box-zombie"  tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Zombie HD
@@ -711,8 +711,6 @@ http://stream.skaz.tv/stream/ch3595/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch3596/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3597"  tvg-logo="http://s.skaz.tv/tvicon/3597.png"   tvg-name="Infinity:Номинация на Оскар. 1999_24 гг" catchup="fs" tvg-rec="3" timeshift="3",Infinity:Номинация на Оскар. 1999_24 гг
 http://stream.skaz.tv/stream/ch3597/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3594"  tvg-logo="http://s.skaz.tv/tvicon/3594.png"   tvg-name="Infinity:Оскар" catchup="fs" tvg-rec="3" timeshift="3",Infinity:Оскар
-http://stream.skaz.tv/stream/ch3594/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-Comics HD"  tvg-logo="https://epg.iptvx.one/picons/kbc-comics.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Comics HD
 http://stream.skaz.tv/stream/ch2837/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-Elite comedys HD"  tvg-logo="https://epg.iptvx.one/picons/kbc-elite-comedys.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Elite comedys HD
@@ -1109,29 +1107,29 @@ http://stream.skaz.tv/stream/ch1072/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch777/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="sky-high-zippy-s-fhd"  tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png"   tvg-name="Sky High Zippy S HD" catchup="fs" tvg-rec="3" timeshift="3",Sky High Zippy S HD
 http://stream.skaz.tv/stream/ch3718/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3701"  tvg-logo="http://skaz.tv/tvicon/3701.png"   tvg-name="TEAM Agatha HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Agatha HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3701"  tvg-logo="https://epg.iptvx.one/picons/team-action.png"   tvg-name="TEAM Agatha HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM Agatha HD
 http://stream.skaz.tv/stream/ch3701/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2154"  tvg-logo="http://skaz.tv/tvicon/2154.png"   tvg-name="TEAM Bollywood HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Bollywood HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2154"  tvg-logo="https://epg.iptvx.one/picons/team-bollywood.png"   tvg-name="TEAM Bollywood HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM Bollywood HD
 http://stream.skaz.tv/stream/ch2154/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3835"  tvg-logo="http://skaz.tv/tvicon/3835.png"   tvg-name="TEAM Darkverse HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Darkverse HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3835"  tvg-logo="https://epg.iptvx.one/picons/team-darkverse.png"   tvg-name="TEAM Darkverse HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM Darkverse HD
 http://stream.skaz.tv/stream/ch3835/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3433"  tvg-logo="http://skaz.tv/tvicon/3433.png"   tvg-name="TEAM NewMovie HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM NewMovie HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3433"  tvg-logo="https://epg.iptvx.one/picons/team-newmovie.png"   tvg-name="TEAM NewMovie HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM NewMovie HD
 http://stream.skaz.tv/stream/ch3433/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3840"  tvg-logo="http://skaz.tv/tvicon/3840.png"   tvg-name="TEAM New Year HD" catchup="fs" tvg-rec="3" timeshift="2", TEAM New Year HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="team-new-year"  tvg-logo="https://epg.iptvx.one/picons/team-new-year.png"   tvg-name="TEAM New Year HD" catchup="fs" tvg-rec="3" timeshift="2",TEAM New Year HD
 http://stream.skaz.tv/stream/ch3840/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3434"  tvg-logo="http://skaz.tv/tvicon/3434.png"   tvg-name="TEAM RuKino HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM RuKino HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3434"  tvg-logo="https://epg.iptvx.one/picons/team-rukino.png"   tvg-name="TEAM RuKino HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM RuKino HD
 http://stream.skaz.tv/stream/ch3434/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3445"  tvg-logo="http://skaz.tv/tvicon/3445.png"   tvg-name="TEAM RuSerial HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM RuSerial HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3445"  tvg-logo="https://epg.iptvx.one/picons/team-ruserial.png"   tvg-name="TEAM RuSerial HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM RuSerial HD
 http://stream.skaz.tv/stream/ch3445/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3446"  tvg-logo="http://skaz.tv/tvicon/3446.png"   tvg-name="TEAM WSeries HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM WSeries HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3446"  tvg-logo="https://epg.iptvx.one/picons/team-wseries.png"   tvg-name="TEAM WSeries HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM WSeries HD
 http://stream.skaz.tv/stream/ch3446/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3447"  tvg-logo="http://skaz.tv/tvicon/3447.png"   tvg-name="TEAM TRSeries HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM TRSeries HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3447"  tvg-logo="https://epg.iptvx.one/picons/team-trseries.png"   tvg-name="TEAM TRSeries HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM TRSeries HD
 http://stream.skaz.tv/stream/ch3447/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3702"  tvg-logo="http://skaz.tv/tvicon/3702.png"   tvg-name="TEAM Spaceopera HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM Spaceopera HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3702"  tvg-logo="https://epg.iptvx.one/picons/team-spaceopera.png"   tvg-name="TEAM Spaceopera HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM Spaceopera HD
 http://stream.skaz.tv/stream/ch3702/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3703"  tvg-logo="http://skaz.tv/tvicon/3703.png"   tvg-name="TEAM StarTrek HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM StarTrek HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3703"  tvg-logo="https://epg.iptvx.one/picons/team-startreck.png"   tvg-name="TEAM StarTrek HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM StarTrek HD
 http://stream.skaz.tv/stream/ch3703/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3704"  tvg-logo="http://skaz.tv/tvicon/3704.png"   tvg-name="TEAM StarWars HD" catchup="fs" tvg-rec="3" timeshift="8", TEAM StarWars HD
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3704"  tvg-logo="https://epg.iptvx.one/picons/team-starwars.png"   tvg-name="TEAM StarWars HD" catchup="fs" tvg-rec="3" timeshift="8",TEAM StarWars HD
 http://stream.skaz.tv/stream/ch3704/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3741"  tvg-logo="https://epg.iptvx.one/picons/tvplay-animehd.png"   tvg-name="TVPlay Anime HD" catchup="fs" tvg-rec="3" timeshift="3",TVPlay Anime HD
 http://stream.skaz.tv/stream/ch3741/ca116d29bd/mono.m3u8
@@ -2493,6 +2491,8 @@ http://bethoven.af-stream.com:8080/s/yokrgdit/mtv-hits/video.m3u8
 http://bethoven.af-stream.com:1600/s/yokrgdit/mtv-live-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MTV Pulse HD"  tvg-logo="http://skaz.tv/tvicon/2758.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MTV Pulse [1080p]
 http://stream.skaz.tv/stream/ch2758/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ch3594"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/MTV_shows.png"   tvg-name="Infinity:Оскар" catchup="fs" tvg-rec="3" timeshift="3",MTV SHOWS [1080p]
+http://stream.skaz.tv/stream/ch3594/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" ,MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4fun"  tvg-logo="https://i.imgur.com/rI1wo2l.png"   tvg-name="4FUN",4FUN TV [PL]
@@ -3397,7 +3397,7 @@ http://stream.skaz.tv/stream/ch2399/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch1551/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K DeepMe"  tvg-logo="http://skaz.tv/tvicon/1438.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K DeepMe
 http://stream.skaz.tv/stream/ch1438/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K France Music"  tvg-logo="http://skaz.tv/tvicon/2888.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K France Music
+#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K France Music"  tvg-logo="http://skaz.tv/tvicon/2888.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K EuroVision
 http://stream.skaz.tv/stream/ch2888/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K Heavy Metal"  tvg-logo="http://skaz.tv/tvicon/2492.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Heavy Metal
 http://stream.skaz.tv/stream/ch2492/ca116d29bd/mono.m3u8
@@ -4127,7 +4127,7 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 "  tvg-id="DubaiSports2.ae"  tvg-logo="https://i.imgur.com/PMJ7Zmo.png" ,Dubai Sports 2 (720p)
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="DubaiSports3.ae"  tvg-logo="https://i.imgur.com/U0A8Gex.png" ,Dubai Sports 3 (1080p) [Not 24/7]
 "  tvg-id="DubaiSports3.ae"  tvg-logo="https://i.imgur.com/U0A8Gex.png" ,Dubai Sports 3 (1080p) [Not 24/7]
-#EXTINF:-1  group-title="Sport 🏆"  tvg-id="Auto Motor Sport HD"  tvg-logo="http://skaz.tv/tvicon/273.png"   tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3",Auto Motor Sport HD
+#EXTINF:-1  group-title="Sport 🏆"  tvg-id="Auto Motor Sport HD"  tvg-logo="http://skaz.tv/tvicon/273.png"   tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3" tvg-rec="1" catchup-type="auto" catchup_days="3",Auto Motor Sport HD
 "  tvg-id="Auto Motor Sport HD"  tvg-logo="http://skaz.tv/tvicon/273.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Auto Motor Sport HD
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="КХЛ Prime HD"  tvg-logo="http://skaz.tv/tvicon/138.png"   catchup="fs" tvg-rec="3" timeshift="2", КХЛ Prime HD
 http://stream.skaz.tv/stream/ch138/ca116d29bd/mono.m3u8
@@ -5263,7 +5263,7 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="RTDocumentaryEnglish.ru"  tvg-logo="https://i.imgur.com/aeu5zIC.png" ,RT Documentary English [RU] [1080p]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="KoreanCentralTelevision.kp"  tvg-logo="https://i.imgur.com/p02AEOF.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television  [KCTV]
+#EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="KoreanCentralTelevision.kp"  tvg-logo="https://i.imgur.com/p02AEOF.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36", like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television  [KCTV]
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="Canaf54TV.uk@SD"  tvg-logo="https://i.imgur.com/viB0FS2.png" ,Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
@@ -6017,7 +6017,7 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="LancelotTV.es"  tvg-logo="https://i.imgur.com/RlzVIJP.png" ,Lancelot TV [ES]
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="Tele7.es"  tvg-logo="https://i.imgur.com/JcuV9ZE.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 [ES]
+#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="Tele7.es"  tvg-logo="https://i.imgur.com/JcuV9ZE.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 [ES]
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="Canal7TeleValencia.es"  tvg-logo="https://i.imgur.com/ILfXDRs.png" ,7 TeleValencia (576p)
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
@@ -6059,7 +6059,7 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="CanalSur2.es"  tvg-logo="https://i.imgur.com/VZjtGvm.png" ,Canal Sur Andalucía 2 (720p)
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="CanalTaronjaAnoia.es"  tvg-logo="https://i.imgur.com/RP8VcqZ.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal Taronja Anoia
+#EXTINF:-1  group-title="España 🇪🇸"  tvg-id="CanalTaronjaAnoia.es"  tvg-logo="https://i.imgur.com/RP8VcqZ.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160", like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal Taronja Anoia
 https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8
 #EXTINF:-1  group-title="España 🇪🇸"  tvg-id="DistritoTV.es"  tvg-logo="https://i.imgur.com/AqGIoIt.png" ,Distrito TV (1080p)
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
@@ -6679,9 +6679,9 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://tbbweb.tv/img/logo.png" ,Trabzon Buyuksehir Belediyesi TV (1080p)
 https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TJKTV.tr"  tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,TJK TV (1080p)
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TJKTV.tr"  tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,TJK TV (1080p)
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,TJK TV 2 (1080p)
+#EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" ,TJK TV 2 (1080p)
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:-1  group-title="Türkiye 🇹🇷"  tvg-id="TonTV.tr"  tvg-logo="https://www.begumkuran.com/wp-content/uploads/2019/09/ton_tv.jpg" ,Ton TV (720p)
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
@@ -6943,7 +6943,7 @@ https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineMubasher.ps"  tvg-logo="https://i.imgur.com/68llVTZ.png" ,Palestine Mubasher (1080p)
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineSatelliteChannel.ps"  tvg-logo="https://i.imgur.com/4B5FvmX.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel
+#EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineSatelliteChannel.ps"  tvg-logo="https://i.imgur.com/4B5FvmX.png"   user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36", like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1  group-title="دولة فلسطين 🇵🇸"  tvg-id="PalestineToday.ps"  tvg-logo="https://i.imgur.com/BS8XXug.png" ,Palestine Today (720p)
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
