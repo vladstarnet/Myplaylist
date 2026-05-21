@@ -579,6 +579,8 @@ http://stream.skaz.tv/stream/ch2281/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch2607/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Cyber HD"  tvg-logo="https://epg.iptvx.one/picons/box-cyber.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Cyber HD
 http://stream.skaz.tv/stream/ch2285/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch2292"  tvg-logo="http://skaz.tv/tvicons/2292.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Hybrid HD
+http://stream.skaz.tv/stream/ch2292/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Fantasy HD"  tvg-logo="https://epg.iptvx.one/picons/box-fantasy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Fantasy HD
 http://stream.skaz.tv/stream/ch2287/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Franchise HD"  tvg-logo="https://epg.iptvx.one/picons/box-franchise.png" ,BOX Franchise HD
@@ -595,14 +597,8 @@ http://stream.skaz.tv/stream/ch2301/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch401/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Spy HD"  tvg-logo="https://epg.iptvx.one/picons/box-spy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Spy HD
 http://stream.skaz.tv/stream/ch2302/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Spy HD"  tvg-logo="https://epg.iptvx.one/picons/box-spy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Spy HD
-http://stream.skaz.tv/stream/ch790/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Western HD"  tvg-logo="https://epg.iptvx.one/picons/box-western.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Western HD
 http://stream.skaz.tv/stream/ch2305/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="box-zombie"  tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Zombie HD
-http://stream.skaz.tv/stream/ch2292/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Hybrid HD"  tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Hybrid HD 2
-http://stream.skaz.tv/stream/ch590/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="BOX Zombie HD"  tvg-logo="https://epg.iptvx.one/picons/box-zombie.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Zombie HD
 http://stream.skaz.tv/stream/ch2306/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan"  tvg-logo="https://epg.iptvx.one/picons/cineman.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan
@@ -625,8 +621,6 @@ http://stream.skaz.tv/stream/ch1031/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch1038/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Военные Сериалы"  tvg-logo="https://epg.iptvx.one/picons/cineman-vovserials.png"   catchup="fs" tvg-rec="3" timeshift="3",CineMan Военные Сериалы
 http://stream.skaz.tv/stream/ch3131/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Интерны"  tvg-logo="https://epg.iptvx.one/picons/cineman.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Интерны
-http://stream.skaz.tv/stream/ch2925/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Катастрофы"  tvg-logo="https://epg.iptvx.one/picons/cineman-katastrofy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Катастрофы
 http://stream.skaz.tv/stream/ch1074/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="CineMan Комедия"  tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Комедия
@@ -7469,6 +7463,8 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="babes-tv"  tvg-logo="https://epg.iptvx.one/picons/babes-tv.png" ,Babes TV HD
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch093"  tvg-logo="http://skaz.tv/tvicons/93.png"   tvg-name="Brazzers TV HD" tvg-rec="0", Brazzers TV HD
+http://stream.skaz.tv/stream/ch093/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="brazzers-tv-europe"  tvg-logo="https://epg.iptvx.one/picons/brazzers.png" ,Brazzers TV Europe HD
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="brazzers-tv-europe"  tvg-logo="https://epg.iptvx.one/picons/brazzers.png" , Brazzers TV Europe HD
@@ -7477,20 +7473,16 @@ http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-logo="https://images-platform.99static.com/2CCp4m79HeCreCZvCKn-Blf1l4Y=/500x500/top/smart/99designs-contests-attachments/32/32046/attachment_32046556" ,Desire
 http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch097"  tvg-logo="http://skaz.tv/tvicons/97.png"   tvg-name="Dorcel HD" tvg-rec="0", Dorcel HD
+http://stream.skaz.tv/stream/ch097/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel" ,Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel" ,Dorcel TV HD
 http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel" ,Dorcel TV HD
-https://176.116.105.82/Dorcel_HD/index.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel" ,Dorcel TV
-http://77.46.130.252:99/dorcel
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="dorcel-xxx"  tvg-logo="https://epg.iptvx.one/picons/dorcel-xxx.png" ,Dorcel XXX HD
-http://85.11.144.9:50999/105
-#EXTINF:-1  group-title="18+ 💓" ,Erota HD
-http://85.11.144.9:50999/31
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" ,EroXXX HD
-https://176.116.105.82/EroXXX_HD/index.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch842"  tvg-logo="http://skaz.tv/tvicons/842.png"   tvg-name="Dusk HD" tvg-rec="0", Dusk HD
+http://stream.skaz.tv/stream/ch842/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch655"  tvg-logo="http://skaz.tv/tvicons/655.png"   tvg-name="Eromania 4K" tvg-rec="0", Eromania 4K
+http://stream.skaz.tv/stream/ch655/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" ,EroXXX HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" ,EroXXX HD
@@ -7498,67 +7490,57 @@ http://85.11.144.9:50999/29
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="eroxxxhd"  tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png" ,EroXXX HD
 http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="erox"  tvg-logo="https://epg.iptvx.one/picons/erox-ua.png" ,Erox HD
-https://176.116.105.82/Erox_HD/index.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="erox"  tvg-logo="https://epg.iptvx.one/picons/erox-ua.png" ,Erox HD
 http://193.27.209.122/erox/index.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="erox"  tvg-logo="https://epg.iptvx.one/picons/erox-ua.png" , Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="erox"  tvg-logo="https://epg.iptvx.one/picons/erox-ua.png" ,Erox HD
 http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="erox"  tvg-logo="https://epg.iptvx.one/picons/erox.png" ,Erox
-http://85.11.144.9:50999/26
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="extasytv"  tvg-logo="https://epg.iptvx.one/picons/extasytv.png" ,Extasy HD
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="extasytv"  tvg-logo="https://epg.iptvx.one/picons/extasytv.png" , Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="extasytv"  tvg-logo="https://epg.iptvx.one/picons/extasytv.png" ,Extasy
-http://85.11.144.9:50999/43
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="extasytv"  tvg-logo="https://epg.iptvx.one/picons/extasytv.png" , Extasy
-https://176.116.105.82/Extasy_HD/index.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="exxxotica"  tvg-logo="https://epg.iptvx.one/picons/exxxotica.png" ,Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch096"  tvg-logo="http://skaz.tv/tvicons/96.png"   tvg-name="Hustler HD" tvg-rec="0", Hustler HD
+http://stream.skaz.tv/stream/ch096/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-hd" ,Hustler HD
 http://85.11.144.9:50999/30
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" ,Hustler TV
-https://176.116.105.82/Hustler/index.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" ,Hustler TV
-http://185.166.252.230/Hustler/index.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="hustler-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" ,Hustler TV
 http://213.169.39.30:5115
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="leo-tv-xxx"  tvg-logo="https://epg.iptvx.one/picons/leo-tv-xxx.png" ,Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch381"  tvg-logo="http://skaz.tv/tvicons/381.png"   tvg-name="Penthouse Gold HD" tvg-rec="0", Penthouse Gold HD
+http://stream.skaz.tv/stream/ch381/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch819"  tvg-logo="http://skaz.tv/tvicons/819.png"   tvg-name="Penthouse Passion HD" tvg-rec="0", Penthouse Passion HD
+http://stream.skaz.tv/stream/ch819/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch791"  tvg-logo="http://skaz.tv/tvicons/791.png"   tvg-name="Penthouse Quickies HD" tvg-rec="0", Penthouse Quickies HD
+http://stream.skaz.tv/stream/ch791/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1987"  tvg-logo="http://skaz.tv/tvicons/1987.png"   tvg-name="Pink X" tvg-rec="0", Pink X
+http://stream.skaz.tv/stream/ch1987/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch094"  tvg-logo="http://skaz.tv/tvicons/94.png"   tvg-name="Private TV HD" tvg-rec="0", Private TV HD
+http://stream.skaz.tv/stream/ch094/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="playboy-tv-uk"  tvg-logo="https://epg.iptvx.one/picons/playboy-tv.png" ,Playboy TV UK HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="playboy-tv"  tvg-logo="https://epg.iptvx.one/picons/playboy-tv.png" ,Playboy TV HD
-http://85.11.144.9:50999/47
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="playboy-tv"  tvg-logo="https://epg.iptvx.one/picons/playboy-tv.png" ,Playboy TV HD
-http://178.23.88.55/Playboy/index.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="playboy-tv"  tvg-logo="https://epg.iptvx.one/picons/playboy-tv.png" ,Playboy TV
-http://193.27.209.122/playboy/index.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch050"  tvg-logo="http://skaz.tv/tvicons/50.png"   tvg-name="Playboy" tvg-rec="0", Playboy
+http://stream.skaz.tv/stream/ch050/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="penthouse-gold"  tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" ,Penthouse Gold HD
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1  group-title="18+ 💓" ,Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="private-tv"  tvg-logo="https://epg.iptvx.one/picons/private-tv.png" ,PRIVATE
-http://77.46.130.252:99/private
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="private-tv"  tvg-logo="https://epg.iptvx.one/picons/private-tv.png" ,PRIVATE
 http://213.169.39.30:5036
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="reality-kings	"  tvg-logo="https://epg.iptvx.one/picons/reality-kings.png" ,Reality Kings TV HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="reality-kings	"  tvg-logo="https://epg.iptvx.one/picons/reality-kings.png" ,Reality Kings TV HD
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="reality-kings"  tvg-logo="https://epg.iptvx.one/picons/reality-kings.png" ,Reality Kings TV
-http://85.11.144.9:50999/36
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="reality-kings"  tvg-logo="https://epg.iptvx.one/picons/reality-kings.png" ,Reality Kings TV
-http://85.11.144.9:50999/42
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="redlight-hd" , Redlight HD
-http://85.11.144.9:50999/39
-#EXTINF:-1  group-title="18+ 💓" ,Hot 1 HD
-http://85.11.144.9:50999/34
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="super-one"  tvg-logo="https://epg.iptvx.one/picons/super-one.png" ,SuperOne
-http://185.166.252.230/SuperOne/index.m3u8
-#EXTINF:-1  group-title="18+ 💓"  tvg-id="passionxxx"  tvg-logo="https://epg.iptvx.one/picons/passionxxx.png" ,PassionXXX HD
-http://85.11.144.9:50999/33
+#EXTINF:-1  group-title="18+ 💓" ,Russian r
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1507"  tvg-logo="http://skaz.tv/tvicons/1507.png"   tvg-name="Sex View 4K" tvg-rec="0", Sex View 4K
+http://stream.skaz.tv/stream/ch1507/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1893"  tvg-logo="http://skaz.tv/tvicons/1893.png"   tvg-name="Sex View Gay" tvg-rec="0", Sex View Gay
+http://stream.skaz.tv/stream/ch1893/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch826"  tvg-logo="http://skaz.tv/tvicons/826.png"   tvg-name="Vivid Red HD" tvg-rec="0", Vivid Red HD
+http://stream.skaz.tv/stream/ch826/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch805"  tvg-logo="http://skaz.tv/tvicons/805.png"   tvg-name="Vivid Touch" tvg-rec="0", Vivid Touch
+http://stream.skaz.tv/stream/ch805/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/c/c7/Xy_max.png/revision/latest?cb=20220202103046&path-prefix=bg" ,XY MAX HD [BG]
 http://79.124.21.250:8199/play/DiemaSport/index.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/c/c7/Xy_max.png/revision/latest?cb=20220202103046&path-prefix=bg" ,XY MAX HD [BG]
@@ -7566,19 +7548,271 @@ http://85.11.144.9:50999/102
 #EXTINF:-1  group-title="18+ 💓"  tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/d/db/Xy_mix.png/revision/latest/scale-to-width-down/732?cb=20220726092635&path-prefix=bg" ,XY MIX HD [BG]
 http://85.11.144.9:50999/101
 #EXTINF:-1  group-title="18+ 💓"  tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-plus-bg.png" ,XY PLUS HD [BG]
-http://85.11.144.9:50999/103
-#EXTINF:-1  group-title="18+ 💓"  tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-plus-bg.png" ,XY PLUS HD [BG]
 http://85.11.144.9:50999/35
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="kino18plus-tviksel"  tvg-logo="https://epg.iptvx.one/picons/kino18plus-tviksel.png" ,Кино 18+ 
 https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch049"  tvg-logo="http://skaz.tv/tvicons/49.png"   tvg-name="Русская ночь" tvg-rec="0", Русская ночь
+http://stream.skaz.tv/stream/ch049/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓"  tvg-id="shalun"  tvg-logo="https://epg.iptvx.one/picons/shalun.png" ,Шалун HD
 http://88.218.242.237:8000/play/a00h
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1546"  tvg-logo="http://skaz.tv/tvicons/1546.png"   tvg-name="BCU Charm HD" tvg-rec="3", BCU Charm HD
+http://stream.skaz.tv/stream/ch1546/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1756"  tvg-logo="http://skaz.tv/tvicons/1756.png"   tvg-name="Liberty Эротика FHD" tvg-rec="3", Liberty Эротика FHD
+http://stream.skaz.tv/stream/ch1756/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch1302"  tvg-logo="http://skaz.tv/tvicons/1302.png"   tvg-name="Yosso TV Sexy" tvg-rec="3", Yosso TV Sexy
+http://stream.skaz.tv/stream/ch1302/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch3179"  tvg-logo="http://skaz.tv/tvicons/3179.png"   tvg-name="Sky High Sex HD" tvg-rec="0", Sky High Sex HD
+http://stream.skaz.tv/stream/ch3179/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch3100"  tvg-logo="http://skaz.tv/tvicons/3100.png"   tvg-name="CineMan XXX FHD" tvg-rec="0", CineMan XXX FHD
+http://stream.skaz.tv/stream/ch3100/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch3101"  tvg-logo="http://skaz.tv/tvicons/3101.png"   tvg-name="CineMan XXX2 FHD" tvg-rec="0", CineMan XXX2 FHD
+http://stream.skaz.tv/stream/ch3101/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch3181"  tvg-logo="http://skaz.tv/tvicons/3181.png"   tvg-name="Velilla TV Adult Channel HD" tvg-rec="0", Velilla TV Adult Channel HD
+http://stream.skaz.tv/stream/ch3181/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2896"  tvg-logo="http://skaz.tv/tvicons/2896.png"   tvg-name="EroLuxe Blondes" tvg-rec="0", EroLuxe Blondes
+http://stream.skaz.tv/stream/ch2896/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2897"  tvg-logo="http://skaz.tv/tvicons/2897.png"   tvg-name="EroLuxe Anal" tvg-rec="0", EroLuxe Anal
+http://stream.skaz.tv/stream/ch2897/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2898"  tvg-logo="http://skaz.tv/tvicons/2898.png"   tvg-name="EroLuxe Blowjob" tvg-rec="0", EroLuxe Blowjob
+http://stream.skaz.tv/stream/ch2898/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2899"  tvg-logo="http://skaz.tv/tvicons/2899.png"   tvg-name="EroLuxe Cinema" tvg-rec="0", EroLuxe Cinema
+http://stream.skaz.tv/stream/ch2899/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2900"  tvg-logo="http://skaz.tv/tvicons/2900.png"   tvg-name="EroLuxe Cosplay" tvg-rec="0", EroLuxe Cosplay
+http://stream.skaz.tv/stream/ch2900/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2901"  tvg-logo="http://skaz.tv/tvicons/2901.png"   tvg-name="EroLuxe Ebony" tvg-rec="0", EroLuxe Ebony
+http://stream.skaz.tv/stream/ch2901/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2902"  tvg-logo="http://skaz.tv/tvicons/2902.png"   tvg-name="EroLuxe Gays" tvg-rec="0", EroLuxe Gays
+http://stream.skaz.tv/stream/ch2902/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2903"  tvg-logo="http://skaz.tv/tvicons/2903.png"   tvg-name="EroLuxe Gloryhole" tvg-rec="0", EroLuxe Gloryhole
+http://stream.skaz.tv/stream/ch2903/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2948"  tvg-logo="http://skaz.tv/tvicons/2948.png"   tvg-name="EroLuxe Fisting" tvg-rec="0", EroLuxe Fisting
+http://stream.skaz.tv/stream/ch2948/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2904"  tvg-logo="http://skaz.tv/tvicons/2904.png"   tvg-name="EroLuxe Henati" tvg-rec="0", EroLuxe Henati
+http://stream.skaz.tv/stream/ch2904/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2905"  tvg-logo="http://skaz.tv/tvicons/2905.png"   tvg-name="EroLuxe Japanese" tvg-rec="0", EroLuxe Japanese
+http://stream.skaz.tv/stream/ch2905/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2906"  tvg-logo="http://skaz.tv/tvicons/2906.png"   tvg-name="EroLuxe Orgy" tvg-rec="0", EroLuxe Orgy
+http://stream.skaz.tv/stream/ch2906/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2907"  tvg-logo="http://skaz.tv/tvicons/2907.png"   tvg-name="EroLuxe Massage" tvg-rec="0", EroLuxe Massage
+http://stream.skaz.tv/stream/ch2907/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2908"  tvg-logo="http://skaz.tv/tvicons/2908.png"   tvg-name="EroLuxe Lesbians" tvg-rec="0", EroLuxe Lesbians
+http://stream.skaz.tv/stream/ch2908/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2909"  tvg-logo="http://skaz.tv/tvicons/2909.png"   tvg-name="EroLuxe Milf" tvg-rec="0", EroLuxe Milf
+http://stream.skaz.tv/stream/ch2909/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2910"  tvg-logo="http://skaz.tv/tvicons/2910.png"   tvg-name="EroLuxe Step Family" tvg-rec="0", EroLuxe Step Family
+http://stream.skaz.tv/stream/ch2910/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2911"  tvg-logo="http://skaz.tv/tvicons/2911.png"   tvg-name="EroLuxe Solo" tvg-rec="0", EroLuxe Solo
+http://stream.skaz.tv/stream/ch2911/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2912"  tvg-logo="http://skaz.tv/tvicons/2912.png"   tvg-name="EroLuxe 60FPS" tvg-rec="0", EroLuxe 60FPS
+http://stream.skaz.tv/stream/ch2912/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2913"  tvg-logo="http://skaz.tv/tvicons/2913.png"   tvg-name="EroLuxe Shemales" tvg-rec="0", EroLuxe Shemales
+http://stream.skaz.tv/stream/ch2913/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2914"  tvg-logo="http://skaz.tv/tvicons/2914.png"   tvg-name="EroLuxe Russian Teens" tvg-rec="0", EroLuxe Russian Teens
+http://stream.skaz.tv/stream/ch2914/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2915"  tvg-logo="http://skaz.tv/tvicons/2915.png"   tvg-name="EroLuxe Pregnant" tvg-rec="0", EroLuxe Pregnant
+http://stream.skaz.tv/stream/ch2915/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2936"  tvg-logo="http://skaz.tv/tvicons/2936.png"   tvg-name="EroLuxe 4K UHD (4k)" tvg-rec="0", EroLuxe 4K UHD (4k)
+http://stream.skaz.tv/stream/ch2936/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2937"  tvg-logo="http://skaz.tv/tvicons/2937.png"   tvg-name="EroLuxe VIP 4K 60FPS" tvg-rec="0", EroLuxe VIP 4K 60FPS
+http://stream.skaz.tv/stream/ch2937/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2938"  tvg-logo="http://skaz.tv/tvicons/2938.png"   tvg-name="EroLuxe B.B.W." tvg-rec="0", EroLuxe B.B.W.
+http://stream.skaz.tv/stream/ch2938/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2939"  tvg-logo="http://skaz.tv/tvicons/2939.png"   tvg-name="EroLuxe BabySitter" tvg-rec="0", EroLuxe BabySitter
+http://stream.skaz.tv/stream/ch2939/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2940"  tvg-logo="http://skaz.tv/tvicons/2940.png"   tvg-name="EroLuxe B.D.S.M." tvg-rec="0", EroLuxe B.D.S.M.
+http://stream.skaz.tv/stream/ch2940/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2941"  tvg-logo="http://skaz.tv/tvicons/2941.png"   tvg-name="EroLuxe Big Cock" tvg-rec="0", EroLuxe Big Cock
+http://stream.skaz.tv/stream/ch2941/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2942"  tvg-logo="http://skaz.tv/tvicons/2942.png"   tvg-name="EroLuxe Brunette" tvg-rec="0", EroLuxe Brunette
+http://stream.skaz.tv/stream/ch2942/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2943"  tvg-logo="http://skaz.tv/tvicons/2943.png"   tvg-name="EroLuxe CheerLeader" tvg-rec="0", EroLuxe CheerLeader
+http://stream.skaz.tv/stream/ch2943/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2944"  tvg-logo="http://skaz.tv/tvicons/2944.png"   tvg-name="EroLuxe Cuckold" tvg-rec="0", EroLuxe Cuckold
+http://stream.skaz.tv/stream/ch2944/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2945"  tvg-logo="http://skaz.tv/tvicons/2945.png"   tvg-name="EroLuxe Creampie" tvg-rec="0", EroLuxe Creampie
+http://stream.skaz.tv/stream/ch2945/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2946"  tvg-logo="http://skaz.tv/tvicons/2946.png"   tvg-name="EroLuxe Fake Taxi" tvg-rec="0", EroLuxe Fake Taxi
+http://stream.skaz.tv/stream/ch2946/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2947"  tvg-logo="http://skaz.tv/tvicons/2947.png"   tvg-name="EroLuxe Foot Fetish" tvg-rec="0", EroLuxe Foot Fetish
+http://stream.skaz.tv/stream/ch2947/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2949"  tvg-logo="http://skaz.tv/tvicons/2949.png"   tvg-name="EroLuxe GangBang" tvg-rec="0", EroLuxe GangBang
+http://stream.skaz.tv/stream/ch2949/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2950"  tvg-logo="http://skaz.tv/tvicons/2950.png"   tvg-name="EroLuxe Parody" tvg-rec="0", EroLuxe Parody
+http://stream.skaz.tv/stream/ch2950/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2951"  tvg-logo="http://skaz.tv/tvicons/2951.png"   tvg-name="EroLuxe P.O.V." tvg-rec="0", EroLuxe P.O.V.
+http://stream.skaz.tv/stream/ch2951/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2952"  tvg-logo="http://skaz.tv/tvicons/2952.png"   tvg-name="EroLuxe Public Agent" tvg-rec="0", EroLuxe Public Agent
+http://stream.skaz.tv/stream/ch2952/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2953"  tvg-logo="http://skaz.tv/tvicons/2953.png"   tvg-name="EroLuxe RedHeads" tvg-rec="0", EroLuxe RedHeads
+http://stream.skaz.tv/stream/ch2953/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2954"  tvg-logo="http://skaz.tv/tvicons/2954.png"   tvg-name="EroLuxe Schoolgirl" tvg-rec="0", EroLuxe Schoolgirl
+http://stream.skaz.tv/stream/ch2954/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch2955"  tvg-logo="http://skaz.tv/tvicons/2955.png"   tvg-name="EroLuxe Asian" tvg-rec="0", EroLuxe Asian
+http://stream.skaz.tv/stream/ch2955/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch380"  tvg-logo="http://skaz.tv/tvicons/380.png"   tvg-name="Pornbox A Girls Knows" tvg-rec="0", Pornbox A Girls Knows
+http://stream.skaz.tv/stream/ch380/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch841"  tvg-logo="http://skaz.tv/tvicons/841.png"   tvg-name="Pornbox Lisa Ann Pornstar" tvg-rec="0", Pornbox Lisa Ann Pornstar
+http://stream.skaz.tv/stream/ch841/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch248"  tvg-logo="http://skaz.tv/tvicons/248.png"   tvg-name="Pornbox Adult Time" tvg-rec="0", Pornbox Adult Time
+http://stream.skaz.tv/stream/ch248/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch810"  tvg-logo="http://skaz.tv/tvicons/810.png"   tvg-name="Pornbox All Group Sex" tvg-rec="0", Pornbox All Group Sex
+http://stream.skaz.tv/stream/ch810/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch793"  tvg-logo="http://skaz.tv/tvicons/793.png"   tvg-name="Pornbox Bums Bus" tvg-rec="0", Pornbox Bums Bus
+http://stream.skaz.tv/stream/ch793/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch051"  tvg-logo="http://skaz.tv/tvicons/51.png"   tvg-name="Pornbox Babes" tvg-rec="0", Pornbox Babes
+http://stream.skaz.tv/stream/ch051/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch792"  tvg-logo="http://skaz.tv/tvicons/792.png"   tvg-name="Pornbox Bratty Sis" tvg-rec="0", Pornbox Bratty Sis
+http://stream.skaz.tv/stream/ch792/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch246"  tvg-logo="http://skaz.tv/tvicons/246.png"   tvg-name="Pornbox Blacked" tvg-rec="0", Pornbox Blacked
+http://stream.skaz.tv/stream/ch246/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch053"  tvg-logo="http://skaz.tv/tvicons/53.png"   tvg-name="Pornbox Cum 4K" tvg-rec="0", Pornbox Cum 4K
+http://stream.skaz.tv/stream/ch053/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch795"  tvg-logo="http://skaz.tv/tvicons/795.png"   tvg-name="Pornbox Casting Couch" tvg-rec="0", Pornbox Casting Couch
+http://stream.skaz.tv/stream/ch795/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch377"  tvg-logo="http://skaz.tv/tvicons/377.png"   tvg-name="Pornbox Dogfart Network" tvg-rec="0", Pornbox Dogfart Network
+http://stream.skaz.tv/stream/ch377/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch376"  tvg-logo="http://skaz.tv/tvicons/376.png"   tvg-name="Pornbox DDF Busty" tvg-rec="0", Pornbox DDF Busty
+http://stream.skaz.tv/stream/ch376/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch291"  tvg-logo="http://skaz.tv/tvicons/291.png"   tvg-name="Pornbox Diabolic" tvg-rec="0", Pornbox Diabolic
+http://stream.skaz.tv/stream/ch291/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch052"  tvg-logo="http://skaz.tv/tvicons/52.png"   tvg-name="Pornbox Gender X Films" tvg-rec="0", Pornbox Gender X Films
+http://stream.skaz.tv/stream/ch052/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch801"  tvg-logo="http://skaz.tv/tvicons/801.png"   tvg-name="Pornbox Family Strokes" tvg-rec="0", Pornbox Family Strokes
+http://stream.skaz.tv/stream/ch801/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch803"  tvg-logo="http://skaz.tv/tvicons/803.png"   tvg-name="Pornbox Fake Taxi" tvg-rec="0", Pornbox Fake Taxi
+http://stream.skaz.tv/stream/ch803/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch794"  tvg-logo="http://skaz.tv/tvicons/794.png"   tvg-name="Pornbox Fake Hostel" tvg-rec="0", Pornbox Fake Hostel
+http://stream.skaz.tv/stream/ch794/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch799"  tvg-logo="http://skaz.tv/tvicons/799.png"   tvg-name="Pornbox First Anal Quest" tvg-rec="0", Pornbox First Anal Quest
+http://stream.skaz.tv/stream/ch799/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch798"  tvg-logo="http://skaz.tv/tvicons/798.png"   tvg-name="Pornbox Fit 18" tvg-rec="0", Pornbox Fit 18
+http://stream.skaz.tv/stream/ch798/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch800"  tvg-logo="http://skaz.tv/tvicons/800.png"   tvg-name="Pornbox Fapadoo" tvg-rec="0", Pornbox Fapadoo
+http://stream.skaz.tv/stream/ch800/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch824"  tvg-logo="http://skaz.tv/tvicons/824.png"   tvg-name="Pornbox Holed" tvg-rec="0", Pornbox Holed
+http://stream.skaz.tv/stream/ch824/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch250"  tvg-logo="http://skaz.tv/tvicons/250.png"   tvg-name="Pornbox Hentained" tvg-rec="0", Pornbox Hentained
+http://stream.skaz.tv/stream/ch250/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch249"  tvg-logo="http://skaz.tv/tvicons/249.png"   tvg-name="Pornbox Jules Jordan" tvg-rec="0", Pornbox Jules Jordan
+http://stream.skaz.tv/stream/ch249/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch290"  tvg-logo="http://skaz.tv/tvicons/290.png"   tvg-name="Pornbox Jays Pov" tvg-rec="0", Pornbox Jays Pov
+http://stream.skaz.tv/stream/ch290/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch375"  tvg-logo="http://skaz.tv/tvicons/375.png"   tvg-name="Pornbox Jesh By Jesh" tvg-rec="0", Pornbox Jesh By Jesh
+http://stream.skaz.tv/stream/ch375/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch823"  tvg-logo="http://skaz.tv/tvicons/823.png"   tvg-name="Pornbox Interracial Pass" tvg-rec="0", Pornbox Interracial Pass
+http://stream.skaz.tv/stream/ch823/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch289"  tvg-logo="http://skaz.tv/tvicons/289.png"   tvg-name="Pornbox Kinky Family" tvg-rec="0", Pornbox Kinky Family
+http://stream.skaz.tv/stream/ch289/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch809"  tvg-logo="http://skaz.tv/tvicons/809.png"   tvg-name="Pornbox Lets Do It" tvg-rec="0", Pornbox Lets Do It
+http://stream.skaz.tv/stream/ch809/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch813"  tvg-logo="http://skaz.tv/tvicons/813.png"   tvg-name="Pornbox Love Her Feet" tvg-rec="0", Pornbox Love Her Feet
+http://stream.skaz.tv/stream/ch813/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch807"  tvg-logo="http://skaz.tv/tvicons/807.png"   tvg-name="Pornbox Love Home Porn" tvg-rec="0", Pornbox Love Home Porn
+http://stream.skaz.tv/stream/ch807/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch850"  tvg-logo="http://skaz.tv/tvicons/850.png"   tvg-name="Pornbox Massage Rooms" tvg-rec="0", Pornbox Massage Rooms
+http://stream.skaz.tv/stream/ch850/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch815"  tvg-logo="http://skaz.tv/tvicons/815.png"   tvg-name="Pornbox My Tiny Wish" tvg-rec="0", Pornbox My Tiny Wish
+http://stream.skaz.tv/stream/ch815/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch817"  tvg-logo="http://skaz.tv/tvicons/817.png"   tvg-name="Pornbox My Family Pies" tvg-rec="0", Pornbox My Family Pies
+http://stream.skaz.tv/stream/ch817/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch806"  tvg-logo="http://skaz.tv/tvicons/806.png"   tvg-name="Pornbox Must Not Fap" tvg-rec="0", Pornbox Must Not Fap
+http://stream.skaz.tv/stream/ch806/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch292"  tvg-logo="http://skaz.tv/tvicons/292.png"   tvg-name="Pornbox Model Media Asia" tvg-rec="0", Pornbox Model Media Asia
+http://stream.skaz.tv/stream/ch292/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch816"  tvg-logo="http://skaz.tv/tvicons/816.png"   tvg-name="Pornbox Mom Teach Sex" tvg-rec="0", Pornbox Mom Teach Sex
+http://stream.skaz.tv/stream/ch816/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch802"  tvg-logo="http://skaz.tv/tvicons/802.png"   tvg-name="Pornbox Mamacitaz" tvg-rec="0", Pornbox Mamacitaz
+http://stream.skaz.tv/stream/ch802/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch814"  tvg-logo="http://skaz.tv/tvicons/814.png"   tvg-name="Pornbox My Dirty Hobby" tvg-rec="0", Pornbox My Dirty Hobby
+http://stream.skaz.tv/stream/ch814/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch247"  tvg-logo="http://skaz.tv/tvicons/247.png"   tvg-name="Pornbox Pornochic" tvg-rec="0", Pornbox Pornochic
+http://stream.skaz.tv/stream/ch247/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch797"  tvg-logo="http://skaz.tv/tvicons/797.png"   tvg-name="Pornbox Public Agent" tvg-rec="0", Pornbox Public Agent
+http://stream.skaz.tv/stream/ch797/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch820"  tvg-logo="http://skaz.tv/tvicons/820.png"   tvg-name="Pornbox Passion" tvg-rec="0", Pornbox Passion
+http://stream.skaz.tv/stream/ch820/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch804"  tvg-logo="http://skaz.tv/tvicons/804.png"   tvg-name="Pornbox Pure Mature" tvg-rec="0", Pornbox Pure Mature
+http://stream.skaz.tv/stream/ch804/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch812"  tvg-logo="http://skaz.tv/tvicons/812.png"   tvg-name="Pornbox Princess Cum" tvg-rec="0", Pornbox Princess Cum
+http://stream.skaz.tv/stream/ch812/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch811"  tvg-logo="http://skaz.tv/tvicons/811.png"   tvg-name="Pornbox Real Dirty Videos" tvg-rec="0", Pornbox Real Dirty Videos
+http://stream.skaz.tv/stream/ch811/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch821"  tvg-logo="http://skaz.tv/tvicons/821.png"   tvg-name="Pornbox Reality Junkies" tvg-rec="0", Pornbox Reality Junkies
+http://stream.skaz.tv/stream/ch821/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch822"  tvg-logo="http://skaz.tv/tvicons/822.png"   tvg-name="Pornbox Reality Kings" tvg-rec="0", Pornbox Reality Kings
+http://stream.skaz.tv/stream/ch822/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch796"  tvg-logo="http://skaz.tv/tvicons/796.png"   tvg-name="Pornbox Slim 4K" tvg-rec="0", Pornbox Slim 4K
+http://stream.skaz.tv/stream/ch796/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch818"  tvg-logo="http://skaz.tv/tvicons/818.png"   tvg-name="Pornbox Strokies" tvg-rec="0", Pornbox Strokies
+http://stream.skaz.tv/stream/ch818/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch825"  tvg-logo="http://skaz.tv/tvicons/825.png"   tvg-name="Pornbox True Amatuers" tvg-rec="0", Pornbox True Amatuers
+http://stream.skaz.tv/stream/ch825/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch851"  tvg-logo="http://skaz.tv/tvicons/851.png"   tvg-name="Pornbox Elsa Jean Pornstar" tvg-rec="0", Pornbox Elsa Jean Pornstar
+http://stream.skaz.tv/stream/ch851/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch808"  tvg-logo="http://skaz.tv/tvicons/808.png"   tvg-name="Pornbox Riley Reid Pornstar" tvg-rec="0", Pornbox Riley Reid Pornstar
+http://stream.skaz.tv/stream/ch808/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch836"  tvg-logo="http://skaz.tv/tvicons/836.png"   tvg-name="Pornbox Adriana Chechik Pornstar" tvg-rec="0", Pornbox Adriana Chechik Pornstar
+http://stream.skaz.tv/stream/ch836/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch837"  tvg-logo="http://skaz.tv/tvicons/837.png"   tvg-name="Pornbox Dani Jensen Pornstar" tvg-rec="0", Pornbox Dani Jensen Pornstar
+http://stream.skaz.tv/stream/ch837/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch838"  tvg-logo="http://skaz.tv/tvicons/838.png"   tvg-name="Pornbox Gina Gerson Pornstar" tvg-rec="0", Pornbox Gina Gerson Pornstar
+http://stream.skaz.tv/stream/ch838/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch839"  tvg-logo="http://skaz.tv/tvicons/839.png"   tvg-name="Pornbox Luxurygirl Pornstar" tvg-rec="0", Pornbox Luxurygirl Pornstar
+http://stream.skaz.tv/stream/ch839/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch840"  tvg-logo="http://skaz.tv/tvicons/840.png"   tvg-name="Pornbox Mia Malkova Pornstar" tvg-rec="0", Pornbox Mia Malkova Pornstar
+http://stream.skaz.tv/stream/ch840/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch3787"  tvg-logo="http://skaz.tv/tvicons/3787.png"   tvg-name="TVPlay WorldXXX" tvg-rec="0", TVPlay WorldXXX
+http://stream.skaz.tv/stream/ch3787/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch3788"  tvg-logo="http://skaz.tv/tvicons/3788.png"   tvg-name="TVPlay НашеXXX" tvg-rec="0", TVPlay НашеXXX
+http://stream.skaz.tv/stream/ch3788/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="18+ 💓"  tvg-id="ch3789"  tvg-logo="http://skaz.tv/tvicons/3789.png"   tvg-name="TVPlay МультыXXX" tvg-rec="0", TVPlay МультыXXX
+http://stream.skaz.tv/stream/ch3789/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="18+ 💓" , Adult IPTV Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1  group-title="18+ 💓" , Adult IPTV Hardcore
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1  group-title="18+ 💓" ,Russian r
-http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1  group-title="18+ 💓" ,tva-x17
+https://ovhv47.twincdn.com/videos/42/42333/42333_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x1
+https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-xx1
+https://ovhv47.twincdn.com/videos/43/43392/43392_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x2
+https://ovhv47.twincdn.com/videos/43/43394/43394_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x3
+https://ovhv47.twincdn.com/videos/43/43395/43395_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x4
+https://ovhv47.twincdn.com/videos/43/43390/43390_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x6
+https://ovhv47.twincdn.com/videos/43/43397/43397_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x5
+https://ovhv47.twincdn.com/videos/43/43389/43389_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x7
+https://ovhv47.twincdn.com/videos/43/43398/43398_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x8
+https://ovhv47.twincdn.com/videos/42/42313/42313_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x9
+https://ovhv47.twincdn.com/videos/42/42314/42314_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x10
+https://ovhv47.twincdn.com/videos/42/42315/42315_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x11
+https://ovhv47.twincdn.com/videos/42/42316/42316_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x12
+https://ovhv47.twincdn.com/videos/42/42318/42318_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x13
+https://ovhv47.twincdn.com/videos/42/42321/42321_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x14
+https://ovhv47.twincdn.com/videos/42/42324/42324_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x15
+https://ovhv47.twincdn.com/videos/42/42325/42325_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x16
+https://ovhv47.twincdn.com/videos/42/42331/42331_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x18
+https://ovhv47.twincdn.com/videos/42/42335/42335_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x19
+https://ovhv47.twincdn.com/videos/42/42339/42339_720p.mp4?key_iptv.org.ua
+#EXTINF:-1  group-title="18+ 💓" ,tva-x20
+https://ovhv47.twincdn.com/videos/42/42346/42346_720p.mp4?key_iptv.org.ua
 #EXTINF:-1  group-title="18+ 💓" ,18+ zamuzhnyaya_no_raskreposhchennaya
 https://video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4
 #EXTINF:-1  group-title="18+ 💓" ,18+ 5_klyuchey_k_naslazhdeniyu_1 
@@ -7621,46 +7855,4 @@ https://video1.tizam.cc/old_films/Fatal-Orchid-2-RUS.mp4
 https://video1.tizam.cc/old_films/Luxurious2.mp4
 #EXTINF:-1  group-title="18+ 💓" ,18+ Роскошный 4
 https://video1.tizam.cc/old_films/Luxurious4.mp4
-#EXTINF:-1  group-title="18+ 💓" ,tva-x1
-https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-xx1
-https://ovhv47.twincdn.com/videos/43/43392/43392_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x2
-https://ovhv47.twincdn.com/videos/43/43394/43394_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x3
-https://ovhv47.twincdn.com/videos/43/43395/43395_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x4
-https://ovhv47.twincdn.com/videos/43/43390/43390_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x6
-https://ovhv47.twincdn.com/videos/43/43397/43397_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x5
-https://ovhv47.twincdn.com/videos/43/43389/43389_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x7
-https://ovhv47.twincdn.com/videos/43/43398/43398_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x8
-https://ovhv47.twincdn.com/videos/42/42313/42313_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x9
-https://ovhv47.twincdn.com/videos/42/42314/42314_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x10
-https://ovhv47.twincdn.com/videos/42/42315/42315_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x11
-https://ovhv47.twincdn.com/videos/42/42316/42316_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x12
-https://ovhv47.twincdn.com/videos/42/42318/42318_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x13
-https://ovhv47.twincdn.com/videos/42/42321/42321_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x14
-https://ovhv47.twincdn.com/videos/42/42324/42324_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x15
-https://ovhv47.twincdn.com/videos/42/42325/42325_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x16
-https://ovhv47.twincdn.com/videos/42/42331/42331_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x17
-https://ovhv47.twincdn.com/videos/42/42333/42333_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x18
-https://ovhv47.twincdn.com/videos/42/42335/42335_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x19
-https://ovhv47.twincdn.com/videos/42/42339/42339_720p.mp4?key_iptv.org.ua
-#EXTINF:-1  group-title="18+ 💓" ,tva-x20
-https://ovhv47.twincdn.com/videos/42/42346/42346_720p.mp4?key_iptv.org.ua
 #EXT-X-ENDLIST
