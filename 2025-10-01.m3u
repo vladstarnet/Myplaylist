@@ -36,7 +36,7 @@ http://stream.skaz.tv/stream/ch1800/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="timeless-dizi"  tvg-logo="https://epg.iptvx.one/picons/timeless-dizi.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Dizi
 http://stream.skaz.tv/stream/ch1878/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="enter-film"  tvg-logo="https://af-play.com/storage/images/channel_logos/59f90b6fd2719ef638fee21fa7840831.png"   tvg-rec="1" catchup_days="7",Enter-фильм HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/enter-film-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/enter-film-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Epic Drama HD"  tvg-logo="https://epg.iptvx.one/picons/epik-drama.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Epic Drama HD
 http://stream.skaz.tv/stream/ch681/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Fan HD"  tvg-logo="https://epg.iptvx.one/picons/fanhd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Fan HD
@@ -58,11 +58,11 @@ http://stream.skaz.tv/stream/ch382/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Kinoliving"  tvg-logo="https://epg.iptvx.one/picons/kinoliving.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Kinoliving
 http://stream.skaz.tv/stream/ch2069/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-action-ua-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/9c0dbd640b1957be52c2f35ffc47c1f8.png"   tvg-rec="7" catchup-days="7",Kino Action HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/kino-action-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/kino-action-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-comedy-ua"  tvg-logo="https://af-play.com/storage/images/channel_logos/ba0facb1f6d314d8ec31ccfcb24b2c8a.png"   tvg-rec="7" catchup-days="7",Kino Comedy HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/kino-comedy-ua/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/kino-comedy-ua/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kino-premiere-ua-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/79e28805cf8f20aa307ecc17fefcbe05.png"   tvg-rec="7" catchup-days="7",Kino Premiere HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/kino-premiere-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/kino-premiere-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinosweet"  tvg-logo="https://static.sweet.tv/images/icons/channels/1766.png" ,KINOSWEET HD [UA]
 http://193.27.209.122/kinosweet/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="kinowood"  tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6f83e2b1-d8c3-4a94-880a-2337894050e8.png" ,Kinowood [UA]
@@ -84,7 +84,7 @@ http://stream.skaz.tv/stream/ch712/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="star-family"  tvg-logo="https://epg.iptvx.one/picons/star-family.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Star Family HD
 http://stream.skaz.tv/stream/ch585/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="star-cinema-ua"  tvg-logo="https://epg.iptvx.one/picons/star-cinema-ua.png"   tvg-rec="1" catchup_days="7",Star Cinema HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/star-cinema-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/star-cinema-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Start Air HD"  tvg-logo="https://epg.iptvx.one/picons/start-air.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Start Air HD
 http://stream.skaz.tv/stream/ch506/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Start World HD"  tvg-logo="https://epg.iptvx.one/picons/start-world.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Start World HD
@@ -92,7 +92,7 @@ http://stream.skaz.tv/stream/ch495/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Sumiko HD"  tvg-logo="https://epg.iptvx.one/picons/sumiko.png" ,Sumiko HD
 http://stream.skaz.tv/stream/ch3313/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="superplus"  tvg-logo="https://af-play.com/storage/images/channel_logos/7fb4709428bc68766fc541c017c9f3af.png"   tvg-rec="7" catchup-days="7",Super+ HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/super-plus-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/super-plus-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="superplus"  tvg-logo="https://af-play.com/storage/images/channel_logos/7fb4709428bc68766fc541c017c9f3af.png" ,Super+ HD [UA]
 http://193.27.209.122/super_plus/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="suspense"  tvg-logo="https://epg.iptvx.one/picons/suspense.png" ,Suspense HD
@@ -276,17 +276,17 @@ http://stream.skaz.tv/stream/ch024/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Техно 24"  tvg-logo="https://epg.iptvx.one/picons/texno-24.png"   catchup="fs" tvg-rec="3" timeshift="0", Техно 24
 http://stream.skaz.tv/stream/ch438/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-action"  tvg-logo="https://af-play.com/storage/images/channel_logos/a63fe2c6c2ddc0d01c6764a991697023.png"   tvg-rec="7" catchup-days="7",Твоє кіно. Action HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/tvoe-kino-action-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tvoe-kino-action-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-action" ,Твоє кіно. Action HD [UA]
 http://193.27.209.122/tvoje_kino_action/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvij-serial"  tvg-logo="https://af-play.com/storage/images/channel_logos/32617d5d78aa3b2c2c90850f1dbc8249.png"   tvg-rec="7" catchup-days="7",Твій Серіал HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/tviy-serial-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tviy-serial-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-xit"  tvg-logo="https://af-play.com/storage/images/channel_logos/5b3b1a4069909ffb3b07679513da29d5.png"   tvg-rec="7" catchup-days="7",Твоє кіно. Хіт HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/tvoe-kino-hit-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tvoe-kino-hit-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-xit" ,Твоє кіно. Хіт HD [UA]
 http://193.27.209.122/tvoje_kino_hit/index.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="tvoje-kino-relax"  tvg-logo="https://af-play.com/storage/images/channel_logos/ea656ea5e5fc5f31bd10f92c6d7f60a3.png"   tvg-rec="7" catchup-days="7",Твоє кіно. Relax HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/tvoe-kino-relax-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tvoe-kino-relax-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Феникс+ Кино"  tvg-logo="https://epg.iptvx.one/picons/feniks-plus-kino.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Феникс+ Кино
 http://stream.skaz.tv/stream/ch505/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Movie 🎞️"  tvg-id="Хит HD"  tvg-logo="https://epg.iptvx.one/picons/khit.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Хит HD
@@ -1308,15 +1308,15 @@ http://stream.skaz.tv/stream/ch001/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy"  tvg-logo="http://skaz.tv/tvicon/1089.png" ,Первый HD orig
 http://stream.skaz.tv/stream/ch1089/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy"  tvg-logo="https://af-play.com/storage/images/channel_logos/pervyj-hd.png"   tvg-rec="1" catchup_days="7",Первый HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/pervyj-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/pervyj-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy" ,Первый HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy-kanal-eu"  tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Первый Евpопa
 http://stream.skaz.tv/stream/ch649/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pervy-pl4"  tvg-logo="https://epg.iptvx.one/picons/pervy-pl4.png"   tvg-rec="1" catchup_days="7",Первый канал HD (+4)
-http://bethoven.af-stream.com:1600/s/yokrgdit/pervyj-plus-4-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/pervyj-plus-4-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia1"  tvg-logo="https://af-play.com/storage/images/channel_logos/rossija-hd.png"   tvg-rec="1" catchup_days="7",Россия 1 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/rossija-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/rossija-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia1"  tvg-logo="https://af-play.com/storage/images/channel_logos/rossija-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Россия 1 HD
 http://stream.skaz.tv/stream/ch002/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia1"  tvg-logo="https://af-play.com/storage/images/channel_logos/rossija-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Россия 1 HD orig
@@ -1338,31 +1338,31 @@ http://stream.skaz.tv/stream/ch007/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia-24" ,Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rossia-24"  tvg-logo="https://af-play.com/storage/images/channel_logos/rossija24.png"   tvg-rec="1" catchup_days="7",Россия 24
-http://bethoven.af-stream.com:1600/s/yokrgdit/rossija24/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/rossija24/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="kultura"  tvg-logo="https://af-play.com/storage/images/pack_logos/8d63142cc2202671e8ac563c85b76cb0.png"   tvg-rec="1" catchup_days="7",Россия Культура HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/rossija-k-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/rossija-k-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="izvestia"  tvg-logo="https://af-play.com/storage/images/pack_logos/9239fbfc62b6981763605f9115911779.png" ,Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="izvestia"  tvg-logo="https://af-play.com/storage/images/pack_logos/9239fbfc62b6981763605f9115911779.png"   tvg-rec="0",Известия HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/izvestija-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/izvestija-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TASS_Logo_Cyrillic.svg/1200px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tv3-ru"  tvg-logo="https://i.imgur.com/JLAvq8O.png"   tvg-rec="1" catchup_days="7",ТВ3 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/tv3-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tv3-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rentv"  tvg-logo="https://i.imgur.com/0Tu5lte.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Рен ТВ HD
 http://stream.skaz.tv/stream/ch004/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ren-tv-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/ren-tv-hd.png"   tvg-rec="1" catchup_days="7",РЕН ТВ HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ren-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ren-tv-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rentv-int"  tvg-logo="https://i.imgur.com/gBjk9oF.png" ,РЕН ТВ International
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="5kanal-ru"  tvg-logo="http://skaz.tv/tvicon/68.png" ,5 Канал
 http://stream.skaz.tv/stream/ch068/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="5kanal-ru"  tvg-logo="https://af-play.com/storage/images/channel_logos/5kanal.png"   tvg-rec="7" catchup-days="7",5 канал
-http://bethoven.af-stream.com:1600/s/yokrgdit/5kanal/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/5kanal/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="8-kanal"  tvg-logo="https://af-play.com/storage/images/channel_logos/8-kanal.png"   tvg-rec="7" catchup-days="7",8 канал
-http://bethoven.af-stream.com:1600/s/yokrgdit/8-kanal/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/8-kanal/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ntv"  tvg-logo="https://af-play.com/storage/images/channel_logos/ntv-hd.png"   tvg-rec="1" catchup_days="7",НТВ HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ntv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ntv-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ntv"  tvg-logo="http://skaz.tv/tvicon/3.png" ,НТВ HD
 http://stream.skaz.tv/stream/ch003/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ntv-mir"  tvg-logo="http://skaz.tv/tvicons/392.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",НTВ Mир
@@ -1374,11 +1374,11 @@ http://stream.skaz.tv/stream/ch120/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tvcentr"  tvg-logo="http://skaz.tv/tvicon/22.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",ТВЦ HD
 http://stream.skaz.tv/stream/ch022/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tvc-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/1e29ec3a2002e44967675e2cbe103df9.png"   tvg-rec="1" catchup_days="7",ТВЦ HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/tvc-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tvc-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ТНТ HD"  tvg-logo="http://skaz.tv/tvicon/5.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",ТНТ HD
 http://stream.skaz.tv/stream/ch005/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/623df4838211e190eb385bdfdb6cdd87.png"   tvg-rec="1" catchup_days="7",ТНТ HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/tnt-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tnt-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt-int-eu"  tvg-logo="https://i.imgur.com/l0RGbRI.png" ,ТНТ International (Европа)
 http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/15230/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt-int-cis"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRc9ioiwBZLfmNxAyc4DQ1jTkGrgLcY--qJ_LvYNVAVwzuGmV5bxxAsaX4kmVdlxtwt8&usqp=CAU" ,ТНТ Baltic
@@ -1386,41 +1386,41 @@ https://wowza1.leisertv.com/live/tnt.stream/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt4"  tvg-logo="https://af-play.com/storage/images/channel_logos/5905abb2cda45f739c79ce1bc94092ee.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",ТНТ4 HD
 http://stream.skaz.tv/stream/ch014/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="tnt4-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/5905abb2cda45f739c79ce1bc94092ee.png"   tvg-rec="1" catchup_days="7",ТНТ4 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/tnt4-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tnt4-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="СТС HD"  tvg-logo="https://i.imgur.com/ilUzAeb.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",СТС HD
 http://stream.skaz.tv/stream/ch021/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ctc-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/ctc-hd.png"   tvg-rec="1" catchup_days="7",СТС HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ctc-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ctc-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="СТС love"  tvg-logo="https://epg.iptvx.one/picons/sts-love.png"   catchup="fs" tvg-rec="3" timeshift="3",СТС love
 http://stream.skaz.tv/stream/ch111/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="sts-love"  tvg-logo="https://epg.iptvx.one/picons/sts-love.png"   tvg-rec="7" catchup-days="7",СТС love
-http://bethoven.af-stream.com:1600/s/yokrgdit/sts-love/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/sts-love/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Пятница! HD"  tvg-logo="http://skaz.tv/tvicon/25.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Пятница! HD
 http://stream.skaz.tv/stream/ch025/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="piatnica-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/piatnica-hd.png"   tvg-rec="1" catchup_days="7",Пятница! HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/piatnica-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/piatnica-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="piatnica-int"  tvg-logo="https://epg.iptvx.one/picons/piatnica-int.png" ,Пятница! International
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Суббота"  tvg-logo="https://af-play.com/storage/images/channel_logos/74554a0d02f5156e315d7331d945e5d9.png"   catchup="fs" tvg-rec="3" timeshift="2",Суббота HD
 http://stream.skaz.tv/stream/ch414/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="super-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/74554a0d02f5156e315d7331d945e5d9.png"   tvg-rec="1" catchup_days="7",Суббота HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/super-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/super-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Арт"  tvg-logo="https://epg.iptvx.one/picons/art-tv.png"   catchup="fs" tvg-rec="3" timeshift="3",Арт
 http://stream.skaz.tv/stream/ch3325/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="doverie"  tvg-logo="https://i.imgur.com/QDqDQzt.png"   catchup="fs" tvg-rec="3" timeshift="0",Доверие
 http://stream.skaz.tv/stream/ch534/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="domashnij-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/7bc33d68f1a03e4c22e08dd077a58fd7.png"   tvg-rec="1" catchup_days="7",Домашний HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/domashnij-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/domashnij-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="domashnij"  tvg-logo="https://af-play.com/storage/images/channel_logos/domashnij.png"   tvg-rec="7" catchup-days="7",Домашний
-http://bethoven.af-stream.com:1600/s/yokrgdit/domashnij/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/domashnij/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="vremia"  tvg-logo="https://af-play.com/storage/images/channel_logos/c24a726e6da951f2b706ce06ebb0c156.png" ,Время HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/vremya-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/vremya-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="vremia"  tvg-logo="https://i.imgur.com/jZlj3ga.png"   catchup="fs" tvg-rec="3" timeshift="2",Время
 http://stream.skaz.tv/stream/ch118/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Ностальгия"  tvg-logo="https://i.imgur.com/YBdBc0J.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Ностальгия
 http://stream.skaz.tv/stream/ch113/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="perec"  tvg-logo="https://epg.iptvx.one/picons/perec-int.png"   tvg-rec="7" catchup-days="7",Перец
-http://bethoven.af-stream.com:1600/s/yokrgdit/perec/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/perec/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Перец International"  tvg-logo="https://i.imgur.com/On6ggLe.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Перец International
 http://stream.skaz.tv/stream/ch633/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Плюс Минус 16 HD"  tvg-logo="https://epg.iptvx.one/picons/ruskorabl.png"   catchup="fs" tvg-rec="3" timeshift="3",Плюс Минус 16 HD
@@ -1434,69 +1434,69 @@ http://stream.skaz.tv/stream/ch507/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Че"  tvg-logo="https://i.imgur.com/ZOcDGpB.png"   catchup="fs" tvg-rec="3" timeshift="2",Че!
 http://stream.skaz.tv/stream/ch109/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="4e"  tvg-logo="https://af-play.com/storage/images/channel_logos/a3c72b1fe3cc16b982394fe25d614d87.png" ,Че!
-http://bethoven.af-stream.com:1600/s/yokrgdit/4e/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/4e/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Ю"  tvg-logo="https://i.imgur.com/KDZvt0Q.png"   catchup="fs" tvg-rec="3" timeshift="2",Ю ТВ
 http://stream.skaz.tv/stream/ch420/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="yu-tv"  tvg-logo="https://af-play.com/storage/images/channel_logos/01c342d4dfc48445ac363aaed3e6a2ab.png" ,Ю ТВ
-http://bethoven.af-stream.com:1600/s/yokrgdit/yu-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/yu-tv/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id=" Москва 24"  tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" ,Москва 24
 http://stream.skaz.tv/stream/ch006/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="moskva-24"  tvg-logo="https://epg.iptvx.one/picons/moskva-24.png"   tvg-rec="0",Москва 24
-http://bethoven.af-stream.com:1600/s/yokrgdit/moskva-24/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/moskva-24/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="moskva-doverie"  tvg-logo="https://af-play.com/storage/images/pack_logos/97c1f37a9136f7040bc0ca49ce6c6e63.png"   tvg-rec="1" catchup_days="7",Москва Доверие
-http://bethoven.af-stream.com:1600/s/yokrgdit/moskva-doverie/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/moskva-doverie/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="78kanal"  tvg-logo="https://i.imgur.com/TNpOr8v.png" ,Канал 78 (Санкт Петербург)
 http://stream.skaz.tv/stream/ch3301/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="sankt-peterburg"  tvg-logo="https://af-play.com/storage/images/channel_logos/a62e2ed46020ce70fbee86b95a1c22a6.png"   tvg-rec="1" catchup_days="7",Санкт-Петербург HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/sankt-peterburg-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/sankt-peterburg-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="360-news"  tvg-logo="https://af-play.com/storage/images/channel_logos/24a20a4198e4a44619eff15a1485591e.png"   tvg-rec="1" catchup_days="7",360 Новости HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/360-novosti-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/360-novosti-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="360-podmoskovie"  tvg-logo="https://af-play.com/storage/images/pack_logos/9358fc9d16cbb434631cb5542083bf14.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",360 HD
 http://stream.skaz.tv/stream/ch516/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="360-podmoskovie"  tvg-logo="https://af-play.com/storage/images/pack_logos/9358fc9d16cbb434631cb5542083bf14.png"   tvg-rec="1" catchup_days="7",360 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/telekanal-360-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/telekanal-360-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="dozhd-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/e7b24387ac55fef8bccc61e6ad7ce9c9.png"   tvg-rec="1" catchup_days="7",Дождь HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/dozhd-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/dozhd-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Дождь"  tvg-logo="http://skaz.tv/tvicon/88.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Дождь
 http://stream.skaz.tv/stream/ch088/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="zvezda"  tvg-logo="https://af-play.com/storage/images/pack_logos/f2b1554644034dba7e80709ec4255637.png" ,Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="zvezda-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/f2b1554644034dba7e80709ec4255637.png"   tvg-rec="1" catchup_days="7",Звезда HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/zvezda-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/zvezda-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Звезда Плюс"  tvg-logo="http://skaz.tv/tvicon/724.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Звезда Плюс HD
 http://stream.skaz.tv/stream/ch724/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="zvezda-plus-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/d79b0055c7a0b24d7da8c986504ec444.png"   tvg-rec="1" catchup_days="7",Звезда Плюс HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/zvezda-plus-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/zvezda-plus-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rt-news"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",RT HD
 http://stream.skaz.tv/stream/ch127/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="russia-today-hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"   tvg-rec="0",RT HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/russia-today-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/russia-today-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="RTД HD"  tvg-logo="https://i.imgur.com/aeu5zIC.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",RT Док HD
 http://stream.skaz.tv/stream/ch439/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="russia-today-doc-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/russia-today-doc-hd.png"   tvg-rec="0",RT Док HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/russia-today-doc-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/russia-today-doc-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://af-play.com/storage/images/pack_logos/0a08948b5b2b17a759009932998a30fe.png" ,Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="mir-24-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0a08948b5b2b17a759009932998a30fe.png"   tvg-rec="1" catchup_days="7",Мир 24 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/mir-24-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/mir-24-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="mir"  tvg-logo="https://af-play.com/storage/images/pack_logos/517e7fdfcab12896dc4a98cc38527bbf.png" ,Мир HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="mir-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/517e7fdfcab12896dc4a98cc38527bbf.png"   tvg-rec="1" catchup_days="7",Мир HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/mir-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/mir-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="mir"  tvg-logo="https://i.ibb.co/qrRqkMQ/image-32.png" ,Мир International
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="my-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/54dc1db91ca6fdbbbc9aee4758dace25.png"   tvg-rec="7" catchup-days="7",Мы HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/my-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/my-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="Нaстоящее время HD"  tvg-logo="http://skaz.tv/tvicon/528.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Нaстоящее время HD
 http://stream.skaz.tv/stream/ch528/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="nastoyaschee-vremya-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/nastoyaschee-vremya-hd.png"   tvg-rec="1" catchup_days="7",Настоящее время HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/nastoyaschee-vremya-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/nastoyaschee-vremya-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="osn"  tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" ,ОСН [1080p]
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="otr"  tvg-logo="https://i.imgur.com/VaWlnjZ.png"   catchup="fs" tvg-rec="3" timeshift="0",ОТР HD
 http://stream.skaz.tv/stream/ch405/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="otr"  tvg-logo="https://af-play.com/storage/images/channel_logos/0408a26d4e6e86f3ac76614db3fde6ba.png"   tvg-rec="1" catchup_days="7",ОТР HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/otr-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/otr-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="prnk-tv"  tvg-logo="https://epg.iptvx.one/picons/prnk-tv.png" ,Первый Российский Национальный канал [720p]
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="pro-business"  tvg-logo="https://iptvx.one/picons/pro-business.png" ,Про бизнес
@@ -1504,11 +1504,11 @@ http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="РБК НD"  tvg-logo="https://i.imgur.com/CwhmJby.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",РБК НD
 http://stream.skaz.tv/stream/ch099/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rbk-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/d1f7535f078cc2243625e47986ffd91d.png"   tvg-rec="1" catchup_days="7",РБК HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/rbk-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/rbk-hd/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="RTVI"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBb4UHuKWiHuUCNqgskcOTeH_NLqbOJiaOEKiq2I2dpja6HOPB373_TtlO2qb0sjGDdg&usqp=CAU"   tvg-rec="1" catchup-type="auto" catchup_days="3",RTVI
 http://stream.skaz.tv/stream/ch100/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="rtvi"  tvg-logo="https://af-play.com/storage/images/channel_logos/rtvi.png"   tvg-rec="1" catchup_days="7",RTVi
-http://bethoven.af-stream.com:1600/s/yokrgdit/rtvi/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/rtvi/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://tmsearch.onlinepatent.ru/images/9f4/9f458d57-0041-4aa3-aa43-39c33cc483af.jpg" ,News Front TV [720p]
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-logo="https://i.imgur.com/v0OYe1d.png" ,Соловьев.Live [1080p]
@@ -1592,7 +1592,7 @@ https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="ch3831"  tvg-logo="https://af-play.com/storage/images/channel_logos/988d91c7197840f2ff4dcbd4dbf85c99.png" ,Центральное Tелевидение HD
 http://stream.skaz.tv/stream/ch3831/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="centralnoe-tv"  tvg-logo="https://af-play.com/storage/images/channel_logos/988d91c7197840f2ff4dcbd4dbf85c99.png" ,Центральное телевидение
-http://bethoven.af-stream.com:1600/s/yokrgdit/centralnoe-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/centralnoe-tv/video.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="muzsoyuz"  tvg-logo="https://i.imgur.com/Puk1Bhx.png" ,Муз союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1  group-title="Россия 🇷🇺"  tvg-id="soyuz"  tvg-logo="https://i.imgur.com/w3OewHc.png"   catchup="fs" tvg-rec="3" timeshift="0",Союз
@@ -1936,63 +1936,63 @@ http://212.193.53.254/app/potok/playlist.m3u8
 #EXTINF:-1  group-title="Новороссия 🏳️"  tvg-id="tavria"  tvg-logo="https://i.imgur.com/gqung6i.png" ,Таврия
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-pershy"  tvg-logo="https://af-play.com/storage/images/pack_logos/e5e8b41181342129a7a8ce1f0b4c34d6.png" ,Перший Національний HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/pervyj-ua-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/pervyj-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="1plus1" ,1+1 Марафон HD
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="1plus1-ukraina"  tvg-logo="https://i.imgur.com/FlG7npq.png"   tvg-rec="1" catchup_days="7",1+1 Україна HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/1-plus-1-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/1-plus-1-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="1plus1-int"  tvg-logo="https://i.imgur.com/LOY0rtp.png" ,1+1 International HD
 http://ott.watch/stream/DZZPCCW11QW/105.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="2plus2"  tvg-logo="https://af-play.com/storage/images/pack_logos/6dfaf513312a5f964f7051cff10e1b0a.png"   tvg-rec="1" catchup_days="7",2+2 HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/2-plus-2-ua-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/2-plus-2-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.imgur.com/v6KBgqk.png" ,2+2 Марафон
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282434
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="inter-ua"  tvg-logo="https://af-play.com/storage/images/pack_logos/8ecde299d0c2862e37ea7fd7e7688ad1.png"   tvg-rec="1" catchup_days="7",Интер HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/inter-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/inter-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="inter-plus-ua" ,Iнтер+ HD
 http://ott.watch/stream/DZZPCCW11QW/345.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="k1-ua"  tvg-logo="https://af-play.com/storage/images/pack_logos/792d37bb51f0369ccef873c4a5261e37.png"   tvg-rec="1" catchup_days="7",К1 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/k1-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/k1-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="k2-ua"  tvg-logo="https://i.imgur.com/NMhydr5.png" ,K2 HD
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/15126/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ictv-ua"  tvg-logo="https://af-play.com/storage/images/pack_logos/c1208931dd7581f438fb7e6c81c08fda.png"   tvg-rec="1" catchup_days="7",ICTV HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ictv-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ictv-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ictv-ukraine"  tvg-logo="https://af-play.com/storage/images/channel_logos/c5e8166da597ab660d9295a5cf7c9ac5.png"   tvg-rec="1" catchup_days="7",ICTV2 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ictv2-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ictv2-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ictv-serialy"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/ICTV_%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D0%B8_%282024%29.svg/1200px-ICTV_%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D0%B8_%282024%29.svg.png" ,ICTV Серіали
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="24-ua"  tvg-logo="https://af-play.com/storage/images/channel_logos/a9a18159489d2701e22f92a8a0e05f5e.png"   tvg-rec="1" catchup_days="7",24 Канал HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/24ch-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/24ch-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="24ch-ua"  tvg-logo="https://af-play.com/storage/images/channel_logos/a9a18159489d2701e22f92a8a0e05f5e.png" ,24 Канал HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="znajem24"  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lNvAbSaKcEL4KknnJbCm7OPkmR2DeS1JbrhvefpEq5Ug=s900-c-k-c0x00ffffff-no-rj" ,Знаєм 24
 http://ott.watch/stream/DZZPCCW11QW/145.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="5kanal-ua"  tvg-logo="https://af-play.com/storage/images/channel_logos/4935141cf32be55291c78e38e733a57e.png"   tvg-rec="1" catchup_days="7",5 канал HD UA
-http://bethoven.af-stream.com:1600/s/yokrgdit/5kanal-ukraina-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/5kanal-ukraina-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="http://stb.y666tv.cc/images/logo_chanel/8 канал HD UA.png" ,8 канал HD [UA]
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="stb-ua"  tvg-logo="https://af-play.com/storage/images/pack_logos/ea2879beaac1594ceac50346b7c7a305.png"   tvg-rec="1" catchup_days="7",СТБ HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/stb-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/stb-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="novy-kanal-ua"   tvg-rec="1" catchup_days="7",Новый Канал HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/novyj-kanal-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/novyj-kanal-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="kyiv-ua"  tvg-logo="https://i.imgur.com/TVuCY4N.png" ,КИЇВ HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/kyiv-tv-ua-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/kyiv-tv-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="kyiv-ua"  tvg-logo="https://i.imgur.com/TVuCY4N.png" ,КИЇВ
 https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="tet-ua"  tvg-logo="https://i.imgur.com/Wu6wtbe.png" ,ТЕТ 1080HD
 http://31.43.48.248:7000/ch7/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="tet-ua-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/124eb36fe79d08c024cf48c6e5b07cf5.png" ,ТЕТ HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/tet-ua-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/tet-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="otse"  tvg-logo="https://i.imgur.com/SeRNJIS.png" ,Добавленный канал
 http://ott.watch/stream/DZZPCCW11QW/329.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ntn-ua"  tvg-logo="https://af-play.com/storage/images/pack_logos/43282250911ce06825c752587601ab80.png"   tvg-rec="1" catchup_days="7",НТН HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ntn-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ntn-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://ukrtvr.org/images/%D0%9A%D0%B8%D1%97%D0%B2/%D0%9A%D0%B0%D0%BF%D1%83%D1%87%D0%B8%D0%BD%D0%BE%20TV.jpg" ,Капучино TV [1080p]
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="unian-tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.jpg"   tvg-rec="1" catchup_days="7",УНИАН Серіал HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/unian-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/unian-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="bolt"  tvg-logo="https://af-play.com/storage/images/channel_logos/a406e558aa6479815b5cc15e60f8bee6.png"   tvg-rec="1" catchup_days="7",Болт HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/bolt-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bolt-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="mega-ua"  tvg-logo="http://stb.y666tv.cc/images/logo_chanel/Мега HD UA.png"   CUID="96" number="221" tvg-name="epg1:Мега HD" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7",Мега FHD
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282477
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="1auto"  tvg-logo="https://i.imgur.com/ul93Lse.png" ,Перший Автомобільний
@@ -2000,9 +2000,9 @@ http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282430
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="zoom-ua	"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Zoom_%282025_HD_Logo%29.png" ,Zoom HD
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282536
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="bigudi"  tvg-logo="https://af-play.com/storage/images/channel_logos/7e476a7376e0805fd2a0ce348c5aa255.png"   tvg-rec="1" catchup_days="7",Бигуди HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/bigudi-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bigudi-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="kvartal-tv"  tvg-logo="https://af-play.com/storage/images/channel_logos/2f327716f95ccefa8654f498714fa2e8.png"   tvg-rec="1" catchup_days="7",Квартал ТВ HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/kvartal-tv-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/kvartal-tv-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.imgur.com/bSXKdK5.png" ,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="atr-ua" ,ATR
@@ -2010,7 +2010,7 @@ https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-tv" ,FREEDOM
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="freedom-ua-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/383d631fccce49e437f67006f739ab52.png" ,Freeдом HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/freedom-ua-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/freedom-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="my-ukraina"  tvg-logo="https://i.imgur.com/OD84Oga.png" ,МИ Україна
 http://cdnua05.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4847/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="my-ukraina-plus"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg/langru-568px-%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg.png" ,МИ+ УКРАЇНА
@@ -2022,9 +2022,9 @@ https://cdnua03.hls.tv/hls/6154479a1319705257f2335762b18f51/4780/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="armia-tv-ua"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/%D0%90%D1%80%D0%BC%D1%96%D1%8F_%D0%A2%D0%91_%28logo%29.jpg" ,Армія ТВ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="espreso-tv"  tvg-logo="https://af-play.com/storage/images/pack_logos/2bd0b013b187ef47dd88e38128c3717f.png"   tvg-rec="1" catchup_days="7",Eспресо TV HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/espresso-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/espresso-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="oboz-tv"  tvg-logo="https://af-play.com/storage/images/pack_logos/e47158bfc78b284925b60717ee687714.png"   tvg-rec="1" catchup_days="7",OBOZ TV HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/oboz-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/oboz-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ostwest24"  tvg-logo="https://epg.iptvx.one/picons/ostwest24.png" ,Ost-West 24
 http://95.67.12.82:9077
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ostwest"  tvg-logo="https://epg.iptvx.one/picons/ostwest.png" ,Ost-West
@@ -2032,9 +2032,9 @@ http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282490
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQARE0vOYw1hps1hv3SUtR8aCOjgR1s_lrrg&s" ,Гордон Live
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282464
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="priamyj"  tvg-logo="https://af-play.com/storage/images/pack_logos/3721bc2f5356b1023f5fc7a10aba9dbf.png"   tvg-rec="1" catchup_days="7",Прямий HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/tonis-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tonis-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-kyiv"  tvg-logo="https://af-play.com/storage/images/channel_logos/856d75703a4e57d6db3ccdd63e276994.png"   tvg-rec="1" catchup_days="7",Суспільне Київ HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/suspilne-kyiv-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/suspilne-kyiv-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ua-vynnyca"  tvg-logo="https://i.imgur.com/g84PWbj.png" ,Суспільне Вінниця
 http://cdnua05.hls.tv/649/hls/f62d71219200da4130d13b21d23fb23c/4785/stream.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="51kanal"  tvg-logo="https://i.imgur.com/nMHd9FK.png" ,Суспільне Дніпро
@@ -2090,7 +2090,7 @@ https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="plusplus"  tvg-logo="https://i.imgur.com/9bPhStm.png" ,ПЛЮС ПЛЮС FHD
 http://ott.watch/stream/DZZPCCW11QW/339.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="kus-kus"  tvg-logo="https://i.imgur.com/4a4qX0P.png"   tvg-rec="1" catchup_days="7",Кус-Кус HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/kus-kus-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/kus-kus-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="RenomeTV"  tvg-logo="https://i.imgur.com/qL1uNlW.png" ,Renome (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="ObshchestvennoeNezavisimoeTelevidenie"  tvg-logo="https://i.imgur.com/jFP50g2.png" ,Общественное Независимое Телевидение (576p)
@@ -2174,7 +2174,7 @@ https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="git"  tvg-logo="https://i.imgur.com/b5K5Uwh.png" ,ГIT (Луцьк)
 http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-id="pershy-zaxidny"  tvg-logo="https://epg.iptvx.one/picons/pershy-zaxidny.png" ,ПЕРШИЙ ЗАХІДНИЙ (Львів)
-http://bethoven.af-stream.com:8080/s/yokrgdit/pershy-zahidny-ua-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/pershy-zahidny-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" ,Орбiта (Покровськ) [UA]
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1  group-title="Україна 🇺🇦"  tvg-logo="https://i.imgur.com/NHjg1Jm.png" ,Місто + (Полтава)
@@ -2226,39 +2226,39 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunkli
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="pervy-info-by"  tvg-logo="https://iptvx.one/picons/pervy-info-by.png" ,Первый информационный FHD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus24"  tvg-logo="https://af-play.com/storage/images/channel_logos/belarus-24.png"   tvg-rec="0",Беларусь 24 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/belarus-24-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/belarus-24-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus1"  tvg-logo="https://af-play.com/storage/images/channel_logos/belarus1-by-hd.png"   tvg-rec="1" catchup_days="7",Беларусь 1 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/belarus1-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/belarus1-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus2"  tvg-logo="https://af-play.com/storage/images/pack_logos/f13bbe8f3057fb14b90917900ac55d23.png"   tvg-rec="1" catchup_days="7",Беларусь 2 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/belarus2-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/belarus2-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus3"  tvg-logo="https://af-play.com/storage/images/pack_logos/5d0303afbac3b0fd8d603e240567a53f.png"   tvg-rec="1" catchup_days="7",Беларусь 3 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/belarus3-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/belarus3-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus4-vitebsk"  tvg-logo="https://epg.iptvx.one/picons/belarus4-vitebsk.png"   tvg-name="Беларусь 4",Беларусь 4 Витебск
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/23572/hls/pl.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus4-mogilev"  tvg-logo="https://epg.iptvx.one/picons/belarus4-mogilev.png"   tvg-name="Беларусь 4",Беларусь 4 Могилев
 http://82.209.197.187:8080/udp/239.0.100.125:1234
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus5"  tvg-logo="https://af-play.com/storage/images/channel_logos/belarus5-by-hd.png"   tvg-rec="1" catchup_days="7",Беларусь 5 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/belarus5-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/belarus5-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belarus5-inet"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtnVYUMAfj5KmsWnQLAtD61l654n1FPpmog&s"   tvg-name="Беларусь 5",Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="ont-by-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/e92463a2df8a2571da8a491199940b29.png"   tvg-rec="1" catchup_days="7",ОНТ BY HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ont-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ont-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="BY: РТР HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rtr-belarus.jpg/800px-Rtr-belarus.jpg"   tvg-name="нтв беларусь",РТР Беларусь HD
 http://194.158.222.36:6106
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="rtr-belarus-by-hd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rtr-belarus.jpg/800px-Rtr-belarus.jpg"   tvg-rec="1" catchup_days="7",РТР Беларусь HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/rtr-belarus-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/rtr-belarus-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="ntv-by-hd"  tvg-logo="https://epg.iptvx.one/picons/ntv-belarus.png" ,НТВ Беларусь HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/ntv-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ntv-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="tnt-int-by"  tvg-logo="https://i.imgur.com/l0RGbRI.png" ,ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="tnt4-international"  tvg-logo="https://i.imgur.com/gBokU5i.png" ,ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="channel8-by-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/c341c1088c1c137ec770eb07c762f6c6.png"   tvg-rec="1" catchup_days="7",8 Канал HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/channel8-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/channel8-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="stv-by-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/8bce7aff7f694b4c28862f7d6c110a13.png"   tvg-rec="1" catchup_days="7",СТВ Беларусь HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/stv-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/stv-by-hd/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="belsat-by"  tvg-logo="https://af-play.com/storage/images/pack_logos/9e0ad557e8d08b02782e59185aa352aa.png"   tvg-rec="1" catchup_days="7",Белсат HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/belsat-by/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/belsat-by/video.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="pervy-gorodskoy-gom"   tvg-name="Первый Городской(Гомель)",Первый Городской (Гомель)
 http://195.9.195.3:8080/hls/165178.m3u8
 #EXTINF:-1  group-title="Беларусь 🇧🇾"  tvg-id="grodno-plus"  tvg-logo="https://epg.iptvx.one/picons/grodno-plus.png"   tvg-name="Гродно+",Гродно+
@@ -2282,15 +2282,15 @@ https://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="1HD Music"  tvg-logo="https://af-play.com/storage/images/channel_logos/1hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",1HD
 http://stream.skaz.tv/stream/ch328/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="1hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/1hd.png"   tvg-rec="0",1HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/1hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/1hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="one-by-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png" ,One BY HD
 http://rtmp.one.by:1300
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="one-by-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png"   tvg-rec="0",One BY HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/one-by-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/one-by-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="one-by-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0cb5fa6ccf1c0dfbf9c09ac3dc49adbe.png" ,One BY
 http://rtmp.one.by:1200
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="onemuz"  tvg-logo="https://af-play.com/storage/images/pack_logos/df7d252bf9b14d3b7b07e88b28ddbf2a.png"   tvg-rec="0",One BY Russia HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/one-by-russia-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/one-by-russia-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="onemuz"  tvg-logo="https://af-play.com/storage/images/pack_logos/df7d252bf9b14d3b7b07e88b28ddbf2a.png" ,One BY Russia HD
 http://rtmp.one.by:2300
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="onemuz"  tvg-logo="https://af-play.com/storage/images/pack_logos/df7d252bf9b14d3b7b07e88b28ddbf2a.png" ,One BY Russia
@@ -2298,67 +2298,67 @@ http://rtmp.one.by:2200
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4 Ever music HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/4ever-music-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",4Ever music HD
 http://stream.skaz.tv/stream/ch631/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="4ever-music-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/4ever-music-hd.png"   tvg-rec="0",4Ever music HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/4ever-music-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/4ever-music-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="AIVA HD"  tvg-logo="http://skaz.tv/tvicons/661.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",AIVA HD
 http://stream.skaz.tv/stream/ch661/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="aiva-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/5eab5143f5fa96d8d2346c1e4e2485d0.png"   tvg-rec="0",AIVA HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/aiva-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/aiva-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="EU Music HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/eu-music-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",EU Music HD [UA]
 http://stream.skaz.tv/stream/ch653/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="eu-music-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/eu-music-hd.png"   tvg-rec="0",EU Music HD [UA]
-http://bethoven.af-stream.com:1600/s/yokrgdit/eu-music-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/eu-music-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA music HD [UA]
 http://cdnua05.hls.tv/909/hls/8743361621b245838bee193c9ec28322/4831/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA music HD [UA]
 http://cdnua05.hls.tv/910/hls/8743361621b245838bee193c9ec28322/4831/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="evropa-plus-tv-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/fa66619af0aac73eba3e717b6bd56fde.png"   tvg-rec="0",Europa Plus TV HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/evropa-plus-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/evropa-plus-tv-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Europa Plus TV HD"  tvg-logo="http://skaz.tv/tvicons/715.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Europa Plus TV HD
 http://stream.skaz.tv/stream/ch715/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="m1-ua-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/6b20f04926ab8812551acdc486a099cd.png"   tvg-rec="1" catchup_days="7",M1 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/m1-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/m1-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="m2-ua-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/0690a88ba87a9f3709630823f2f9f007.png"   tvg-rec="1" catchup_days="7",M2 HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/m2-ua-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/m2-ua-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://af-play.com/storage/images/pack_logos/0690a88ba87a9f3709630823f2f9f007.png" ,М2 HD
 http://live.m2.tv/hls3/720/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="megogo-live"  tvg-logo="https://epg.iptvx.one/picons/megogolive.png" ,Megogo Live HD [UA] [1080p]
 https://tva.in.ua/live/megogo_life.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="megogo-music-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/35ef9fb15f1aa98b8f211fce1b6f6cbc.png" ,Megogo MUSIC [UA] HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/megogo-music-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/megogo-music-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzwar"  tvg-logo="https://epg.iptvx.one/picons/muzwar.png" ,МУЗВАР [UA] [1080p]
 http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4804/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="music-box-dance-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/714686e5180cdf554102f588829e447c.png" ,Music Box Dance HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/music-box-dance-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/music-box-dance-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="music-box-sexy-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/0625254cb0ffa3e2f20231a629ce3ad3.png" ,Music Box Sexy HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/music-box-sexy-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/music-box-sexy-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Music Box Gold"  tvg-logo="https://af-play.com/storage/images/pack_logos/c27b8e923e8be5901d7baae7f3b9a0b3.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Music Box Gold
 http://stream.skaz.tv/stream/ch650/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="music-box-gold"  tvg-logo="https://af-play.com/storage/images/pack_logos/c27b8e923e8be5901d7baae7f3b9a0b3.png"   tvg-rec="0",Music Box Gold
-http://bethoven.af-stream.com:1600/s/yokrgdit/music-box-gold/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/music-box-gold/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="russian-musicbox-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/f9b8c79f4b61674bae69678ab7a5f0ae.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MusicBox Russia [1080p]
 http://stream.skaz.tv/stream/ch555/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="russian-musicbox-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/f9b8c79f4b61674bae69678ab7a5f0ae.png"   tvg-rec="0",MusicBox Russia [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/russian-musicbox-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/russian-musicbox-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/46/39/9d4639bd-3177-0a6f-7aa0-15edabacfcb8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/512x512bb.jpg" ,Happy Radio TV [UA]
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="tnt-music"  tvg-logo="https://af-play.com/storage/images/channel_logos/29236e238b5507f00d872de0944a2155.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",FON Music HD
 http://stream.skaz.tv/stream/ch716/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="tnt-music-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/29236e238b5507f00d872de0944a2155.png" ,FON Music HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/tnt-music-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/tnt-music-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="viva-rus"  tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" ,VIVA Russia [1080p]
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muztv"  tvg-logo="https://af-play.com/storage/images/channel_logos/7b9e24bea66e6fa88325fd2e57e7b322.png" ,МУЗ-ТВ HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/muz-tv-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/muz-tv-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muztv"  tvg-logo="https://iptvx.one/picons/muztv.png" ,МУЗ-ТВ HD
 http://178.124.179.122:8088/MuzTV/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="МУЗ"  tvg-logo="https://iptvx.one/picons/muztv.png"   catchup="fs" tvg-rec="3" timeshift="0",МУЗ-ТВ HD
 http://stream.skaz.tv/stream/ch020/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ru-tv" ,RU.TV HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/ru-tv-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/ru-tv-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="RU.TV"  tvg-logo="http://skaz.tv/tvicons/27.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",RU.TV HD
 http://stream.skaz.tv/stream/ch027/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="zhara-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/zhara-hd.png"   tvg-rec="0",Жара HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/zhara-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/zhara-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Жара HD"  tvg-logo="http://skaz.tv/tvicon/529.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Жара HD
 http://stream.skaz.tv/stream/ch529/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="o2tv"  tvg-logo="https://epg.iptvx.one/picons/o2tv.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",O!2 HD
@@ -2374,9 +2374,9 @@ https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Ля-минор"  tvg-logo="https://epg.iptvx.one/picons/la-minor.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Музыка Live
 http://stream.skaz.tv/stream/ch523/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="la-minor"  tvg-logo="https://af-play.com/storage/images/channel_logos/e72fe299828edd65e3ad073476c67ca6.png" ,Музыка Live
-http://bethoven.af-stream.com:8080/s/yokrgdit/la-minor/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/la-minor/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="muzyka-pervogo-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/muzyka-pervogo.png"   tvg-rec="0",Музыка Первого [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/muzyka-pervogo-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/muzyka-pervogo-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Музыка Первого"  tvg-logo="https://epg.iptvx.one/picons/muzyka-pervogo.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Музыка Первого
 http://stream.skaz.tv/stream/ch615/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/2SG0Swa.png" ,Музыка Кино International
@@ -2390,43 +2390,43 @@ https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Шансон TB"  tvg-logo="http://skaz.tv/tvicon/325.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Шансон TB
 http://stream.skaz.tv/stream/ch325/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="shanson-tv"  tvg-logo="https://af-play.com/storage/images/channel_logos/shanson-tv.png"   tvg-rec="0",Шансон ТВ
-http://bethoven.af-stream.com:1600/s/yokrgdit/shanson-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/shanson-tv/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="radio-shanson"  tvg-logo="https://epg.iptvx.one/picons/radio-shanson.png" ,Радио Шансон [720p]
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="radio-strana-fm-tv"  tvg-logo="https://i.imgur.com/WsPlKJJ.png" ,Страна ФМ [720p]
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/eacb7d4e2960e78191976888a3e0df31.png"   tvg-rec="0",Bridge TV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bridge-tv-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv"  tvg-logo="https://af-play.com/storage/images/pack_logos/eacb7d4e2960e78191976888a3e0df31.png"   tvg-rec="0",Bridge TV
-http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bridge-tv/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV"  tvg-logo="https://af-play.com/storage/images/pack_logos/eacb7d4e2960e78191976888a3e0df31.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV
 http://stream.skaz.tv/stream/ch490/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Classic"  tvg-logo="https://af-play.com/storage/images/pack_logos/0d5dfc158f372821b6f75b9f38427bea.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV Classic
 http://stream.skaz.tv/stream/ch492/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-classic"  tvg-logo="https://af-play.com/storage/images/pack_logos/0d5dfc158f372821b6f75b9f38427bea.png"   tvg-rec="0",Bridge TV Classic [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/bridge-classic-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/bridge-classic-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Deluxe HD"  tvg-logo="https://af-play.com/storage/images/pack_logos/39ab36318406f46d0a90e07ccd3f55c8.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV Deluxe [1080p]
 http://stream.skaz.tv/stream/ch491/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv-deluxe-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/9c832fd10b9cfa20e2174610792aede8.png" ,Bridge TV Deluxe [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/bridge-tv-deluxe-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/bridge-tv-deluxe-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Fresh"  tvg-logo="https://af-play.com/storage/images/channel_logos/421217c6151e035fe179233f8153a0da.png" ,Bridge TV Fresh [1080p]
 http://stream.skaz.tv/stream/ch2754/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv-fresh"  tvg-logo="https://af-play.com/storage/images/channel_logos/421217c6151e035fe179233f8153a0da.png"   tvg-rec="0",Bridge TV Fresh [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv-fresh/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bridge-tv-fresh/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Hits"  tvg-logo="https://af-play.com/storage/images/channel_logos/c2ac5f2d71ee128730fabcf7523e2e52.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV Hits [1080p]
 http://stream.skaz.tv/stream/ch493/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv-hits-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/c2ac5f2d71ee128730fabcf7523e2e52.png"   tvg-rec="0",Bridge TV Hits [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv-hits-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bridge-tv-hits-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv-rock-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/3cf4173abcf72e396f00fc7fc9b600cf.png"   tvg-rec="0",Bridge TV Rock [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv-rock-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bridge-tv-rock-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Fresh"  tvg-logo="https://af-play.com/storage/images/channel_logos/3cf4173abcf72e396f00fc7fc9b600cf.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV Rock [1080p]
 http://stream.skaz.tv/stream/ch644/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Русский хит"  tvg-logo="https://af-play.com/storage/images/pack_logos/55aee6c575cac0cc8469eadc010eeab4.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV Русский Хит
 http://stream.skaz.tv/stream/ch494/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="rusong-tv"  tvg-logo="https://af-play.com/storage/images/pack_logos/55aee6c575cac0cc8469eadc010eeab4.png"   tvg-rec="0",Bridge TV Русский Хит [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/bridge-tv-russky-hit-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/bridge-tv-russky-hit-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv-shlager"  tvg-logo="https://af-play.com/storage/images/pack_logos/eb1ef092dc2ac65c6ee24cda2ede3c5f.png"   tvg-rec="0",Bridge TV Шлягер
-http://bethoven.af-stream.com:1600/s/yokrgdit/bridge-tv-shlager/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bridge-tv-shlager/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Bridge TV Шлягер"  tvg-logo="https://af-play.com/storage/images/pack_logos/eb1ef092dc2ac65c6ee24cda2ede3c5f.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bridge TV Шлягер
 http://stream.skaz.tv/stream/ch548/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="bridge-tv-etno"  tvg-logo="https://epg.iptvx.one/picons/bridge-tv-etno.png" ,Bridge TV Этно
@@ -2472,7 +2472,7 @@ http://stream.skaz.tv/stream/ch3307/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Music Hits+"  tvg-logo="http://skaz.tv/tvicon/2334.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Music Hits+ [GE]
 http://stream.skaz.tv/stream/ch2334/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="vh1-europe"  tvg-logo="https://af-play.com/storage/images/pack_logos/d30d7c7f9f912b9ab4f417e4bbb6dcb8.png"   tvg-rec="0",MTV 00s
-http://bethoven.af-stream.com:1600/s/yokrgdit/vh1-europe/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/vh1-europe/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MTV 00s"  tvg-logo="http://skaz.tv/tvicon/28.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MTV 00s
 http://stream.skaz.tv/stream/ch028/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MTV Base HD"  tvg-logo="http://s.skaz.tv/tvicon/2766.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MTV Base [1080p]
@@ -2480,9 +2480,9 @@ http://stream.skaz.tv/stream/ch2766/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MTV Idol HD"  tvg-logo="http://skaz.tv/tvicon/2752.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MTV Idol [1080p]
 http://stream.skaz.tv/stream/ch2752/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mtv-hits"  tvg-logo="http://skaz.tv/tvicon/19.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MTV Hits
-http://bethoven.af-stream.com:8080/s/yokrgdit/mtv-hits/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/mtv-hits/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mtv-il"  tvg-logo="https://epg.iptvx.one/picons/mtv-il.png"   tvg-rec="0",MTV [IL] [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/mtv-live-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/mtv-live-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="MTV Pulse HD"  tvg-logo="http://skaz.tv/tvicon/2758.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MTV Pulse [1080p]
 http://stream.skaz.tv/stream/ch2758/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ch3594"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/MTV_shows.png"   tvg-name="Infinity:Оскар" catchup="fs" tvg-rec="3" timeshift="3",MTV SHOWS [1080p]
@@ -2502,7 +2502,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://af-play.com/storage/images/pack_logos/3cb72b2e59336e9fd69673dd5bef930b.png" ,Kronehit [AT] [1080p]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="kronehit-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/3cb72b2e59336e9fd69673dd5bef930b.png" ,Kronehit [AT] [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/kronehit-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/kronehit-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="kiss-tv-ro"  tvg-logo="https://i.imgur.com/NKfVymH.png" ,Kiss TV [RO] [1080p]
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ocko-cz"  tvg-logo="https://epg.iptvx.one/picons/ocko-cz.png" ,Óčko [CZ]
@@ -2512,7 +2512,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ocko-expres-cz"  tvg-logo="https://epg.iptvx.one/picons/ocko-expres-cz.png"   tvg-name="Ocko Expres",Óčko Expres TV [CZ]
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mcm-pop"  tvg-logo="https://af-play.com/storage/images/channel_logos/97bddb422bf2be756e273d0a65985935.png"   tvg-rec="0",MCM TOP HD [FR] [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/mcm-top-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/mcm-top-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mcm-top-hd"  tvg-logo="https://i.imgur.com/EVtWQLd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MCM TOP HD [FR RU] [1080p]
 http://stream.skaz.tv/stream/ch497/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶" ,Music Reload TV [720p]
@@ -2520,7 +2520,7 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶" ,On Air TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="rfm-tv-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/c09178c201f5d81a5c6f8b4d2c4f60ea.png" ,RFM TV HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/rfm-tv-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/rfm-tv-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="retro-music-cz"  tvg-logo="https://i.imgur.com/pyOjdZs.png" ,Retro Music Television [CZ]
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/u0d5j0C.png" ,Afrobeats TV [1080p]
@@ -2580,15 +2580,15 @@ https://jmp2.uk/stvp-DEBC21000022L
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3500002C4_20251028T011242SQUARE.png" ,Vevo Weihnachten
 https://jmp2.uk/stvp-DE3500002C4
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="jazz-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/10ed5242ec8ab66b19bf4518169b41b6.png" ,Jazz HD
-http://bethoven.af-stream.com:8080/s/yokrgdit/jazz-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/jazz-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="classic-music"  tvg-logo="https://af-play.com/storage/images/pack_logos/7319412c168c64c98a4d0ae2eed99362.png"   tvg-rec="0",Classic Music [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/classic-music/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/classic-music/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mezzo"  tvg-logo="https://i.imgur.com/auNdGeW.png" ,Mezzo [1080p]
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Mezzo Live HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/mezzo-hd.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Mezzo Live [1080p]
 http://stream.skaz.tv/stream/ch130/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="mezzo-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/mezzo-hd.png" ,Mezzo Live [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/mezzo-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/mezzo-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Wanasah.ae"  tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah [AE] [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://i.imgur.com/yj8RNnG.png" ,AMC [AF]
@@ -3100,7 +3100,7 @@ http://78.96.33.89:8080
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Tele7music.ro"  tvg-logo="https://i.imgur.com/11b5W8u.png" ,Tele7music [RO] [720p]
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="clubbing-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/a015aa55b33c31e663f537cd17209fd8.png" ,Clubbing TV [RU] [1080p] 
-http://bethoven.af-stream.com:8080/s/yokrgdit/clubbing-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/clubbing-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Clubbing TV HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/81/Logo_Clubbing_TV.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clubbing TV [RU] [1080p] 
 http://stream.skaz.tv/stream/ch524/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="ClubbingTV.us@France"  tvg-logo="https://i.imgur.com/MyiA92q.png" ,Clubbing TV France [1080p]
@@ -3322,7 +3322,7 @@ https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="iconcerts"  tvg-logo="https://i.imgur.com/GKc7RFz.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Stingray iConcerts [CA] [1080p]
 http://stream.skaz.tv/stream/ch324/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="iconcerts-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/iconcerts-hd.png" ,Stingray iConcerts [CA] [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/iconcerts-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/iconcerts-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayKaraoke.ca"  tvg-logo="https://i.imgur.com/9TLTLS3.png" ,Stingray Karaoke [CA] [720p]
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="StingrayNaturescape.ca@Poland"  tvg-logo="https://i.imgur.com/882kd90.png" ,Stingray Naturescape [CA] [1080p]
@@ -3383,34 +3383,8 @@ http://stream.skaz.tv/stream/ch1305/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch3705/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="BOX Music 4K"  tvg-logo="https://epg.iptvx.one/picons/box-music-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Music 4K
 http://stream.skaz.tv/stream/ch2295/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K BluesString"  tvg-logo="http://skaz.tv/tvicon/1294.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K BluesString
-http://stream.skaz.tv/stream/ch1294/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K Bollywood Music"  tvg-logo="http://skaz.tv/tvicon/2399.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Bollywood Music
-http://stream.skaz.tv/stream/ch2399/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4k Deep House"  tvg-logo="http://skaz.tv/tvicon/1551.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k Deep House
-http://stream.skaz.tv/stream/ch1551/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K DeepMe"  tvg-logo="http://skaz.tv/tvicon/1438.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K DeepMe
-http://stream.skaz.tv/stream/ch1438/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K France Music"  tvg-logo="http://skaz.tv/tvicon/2888.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K EuroVision
-http://stream.skaz.tv/stream/ch2888/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K Heavy Metal"  tvg-logo="http://skaz.tv/tvicon/2492.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Heavy Metal
-http://stream.skaz.tv/stream/ch2492/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K Korean Music"  tvg-logo="http://skaz.tv/tvicon/128.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Korean Music
-http://stream.skaz.tv/stream/ch128/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K Latin Music"  tvg-logo="http://skaz.tv/tvicon/2503.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Latin Music
-http://stream.skaz.tv/stream/ch2503/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4k RemasterWave"  tvg-logo="http://skaz.tv/tvicon/1441.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4k RemasterWave
-http://stream.skaz.tv/stream/ch1441/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K Russian Music"  tvg-logo="http://skaz.tv/tvicon/2404.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Russian Music
-http://stream.skaz.tv/stream/ch2404/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K Ukrainian Music"  tvg-logo="http://skaz.tv/tvicon/1549.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K Ukrainian Music
-http://stream.skaz.tv/stream/ch1549/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K UrbanBlack"  tvg-logo="http://skaz.tv/tvicon/2504.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K UrbanBlack
-http://stream.skaz.tv/stream/ch2504/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="Clarity4K World Music"  tvg-logo="http://skaz.tv/tvicon/1435.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K World Music
-http://stream.skaz.tv/stream/ch1435/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Music 4K 📻🎶"  tvg-id="ch2888"  tvg-logo="http://skaz.tv/tvicons/2888.png" ,Clarity4K Спорт Music
-http://stream.skaz.tv/stream/ch2888/ca116d29bd/mono.m3u8
+
+
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="box-relax"  tvg-logo="https://epg.iptvx.one/picons/box-relax.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Relax 4K
 http://stream.skaz.tv/stream/ch2298/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="clarity4k-relaxkamin"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-relaxkamin.png"   catchup="fs" tvg-rec="3" timeshift="0",Clarity 4K Города
@@ -3778,7 +3752,7 @@ http://stream.skaz.tv/stream/ch3054/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Анекдот ТВ"  tvg-logo="https://i.imgur.com/wKfB79s.png"   catchup="fs" tvg-rec="3" timeshift="0",Анекдот ТВ
 http://stream.skaz.tv/stream/ch1524/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="gagsnetwork-hd"  tvg-logo="https://i.imgur.com/ENj5GIp.png"   tvg-rec="1" catchup_days="7",Gagsnetwork HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/gagsnetwork-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/gagsnetwork-hd/video.m3u8
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="gags-network"  tvg-logo="https://i.imgur.com/ENj5GIp.png" ,Gags Network HD [UA]
 http://95.67.12.82:9069
 #EXTINF:-1  group-title="Entertainment 🎭🍽️🛍️"  tvg-id="Gold Line Naked and Funny HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-naked.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Naked and Funny HD
@@ -5172,7 +5146,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1  group-title="Arabic 🇧🇭🇶🇦🇴🇲🇸🇾🇮🇶🇮🇷"  tvg-id="YemenTodayTV.ye"  tvg-logo="https://i.imgur.com/8TzcJu5.png" ,Yemen Today TV [YE]
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="abc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/bf31f8c4a1c5302b1acab110f0913069.png" ,ABC News [720p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/abc-us-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/abc-us-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="Africa24.fr"  tvg-logo="https://i.imgur.com/YWIJdai.png" ,Africa 24 [1080p]
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="Africa24English.fr"  tvg-logo="https://i.imgur.com/YWIJdai.png" ,Africa 24 English [1080p]
@@ -5180,7 +5154,7 @@ https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="Al Jazeera"  tvg-logo="https://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Al Jazeera [1080p]
 http://stream.skaz.tv/stream/ch1945/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="al-jazeera-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/ce79433e2a4f213677c2a85091b5f8fe.png"   tvg-rec="0",Al Jazeera [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/al-jazeera-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/al-jazeera-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="BloombergTVEMEALiveEvent.uk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Europe Live Event [720p]
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="BloombergTVAsiaLiveEvent.hk"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Asia Live Event [720p]
@@ -5192,13 +5166,13 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="BloombergTVAustralia.au"  tvg-logo="https://i.imgur.com/OuogLHx.png" ,Bloomberg TV Australia (270p)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="bloomberg-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/12966d52f4ca86aa0c4ae837211ccf2d.png"   tvg-rec="0",Bloomberg TV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/bloomberg-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bloomberg-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="Bloomberg TV"  tvg-logo="http://skaz.tv/tvicon/1917.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Bloomberg TV
 http://stream.skaz.tv/stream/ch1917/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="BBC World News Europe"  tvg-logo="https://epg.iptvx.one/picons/bbc.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BBC World News Europe [1080p]
 http://stream.skaz.tv/stream/ch499/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="bbc-world-news-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/be74123a9a72dab0f82664c4804df20d.png"   tvg-rec="0",BBC World [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/bbc-world-news-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/bbc-world-news-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="bbc-earth"  tvg-logo="https://epg.iptvx.one/picons/bbc.png" ,BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="CCTV4America.cn"  tvg-logo="https://epg.iptvx.one/picons/cctv4.png" ,CCTV-4 America [1080p]
@@ -5210,39 +5184,39 @@ http://stream.skaz.tv/stream/ch3318/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="CNN"  tvg-logo="https://epg.iptvx.one/picons/cnn.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CNN [1080p]
 http://stream.skaz.tv/stream/ch500/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="cnn-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/6ea55f38d04ca6c24a37777c81b516b2.png"   tvg-rec="0",CNN HD [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/cnn-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/cnn-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="CNNNews18.in"  tvg-logo="https://i.imgur.com/WrmeIco.png" ,CNN News 18 [IN] [1080p]
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="CNBC HD"  tvg-logo="http://skaz.tv/tvicon/2117.png" ,CNBC
 http://stream.skaz.tv/stream/ch2117/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="cnbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/61dc1fbed0b78984a4b5f2d906b28705.png" ,CNBC [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/cnbc-us-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/cnbc-us-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="msnbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/235f918e8be40df4e831e544426627dc.png" ,MSNBC HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/msnbc-us-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/msnbc-us-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="nbc-us-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/dead83e445bedb71431fef391ef97d27.png" ,NBC HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/nbc-us-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/nbc-us-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="deutsche-welle-ru" ,DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="deutsche-welle"  tvg-logo="https://af-play.com/storage/images/channel_logos/c2c72afdf467af11522b848a0b21a1e7.png"   tvg-rec="0",DW Russian
-http://bethoven.af-stream.com:1600/s/yokrgdit/deutsche-welle/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/deutsche-welle/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="DWEnglish.de"  tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW English [DE] [1080p]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="NDRFernsehenInternational.de"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" ,NDR Fernsehen International [DE] [720p]
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="evronews-hd"  tvg-logo="http://skaz.tv/tvicon/498.png" ,EuroNews [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/evronews-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/evronews-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="EuroNews"  tvg-logo="http://skaz.tv/tvicon/498.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",EuroNews [720p]
 http://stream.skaz.tv/stream/ch498/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="sky-news-uk-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/ceacd9f4d2d9b7ab3debfec179c97a4e.png"   tvg-rec="0",Sky News [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/sky-news-uk-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/sky-news-uk-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="fox-news-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png"   tvg-rec="0",FOX News [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/fox-news-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/fox-news-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="FOX News HD"  tvg-logo="https://af-play.com/storage/images/channel_logos/446200c5785de2cc5618705bbdacd4fb.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",FOX News HD
 http://stream.skaz.tv/stream/ch2093/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id=" France 24"  tvg-logo="http://skaz.tv/tvicon/1944.png" ,France 24 [1080p]
 http://stream.skaz.tv/stream/ch1944/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="france-24-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/47b361727a5208cb88eb0bc580affd2a.png" ,France 24 [1080p]
-http://bethoven.af-stream.com:8080/s/yokrgdit/france-24-hd/video.m3u8
+http://bethoven.af-stream.com:8080/s/257jbj2g/france-24-hd/video.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="EWTNAfricaAsia.us"  tvg-logo="https://i.imgur.com/F8ZM25a.png" ,EWTN Africa Asia [720p]
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="Int 🇬🇧🇩🇪🇫🇷🇸🇪"  tvg-id="EWTNEurope.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" ,EWTN Europe [720p]
@@ -5332,45 +5306,45 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="APATv.az"  tvg-logo="https://i.imgur.com/2CSW4V4.png" ,APA TV [720p]
 http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="arb24-hd-az"  tvg-logo="https://af-play.com/storage/images/pack_logos/03a652f97cc077628c745063c0519c0b.png"   tvg-rec="1" catchup_days="7",ARB24 [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/arb24-hd-az/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/arb24-hd-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="arb-az-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/7a5505ad2da61a13471c976e9bb74957.png"   tvg-rec="1" catchup_days="7",ARB [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/arb-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/arb-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="azad-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/azad-tv-az.png"   tvg-rec="1" catchup_days="7",ATV HD [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/azad-tv-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/azad-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="aztv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/aztv-az.png"   tvg-rec="1" catchup_days="7",AzTV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/aztv-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/aztv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="baku-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/e0f2c5e2fc81f2dd0280b9243a3574eb.png"   tvg-rec="1" catchup_days="7",Baku [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/baku-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/baku-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-az.png"   tvg-rec="1" catchup_days="7",CBC [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/cbc-hd-az/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/cbc-hd-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="cbc-sport-hd-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-sport-az.png" ,CBC Sport [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/cbc-sport-hd-az/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/cbc-sport-hd-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="dunya-tv-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/dunya-tv-az.png" ,Dunya TV
-http://bethoven.af-stream.com:1600/s/yokrgdit/dunya-tv-az/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/dunya-tv-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ELTV.az"  tvg-logo="https://i.imgur.com/tTlokZ2.png" ,EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-logo="https://play-lh.googleusercontent.com/Prf2bk4I87BrdPgIeZMuhdfjJ_41pN-D73QuzYG4s_RElqPYpMHophH_47AcLnnNq96n" ,Hadi TV3 [720p]
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="ictimai-tv-az-hd"  tvg-logo="https://epg.iptvx.one/picons/ictimai-tv.png"   tvg-rec="1" catchup_days="7",Ictimai TV HD [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/ictimai-tv-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/ictimai-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="idman-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/1b2eaf4b86b5a30cb74316f1a55c9954.png"   tvg-rec="1" catchup_days="7",Idman Azerbaycan [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/idman-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/idman-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="medeniyyet-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/88af544c45d59341690bd227d7615df8.png"   tvg-rec="1" catchup_days="7",Medeniyyet TV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/medeniyyet-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/medeniyyet-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="muz-tv-az"  tvg-logo="https://af-play.com/storage/images/channel_logos/06be073ccc2ad012557f71eb0c3c73c6.png"   tvg-rec="0",MTV Azerbaycan
-http://bethoven.af-stream.com:1600/s/yokrgdit/muz-tv-az/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/muz-tv-az/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="real-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/real-az.png"   tvg-rec="1" catchup_days="7",Real TV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/real-tv-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/real-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="space-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/space-tv-az.png"   tvg-rec="1" catchup_days="7",Space TV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/space-tv-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/space-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-logo="https://azstartv.com/images/logo.png" ,STAR TV [1080p]
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="start-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/d0f0809d3420935a9bc7b6192d7c9779.png"   tvg-rec="1" catchup_days="7",Start TV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/start-tv-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/start-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="tmb-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/06b40beaef0a45eb33fda8547e06e67a.png"   tvg-rec="0",TMB HD
-http://bethoven.af-stream.com:1600/s/yokrgdit/tmb-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/tmb-az-hd/video.m3u8
 #EXTINF:-1  group-title="Azərbaycan 🇦🇿"  tvg-id="xazar-tv-az-hd"  tvg-logo="https://af-play.com/storage/images/channel_logos/xazar-tv-az.png"   tvg-rec="1" catchup_days="7",Xazar TV [1080p]
-http://bethoven.af-stream.com:1600/s/yokrgdit/xazar-tv-az-hd/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/xazar-tv-az-hd/video.m3u8
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Nor Hayastan"  tvg-logo="https://cdn.epg.one/img2/2395.png" ,Նոր Հայաստան [1080p]
 http://45.11.139.43:8555/norhayastan/index.m3u8
 #EXTINF:-1  group-title="Հայաստան 🇦🇲"  tvg-id="AM: Geghama TV"  tvg-logo="https://mytv.do.am/logo/geghama.png" ,Գեղամա TV
@@ -7174,7 +7148,7 @@ https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/he/7/7a/Hidabroot_logo.png"   tvg-name="Hidabroot TV",Hidabroot TV (720p)
 https://edge-fs-20.cybercdn.live/HidabrootIL/Live97/HidabrootIL/Live97_720p/chunks.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="9-kanal"  tvg-logo="https://af-play.com/storage/images/pack_logos/685aa2c9ce8f9c4460afa56f2e86d30d.png"   tvg-rec="1" catchup_days="7",9 Канал
-http://bethoven.af-stream.com:1600/s/yokrgdit/9-kanal/video.m3u8
+http://bethoven.af-stream.com:1600/s/257jbj2g/9-kanal/video.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png"   tvg-name="KHAN 11", KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_1.2k/chunklist.m3u8
 #EXTINF:-1  group-title="יִשְׂרָאֵל‎ 🇮🇱"  tvg-id="Kan11.il"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png" ,KAN 11 Israel (1080p)
