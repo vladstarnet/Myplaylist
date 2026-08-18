@@ -609,12 +609,6 @@ http://stream.skaz.tv/stream/ch3128/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch3129/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="Gold Line Невский HD"  tvg-logo="https://epg.iptvx.one/picons/goldline-nevski.png"   catchup="fs" tvg-rec="3" timeshift="3",Gold Line Невский HD
 http://stream.skaz.tv/stream/ch3130/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3595"  tvg-logo="http://s.skaz.tv/tvicon/3595.png"   tvg-name="Infinity:Номинация на оскар. 1930_60 гг" catchup="fs" tvg-rec="3" timeshift="3",Infinity:Номинация на оскар. 1930_60 гг
-http://stream.skaz.tv/stream/ch3595/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3596"  tvg-logo="http://s.skaz.tv/tvicon/3596.png"   tvg-name="Infinity:Номинация на Оскар. 1960_90 гг" catchup="fs" tvg-rec="3" timeshift="3",Infinity:Номинация на Оскар. 1960_90 гг
-http://stream.skaz.tv/stream/ch3596/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="ch3597"  tvg-logo="http://s.skaz.tv/tvicon/3597.png"   tvg-name="Infinity:Номинация на Оскар. 1999_24 гг" catchup="fs" tvg-rec="3" timeshift="3",Infinity:Номинация на Оскар. 1999_24 гг
-http://stream.skaz.tv/stream/ch3597/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-Comics HD"  tvg-logo="https://epg.iptvx.one/picons/kbc-comics.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Comics HD
 http://stream.skaz.tv/stream/ch2837/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Кинозалы 📽️"  tvg-id="KBC-Elite comedys HD"  tvg-logo="https://epg.iptvx.one/picons/kbc-elite-comedys.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",KBC-Elite comedys HD
@@ -3299,8 +3293,6 @@ http://stream.skaz.tv/stream/ch2298/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch2311/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="Home 4K"  tvg-logo="https://epg.iptvx.one/picons/home4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Home 4K
 http://stream.skaz.tv/stream/ch551/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="love-nature-4k"   tvg-rec="1" catchup-type="auto" catchup_days="3",Love Nature 4K
-http://stream.skaz.tv/stream/ch654/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="MyZen 4K"  tvg-logo="https://i.imgur.com/fIi8o0C.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MyZen 4K
 http://stream.skaz.tv/stream/ch665/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Relax & Style 🏝"  tvg-id="Quadro 4K"  tvg-logo="https://i.imgur.com/P4c53HA.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Quadro 4K
@@ -3419,8 +3411,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Museum UHD"  tvg-logo="https://epg.iptvx.one/picons/museum-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Museum UHD
 http://stream.skaz.tv/stream/ch527/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Travelxp 4K"  tvg-logo="https://epg.iptvx.one/picons/travel-xp-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Travelxp 4K
-http://stream.skaz.tv/stream/ch613/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Sky High Nature 4K HDR"  tvg-logo="https://epg.iptvx.one/picons/sky-high-nature-4k-hdr.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Sky High Nature 4K HDR
 http://stream.skaz.tv/stream/ch1980/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Глазами туриста 4K"  tvg-logo="https://epg.iptvx.one/picons/glazami-turista-4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Глазами туриста 4K
@@ -3443,8 +3433,6 @@ http://stream.skaz.tv/stream/ch434/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch3328/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="HGTV HD"  tvg-logo="https://epg.iptvx.one/picons/hgtv.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",HGTV HD
 http://stream.skaz.tv/stream/ch723/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="Infinity:Подводная одиссея команды Кусто"  tvg-logo="http://s.skaz.tv/tvicon/3593.png"   catchup="fs" tvg-rec="3" timeshift="3", Infinity Nature
-http://stream.skaz.tv/stream/ch3593/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="History HD"  tvg-logo="https://epg.iptvx.one/picons/history.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",History HD
 http://stream.skaz.tv/stream/ch432/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Discover World 🌍✈️"  tvg-id="History2 HD"  tvg-logo="https://epg.iptvx.one/picons/h2.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",History2 HD
@@ -3581,12 +3569,6 @@ http://stream.skaz.tv/stream/ch2606/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch069/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="BOX Mayday HD"  tvg-logo="https://epg.iptvx.one/picons/box-myday.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",BOX Mayday HD
 http://stream.skaz.tv/stream/ch2313/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Clarity4k Вселенная"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-universe.png"   catchup="fs" tvg-rec="3" timeshift="0",Clarity4K Вселенная
-http://stream.skaz.tv/stream/ch2884/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Clarity4K Космомир"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-kosmomir.png"   catchup="fs" tvg-rec="3" timeshift="3",Clarity4K Космомир
-http://stream.skaz.tv/stream/ch1295/ca116d29bd/mono.m3u8
-#EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Clarity4k UFO"  tvg-logo="https://epg.iptvx.one/picons/clarity4k-ufo.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Clarity4K UFO
-http://stream.skaz.tv/stream/ch2883/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="CineMan Air Crash"  tvg-logo="https://epg.iptvx.one/picons/cineman-aircrash.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",CineMan Air Crash
 http://stream.skaz.tv/stream/ch2924/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Science 🎓🪐🔬"  tvg-id="Curiosity Stream HD"  tvg-logo="http://skaz.tv/tvicons/556.png"   catchup="fs" tvg-rec="3" timeshift="0",Curiosity Stream HD
@@ -4081,6 +4063,10 @@ http://stream.skaz.tv/stream/ch2807/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch2916/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="BOX SR Sport 4 Live 4K"  tvg-logo="http://skaz.tv/tvicon/2956.png"   catchup="fs" tvg-rec="3" timeshift="0", BOX SR Sport 4 Live 4K
 http://stream.skaz.tv/stream/ch2956/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="Sport 🏆"  tvg-id="ch3593"  tvg-logo="https://epg.iptvx.one/picons/fifa-plus-uk.png"   catchup="fs" tvg-rec="3" timeshift="3",FIFA+ HD (German)
+http://stream.skaz.tv/stream/ch3593/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="Sport 🏆"  tvg-id="ch3597"  tvg-logo="https://epg.iptvx.one/picons/fifa-plus-uk.png"   tvg-name="Infinity:Номинация на Оскар. 1999_24 гг" catchup="fs" tvg-rec="3" timeshift="3",FIFA+ HD (French)
+http://stream.skaz.tv/stream/ch3597/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="ViP Sport 1 (Sport Event)"  tvg-logo="http://skaz.tv/tvicon/2558.png"   catchup="fs" tvg-rec="3" timeshift="0", ViP Sport 1 (Sport Event)
 http://stream.skaz.tv/stream/ch2558/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="Vital Sport 1 (Sport Event)"  tvg-logo="http://skaz.tv/tvicon/2571.png"   catchup="fs" tvg-rec="3" timeshift="0", Vital Sport 1 (Sport Event)
@@ -4331,6 +4317,10 @@ http://stream.skaz.tv/stream/ch264/ca116d29bd/mono.m3u8
 http://stream.skaz.tv/stream/ch2006/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="myTeamTV 1 HD"  tvg-logo="http://skaz.tv/tvicon/188.png"   catchup="fs" tvg-rec="3" timeshift="0", myTeamTV 1 HD
 http://stream.skaz.tv/stream/ch188/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="Sport 🏆"  tvg-id="ch3595"  tvg-logo="https://epg.iptvx.one/picons/velilla-wc1982.png"   tvg-name="Infinity:Номинация на оскар. 1930_60 гг" catchup="fs" tvg-rec="3" timeshift="3",Velilla TV World Cup 1982 HD
+http://stream.skaz.tv/stream/ch3595/ca116d29bd/mono.m3u8
+#EXTINF:-1  group-title="Sport 🏆"  tvg-id="ch3596"  tvg-logo="https://epg.iptvx.one/picons/velilla-wc1986.png"   tvg-name="Infinity:Номинация на Оскар. 1960_90 гг" catchup="fs" tvg-rec="3" timeshift="3",Velilla TV World Cup 1986 HD
+http://stream.skaz.tv/stream/ch3596/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="DYN Sport 1 HD (Event Only)"  tvg-logo="http://skaz.tv/tvicon/2546.png"   catchup="fs" tvg-rec="3" timeshift="0", DYN Sport 1 HD (Event Only)
 http://stream.skaz.tv/stream/ch2546/ca116d29bd/mono.m3u8
 #EXTINF:-1  group-title="Sport 🏆"  tvg-id="PL: Canal+ 360 HD"  tvg-logo="http://skaz.tv/tvicon/868.png"   catchup="fs" tvg-rec="3" timeshift="3", PL: Canal+ 360 HD
